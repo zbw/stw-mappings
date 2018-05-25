@@ -2,7 +2,7 @@
 
 The mapping "lives" in Wikidata. It is materialized via the WD property [STW Thesaurus for Economics ID](https://www.wikidata.org/wiki/Property:P3911). The property values are the descriptor ID numbers (TIN), which form the last part of each STW descriptor URI.
 
-In the course of this mapping it proved necessary to introduce a [mapping relation type](https://www.wikidata.org/wiki/Property:P4390) qualifier to specify relations different from identity. According to the discussion about the newly introduced property, an external identifier should only be added to the best matching Wikidata item.
+In the course of this mapping it proved necessary to introduce a [mapping relation type](https://www.wikidata.org/wiki/Property:P4390) qualifier to specify relations different from identity (e.g., skos:closeMatch, skos:narrowMatch). According to the discussion about the newly introduced property, an external identifier should only be added to the best matching Wikidata item.
 
 ## Lists
   - the [mapping in its current state](http://zbw.eu/beta/sparql-lab/?endpoint=http://zbw.eu/beta/sparql/stw/query&queryRef=https://api.github.com/repos/zbw/sparql-queries/contents/stw/wikidata_mapping.rq)
@@ -11,3 +11,5 @@ In the course of this mapping it proved necessary to introduce a [mapping relati
 ## Process
 
 ### 1) Sub-thesaurus G (geografic names)
+
+### 2) Sub-thesaurus W (economic sectors)
