@@ -1,2 +1,3 @@
-stw:30083-1, skos:narrowMatch, wd:Q4127
+stw: <http://zbw.eu/stw/descriptor/>, skos: <http://www.w3.org/2004/02/skos/core#>, wd: <http://www.wikidata.org/entity/>
+30083-1, narrowMatch, Q4127
 
