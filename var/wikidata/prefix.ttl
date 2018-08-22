@@ -1,4 +1,3 @@
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX stw: <http://zbw.eu/stw/descriptor/>
-
+@PREFIX skos: <http://www.w3.org/2004/02/skos/core#> .
+@PREFIX wd: <http://www.wikidata.org/entity/> .
+@PREFIX stw: <http://zbw.eu/stw/descriptor/> .
