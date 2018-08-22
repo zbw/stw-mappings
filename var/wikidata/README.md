@@ -14,7 +14,7 @@ In the course of this mapping it proved necessary to introduce a [mapping relati
 
 Type      | Readable | Source  | Note
 ----------|----------|---------|------
-Additions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.github.com/repos/zbw/stw-mappings/contents/wikidata/view/exception.add.json) | [src](exception.add.csv) | Relations to add to the mapping extracted from Wikidata
+Additions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.github.com/repos/zbw/stw-mappings/contents/var/wikidata/view/exception.add.json) | [src](exception.add.csv) | Relations to add to the mapping extracted from Wikidata
 Deletions | [view]() | [src]() | Relations to remove from the mapping extracted from Wikidata 
 
 
