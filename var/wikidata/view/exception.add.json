@@ -1,0 +1,19 @@
+{
+  "head": {
+    "vars": [ "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30083-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bodenseeraum" } ,
+        "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#narrowMatch" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
+        "wdLabel": { "type": "literal" , "value": "Bodensee" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
+        "issueLabel": { "type": "literal" , "value": "#1" } ,
+        "note": { "type": "literal" , "value": "" }
+      }
+    ]
+  }
+}

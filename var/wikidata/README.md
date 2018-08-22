@@ -4,11 +4,23 @@ The mapping "lives" in Wikidata. It is materialized via the WD property [STW The
 
 In the course of this mapping it proved necessary to introduce a [mapping relation type](https://www.wikidata.org/wiki/Property:P4390) qualifier to specify relations different from identity (e.g., skos:closeMatch, skos:narrowMatch). According to the discussion about the newly introduced property, an external identifier should only be added to the best matching Wikidata item.
 
-## Lists
-  - the [mapping in its current state](http://zbw.eu/beta/sparql-lab/?endpoint=http://zbw.eu/beta/sparql/stw/query&queryRef=https://api.github.com/repos/zbw/sparql-queries/contents/stw/wikidata_mapping.rq)
-  - [further reports for maintenance and quality assurance](https://www.wikidata.org/wiki/Property_talk:P3911#Reports_for_the_maintenance_of_the_STW_ID_.2F_Wikidata_mapping)
+## Mapping and maintenance lists
 
-## Process
+- the [mapping in its current state](http://zbw.eu/beta/sparql-lab/?endpoint=http://zbw.eu/beta/sparql/stw/query&queryRef=https://api.github.com/repos/zbw/sparql-queries/contents/stw/wikidata_mapping.rq)
+- [further reports for maintenance and quality assurance](https://www.wikidata.org/wiki/Property_talk:P3911#Reports_for_the_maintenance_of_the_STW_ID_.2F_Wikidata_mapping)
+
+
+## Exception lists
+
+Type      | Readable | Source  | Note
+----------|----------|---------|------
+Additions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.github.com/repos/zbw/stw-mappings/contents/wikidata/view/exception.add.json) | [src](exception.add.csv) | Relations to add to the mapping extracted from Wikidata
+Deletions | [view]() | [src]() | Relations to remove from the mapping extracted from Wikidata 
+
+
+
+
+## Process (TODO)
 
 ### 1) Sub-thesaurus G (geografic names)
 
