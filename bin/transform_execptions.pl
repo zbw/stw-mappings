@@ -25,6 +25,15 @@ if ( -f path( $ARGV[0] ) ) {
   die "usage: $0 infile\n";
 }
 
+# broad/narrow had been reversed in jel_mapping.pl!!!
+my %relation = (
+  '=' => 'skos:exactMatch',
+  '*' => 'skos:closeMatch',
+  '<' => 'skos:broadMatch',
+  '>' => 'skos:narrowMatch',
+  '^' => 'skos:relatedMatch',
+);
+
 # prefixes and columns
 my %prefix = %{ read_prefixes($infile) };
 my $prefixes;
@@ -70,14 +79,23 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
 
   my $values_line = '  ( ';
   foreach my $column_name (@column_names) {
-    my $column_value;
-    if ( grep( /^$column_name$/, @prefixed_columns ) ) {
-      $column_value = "$column_name$row->{$column_name}";
-    } elsif ( $column_name eq "rel" ) {
 
-      # TODO
+    my $column_value = $row->{$column_name};
+
+    # validate rel value and provide translation
+    my $skos_relation;
+    if ( $column_name eq 'rel' ) {
+      if ( defined $relation{$column_value} ) {
+        $skos_relation = $relation{$column_value};
+      } else {
+        die "Wrong rel value '$column_value'\n";
+      }
+    }
+
+    if ( grep( /^$column_name$/, @prefixed_columns ) ) {
+      $column_value = "$column_name$column_value";
     } else {
-      $column_value = "\"$row->{$column_name}\"";
+      $column_value = "\"$column_value\"";
     }
 
     # output for query values clause
@@ -85,6 +103,11 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
 
     # output for turtle file
     next if grep( /^$column_name$/, @skip_columns );
+
+    # replace rel symbol with property
+    if ( $column_name eq 'rel' ) {
+      $column_value = $skos_relation;
+    }
     print $ttl_fh "$column_value ";
   }
   print $ttl_fh ".\n";

@@ -1,4 +1,4 @@
-stw:,skos:,wd:,issue,note
-30083-1,narrowMatch,Q4127,#1,
-12964-6,closeMatch,Q14373,,Mehrfach-Match in WD
-12964-6,exactMatch,Q11202642,,Mehrfach-Match in WD
+stw:,rel,wd:,issue,note
+30083-1,>,Q4127,#1,
+12964-6,*,Q14373,,Mehrfach-Match in WD
+12964-6,=,Q11202642,,Mehrfach-Match in WD
