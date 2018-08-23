@@ -6,30 +6,30 @@
     "bindings": [
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30083-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Bodenseeraum" } ,
+        "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
         "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#narrowMatch" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
-        "wdLabel": { "type": "literal" , "value": "Bodensee" } ,
+        "wdLabel": { "type": "literal" , "value": "Bodensee | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
         "issueLabel": { "type": "literal" , "value": "#1" } ,
         "note": { "type": "literal" , "value": "" }
       } ,
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Fischerei" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#closeMatch" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischerei" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischerei | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": "" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }
       } ,
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Fischerei" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#exactMatch" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischerei" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischerei | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": "" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }

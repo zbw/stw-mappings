@@ -135,20 +135,30 @@ sub build_query {
   my $values   = shift or die "param missing\n";
 
   my $stub1 = "
-select ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note
+select distinct ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note
 where {
   values ( ?stw ?relation ?wd ?issueLabel ?note ) {
 ";
   my $stub2 = "
   }
   service <https://query.wikidata.org/sparql> {
-    ?wd rdfs:label ?wdLabelLang .
-    filter(lang(?wdLabelLang) = 'de')
-    bind(str(?wdLabelLang) as ?wdLabel)
+    # arbitrary non-optional restriction
+    ?wd rdfs:label [] .
+    optional {
+      ?wd rdfs:label ?wdLabelDe .
+      filter(lang(?wdLabelDe) = 'de')
+    }
+    optional {
+      ?wd rdfs:label ?wdLabelEn .
+      filter(lang(?wdLabelDe) = 'de')
+    }
+    bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
   }
-  ?stw skos:prefLabel ?stwLabelLang .
-  filter(lang(?stwLabelLang) = 'de')
-  bind(str(?stwLabelLang) as ?stwLabel)
+  ?stw skos:prefLabel ?stwLabelDe .
+  filter(lang(?stwLabelDe) = 'de')
+  ?stw skos:prefLabel ?stwLabelEn .
+  filter(lang(?stwLabelEn) = 'en')
+  bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ''), ' | ', if(bound(?stwLabelEn), str(?stwLabelEn), '')) as ?stwLabel)
   bind(uri(concat('https://github.com/zbw/stw-mappings/issues/', strafter(?issueLabel, '#'))) as ?issue)
 }
 ";
