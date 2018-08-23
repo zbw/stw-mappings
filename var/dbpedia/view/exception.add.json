@@ -1,0 +1,10 @@
+{
+  "head": {
+    "vars": [ "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" ]
+  } ,
+  "results": {
+    "bindings": [
+      
+    ]
+  }
+}
