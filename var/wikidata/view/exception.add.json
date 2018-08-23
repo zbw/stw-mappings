@@ -9,7 +9,7 @@
         "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
         "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#narrowMatch" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
-        "wdLabel": { "type": "literal" , "value": "Bodensee | " } ,
+        "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
         "issueLabel": { "type": "literal" , "value": "#1" } ,
         "note": { "type": "literal" , "value": "" }
@@ -19,7 +19,7 @@
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#closeMatch" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischerei | " } ,
+        "wdLabel": { "type": "literal" , "value": "Fischerei | fishing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": "" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }
@@ -29,7 +29,7 @@
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#exactMatch" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischerei | " } ,
+        "wdLabel": { "type": "literal" , "value": "Fischerei | commercial fishing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": "" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }

@@ -150,7 +150,7 @@ where {
     }
     optional {
       ?wd rdfs:label ?wdLabelEn .
-      filter(lang(?wdLabelDe) = 'en')
+      filter(lang(?wdLabelEn) = 'en')
     }
     bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
   }
