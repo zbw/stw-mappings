@@ -6,7 +6,7 @@ In the course of this mapping it proved necessary to introduce a [mapping relati
 
 ## Exception lists
 
-From the STW side, beyond this links more Wikidata items may be useful - e.g. if these items in turn link to Wikipedia pages or other autorities. The "Additions" list below will be instrumental for adding such links to our published STW - Wikidata mapping.
+From the STW side, beyond the these links materializend in Wikidata itself, more links to Wikidata items may be useful - e.g. if these items in turn link to Wikipedia pages or other autorities. The "Additions" list below will be instrumental for adding such links to our published STW - Wikidata mapping.
 
 On the other side, we might disagree with links to STW created by the Wikidata community. For such cases, the (currently empty) "Deletions" list is maintained.
 
