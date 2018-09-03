@@ -19,7 +19,7 @@ use Text::CSV_XS qw( csv );
 my $endpoint = 'http://zbw.eu/beta/sparql/stw/query';
 
 my $infile;
-if ( -f path( $ARGV[0] ) ) {
+if ( $ARGV[0] and -f path( $ARGV[0] ) ) {
   $infile = path( $ARGV[0] );
 } else {
   die "usage: $0 infile\n";

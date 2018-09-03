@@ -19,9 +19,9 @@
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischerei | fishing" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
-        "issueLabel": { "type": "literal" , "value": "" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
+        "issueLabel": { "type": "literal" , "value": "#17" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }
       } ,
       {
@@ -29,9 +29,9 @@
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischerei | commercial fishing" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
-        "issueLabel": { "type": "literal" , "value": "" } ,
+        "wdLabel": { "type": "literal" , "value": "Kommerzielle Fischerei | commercial fishing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
+        "issueLabel": { "type": "literal" , "value": "#17" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }
       }
     ]

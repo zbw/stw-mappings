@@ -4,7 +4,3 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
 #
-stw:30083-1 skos:narrowMatch wd:Q4127 .
-stw:12964-6 skos:closeMatch wd:Q14373 .
-stw:12964-6 skos:exactMatch wd:Q11202642 .
-stw:13635 skos:closeMatch wd:Q1956672 .
