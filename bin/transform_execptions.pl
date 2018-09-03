@@ -100,7 +100,6 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
 
     # replace rel symbol with property
     if ( $column_name eq 'rel' ) {
-      print "$skos_relation\n";
       $column_value = $skos_relation;
     }
 
