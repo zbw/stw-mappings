@@ -7,7 +7,7 @@
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30083-1" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
-        "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#narrowMatch" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
         "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
@@ -17,7 +17,7 @@
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
-        "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#closeMatch" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
         "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
@@ -27,7 +27,7 @@
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
-        "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#closeMatch" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
         "wdLabel": { "type": "literal" , "value": "Kommerzielle Fischerei | commercial fishing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
@@ -37,7 +37,7 @@
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13635-6" } ,
         "stwLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" } ,
-        "relation": { "type": "uri" , "value": "http://www.w3.org/2004/02/skos/core#closeMatch" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1956672" } ,
         "wdLabel": { "type": "literal" , "value": "Agrotourismus | Agritourism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/18" } ,

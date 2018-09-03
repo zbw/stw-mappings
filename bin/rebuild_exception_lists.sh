@@ -20,9 +20,9 @@ for ds in dbpedia wikidata ; do
   done
 done
 
+# push even if commit failes (empty)
+set +e
 /usr/bin/git ci --quiet -m "Automatic build" ../var > /dev/null
 
-# push even if the last command failed
-set +e
 /usr/bin/git push --quiet
 

@@ -98,16 +98,16 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
       $column_value = "\"$column_value\"";
     }
 
-    # replace rel symbol with property
-    if ( $column_name eq 'rel' ) {
-      $column_value = $skos_relation;
-    }
-
     # output for query values clause
     $values_line .= "$column_value ";
 
     # output for turtle file
     next if grep( /^$column_name$/, @skip_columns );
+
+    # replace rel symbol with property
+    if ( $column_name eq 'rel' ) {
+      $column_value = $skos_relation;
+    }
     print $ttl_fh "$column_value ";
   }
   print $ttl_fh ".\n";
@@ -116,7 +116,7 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
 my $values = join( "\n", @values ) . "\n";
 
 my $query = build_query( $prefixes, $values );
-
+print $query;
 my $client = REST::Client->new();
 
 $client->POST(
