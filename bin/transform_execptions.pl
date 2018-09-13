@@ -116,7 +116,7 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
 my $values = join( "\n", @values ) . "\n";
 
 my $query = build_query( $prefixes, $values );
-print $query;
+
 my $client = REST::Client->new();
 
 $client->POST(
