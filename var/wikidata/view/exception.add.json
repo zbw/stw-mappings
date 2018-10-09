@@ -5,16 +5,16 @@
   "results": {
     "bindings": [
       {
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30083-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
-        "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
-        "issueLabel": { "type": "literal" , "value": "#1" } ,
-        "note": { "type": "literal" , "value": " " } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
+        "issueLabel": { "type": "literal" , "value": "#17" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       } ,
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13635-6" } ,
@@ -41,16 +41,28 @@
         "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       } ,
       {
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
-        "relation": { "type": "literal" , "value": "*" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
-        "issueLabel": { "type": "literal" , "value": "#17" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30083-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
+        "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
+        "issueLabel": { "type": "literal" , "value": "#1" } ,
+        "note": { "type": "literal" , "value": " " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
+      } ,
+      {
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18440-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Backgewerbe | Bakery industry" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q274393" } ,
+        "wdLabel": { "type": "literal" , "value": "Bäckerei | bakery" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/30" } ,
+        "issueLabel": { "type": "literal" , "value": "#30" } ,
+        "note": { "type": "literal" , "value": " " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12167297" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Backwarenindustrie | bakery industry" }
       }
     ]
   }

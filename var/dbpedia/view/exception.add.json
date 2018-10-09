@@ -12,7 +12,7 @@
         "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/2" } ,
         "issueLabel": { "type": "literal" , "value": "#2" } ,
-        "note": { "type": "literal" , "value": "­" } ,
+        "note": { "type": "literal" , "value": " " } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12404" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kanton Uri | Uri" }
       }
