@@ -10,6 +10,7 @@
 
 use strict;
 use warnings;
+use utf8;
 
 use Data::Dumper;
 use Path::Tiny;
@@ -50,7 +51,7 @@ my $ttlfile =
   $infile->parent->child('rdf')->child( $infile->basename('.csv') . '.ttl' );
 my $jsonfile =
   $infile->parent->child('view')->child( $infile->basename('.csv') . '.json' );
-my $in_fh   = $infile->openr_utf8;
+my $in_fh   = $infile->openr;
 my $ttl_fh  = $ttlfile->openw;
 my $json_fh = $jsonfile->openw;
 

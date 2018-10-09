@@ -21,7 +21,7 @@
         "stwLabel": { "type": "literal" , "value": "Backgewerbe | Bakery industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q274393" } ,
-        "wdLabel": { "type": "literal" , "value": "BÃ¤ckerei | bakery" } ,
+        "wdLabel": { "type": "literal" , "value": "Bäckerei | bakery" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/30" } ,
         "issueLabel": { "type": "literal" , "value": "#30" } ,
         "note": { "type": "literal" , "value": " " } ,
