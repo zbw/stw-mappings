@@ -1,6 +1,6 @@
 {
   "head": {
-    "vars": [ "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" ]
+    "vars": [ "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
   } ,
   "results": {
     "bindings": [
@@ -12,27 +12,9 @@
         "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
         "issueLabel": { "type": "literal" , "value": "#1" } ,
-        "note": { "type": "literal" , "value": "" }
-      } ,
-      {
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
-        "relation": { "type": "literal" , "value": "*" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
-        "issueLabel": { "type": "literal" , "value": "#17" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }
-      } ,
-      {
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
-        "relation": { "type": "literal" , "value": "*" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
-        "wdLabel": { "type": "literal" , "value": "Kommerzielle Fischerei | commercial fishing" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
-        "issueLabel": { "type": "literal" , "value": "#17" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" }
+        "note": { "type": "literal" , "value": "­" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
       } ,
       {
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13635-6" } ,
@@ -42,7 +24,33 @@
         "wdLabel": { "type": "literal" , "value": "Agrotourismus | Agritourism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/18" } ,
         "issueLabel": { "type": "literal" , "value": "#18" } ,
-        "note": { "type": "literal" , "value": "" }
+        "note": { "type": "literal" , "value": "­" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q367125" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" }
+      } ,
+      {
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
+        "wdLabel": { "type": "literal" , "value": "Kommerzielle Fischerei | commercial fishing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
+        "issueLabel": { "type": "literal" , "value": "#17" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
+      } ,
+      {
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
+        "issueLabel": { "type": "literal" , "value": "#17" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       }
     ]
   }

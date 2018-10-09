@@ -1,10 +1,21 @@
 {
   "head": {
-    "vars": [ "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" ]
+    "vars": [ "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
   } ,
   "results": {
     "bindings": [
-      
+      {
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16977-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Uri | Uri" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://dbpedia.org/resource/Uniform_Resource_Identifier" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/2" } ,
+        "issueLabel": { "type": "literal" , "value": "#2" } ,
+        "note": { "type": "literal" , "value": "­" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12404" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kanton Uri | Uri" }
+      }
     ]
   }
 }
