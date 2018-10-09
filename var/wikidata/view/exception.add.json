@@ -12,7 +12,7 @@
         "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
         "issueLabel": { "type": "literal" , "value": "#1" } ,
-        "note": { "type": "literal" , "value": "­" } ,
+        "note": { "type": "literal" , "value": " " } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
       } ,
@@ -24,7 +24,7 @@
         "wdLabel": { "type": "literal" , "value": "Agrotourismus | Agritourism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/18" } ,
         "issueLabel": { "type": "literal" , "value": "#18" } ,
-        "note": { "type": "literal" , "value": "­" } ,
+        "note": { "type": "literal" , "value": " " } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q367125" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" }
       } ,

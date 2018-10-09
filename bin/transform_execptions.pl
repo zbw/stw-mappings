@@ -95,7 +95,11 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
     if ( grep( /^$column_name$/, @prefixed_columns ) ) {
       $column_value = "$column_name$column_value";
     } else {
-      $column_value = "\"$column_value\"";
+      if ( length($column_value) gt 0 ) {
+        $column_value = "\"$column_value\"";
+      } else {
+        $column_value = "\" \"";
+      }
     }
 
     # output for query values clause
