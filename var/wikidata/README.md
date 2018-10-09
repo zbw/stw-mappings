@@ -14,7 +14,7 @@ On the other side, we might disagree with links to STW created by the Wikidata c
 Type      | Readable | Source  | Note
 ----------|----------|---------|------
 Additions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.github.com/repos/zbw/stw-mappings/contents/var/wikidata/view/exception.add.json) | [src](exception.add.csv) | Relations to add to the mapping extracted from Wikidata
-Deletions | [view]() | [src]() | Relations to remove from the mapping extracted from Wikidata 
+Deletions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.github.com/repos/zbw/stw-mappings/contents/var/wikidata/view/exception.remove.json) | [src](exception.remove.csv) | Relations to remove from the mapping extracted from Wikidata 
 
 
 ## Mapping and maintenance lists
