@@ -158,15 +158,14 @@ sub build_query {
   my $values   = shift or die "param missing\n";
 
   my $stub1 = "
-select distinct ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note
+select distinct ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note ?wdExists ?wdExistsLabel
 where {
-  values ( ?stw ?relation ?wd ?issueLabel ?note ) {
+  service <https://query.wikidata.org/sparql> {
+    values ( ?stw ?relation ?wd ?issueLabel ?note ) {
 ";
   my $stub2 = "
-  }
-  service <https://query.wikidata.org/sparql> {
-    # arbitrary non-optional restriction
-    ?wd rdfs:label [] .
+    }
+    bind(strafter(str(?stw), str(stw:)) as ?stwId)
     optional {
       ?wd rdfs:label ?wdLabelDe .
       filter(lang(?wdLabelDe) = 'de')
@@ -176,6 +175,19 @@ where {
       filter(lang(?wdLabelEn) = 'en')
     }
     bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
+    #
+    optional {
+      ?wdExists wdt:P3911 ?stwId .
+    }
+    optional {
+      ?wdExists rdfs:label ?wdExistsLabelDe .
+      filter(lang(?wdExistsLabelDe) = 'de')
+    }
+    optional {
+      ?wdExists rdfs:label ?wdExistsLabelEn .
+      filter(lang(?wdExistsLabelEn) = 'en')
+    }
+    bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)
   }
   ?stw skos:prefLabel ?stwLabelDe .
   filter(lang(?stwLabelDe) = 'de')
