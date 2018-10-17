@@ -72,7 +72,7 @@ my @column_names = $csv->column_names();
 
 # iterate over csv lines
 my @values;
-my $line_no = 0;
+my $line_no = 1;
 while ( my $row = $csv->getline_hr($in_fh) ) {
 
   $line_no++;
