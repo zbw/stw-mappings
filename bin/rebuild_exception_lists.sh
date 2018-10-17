@@ -16,7 +16,7 @@ for ds in dbpedia wikidata ; do
   for action in add remove ; do
     file="../var/$ds/exception.${action}.csv"
     ##echo $file
-    /usr/bin/perl transform_execptions.pl $file
+    /usr/bin/perl transform_execptions.pl stw_$ds $file
   done
 done
 

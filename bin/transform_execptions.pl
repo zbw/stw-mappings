@@ -24,6 +24,12 @@ my %config = (
     source_col => 'stw',
     target_col => 'wd',
   },
+  stw_dbpedia => {
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    target     => 'dbpedia',
+    source_col => 'stw',
+    target_col => 'dbr',
+  },
 );
 
 my %target = (
@@ -54,6 +60,19 @@ my %target = (
       }
       bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)",
   },
+  dbpedia => {
+    datasource => 'service <http://dbpedia.org/sparql>',
+    statements => "
+      optional {
+        ?dbr rdfs:label ?dbrLabelDe .
+        filter(lang(?dbrLabelDe) = 'de')
+      }
+      optional {
+        ?dbr rdfs:label ?dbrLabelEn .
+        filter(lang(?dbrLabelEn) = 'en')
+      }
+      bind(concat(if(bound(?dbrLabelDe), str(?dbrLabelDe), ''), ' | ', if(bound(?dbrLabelEn), str(?dbrLabelEn), '')) as ?dbrLabel)",
+  },
 );
 
 # broad/narrow had been reversed in jel_mapping.pl!!!
@@ -66,18 +85,15 @@ my %relation = (
 );
 
 my ( $infile, $config_name );
-if ( $ARGV[0] and -f path( $ARGV[0] ) ) {
-  $infile = path( $ARGV[0] );
+if ( $ARGV[1] and -f path( $ARGV[1] ) ) {
+  $infile = path( $ARGV[1] );
 } else {
-  die "usage: $0 infile\n";
+  die "usage: $0 configuration infile\n";
 }
-if ( $ARGV[1] ) {
-  $config_name = $ARGV[1];
-  if ( not defined $config{$config_name} ) {
-    die "configuration $config_name not defined\n";
-  }
-} else {
-  $config_name = 'stw_wikidata';
+$config_name = $ARGV[0];
+if ( not defined $config{$config_name} ) {
+  die "configuration $config_name not in [ "
+    . join( ' ', keys %config ) . " ]\n";
 }
 
 # initialize selected configuration
