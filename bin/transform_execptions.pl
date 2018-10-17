@@ -17,14 +17,38 @@ use Path::Tiny;
 use REST::Client;
 use Text::CSV_XS qw( csv );
 
-my $endpoint = 'http://zbw.eu/beta/sparql/stw/query';
-
-my $infile;
-if ( $ARGV[0] and -f path( $ARGV[0] ) ) {
-  $infile = path( $ARGV[0] );
-} else {
-  die "usage: $0 infile\n";
-}
+my %config = (
+  stw_wikidata => {
+    endpoint => 'http://zbw.eu/beta/sparql/stw/query',
+    target => 'service <https://query.wikidata.org/sparql>',
+    source_col => 'stw',
+    target_col => 'wd',
+    target_statements => "
+    bind(strafter(str(?stw), str(stw:)) as ?stwId)
+    optional {
+      ?wd rdfs:label ?wdLabelDe .
+      filter(lang(?wdLabelDe) = 'de')
+    }
+    optional {
+      ?wd rdfs:label ?wdLabelEn .
+      filter(lang(?wdLabelEn) = 'en')
+    }
+    bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
+    #
+    optional {
+      ?wdExists wdt:P3911 ?stwId .
+    }
+    optional {
+      ?wdExists rdfs:label ?wdExistsLabelDe .
+      filter(lang(?wdExistsLabelDe) = 'de')
+    }
+    optional {
+      ?wdExists rdfs:label ?wdExistsLabelEn .
+      filter(lang(?wdExistsLabelEn) = 'en')
+    }
+    bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)",
+  },
+);
 
 # broad/narrow had been reversed in jel_mapping.pl!!!
 my %relation = (
@@ -34,6 +58,23 @@ my %relation = (
   '>' => 'skos:narrowMatch',
   '^' => 'skos:relatedMatch',
 );
+
+my ($infile, $config_name);
+if ( $ARGV[0] and -f path( $ARGV[0] ) ) {
+  $infile = path( $ARGV[0] );
+} else {
+  die "usage: $0 infile\n";
+}
+if ( $ARGV[1] ) {
+  $config_name = $ARGV[1];
+  if ( not defined $config{$config_name} ) {
+    die "configuration $config_name not defined\n";
+  }
+} else {
+  $config_name = 'stw_wikidata';
+}
+
+my $conf = $config{$config_name};
 
 # prefixes and columns
 my %prefix = %{ read_prefixes($infile) };
@@ -128,7 +169,7 @@ my $query = build_query( $prefixes, $values );
 my $client = REST::Client->new();
 
 $client->POST(
-  $endpoint,
+  $conf->{endpoint},
   $query,
   {
     'Content-type' => 'application/sparql-query',
@@ -165,37 +206,18 @@ sub build_query {
   my $prefixes = shift or die "param missing\n";
   my $values   = shift or die "param missing\n";
 
+  my $src = $conf->{source_col};
+  my $tgt = $conf->{target_col};
+
   my $stub1 = "
-select distinct (str(?line) as ?ln)  ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note ?wdExists ?wdExistsLabel
+select distinct (str(?line) as ?ln)  ?$src ?${src}Label ?relation ?$tgt ?${tgt}Label ?issue ?issueLabel ?note ?${tgt}Exists ?${tgt}ExistsLabel
 where {
-  service <https://query.wikidata.org/sparql> {
-    values ( ?line ?stw ?relation ?wd ?issueLabel ?note ) {
+  $conf->{target} {
+    values ( ?line ?$src ?relation ?$tgt ?issueLabel ?note ) {
 ";
   my $stub2 = "
     }
-    bind(strafter(str(?stw), str(stw:)) as ?stwId)
-    optional {
-      ?wd rdfs:label ?wdLabelDe .
-      filter(lang(?wdLabelDe) = 'de')
-    }
-    optional {
-      ?wd rdfs:label ?wdLabelEn .
-      filter(lang(?wdLabelEn) = 'en')
-    }
-    bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
-    #
-    optional {
-      ?wdExists wdt:P3911 ?stwId .
-    }
-    optional {
-      ?wdExists rdfs:label ?wdExistsLabelDe .
-      filter(lang(?wdExistsLabelDe) = 'de')
-    }
-    optional {
-      ?wdExists rdfs:label ?wdExistsLabelEn .
-      filter(lang(?wdExistsLabelEn) = 'en')
-    }
-    bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)
+    $conf->{target_statements}
   }
   ?stw skos:prefLabel ?stwLabelDe .
   filter(lang(?stwLabelDe) = 'de')
