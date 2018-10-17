@@ -19,12 +19,17 @@ use Text::CSV_XS qw( csv );
 
 my %config = (
   stw_wikidata => {
-    endpoint          => 'http://zbw.eu/beta/sparql/stw/query',
-    target            => 'service <https://query.wikidata.org/sparql>',
-    source_col        => 'stw',
-    target_col        => 'wd',
-    target_statements => "
-      bind(strafter(str(?stw), str(stw:)) as ?stwId)
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    target     => 'wikidata',
+    source_col => 'stw',
+    target_col => 'wd',
+  },
+);
+
+my %target = (
+  wikidata => {
+    datasource => 'service <https://query.wikidata.org/sparql>',
+    statements => "
       optional {
         ?wd rdfs:label ?wdLabelDe .
         filter(lang(?wdLabelDe) = 'de')
@@ -35,6 +40,7 @@ my %config = (
       }
       bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
       #
+      bind(strafter(str(?stw), str(stw:)) as ?stwId)
       optional {
         ?wdExists wdt:P3911 ?stwId .
       }
@@ -74,7 +80,9 @@ if ( $ARGV[1] ) {
   $config_name = 'stw_wikidata';
 }
 
-my $conf = $config{$config_name};
+# initialize selected configuration
+my $conf   = $config{$config_name};
+my $target = $target{ $conf->{target} };
 
 # prefixes and columns
 my %prefix = %{ read_prefixes($infile) };
@@ -212,12 +220,12 @@ sub build_query {
   my $stub1 = "
 select distinct (str(?line) as ?ln)  ?$src ?${src}Label ?relation ?$tgt ?${tgt}Label ?issue ?issueLabel ?note ?${tgt}Exists ?${tgt}ExistsLabel
 where {
-  $conf->{target} {
+  $target->{datasource} {
     values ( ?line ?$src ?relation ?$tgt ?issueLabel ?note ) {
 ";
   my $stub2 = "
     }
-    $conf->{target_statements}
+    $target->{statements}
   }
   ?stw skos:prefLabel ?stwLabelDe .
   filter(lang(?stwLabelDe) = 'de')
