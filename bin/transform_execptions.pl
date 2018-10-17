@@ -19,34 +19,34 @@ use Text::CSV_XS qw( csv );
 
 my %config = (
   stw_wikidata => {
-    endpoint => 'http://zbw.eu/beta/sparql/stw/query',
-    target => 'service <https://query.wikidata.org/sparql>',
-    source_col => 'stw',
-    target_col => 'wd',
+    endpoint          => 'http://zbw.eu/beta/sparql/stw/query',
+    target            => 'service <https://query.wikidata.org/sparql>',
+    source_col        => 'stw',
+    target_col        => 'wd',
     target_statements => "
-    bind(strafter(str(?stw), str(stw:)) as ?stwId)
-    optional {
-      ?wd rdfs:label ?wdLabelDe .
-      filter(lang(?wdLabelDe) = 'de')
-    }
-    optional {
-      ?wd rdfs:label ?wdLabelEn .
-      filter(lang(?wdLabelEn) = 'en')
-    }
-    bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
-    #
-    optional {
-      ?wdExists wdt:P3911 ?stwId .
-    }
-    optional {
-      ?wdExists rdfs:label ?wdExistsLabelDe .
-      filter(lang(?wdExistsLabelDe) = 'de')
-    }
-    optional {
-      ?wdExists rdfs:label ?wdExistsLabelEn .
-      filter(lang(?wdExistsLabelEn) = 'en')
-    }
-    bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)",
+      bind(strafter(str(?stw), str(stw:)) as ?stwId)
+      optional {
+        ?wd rdfs:label ?wdLabelDe .
+        filter(lang(?wdLabelDe) = 'de')
+      }
+      optional {
+        ?wd rdfs:label ?wdLabelEn .
+        filter(lang(?wdLabelEn) = 'en')
+      }
+      bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
+      #
+      optional {
+        ?wdExists wdt:P3911 ?stwId .
+      }
+      optional {
+        ?wdExists rdfs:label ?wdExistsLabelDe .
+        filter(lang(?wdExistsLabelDe) = 'de')
+      }
+      optional {
+        ?wdExists rdfs:label ?wdExistsLabelEn .
+        filter(lang(?wdExistsLabelEn) = 'en')
+      }
+      bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)",
   },
 );
 
@@ -59,7 +59,7 @@ my %relation = (
   '^' => 'skos:relatedMatch',
 );
 
-my ($infile, $config_name);
+my ( $infile, $config_name );
 if ( $ARGV[0] and -f path( $ARGV[0] ) ) {
   $infile = path( $ARGV[0] );
 } else {
