@@ -72,13 +72,16 @@ my @column_names = $csv->column_names();
 
 # iterate over csv lines
 my @values;
+my $line_no = 0;
 while ( my $row = $csv->getline_hr($in_fh) ) {
+
+  $line_no++;
 
   # skip if first column is comment or empty
   my $first_value = $row->{ $column_names[0] };
   next if ( not $first_value or $first_value =~ /^#/ );
 
-  my $values_line = '  ( ';
+  my $values_line = "  ( $line_no ";
   foreach my $column_name (@column_names) {
 
     my $column_value = $row->{$column_name};
@@ -163,10 +166,10 @@ sub build_query {
   my $values   = shift or die "param missing\n";
 
   my $stub1 = "
-select distinct ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note ?wdExists ?wdExistsLabel
+select distinct (str(?line) as ?ln)  ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note ?wdExists ?wdExistsLabel
 where {
   service <https://query.wikidata.org/sparql> {
-    values ( ?stw ?relation ?wd ?issueLabel ?note ) {
+    values ( ?line ?stw ?relation ?wd ?issueLabel ?note ) {
 ";
   my $stub2 = "
     }
@@ -201,6 +204,7 @@ where {
   bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ''), ' | ', if(bound(?stwLabelEn), str(?stwLabelEn), '')) as ?stwLabel)
   bind(uri(concat('https://github.com/zbw/stw-mappings/issues/', strafter(?issueLabel, '#'))) as ?issue)
 }
+order by ?line
 ";
 
   my $query = $prefixes . $stub1 . $values . $stub2;

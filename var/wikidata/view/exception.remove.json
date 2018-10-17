@@ -1,6 +1,6 @@
 {
   "head": {
-    "vars": [ "line" , "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
+    "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
   } ,
   "results": {
     "bindings": [

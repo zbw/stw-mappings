@@ -1,11 +1,11 @@
 {
   "head": {
-    "vars": [ "line" , "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
+    "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
   } ,
   "results": {
     "bindings": [
       {
-        "line": { "type": "literal" , "datatype": "http://www.w3.org/2001/XMLSchema#integer" , "value": "1" } ,
+        "ln": { "type": "literal" , "value": "1" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16977-5" } ,
         "stwLabel": { "type": "literal" , "value": "Uri | Uri" } ,
         "relation": { "type": "literal" , "value": "=" } ,
