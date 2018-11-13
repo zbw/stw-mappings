@@ -9,3 +9,8 @@ stw:12964-6 skos:closeMatch wd:Q14373 .
 stw:12964-6 skos:closeMatch wd:Q11202642 .
 stw:13635-6 skos:closeMatch wd:Q1956672 .
 stw:18440-3 skos:narrowMatch wd:Q274393 .
+stw:12025-3 skos:closeMatch wd:Q16148831 .
+stw:18766-1 skos:narrowMatch wd:Q80993 .
+stw:14004-1 skos:closeMatch wd:Q4178004 .
+stw:13678-2 skos:closeMatch wd:Q243961 .
+stw:15606-3 skos:narrowMatch wd:Q1381169 .

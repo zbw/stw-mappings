@@ -68,6 +68,71 @@
         "note": { "type": "literal" , "value": " " } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12167297" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Backwarenindustrie | bakery industry" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "7" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12025-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Immobilienmakler | Real estate brokers" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16148831" } ,
+        "wdLabel": { "type": "literal" , "value": "Immobilienmakler | estate agent" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": " Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q519076" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Immobilienmakler | real estate broker" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "8" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18766-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Softwareentwicklung | Software development" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q80993" } ,
+        "wdLabel": { "type": "literal" , "value": "Softwaretechnik | Software Engineering" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": " Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q638608" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Softwareentwicklung | software development" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "9" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14004-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Publizisten | Authors" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4178004" } ,
+        "wdLabel": { "type": "literal" , "value": "Publizist | publicist" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16287483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Publizist | opinion journalist" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "10" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13678-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Telefonnetz | Telephone network" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q243961" } ,
+        "wdLabel": { "type": "literal" , "value": "Telefonnetz | public switched telephone network" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2354216" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telefonnetz | telephone network" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "11" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15606-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Datenverarbeitung | Data processing" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1381169" } ,
+        "wdLabel": { "type": "literal" , "value": "elektronische Datenverarbeitung | electronic data processing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6661985" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Datenverarbeitung | computer data processing" }
       }
     ]
   }
