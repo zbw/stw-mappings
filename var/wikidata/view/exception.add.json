@@ -198,6 +198,84 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q223871" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Mediation | mediation" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "17" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3590573" } ,
+        "wdLabel": { "type": "literal" , "value": "Glücksspiel | game of chance" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "18" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q133215" } ,
+        "wdLabel": { "type": "literal" , "value": "Spielbank | casino" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "19" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189409" } ,
+        "wdLabel": { "type": "literal" , "value": "Lotto | lottery" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "20" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189409" } ,
+        "wdLabel": { "type": "literal" , "value": "Lotto | lottery" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "21" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296538" } ,
+        "wdLabel": { "type": "literal" , "value": "Lotterie | lottery" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "22" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q260676" } ,
+        "wdLabel": { "type": "literal" , "value": "Spielhalle | amusement arcade" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       }
     ]
   }
