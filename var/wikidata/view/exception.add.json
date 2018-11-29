@@ -185,6 +185,19 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16917" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Krankenhaus | hospital" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "16" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19715-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Mediation | Mediation" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1602827" } ,
+        "wdLabel": { "type": "literal" , "value": "Mediation | mediation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q223871" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Mediation | mediation" }
       }
     ]
   }
