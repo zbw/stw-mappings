@@ -78,7 +78,7 @@
         "wdLabel": { "type": "literal" , "value": "Immobilienmakler | estate agent" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
-        "note": { "type": "literal" , "value": " Mehrfach-Match in WD" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q519076" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Immobilienmakler | real estate broker" }
       } ,
@@ -91,7 +91,7 @@
         "wdLabel": { "type": "literal" , "value": "Softwaretechnik | Software Engineering" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
-        "note": { "type": "literal" , "value": " Mehrfach-Match in WD" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q638608" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Softwareentwicklung | software development" }
       } ,
@@ -133,6 +133,45 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6661985" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Datenverarbeitung | computer data processing" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "12" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19521-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | Voluntary work" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q24716636" } ,
+        "wdLabel": { "type": "literal" , "value": " | volunteer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q59208417" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | voluntary work" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "13" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11825-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Sozialwirtschaft | Social economy" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20191874" } ,
+        "wdLabel": { "type": "literal" , "value": "Gemeinwirtschaft | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q568301" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Sozialwirtschaft | social economy" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "14" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11401-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Lehrplan | Curriculum" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q207137" } ,
+        "wdLabel": { "type": "literal" , "value": "Curriculum | curriculum" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1402601" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Lehrplan | " }
       }
     ]
   }
