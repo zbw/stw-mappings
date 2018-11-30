@@ -25,3 +25,4 @@ stw:13354-0 skos:narrowMatch wd:Q189409 .
 stw:13354-0 skos:narrowMatch wd:Q189409 .
 stw:13354-0 skos:narrowMatch wd:Q56296538 .
 stw:13354-0 skos:narrowMatch wd:Q260676 .
+stw:18952-4 skos:narrowMatch wd:Q1224870 .

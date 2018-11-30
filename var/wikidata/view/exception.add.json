@@ -276,6 +276,19 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "23" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18952-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Digitale Bibliothek | Digital library" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1224870" } ,
+        "wdLabel": { "type": "literal" , "value": "virtuelle Bibliothek | virtual library" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212805" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Digitale Bibliothek | digital library" }
       }
     ]
   }
