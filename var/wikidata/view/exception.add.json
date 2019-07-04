@@ -62,7 +62,7 @@
         "stwLabel": { "type": "literal" , "value": "Backgewerbe | Bakery industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q274393" } ,
-        "wdLabel": { "type": "literal" , "value": "Bäckerei | bakery" } ,
+        "wdLabel": { "type": "literal" , "value": "BÃ¤ckerei | bakery" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/30" } ,
         "issueLabel": { "type": "literal" , "value": "#30" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -202,20 +202,20 @@
       {
         "ln": { "type": "literal" , "value": "17" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "stwLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3590573" } ,
-        "wdLabel": { "type": "literal" , "value": "Glücksspiel | game of chance" } ,
+        "wdLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | game of chance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+        "wdExistsLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | gambling" }
       } ,
       {
         "ln": { "type": "literal" , "value": "18" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "stwLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q133215" } ,
         "wdLabel": { "type": "literal" , "value": "Spielbank | casino" } ,
@@ -223,12 +223,12 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+        "wdExistsLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | gambling" }
       } ,
       {
         "ln": { "type": "literal" , "value": "19" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "stwLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189409" } ,
         "wdLabel": { "type": "literal" , "value": "Lotto | lottery" } ,
@@ -236,25 +236,12 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
-      } ,
-      {
-        "ln": { "type": "literal" , "value": "20" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189409" } ,
-        "wdLabel": { "type": "literal" , "value": "Lotto | lottery" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
-        "issueLabel": { "type": "literal" , "value": " " } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+        "wdExistsLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | gambling" }
       } ,
       {
         "ln": { "type": "literal" , "value": "21" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "stwLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296538" } ,
         "wdLabel": { "type": "literal" , "value": "Lotterie | lottery" } ,
@@ -262,12 +249,12 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+        "wdExistsLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | gambling" }
       } ,
       {
         "ln": { "type": "literal" , "value": "22" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
+        "stwLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q260676" } ,
         "wdLabel": { "type": "literal" , "value": "Spielhalle | amusement arcade" } ,
@@ -275,7 +262,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
+        "wdExistsLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | gambling" }
       } ,
       {
         "ln": { "type": "literal" , "value": "23" } ,
@@ -309,7 +296,7 @@
         "stwLabel": { "type": "literal" , "value": "Wetten | Betting" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdLabel": { "type": "literal" , "value": "Glücksspiel | gambling" } ,
+        "wdLabel": { "type": "literal" , "value": "GlÃ¼cksspiel | gambling" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/44" } ,
         "issueLabel": { "type": "literal" , "value": "#44" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -435,41 +422,41 @@
       {
         "ln": { "type": "literal" , "value": "33" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
+        "stwLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1936747" } ,
-        "wdLabel": { "type": "literal" , "value": "Mini-Kraft-Wärme-Kopplung | " } ,
+        "wdLabel": { "type": "literal" , "value": "Mini-Kraft-WÃ¤rme-Kopplung | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/21" } ,
         "issueLabel": { "type": "literal" , "value": "#21" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-Kopplung | cogeneration" }
       } ,
       {
         "ln": { "type": "literal" , "value": "34" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
+        "stwLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q128151" } ,
-        "wdLabel": { "type": "literal" , "value": "Mikro-Kraft-Wärme-Kopplung | micro combined heat and power" } ,
+        "wdLabel": { "type": "literal" , "value": "Mikro-Kraft-WÃ¤rme-Kopplung | micro combined heat and power" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/21" } ,
         "issueLabel": { "type": "literal" , "value": "#21" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-Kopplung | cogeneration" }
       } ,
       {
         "ln": { "type": "literal" , "value": "35" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
+        "stwLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1500308" } ,
-        "wdLabel": { "type": "literal" , "value": "Kraft-Wärme-Kälte-Kopplung | trigeneration" } ,
+        "wdLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-KÃ¤lte-Kopplung | trigeneration" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/21" } ,
         "issueLabel": { "type": "literal" , "value": "#21" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kraft-WÃ¤rme-Kopplung | cogeneration" }
       } ,
       {
         "ln": { "type": "literal" , "value": "36" } ,

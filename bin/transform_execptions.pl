@@ -17,6 +17,8 @@ use Path::Tiny;
 use REST::Client;
 use Text::CSV_XS qw( csv );
 
+binmode(STDOUT, ":utf8");
+
 my %config = (
   stw_wikidata => {
     endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
@@ -117,9 +119,9 @@ my $ttlfile =
   $infile->parent->child('rdf')->child( $infile->basename('.csv') . '.ttl' );
 my $jsonfile =
   $infile->parent->child('view')->child( $infile->basename('.csv') . '.json' );
-my $in_fh   = $infile->openr;
-my $ttl_fh  = $ttlfile->openw;
-my $json_fh = $jsonfile->openw;
+my $in_fh   = $infile->openr_utf8;
+my $ttl_fh  = $ttlfile->openw_utf8;
+my $json_fh = $jsonfile->openw_utf8;
 
 # print turtle header
 print $ttl_fh $prefixes;
@@ -197,8 +199,8 @@ $client->POST(
   $conf->{endpoint},
   $query,
   {
-    'Content-type' => 'application/sparql-query',
-    Accept         => 'application/sparql-results+json'
+    'Content-type' => 'application/sparql-query; charset=utf8',
+    Accept         => 'application/sparql-results+json',
   }
 );
 if ( $client->responseCode() ne '200' ) {
