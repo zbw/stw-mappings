@@ -47,16 +47,17 @@ my %target = (
       bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
       #
       bind(strafter(str(?stw), str(stw:)) as ?stwId)
+      #
       optional {
         ?wdExists wdt:P3911 ?stwId .
-      }
-      optional {
-        ?wdExists rdfs:label ?wdExistsLabelDe .
-        filter(lang(?wdExistsLabelDe) = 'de')
-      }
-      optional {
-        ?wdExists rdfs:label ?wdExistsLabelEn .
-        filter(lang(?wdExistsLabelEn) = 'en')
+        optional {
+          ?wdExists rdfs:label ?wdExistsLabelDe .
+          filter(lang(?wdExistsLabelDe) = 'de')
+        }
+        optional {
+          ?wdExists rdfs:label ?wdExistsLabelEn .
+          filter(lang(?wdExistsLabelEn) = 'en')
+        }
       }
       bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)",
   },
