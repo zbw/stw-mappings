@@ -13,7 +13,7 @@
         "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
         "issueLabel": { "type": "literal" , "value": "#1" } ,
-        "note": { "type": "literal" , "value": "alle WP-Seiten haengen hier" } ,
+        "note": { "type": "literal" , "value": "alle WP-Seiten hängen hier" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
       } ,

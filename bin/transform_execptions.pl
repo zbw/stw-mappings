@@ -13,6 +13,7 @@ use warnings;
 use utf8;
 
 use Data::Dumper;
+use Encode;
 use Path::Tiny;
 use REST::Client;
 use Text::CSV_XS qw( csv );
@@ -117,7 +118,7 @@ my $ttlfile =
   $infile->parent->child('rdf')->child( $infile->basename('.csv') . '.ttl' );
 my $jsonfile =
   $infile->parent->child('view')->child( $infile->basename('.csv') . '.json' );
-my $in_fh   = $infile->openr;
+my $in_fh   = $infile->openr_utf8;
 my $ttl_fh  = $ttlfile->openw;
 my $json_fh = $jsonfile->openw;
 
@@ -211,7 +212,7 @@ print $json_fh $client->responseContent();
 ##################################
 
 sub read_prefixes {
-  my $infile = shift or die "param missing\n";
+  my $infile     = shift or die "param missing\n";
   my $prefixfile = $infile->parent->child('prefix.ttl');
 
   my %prefix;
@@ -254,7 +255,7 @@ where {
 order by ?line
 ";
 
-  my $query = $prefixes . $stub1 . $values . $stub2;
+  my $query = encode_utf8( $prefixes . $stub1 . $values . $stub2 );
   return $query;
 }
 
