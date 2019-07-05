@@ -8,6 +8,7 @@ This repository aimes at covering mapping processes and code for STW. Currently 
 ## Mapping Targets
 
 - __[Wikidata](var/wikidata)__
+- __[GND](var/gnd)__
 - __[DBpedia](var/dbpedia)__
 
 ## Language

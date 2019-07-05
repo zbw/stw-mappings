@@ -31,6 +31,12 @@ my %config = (
     source_col => 'stw',
     target_col => 'dbr',
   },
+  stw_gnd => {
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    target     => 'gnd',
+    source_col => 'stw',
+    target_col => 'gnd',
+  },
 );
 
 my %target = (
@@ -74,6 +80,17 @@ my %target = (
         filter(lang(?dbrLabelEn) = 'en')
       }
       bind(concat(if(bound(?dbrLabelDe), str(?dbrLabelDe), ''), ' | ', if(bound(?dbrLabelEn), str(?dbrLabelEn), '')) as ?dbrLabel)",
+  },
+  gnd => {
+    datasource => 'service <http://zbw.eu/beta/sparql/gnd/query>',
+    statements => "
+      optional {
+        ?gnd gndo:preferredNameForTheSubjectHeading ?gndLabel .
+      }
+      #
+      bind(strafter(str(?stw), str(stw:)) as ?stwId)
+      #
+      ",
   },
 );
 
@@ -256,6 +273,7 @@ order by ?line
 ";
 
   my $query = encode_utf8( $prefixes . $stub1 . $values . $stub2 );
+  print "\n$query\n";
   return $query;
 }
 
