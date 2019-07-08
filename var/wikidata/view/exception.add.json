@@ -347,7 +347,7 @@
         "stwLabel": { "type": "literal" , "value": "Kernenergiepolitik | Nuclear energy policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7886977" } ,
-        "wdLabel": { "type": "literal" , "value": " | nuclear energy policy" } ,
+        "wdLabel": { "type": "literal" , "value": "Atomenergiepolitik | nuclear energy policy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
