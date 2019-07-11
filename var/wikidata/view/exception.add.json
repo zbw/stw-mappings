@@ -300,7 +300,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/44" } ,
         "issueLabel": { "type": "literal" , "value": "#44" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65496063" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Wetten | betting" }
       } ,
       {
         "ln": { "type": "literal" , "value": "26" } ,
