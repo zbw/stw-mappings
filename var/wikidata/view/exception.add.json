@@ -484,6 +484,19 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753564" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | " }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "38" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12935-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Baumschule | Tree nursery" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q155511" } ,
+        "wdLabel": { "type": "literal" , "value": "Gärtnerei | plant nursery" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/16" } ,
+        "issueLabel": { "type": "literal" , "value": "#16" } ,
+        "note": { "type": "literal" , "value": " " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12372955" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Baumschule | tree nursery" }
       }
     ]
   }
