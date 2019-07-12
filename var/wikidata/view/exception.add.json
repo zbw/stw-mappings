@@ -288,7 +288,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q464705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hauspersonal | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Hauspersonal | Domestic workers" }
       } ,
       {
         "ln": { "type": "literal" , "value": "25" } ,
@@ -483,7 +483,7 @@
         "issueLabel": { "type": "literal" , "value": "#45" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753564" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" }
       } ,
       {
         "ln": { "type": "literal" , "value": "38" } ,
