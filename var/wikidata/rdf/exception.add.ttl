@@ -40,3 +40,4 @@ stw:18281-4 skos:narrowMatch wd:Q1500308 .
 stw:12961-5 skos:narrowMatch wd:Q22923174 .
 stw:28384-2 skos:broadMatch wd:Q1029430 .
 stw:12935-6 skos:broadMatch wd:Q155511 .
+stw:18879-2 skos:narrowMatch wd:Q538104 .

@@ -374,12 +374,12 @@
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | " } ,
+        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
         "issueLabel": { "type": "literal" , "value": "#47" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" }
       } ,
       {
         "ln": { "type": "literal" , "value": "31" } ,
@@ -387,7 +387,7 @@
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | " } ,
+        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
         "issueLabel": { "type": "literal" , "value": "#47" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -497,6 +497,19 @@
         "note": { "type": "literal" , "value": " " } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12372955" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Baumschule | tree nursery" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "39" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18879-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Studienfinanzierung | Higher education finance" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q538104" } ,
+        "wdLabel": { "type": "literal" , "value": "Studiengebühr | tuition fee" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/55" } ,
+        "issueLabel": { "type": "literal" , "value": "#55" } ,
+        "note": { "type": "literal" , "value": " " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1649594" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Studienfinanzierung | Higher education finance" }
       }
     ]
   }
