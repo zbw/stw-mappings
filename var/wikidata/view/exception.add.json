@@ -10,11 +10,11 @@
         "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4127" } ,
-        "wdLabel": { "type": "literal" , "value": "Bodensee | Lake Constance" } ,
+        "wdLabel": { "type": "literal" , "value": "EmbassyPages.com-ID | EmbassyPages.com ID" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1" } ,
         "issueLabel": { "type": "literal" , "value": "#1" } ,
         "note": { "type": "literal" , "value": "alle WP-Seiten hängen hier" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P34947397" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
       } ,
       {
@@ -23,11 +23,11 @@
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14373" } ,
-        "wdLabel": { "type": "literal" , "value": "Fischen | fishing" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
         "issueLabel": { "type": "literal" , "value": "#17" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P180538" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       } ,
       {
@@ -36,11 +36,11 @@
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11202642" } ,
-        "wdLabel": { "type": "literal" , "value": "Kommerzielle Fischerei | commercial fishing" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/17" } ,
         "issueLabel": { "type": "literal" , "value": "#17" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P180538" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       } ,
       {
@@ -49,11 +49,11 @@
         "stwLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1956672" } ,
-        "wdLabel": { "type": "literal" , "value": "Agrotourismus | Agritourism" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/18" } ,
         "issueLabel": { "type": "literal" , "value": "#18" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q367125" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P367125" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" }
       } ,
       {
@@ -62,11 +62,11 @@
         "stwLabel": { "type": "literal" , "value": "Backgewerbe | Bakery industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q274393" } ,
-        "wdLabel": { "type": "literal" , "value": "Bäckerei | bakery" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/30" } ,
         "issueLabel": { "type": "literal" , "value": "#30" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12167297" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P12167297" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Backwarenindustrie | bakery industry" }
       } ,
       {
@@ -75,11 +75,11 @@
         "stwLabel": { "type": "literal" , "value": "Immobilienmakler | Real estate brokers" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16148831" } ,
-        "wdLabel": { "type": "literal" , "value": "Immobilienmakler | estate agent" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q519076" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P519076" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Immobilienmakler | real estate broker" }
       } ,
       {
@@ -88,11 +88,11 @@
         "stwLabel": { "type": "literal" , "value": "Softwareentwicklung | Software development" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q80993" } ,
-        "wdLabel": { "type": "literal" , "value": "Softwaretechnik | software engineering" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q638608" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P638608" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Softwareentwicklung | software development" }
       } ,
       {
@@ -101,11 +101,11 @@
         "stwLabel": { "type": "literal" , "value": "Publizisten | Authors" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4178004" } ,
-        "wdLabel": { "type": "literal" , "value": "Publizist | publicist" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16287483" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P16287483" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Publizist | opinion journalist" }
       } ,
       {
@@ -114,11 +114,11 @@
         "stwLabel": { "type": "literal" , "value": "Telefonnetz | Telephone network" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q243961" } ,
-        "wdLabel": { "type": "literal" , "value": "Telefonnetz | public switched telephone network" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2354216" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P2354216" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Telefonnetz | telephone network" }
       } ,
       {
@@ -127,11 +127,11 @@
         "stwLabel": { "type": "literal" , "value": "Datenverarbeitung | Data processing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1381169" } ,
-        "wdLabel": { "type": "literal" , "value": "elektronische Datenverarbeitung | electronic data processing" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6661985" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P6661985" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Datenverarbeitung | computer data processing" }
       } ,
       {
@@ -140,11 +140,11 @@
         "stwLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | Voluntary work" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q24716636" } ,
-        "wdLabel": { "type": "literal" , "value": "ehrenamtlicher Mitarbeiter | volunteer" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q59208417" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P59208417" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | voluntary work" }
       } ,
       {
@@ -153,11 +153,11 @@
         "stwLabel": { "type": "literal" , "value": "Sozialwirtschaft | Social economy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20191874" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeinwirtschaft | " } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q568301" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P568301" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Sozialwirtschaft | social economy" }
       } ,
       {
@@ -166,11 +166,11 @@
         "stwLabel": { "type": "literal" , "value": "Lehrplan | Curriculum" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q207137" } ,
-        "wdLabel": { "type": "literal" , "value": "Curriculum | curriculum" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1402601" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P1402601" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Lehrplan | " }
       } ,
       {
@@ -179,11 +179,11 @@
         "stwLabel": { "type": "literal" , "value": "Krankenhaus | Hospital" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1774898" } ,
-        "wdLabel": { "type": "literal" , "value": "Klinik | clinic" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16917" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P16917" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Krankenhaus | hospital" }
       } ,
       {
@@ -192,11 +192,11 @@
         "stwLabel": { "type": "literal" , "value": "Mediation | Mediation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1602827" } ,
-        "wdLabel": { "type": "literal" , "value": "Mediation | mediation" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q223871" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P223871" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Mediation | mediation" }
       } ,
       {
@@ -205,11 +205,11 @@
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3590573" } ,
-        "wdLabel": { "type": "literal" , "value": "Glücksspiel | game of chance" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
       {
@@ -218,11 +218,11 @@
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q133215" } ,
-        "wdLabel": { "type": "literal" , "value": "Spielbank | casino" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
       {
@@ -231,11 +231,11 @@
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189409" } ,
-        "wdLabel": { "type": "literal" , "value": "Lotto | lottery" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
       {
@@ -244,11 +244,11 @@
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296538" } ,
-        "wdLabel": { "type": "literal" , "value": "Lotterie | lottery" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
       {
@@ -257,11 +257,11 @@
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q260676" } ,
-        "wdLabel": { "type": "literal" , "value": "Spielhalle | amusement arcade" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
       {
@@ -270,11 +270,11 @@
         "stwLabel": { "type": "literal" , "value": "Digitale Bibliothek | Digital library" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1224870" } ,
-        "wdLabel": { "type": "literal" , "value": "virtuelle Bibliothek | virtual library" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212805" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P212805" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Digitale Bibliothek | digital library" }
       } ,
       {
@@ -283,11 +283,11 @@
         "stwLabel": { "type": "literal" , "value": "Hauspersonal | Domestic workers" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q54128" } ,
-        "wdLabel": { "type": "literal" , "value": "Dienstbote | domestic worker" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q464705" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P464705" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Hauspersonal | Domestic workers" }
       } ,
       {
@@ -296,11 +296,11 @@
         "stwLabel": { "type": "literal" , "value": "Wetten | Betting" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
-        "wdLabel": { "type": "literal" , "value": "Glücksspiel | gambling" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/44" } ,
         "issueLabel": { "type": "literal" , "value": "#44" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65496063" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P65496063" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wetten | betting" }
       } ,
       {
@@ -309,11 +309,11 @@
         "stwLabel": { "type": "literal" , "value": "Wissenschaftler | Scientists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1650915" } ,
-        "wdLabel": { "type": "literal" , "value": "Forscher | researcher" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q901" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P901" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wissenschaftler | scientist" }
       } ,
       {
@@ -322,11 +322,11 @@
         "stwLabel": { "type": "literal" , "value": "Genossenschaftsbank | Cooperative bank" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q745877" } ,
-        "wdLabel": { "type": "literal" , "value": "Kreditgenossenschaft | credit union" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3277997" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P3277997" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Genossenschaftsbank | cooperative bank" }
       } ,
       {
@@ -335,11 +335,11 @@
         "stwLabel": { "type": "literal" , "value": "Gesundheitstourismus | Health tourism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q757232" } ,
-        "wdLabel": { "type": "literal" , "value": "Medizintourismus | medical tourism" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2041728" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P2041728" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gesundheitstourismus | Health tourism" }
       } ,
       {
@@ -348,11 +348,11 @@
         "stwLabel": { "type": "literal" , "value": "Kernenergiepolitik | Nuclear energy policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7886977" } ,
-        "wdLabel": { "type": "literal" , "value": "Atomenergiepolitik | nuclear energy policy" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q757637" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P757637" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Atompolitik | nuclear policy" }
       } ,
       {
@@ -361,11 +361,11 @@
         "stwLabel": { "type": "literal" , "value": "Futterbau | Feed production" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1402475" } ,
-        "wdLabel": { "type": "literal" , "value": "Feldfutterbau | " } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1475507" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P1475507" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Futterbau | Feed production" }
       } ,
       {
@@ -374,11 +374,11 @@
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
         "issueLabel": { "type": "literal" , "value": "#47" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P15629466" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" }
       } ,
       {
@@ -387,11 +387,11 @@
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
         "issueLabel": { "type": "literal" , "value": "#47" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q372449" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P372449" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Waldschutz | forest protection" }
       } ,
       {
@@ -400,11 +400,11 @@
         "stwLabel": { "type": "literal" , "value": "Papierindustrie | Pulp and paper industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q335415" } ,
-        "wdLabel": { "type": "literal" , "value": "Papierherstellung | papermaking" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/27" } ,
         "issueLabel": { "type": "literal" , "value": "#27" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2283886" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P2283886" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Papierindustrie | pulp and paper industry" }
       } ,
       {
@@ -413,11 +413,11 @@
         "stwLabel": { "type": "literal" , "value": "Papierindustrie | Pulp and paper industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q335415" } ,
-        "wdLabel": { "type": "literal" , "value": "Papierherstellung | papermaking" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/27" } ,
         "issueLabel": { "type": "literal" , "value": "#27" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56604568" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P56604568" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Papierindustrie | pulp and paper industry" }
       } ,
       {
@@ -426,11 +426,11 @@
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1936747" } ,
-        "wdLabel": { "type": "literal" , "value": "Mini-Kraft-Wärme-Kopplung | " } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/21" } ,
         "issueLabel": { "type": "literal" , "value": "#21" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P221620" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
       {
@@ -439,11 +439,11 @@
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q128151" } ,
-        "wdLabel": { "type": "literal" , "value": "Mikro-Kraft-Wärme-Kopplung | micro combined heat and power" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/21" } ,
         "issueLabel": { "type": "literal" , "value": "#21" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P221620" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
       {
@@ -452,11 +452,11 @@
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1500308" } ,
-        "wdLabel": { "type": "literal" , "value": "Kraft-Wärme-Kälte-Kopplung | trigeneration" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/21" } ,
         "issueLabel": { "type": "literal" , "value": "#21" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P221620" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
       {
@@ -465,11 +465,11 @@
         "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q22923174" } ,
-        "wdLabel": { "type": "literal" , "value": "Forstwirtschaft | " } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/48" } ,
         "issueLabel": { "type": "literal" , "value": "#48" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q720362" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P720362" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Forstwirtschaft | silviculture" }
       } ,
       {
@@ -478,11 +478,11 @@
         "stwLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1029430" } ,
-        "wdLabel": { "type": "literal" , "value": "Jugendschutz | child protection" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/45" } ,
         "issueLabel": { "type": "literal" , "value": "#45" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753564" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P1753564" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" }
       } ,
       {
@@ -491,11 +491,11 @@
         "stwLabel": { "type": "literal" , "value": "Baumschule | Tree nursery" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q155511" } ,
-        "wdLabel": { "type": "literal" , "value": "Gärtnerei | plant nursery" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/16" } ,
         "issueLabel": { "type": "literal" , "value": "#16" } ,
         "note": { "type": "literal" , "value": " " } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12372955" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P12372955" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Baumschule | tree nursery" }
       } ,
       {
@@ -504,11 +504,11 @@
         "stwLabel": { "type": "literal" , "value": "Studienfinanzierung | Higher education finance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q538104" } ,
-        "wdLabel": { "type": "literal" , "value": "Studiengebühr | tuition fee" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/55" } ,
         "issueLabel": { "type": "literal" , "value": "#55" } ,
         "note": { "type": "literal" , "value": " " } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1649594" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/P1649594" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Studienfinanzierung | Higher education finance" }
       }
     ]
