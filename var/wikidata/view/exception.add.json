@@ -408,19 +408,6 @@
         "wdExistsLabel": { "type": "literal" , "value": "Papierindustrie | pulp and paper industry" }
       } ,
       {
-        "ln": { "type": "literal" , "value": "32" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13117-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Papierindustrie | Pulp and paper industry" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q335415" } ,
-        "wdLabel": { "type": "literal" , "value": "Papierherstellung | papermaking" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/27" } ,
-        "issueLabel": { "type": "literal" , "value": "#27" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56604568" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Papierindustrie | pulp and paper industry" }
-      } ,
-      {
         "ln": { "type": "literal" , "value": "33" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
