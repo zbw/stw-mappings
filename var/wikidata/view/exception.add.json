@@ -510,6 +510,18 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q811906" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bautechnik | construction technique" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "41" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13290-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Sparkasse | Savings bank" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13601825" } ,
+        "wdLabel": { "type": "literal" , "value": "Sparkasse | Sparkasse" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/56" } ,
+        "issueLabel": { "type": "literal" , "value": "#56" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
