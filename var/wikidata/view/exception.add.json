@@ -521,7 +521,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/56" } ,
         "issueLabel": { "type": "literal" , "value": "#56" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q157963" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Sparkasse | savings bank" }
       }
     ]
   }
