@@ -171,7 +171,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1402601" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lehrplan | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Lehrplan | curriculum" }
       } ,
       {
         "ln": { "type": "literal" , "value": "15" } ,
