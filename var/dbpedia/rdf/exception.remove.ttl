@@ -5,4 +5,4 @@ PREFIX dbr: <http://dbpedia.org/resource/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
 #
-stw:16977-5 skos:exactMatch dbr:Uniform_Resource_Identifier .
+stw:16977-5 skos:closeMatch dbr:Uniform_Resource_Identifier .
