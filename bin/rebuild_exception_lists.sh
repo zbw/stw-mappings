@@ -12,7 +12,7 @@ cd /opt/stw-mappings/bin
 GIT_MERGE_AUTOEDIT=no
 /usr/bin/git pull --quiet
 
-for ds in dbpedia wikidata ; do
+for ds in dbpedia wikidata gnd ; do
   for action in add remove ; do
     file="../var/$ds/exception.${action}.csv"
     ##echo $file
