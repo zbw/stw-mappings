@@ -400,3 +400,4 @@ stw:18736-3 skos:exactMatch gnd:4183932-8 .
 stw:15966-1 skos:exactMatch gnd:4117603-0 .
 stw:11706-5 skos:exactMatch gnd:4013896-3 .
 stw:15966-1 skos:exactMatch gnd:4120600-9 .
+stw:10012-1 skos:exactMatch gnd:4202837-1 .

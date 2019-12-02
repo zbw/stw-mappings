@@ -4359,6 +4359,17 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
+      } ,
+      {
+        "ln": { "type": "literal" , "value": "398" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4202837-1" } ,
+        "gndLabel": { "type": "literal" , "value": "Personal Computermarkt" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "GND CK Bug" }
       }
     ]
   }
