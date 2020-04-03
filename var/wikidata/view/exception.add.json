@@ -54,7 +54,7 @@
         "issueLabel": { "type": "literal" , "value": "#18" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q367125" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Agrotourismus | rural tourism" }
       } ,
       {
         "ln": { "type": "literal" , "value": "6" } ,
