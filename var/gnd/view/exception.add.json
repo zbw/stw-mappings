@@ -1,0 +1,10 @@
+{
+  "head": {
+    "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "gnd" , "gndLabel" , "issue" , "issueLabel" , "note" ]
+  } ,
+  "results": {
+    "bindings": [
+      
+    ]
+  }
+}
