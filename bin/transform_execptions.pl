@@ -18,79 +18,154 @@ use Path::Tiny;
 use REST::Client;
 use Text::CSV_XS qw( csv );
 
+# In order to extend the csv to a viewable HTML table (via json with YASR),
+# an endpoint and a query to retrieve accordings labels has to be provided
+# in the configuration
 my %config = (
   stw_wikidata => {
-    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
     target     => 'wikidata',
     source_col => 'stw',
     target_col => 'wd',
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    query      => '
+select distinct (str(?line) as ?ln)  ?stw ?stwLabel ?relation ?wd ?wdLabel ?issue ?issueLabel ?note ?wdExists ?wdExistsLabel
+where {
+  service <https://query.wikidata.org/sparql> {
+    values ( ?line ?stw ?relation ?wd ?issueLabel ?note ) {
+      ( 2 stw:30083-1 ">" wd:Q4127 "#1" "alle WP-Seiten hängen hier"  )
+    }
+    optional {
+      ?wd rdfs:label ?wdLabelDe .
+      filter(lang(?wdLabelDe) = "de")
+    }
+    optional {
+      ?wd rdfs:label ?wdLabelEn .
+      filter(lang(?wdLabelEn) = "en")
+    }
+    bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ""), " | ", if(bound(?wdLabelEn), str(?wdLabelEn), "")) as ?wdLabel)
+    #
+    bind(strafter(str(?stw), str(stw:)) as ?stwId)
+    #
+    optional {
+      ?wdExists wdt:P3911 ?stwId .
+      optional {
+        ?wdExists rdfs:label ?wdExistsLabelDe .
+        filter(lang(?wdExistsLabelDe) = "de")
+      }
+      optional {
+        ?wdExists rdfs:label ?wdExistsLabelEn .
+        filter(lang(?wdExistsLabelEn) = "en")
+      }
+    }
+    bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ""), " | ", if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), "")) as ?wdExistsLabel)
+  }
+  ?stw skos:prefLabel ?stwLabelDe .
+  filter(lang(?stwLabelDe) = "de")
+  ?stw skos:prefLabel ?stwLabelEn .
+  filter(lang(?stwLabelEn) = "en")
+  bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ""), " | ", if(bound(?stwLabelEn), str(?stwLabelEn), "")) as ?stwLabel)
+  bind(uri(concat("https://github.com/zbw/stw-mappings/issues/", strafter(?issueLabel, "#"))) as ?issue)
+}
+order by ?line
+',
   },
   stw_dbpedia => {
-    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
     target     => 'dbpedia',
     source_col => 'stw',
     target_col => 'dbr',
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    query      => '
+select distinct (str(?line) as ?ln)  ?stw ?stwLabel ?relation ?dbr ?dbrLabel ?issue ?issueLabel ?note
+where {
+  service <http://dbpedia.org/sparql> {
+    values ( ?line ?stw ?relation ?dbr ?issueLabel ?note ) {
+      ( 2 stw:16977-5 "=" dbr:Canton_of_Uri "#2" " "  )
+    }
+
+    optional {
+      ?dbr rdfs:label ?dbrLabelDe .
+      filter(lang(?dbrLabelDe) = "de")
+    }
+    optional {
+      ?dbr rdfs:label ?dbrLabelEn .
+      filter(lang(?dbrLabelEn) = "en")
+    }
+    bind(concat(if(bound(?dbrLabelDe), str(?dbrLabelDe), ""), " | ", if(bound(?dbrLabelEn), str(?dbrLabelEn), "")) as ?dbrLabel)
+  }
+  ?stw skos:prefLabel ?stwLabelDe .
+  filter(lang(?stwLabelDe) = "de")
+  ?stw skos:prefLabel ?stwLabelEn .
+  filter(lang(?stwLabelEn) = "en")
+  bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ""), " | ", if(bound(?stwLabelEn), str(?stwLabelEn), "")) as ?stwLabel)
+  bind(uri(concat("https://github.com/zbw/stw-mappings/issues/", strafter(?issueLabel, "#"))) as ?issue)
+}
+order by ?line
+',
   },
   stw_gnd => {
-    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
     target     => 'gnd',
     source_col => 'stw',
     target_col => 'gnd',
-  },
-);
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    query      => '
+select distinct (str(?line) as ?ln)  ?stw ?stwLabel ?relation ?gnd ?gndLabel ?issue ?issueLabel ?note
+where {
+  service <http://zbw.eu/beta/sparql/gnd/query> {
+    values ( ?line ?stw ?relation ?gnd ?issueLabel ?note ) {
+      ( 2 stw:10928-6 "=" gnd:4334934-1 " " "GND CK Bug"  )
+    }
 
-my %target = (
-  wikidata => {
-    datasource => 'service <https://query.wikidata.org/sparql>',
-    statements => "
-      optional {
-        ?wd rdfs:label ?wdLabelDe .
-        filter(lang(?wdLabelDe) = 'de')
-      }
-      optional {
-        ?wd rdfs:label ?wdLabelEn .
-        filter(lang(?wdLabelEn) = 'en')
-      }
-      bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ''), ' | ', if(bound(?wdLabelEn), str(?wdLabelEn), '')) as ?wdLabel)
-      #
-      bind(strafter(str(?stw), str(stw:)) as ?stwId)
-      #
-      optional {
-        ?wdExists wdt:P3911 ?stwId .
-        optional {
-          ?wdExists rdfs:label ?wdExistsLabelDe .
-          filter(lang(?wdExistsLabelDe) = 'de')
-        }
-        optional {
-          ?wdExists rdfs:label ?wdExistsLabelEn .
-          filter(lang(?wdExistsLabelEn) = 'en')
-        }
-      }
-      bind(concat(if(bound(?wdExistsLabelDe), str(?wdExistsLabelDe), ''), ' | ', if(bound(?wdExistsLabelEn), str(?wdExistsLabelEn), '')) as ?wdExistsLabel)",
+    optional {
+      ?gnd gndo:preferredNameForTheSubjectHeading ?gndLabel .
+    }
+    #
+    bind(strafter(str(?stw), str(stw:)) as ?stwId)
+    #
+  }
+  ?stw skos:prefLabel ?stwLabelDe .
+  filter(lang(?stwLabelDe) = "de")
+  ?stw skos:prefLabel ?stwLabelEn .
+  filter(lang(?stwLabelEn) = "en")
+  bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ""), " | ", if(bound(?stwLabelEn), str(?stwLabelEn), "")) as ?stwLabel)
+  bind(uri(concat("https://github.com/zbw/stw-mappings/issues/", strafter(?issueLabel, "#"))) as ?issue)
+}
+order by ?line
+',
   },
-  dbpedia => {
-    datasource => 'service <http://dbpedia.org/sparql>',
-    statements => "
-      optional {
-        ?dbr rdfs:label ?dbrLabelDe .
-        filter(lang(?dbrLabelDe) = 'de')
-      }
-      optional {
-        ?dbr rdfs:label ?dbrLabelEn .
-        filter(lang(?dbrLabelEn) = 'en')
-      }
-      bind(concat(if(bound(?dbrLabelDe), str(?dbrLabelDe), ''), ' | ', if(bound(?dbrLabelEn), str(?dbrLabelEn), '')) as ?dbrLabel)",
-  },
-  gnd => {
-    datasource => 'service <http://zbw.eu/beta/sparql/gnd/query>',
-    statements => "
-      optional {
-        ?gnd gndo:preferredNameForTheSubjectHeading ?gndLabel .
-      }
-      #
-      bind(strafter(str(?stw), str(stw:)) as ?stwId)
-      #
-      ",
+
+  # Non-STW mappings
+
+  pm20ag_wd => {
+    source_col => 'pm20ag',
+    target_col => 'wd',
+    endpoint   => 'http://zbw.eu/beta/sparql/pm20/query',
+    query      => '
+select distinct (str(?line) as ?ln)  ?pm20ag ?pm20agLabel ?relation ?wd ?wdLabel ?issue ?note
+where {
+  values ( ?line ?pm20ag ?relation ?wd ?issueLabel ?note ) {
+    ( 2 pm20ag:141729 "=" wd:Q42530 " " " "  )
+  }
+  graph <http://zbw.eu/beta/wikidata/ng> {
+    optional {
+      ?wd rdfs:label ?wdLabelDe
+      filter(lang(?wdLabelDe) = "de")
+    }
+    optional {
+      ?wd rdfs:label ?wdLabelEn .
+      filter(lang(?wdLabelEn) = "en")
+    }
+    bind(concat(if(bound(?wdLabelDe), str(?wdLabelDe), ""), " | ", if(bound(?wdLabelEn), str(?wdLabelEn), "")) as ?wdLabel)
+  }
+  graph <http://zbw.eu/beta/ag/ng> {
+    ?pm20ag skos:prefLabel ?pm20agLabelDe .
+    filter(lang(?pm20agLabelDe) = "de")
+    ?pm20ag skos:prefLabel ?pm20agLabelEn .
+    filter(lang(?pm20agLabelEn) = "en")
+    bind(concat(if(bound(?pm20agLabelDe), str(?pm20agLabelDe), ""), " | ", if(bound(?pm20agLabelEn), str(?pm20agLabelEn), "")) as ?pm20agLabel)
+  }
+}
+order by ?line
+',
   },
 );
 
@@ -116,8 +191,7 @@ if ( not defined $config{$config_name} ) {
 }
 
 # initialize selected configuration
-my $conf   = $config{$config_name};
-my $target = $target{ $conf->{target} };
+my $conf = $config{$config_name};
 
 # prefixes and columns
 my %prefix = %{ read_prefixes($infile) };
@@ -207,7 +281,7 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
 }
 my $values = join( "\n", @values ) . "\n";
 
-my $query = build_query( $prefixes, $values );
+my $query = build_query( $prefixes, $values, $conf->{query} );
 
 my $client = REST::Client->new();
 
@@ -248,32 +322,14 @@ sub read_prefixes {
 sub build_query {
   my $prefixes = shift or die "param missing\n";
   my $values   = shift or die "param missing\n";
+  my $query    = shift or die "param missing\n";
 
-  my $src = $conf->{source_col};
-  my $tgt = $conf->{target_col};
+  # insert values
+  $query =~ s/ ( \s+ values \s+ .*? \s+ { ) .*? \s+ } /$1\n$values\n}/ixms;
 
-  my $stub1 = "
-select distinct (str(?line) as ?ln)  ?$src ?${src}Label ?relation ?$tgt ?${tgt}Label ?issue ?issueLabel ?note ?${tgt}Exists ?${tgt}ExistsLabel
-where {
-  $target->{datasource} {
-    values ( ?line ?$src ?relation ?$tgt ?issueLabel ?note ) {
-";
-  my $stub2 = "
-    }
-    $target->{statements}
-  }
-  ?stw skos:prefLabel ?stwLabelDe .
-  filter(lang(?stwLabelDe) = 'de')
-  ?stw skos:prefLabel ?stwLabelEn .
-  filter(lang(?stwLabelEn) = 'en')
-  bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ''), ' | ', if(bound(?stwLabelEn), str(?stwLabelEn), '')) as ?stwLabel)
-  bind(uri(concat('https://github.com/zbw/stw-mappings/issues/', strafter(?issueLabel, '#'))) as ?issue)
-}
-order by ?line
-";
+  $query = encode_utf8( $prefixes . $query );
+  ##print "\n$query\n";
 
-  my $query = encode_utf8( $prefixes . $stub1 . $values . $stub2 );
-  print "\n$query\n";
   return $query;
 }
 
