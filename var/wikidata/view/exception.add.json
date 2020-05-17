@@ -275,7 +275,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212805" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Digitale Bibliothek | digital library" }
+        "wdExistsLabel": { "type": "literal" , "value": "digitale Bibliothek | digital library" }
       } ,
       {
         "ln": { "type": "literal" , "value": "24" } ,
