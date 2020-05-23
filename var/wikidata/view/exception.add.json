@@ -309,7 +309,7 @@
         "stwLabel": { "type": "literal" , "value": "Wissenschaftler | Scientists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1650915" } ,
-        "wdLabel": { "type": "literal" , "value": "Forscher | researcher" } ,
+        "wdLabel": { "type": "literal" , "value": "Forscher | Researcher" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
