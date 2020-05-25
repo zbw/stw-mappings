@@ -114,7 +114,7 @@
         "stwLabel": { "type": "literal" , "value": "Telefonnetz | Telephone network" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q243961" } ,
-        "wdLabel": { "type": "literal" , "value": "Telefonnetz | public switched telephone network" } ,
+        "wdLabel": { "type": "literal" , "value": " | public switched telephone network" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
