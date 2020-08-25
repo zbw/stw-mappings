@@ -1,5 +1,5 @@
 # stw-mappings
-Mappings for [STW Thesaurus for Economics](http://zbw.eu/stw)
+Mappings for [STW Thesaurus for Economics](http://zbw.eu/stw) (with an override mechanism for externally maintained mappings)
 
 ## Scope
 
