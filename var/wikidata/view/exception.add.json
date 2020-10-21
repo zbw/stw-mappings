@@ -283,7 +283,7 @@
         "stwLabel": { "type": "literal" , "value": "Hauspersonal | Domestic workers" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q54128" } ,
-        "wdLabel": { "type": "literal" , "value": "Dienstbote | domestic worker" } ,
+        "wdLabel": { "type": "literal" , "value": "Hauspersonal | domestic worker" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
