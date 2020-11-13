@@ -374,12 +374,12 @@
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" } ,
+        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
         "issueLabel": { "type": "literal" , "value": "#47" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" }
+        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" }
       } ,
       {
         "ln": { "type": "literal" , "value": "31" } ,
@@ -387,7 +387,7 @@
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | Forest conservation" } ,
+        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
         "issueLabel": { "type": "literal" , "value": "#47" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
