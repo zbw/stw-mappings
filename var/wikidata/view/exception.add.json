@@ -1,10 +1,9 @@
-{
-  "head": {
+{ "head": {
     "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
   } ,
   "results": {
     "bindings": [
-      {
+      { 
         "ln": { "type": "literal" , "value": "2" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30083-1" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance region" } ,
@@ -17,7 +16,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34947397" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bodenseeraum | Lake Constance Region" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "3" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
@@ -30,7 +29,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "4" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12964-6" } ,
         "stwLabel": { "type": "literal" , "value": "Fischerei | Fisheries" } ,
@@ -43,7 +42,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180538" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Fischerei | fishery" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "5" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13635-6" } ,
         "stwLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" } ,
@@ -56,7 +55,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q367125" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Agrotourismus | rural tourism" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "6" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18440-3" } ,
         "stwLabel": { "type": "literal" , "value": "Backgewerbe | Bakery industry" } ,
@@ -69,7 +68,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12167297" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Backwarenindustrie | bakery industry" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "7" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12025-3" } ,
         "stwLabel": { "type": "literal" , "value": "Immobilienmakler | Real estate brokers" } ,
@@ -82,7 +81,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q519076" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Immobilienmakler | real estate broker" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "8" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18766-1" } ,
         "stwLabel": { "type": "literal" , "value": "Softwareentwicklung | Software development" } ,
@@ -95,7 +94,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q638608" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Softwareentwicklung | software development" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "9" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14004-1" } ,
         "stwLabel": { "type": "literal" , "value": "Publizisten | Authors" } ,
@@ -108,7 +107,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6051619" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Meinungsjournalist | opinion journalist" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "10" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13678-2" } ,
         "stwLabel": { "type": "literal" , "value": "Telefonnetz | Telephone network" } ,
@@ -121,7 +120,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2354216" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Telefonnetz | telephone network" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "11" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15606-3" } ,
         "stwLabel": { "type": "literal" , "value": "Datenverarbeitung | Data processing" } ,
@@ -134,7 +133,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6661985" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Datenverarbeitung | data processing" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "12" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19521-5" } ,
         "stwLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | Voluntary work" } ,
@@ -147,7 +146,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q59208417" } ,
         "wdExistsLabel": { "type": "literal" , "value": "ehrenamtliche Arbeit | voluntary work" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "13" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11825-4" } ,
         "stwLabel": { "type": "literal" , "value": "Sozialwirtschaft | Social economy" } ,
@@ -160,7 +159,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q568301" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Sozialwirtschaft | social economy" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "14" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11401-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lehrplan | Curriculum" } ,
@@ -173,7 +172,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1402601" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Lehrplan | curriculum" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "15" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13372-5" } ,
         "stwLabel": { "type": "literal" , "value": "Krankenhaus | Hospital" } ,
@@ -186,7 +185,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16917" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Krankenhaus | hospital" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "16" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19715-6" } ,
         "stwLabel": { "type": "literal" , "value": "Mediation | Mediation" } ,
@@ -199,7 +198,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q223871" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Mediation | mediation" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "17" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
@@ -212,7 +211,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "18" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
@@ -225,7 +224,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "19" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
@@ -238,7 +237,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "21" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
@@ -251,7 +250,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "22" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13354-0" } ,
         "stwLabel": { "type": "literal" , "value": "Glücksspiel | Gambling" } ,
@@ -264,7 +263,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11416" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glücksspiel | gambling" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "23" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18952-4" } ,
         "stwLabel": { "type": "literal" , "value": "Digitale Bibliothek | Digital library" } ,
@@ -277,7 +276,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212805" } ,
         "wdExistsLabel": { "type": "literal" , "value": "digitale Bibliothek | digital library" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "24" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13974-5" } ,
         "stwLabel": { "type": "literal" , "value": "Hauspersonal | Domestic workers" } ,
@@ -290,7 +289,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q464705" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Hauspersonal | domestic worker" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "25" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30042-1" } ,
         "stwLabel": { "type": "literal" , "value": "Wetten | Betting" } ,
@@ -303,7 +302,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65496063" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wetten | betting" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "26" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13349-0" } ,
         "stwLabel": { "type": "literal" , "value": "Wissenschaftler | Scientists" } ,
@@ -316,7 +315,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q901" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wissenschaftler | scientist" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "27" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13287-3" } ,
         "stwLabel": { "type": "literal" , "value": "Genossenschaftsbank | Cooperative bank" } ,
@@ -329,7 +328,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3277997" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Genossenschaftsbank | cooperative bank" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "28" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29062-5" } ,
         "stwLabel": { "type": "literal" , "value": "Gesundheitstourismus | Health tourism" } ,
@@ -342,7 +341,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2041728" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gesundheitstourismus | health tourism" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "29" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18367-1" } ,
         "stwLabel": { "type": "literal" , "value": "Kernenergiepolitik | Nuclear energy policy" } ,
@@ -355,7 +354,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q757637" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Atompolitik | nuclear policy" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "30" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12939-5" } ,
         "stwLabel": { "type": "literal" , "value": "Futterbau | Feed production" } ,
@@ -368,7 +367,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1475507" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Futterbau | Feed production" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29572-3" } ,
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
@@ -381,7 +380,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29572-3" } ,
         "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
@@ -394,7 +393,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q372449" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Waldschutz | forest protection" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "32" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13117-0" } ,
         "stwLabel": { "type": "literal" , "value": "Papierindustrie | Pulp and paper industry" } ,
@@ -407,7 +406,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2283886" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Papierindustrie | pulp and paper industry" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "33" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
@@ -420,7 +419,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "34" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
@@ -433,7 +432,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "35" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
@@ -446,7 +445,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221620" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "36" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12961-5" } ,
         "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
@@ -459,7 +458,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q38112" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Forstwirtschaft | forestry" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "37" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28384-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" } ,
@@ -472,7 +471,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753564" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "38" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12935-6" } ,
         "stwLabel": { "type": "literal" , "value": "Baumschule | Tree nursery" } ,
@@ -485,7 +484,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12372955" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Baumschule | tree nursery" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "39" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18879-2" } ,
         "stwLabel": { "type": "literal" , "value": "Studienfinanzierung | Higher education finance" } ,
@@ -498,7 +497,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1649594" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Studienfinanzierung | Higher education finance" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "40" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18495-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bautechnik | Structural engineering" } ,
@@ -511,7 +510,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q811906" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bautechnik | construction technique" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "41" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13290-0" } ,
         "stwLabel": { "type": "literal" , "value": "Sparkasse | Savings bank" } ,
@@ -524,7 +523,7 @@
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q157963" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Sparkasse | savings bank" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "42" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29587-4" } ,
         "stwLabel": { "type": "literal" , "value": "Energiehandel | Energy trade" } ,

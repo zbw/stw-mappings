@@ -1,5 +1,4 @@
-{
-  "head": {
+{ "head": {
     "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "wd" , "wdLabel" , "issue" , "issueLabel" , "note" , "wdExists" , "wdExistsLabel" ]
   } ,
   "results": {

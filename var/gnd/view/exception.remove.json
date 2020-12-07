@@ -1,10 +1,9 @@
-{
-  "head": {
+{ "head": {
     "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "gnd" , "gndLabel" , "issue" , "issueLabel" , "note" ]
   } ,
   "results": {
     "bindings": [
-      {
+      { 
         "ln": { "type": "literal" , "value": "2" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10928-6" } ,
         "stwLabel": { "type": "literal" , "value": "Markteintritt | Market entry" } ,
@@ -15,7 +14,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "3" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19661-3" } ,
         "stwLabel": { "type": "literal" , "value": "Computerunterstützung | Computerized method" } ,
@@ -26,7 +25,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "4" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13483-3" } ,
         "stwLabel": { "type": "literal" , "value": "Facheinzelhandel | Speciality shop" } ,
@@ -37,7 +36,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "5" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16549-5" } ,
         "stwLabel": { "type": "literal" , "value": "Kommunalpolitik | Local policy" } ,
@@ -48,7 +47,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "6" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13200-6" } ,
         "stwLabel": { "type": "literal" , "value": "Einzelhandel | Retail trade" } ,
@@ -59,7 +58,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "7" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19118-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kauf | Purchase" } ,
@@ -70,7 +69,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "8" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19118-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kauf | Purchase" } ,
@@ -81,7 +80,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "9" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16552-2" } ,
         "stwLabel": { "type": "literal" , "value": "Regionalpolitik | Regional policy" } ,
@@ -92,7 +91,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "10" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16195-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kriminalität | Crime" } ,
@@ -103,7 +102,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "11" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14197-6" } ,
         "stwLabel": { "type": "literal" , "value": "Erdöl | Petroleum" } ,
@@ -114,7 +113,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "12" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14285-2" } ,
         "stwLabel": { "type": "literal" , "value": "Stahl | Steel" } ,
@@ -125,7 +124,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "13" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14285-2" } ,
         "stwLabel": { "type": "literal" , "value": "Stahl | Steel" } ,
@@ -136,7 +135,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "14" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15694-1" } ,
         "stwLabel": { "type": "literal" , "value": "Kulturgeschichte | Cultural history" } ,
@@ -147,7 +146,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "15" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30027-4" } ,
         "stwLabel": { "type": "literal" , "value": "Bildende Kunst | Fine arts" } ,
@@ -158,7 +157,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "16" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15694-1" } ,
         "stwLabel": { "type": "literal" , "value": "Kulturgeschichte | Cultural history" } ,
@@ -169,7 +168,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "17" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16273-6" } ,
         "stwLabel": { "type": "literal" , "value": "Politik | Politics" } ,
@@ -180,7 +179,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "18" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27423-2" } ,
         "stwLabel": { "type": "literal" , "value": "Spiritualität | Spirituality" } ,
@@ -191,7 +190,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "19" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -202,7 +201,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "20" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19521-5" } ,
         "stwLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | Voluntary work" } ,
@@ -213,7 +212,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "21" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -224,7 +223,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "22" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14047-4" } ,
         "stwLabel": { "type": "literal" , "value": "Rohstoff | Raw materials" } ,
@@ -235,7 +234,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "23" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15036-4" } ,
         "stwLabel": { "type": "literal" , "value": "Fuzzy-Set-Theorie | Fuzzy sets" } ,
@@ -246,7 +245,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "24" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18120-0" } ,
         "stwLabel": { "type": "literal" , "value": "KMU | SME" } ,
@@ -257,7 +256,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "25" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -268,7 +267,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "26" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -279,7 +278,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "27" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16176-4" } ,
         "stwLabel": { "type": "literal" , "value": "Baurecht | Building code" } ,
@@ -290,7 +289,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "28" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16176-4" } ,
         "stwLabel": { "type": "literal" , "value": "Baurecht | Building code" } ,
@@ -301,7 +300,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "29" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -312,7 +311,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "30" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -323,7 +322,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29652-5" } ,
         "stwLabel": { "type": "literal" , "value": "Prüfungsausschuss des Aufsichtsrats | Audit committee" } ,
@@ -334,7 +333,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "32" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14051-6" } ,
         "stwLabel": { "type": "literal" , "value": "Verpackung | Packaging" } ,
@@ -345,7 +344,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "33" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13145-2" } ,
         "stwLabel": { "type": "literal" , "value": "Textilindustrie | Textile industry" } ,
@@ -356,7 +355,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "34" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28923-5" } ,
         "stwLabel": { "type": "literal" , "value": "E-Health | E-health" } ,
@@ -367,7 +366,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "35" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19073-6" } ,
         "stwLabel": { "type": "literal" , "value": "Theorie | Theory" } ,
@@ -378,7 +377,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "36" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -389,7 +388,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "37" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12980-1" } ,
         "stwLabel": { "type": "literal" , "value": "Bergbau | Mining" } ,
@@ -400,7 +399,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "38" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12567-2" } ,
         "stwLabel": { "type": "literal" , "value": "Personalmanagement | Human Resource Management" } ,
@@ -411,7 +410,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "39" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14122-2" } ,
         "stwLabel": { "type": "literal" , "value": "Fleisch | Meat" } ,
@@ -422,7 +421,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "40" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/21315-0" } ,
         "stwLabel": { "type": "literal" , "value": "Online-Marketing | Internet marketing" } ,
@@ -433,7 +432,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "41" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13444-6" } ,
         "stwLabel": { "type": "literal" , "value": "Agrargeschichte | Agricultural history" } ,
@@ -444,7 +443,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "42" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18067-6" } ,
         "stwLabel": { "type": "literal" , "value": "Haftung | Liability" } ,
@@ -455,7 +454,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "43" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14105-2" } ,
         "stwLabel": { "type": "literal" , "value": "Gemüse | Vegetables" } ,
@@ -466,7 +465,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "44" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -477,7 +476,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "45" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -488,7 +487,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "46" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -499,7 +498,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "47" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -510,7 +509,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "48" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15036-4" } ,
         "stwLabel": { "type": "literal" , "value": "Fuzzy-Set-Theorie | Fuzzy sets" } ,
@@ -521,7 +520,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "49" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -532,7 +531,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "50" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15968-4" } ,
         "stwLabel": { "type": "literal" , "value": "Rechtsgeschichte | Legal history" } ,
@@ -543,7 +542,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "51" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -554,7 +553,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "52" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -565,7 +564,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "53" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -576,7 +575,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "54" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13427-6" } ,
         "stwLabel": { "type": "literal" , "value": "Düngemittel | Fertilizer" } ,
@@ -587,7 +586,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "55" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -598,7 +597,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "56" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -609,7 +608,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "57" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11641-0" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerstatistik | Tax statistics" } ,
@@ -620,7 +619,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "58" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11852-1" } ,
         "stwLabel": { "type": "literal" , "value": "Gemeinde | Municipality" } ,
@@ -631,7 +630,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "59" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -642,7 +641,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "60" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13209-2" } ,
         "stwLabel": { "type": "literal" , "value": "Großhandel | Wholesale trade" } ,
@@ -653,7 +652,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "61" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -664,7 +663,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "62" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -675,7 +674,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "63" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -686,7 +685,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "64" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11706-5" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
@@ -697,7 +696,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "65" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12026-1" } ,
         "stwLabel": { "type": "literal" , "value": "Grundeigentum | Real property" } ,
@@ -708,7 +707,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "66" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11416-0" } ,
         "stwLabel": { "type": "literal" , "value": "Geldgeschichte | Monetary history" } ,
@@ -719,7 +718,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "67" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11434-5" } ,
         "stwLabel": { "type": "literal" , "value": "Münzen | Coins" } ,
@@ -730,7 +729,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "68" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19041-5" } ,
         "stwLabel": { "type": "literal" , "value": "Kritik | Criticism" } ,
@@ -741,7 +740,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "69" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19072-1" } ,
         "stwLabel": { "type": "literal" , "value": "Statistik | Applied statistics" } ,
@@ -752,7 +751,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "70" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12065-5" } ,
         "stwLabel": { "type": "literal" , "value": "Produktion | Production" } ,
@@ -763,7 +762,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "71" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15072-0" } ,
         "stwLabel": { "type": "literal" , "value": "Prognoseverfahren | Forecasting model" } ,
@@ -774,7 +773,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "72" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12876-3" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerplanung | Tax planning" } ,
@@ -785,7 +784,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "73" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -796,7 +795,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "74" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15966-1" } ,
         "stwLabel": { "type": "literal" , "value": "Recht | Law" } ,
@@ -807,7 +806,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "75" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
@@ -818,7 +817,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "76" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18029-0" } ,
         "stwLabel": { "type": "literal" , "value": "Strategisches Management | Strategic management" } ,
@@ -829,7 +828,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "77" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -840,7 +839,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "78" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13058-4" } ,
         "stwLabel": { "type": "literal" , "value": "Maschinenbau | Machinery industry" } ,
@@ -851,7 +850,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "79" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -862,7 +861,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "80" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -873,7 +872,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "81" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18118-1" } ,
         "stwLabel": { "type": "literal" , "value": "Risikomanagement | Risk management" } ,
@@ -884,7 +883,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "82" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11965-2" } ,
         "stwLabel": { "type": "literal" , "value": "Gemeindestatistik | Municipal statistics" } ,
@@ -895,7 +894,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "83" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
@@ -906,7 +905,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "84" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
@@ -917,7 +916,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "85" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
@@ -928,7 +927,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "86" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13197-4" } ,
         "stwLabel": { "type": "literal" , "value": "Buchhandel | Book trade" } ,
@@ -939,7 +938,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "87" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14934-5" } ,
         "stwLabel": { "type": "literal" , "value": "Zucker | Sugar" } ,
@@ -950,7 +949,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "88" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10057-0" } ,
         "stwLabel": { "type": "literal" , "value": "Risiko | Risk" } ,
@@ -961,7 +960,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "89" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12053-5" } ,
         "stwLabel": { "type": "literal" , "value": "Betriebliche Kennzahl | Financial ratio" } ,
@@ -972,7 +971,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "90" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13462-4" } ,
         "stwLabel": { "type": "literal" , "value": "Handelsgeschichte | History of trade" } ,
@@ -983,7 +982,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "91" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12931-0" } ,
         "stwLabel": { "type": "literal" , "value": "Versorgungswirtschaft | Public utilities" } ,
@@ -994,7 +993,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "92" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14110-2" } ,
         "stwLabel": { "type": "literal" , "value": "Obst | Fruit" } ,
@@ -1005,7 +1004,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "93" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1016,7 +1015,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "94" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15606-3" } ,
         "stwLabel": { "type": "literal" , "value": "Datenverarbeitung | Data processing" } ,
@@ -1027,7 +1026,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "95" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11238-5" } ,
         "stwLabel": { "type": "literal" , "value": "Beschäftigungseffekt | Employment effect" } ,
@@ -1038,7 +1037,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "96" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13264-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verkehrssektor | Transport sector" } ,
@@ -1049,7 +1048,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "97" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11706-5" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
@@ -1060,7 +1059,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "98" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1071,7 +1070,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "99" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1082,7 +1081,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "100" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11554-2" } ,
         "stwLabel": { "type": "literal" , "value": "Öffentliche Ausgaben | Public expenditure" } ,
@@ -1093,7 +1092,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "101" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -1104,7 +1103,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "102" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1115,7 +1114,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "103" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13210-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
@@ -1126,7 +1125,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "104" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15057-3" } ,
         "stwLabel": { "type": "literal" , "value": "Simulation | Simulation" } ,
@@ -1137,7 +1136,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "105" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1148,7 +1147,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "106" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10013-6" } ,
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
@@ -1159,7 +1158,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "107" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16048-6" } ,
         "stwLabel": { "type": "literal" , "value": "EU-Wirtschaftsrecht | EU economic law" } ,
@@ -1170,7 +1169,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "108" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14976-3" } ,
         "stwLabel": { "type": "literal" , "value": "Getränk | Beverage" } ,
@@ -1181,7 +1180,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "109" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18674-6" } ,
         "stwLabel": { "type": "literal" , "value": "Anlageverhalten | Behavioural finance" } ,
@@ -1192,7 +1191,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "110" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -1203,7 +1202,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "111" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11341-5" } ,
         "stwLabel": { "type": "literal" , "value": "Vergütungssystem | Compensation system" } ,
@@ -1214,7 +1213,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "112" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12180-5" } ,
         "stwLabel": { "type": "literal" , "value": "Genossenschaft | Cooperative" } ,
@@ -1225,7 +1224,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "113" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10829-1" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Steuerrecht | International tax law" } ,
@@ -1236,7 +1235,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "114" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12381-2" } ,
         "stwLabel": { "type": "literal" , "value": "Jahresabschluss | Financial statement" } ,
@@ -1247,7 +1246,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "115" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14941-1" } ,
         "stwLabel": { "type": "literal" , "value": "Brot | Bread" } ,
@@ -1258,7 +1257,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "116" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14124-5" } ,
         "stwLabel": { "type": "literal" , "value": "Milch | Milk" } ,
@@ -1269,7 +1268,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "117" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27675-3" } ,
         "stwLabel": { "type": "literal" , "value": "Internet-Auktion | Online auction" } ,
@@ -1280,7 +1279,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "118" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1291,7 +1290,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "119" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -1302,7 +1301,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "120" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11289-2" } ,
         "stwLabel": { "type": "literal" , "value": "Beamte | Civil servants" } ,
@@ -1313,7 +1312,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "121" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12918-6" } ,
         "stwLabel": { "type": "literal" , "value": "Konsumgüterindustrie | Consumer goods industry" } ,
@@ -1324,7 +1323,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "122" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14150-4" } ,
         "stwLabel": { "type": "literal" , "value": "Holz | Wood" } ,
@@ -1335,7 +1334,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "123" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1346,7 +1345,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "124" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13691-3" } ,
         "stwLabel": { "type": "literal" , "value": "Bankgeschichte | Banking history" } ,
@@ -1357,7 +1356,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "125" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -1368,7 +1367,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "126" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15598-4" } ,
         "stwLabel": { "type": "literal" , "value": "Informationssystem | Information system" } ,
@@ -1379,7 +1378,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "127" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -1390,7 +1389,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "128" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1401,7 +1400,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "129" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1412,7 +1411,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "130" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10000-1" } ,
         "stwLabel": { "type": "literal" , "value": "Angebot | Supply" } ,
@@ -1423,7 +1422,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "131" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15211-5" } ,
         "stwLabel": { "type": "literal" , "value": "Statistische Verteilung | Statistical distribution" } ,
@@ -1434,7 +1433,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "132" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -1445,7 +1444,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "133" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18496-4" } ,
         "stwLabel": { "type": "literal" , "value": "Gebäude | Building" } ,
@@ -1456,7 +1455,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "134" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1467,7 +1466,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "135" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16186-1" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Recht | International law" } ,
@@ -1478,7 +1477,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "136" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14973-2" } ,
         "stwLabel": { "type": "literal" , "value": "Bier | Beer" } ,
@@ -1489,7 +1488,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "137" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -1500,7 +1499,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "138" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11275-6" } ,
         "stwLabel": { "type": "literal" , "value": "Junge Arbeitskräfte | Young workers" } ,
@@ -1511,7 +1510,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "139" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13511-3" } ,
         "stwLabel": { "type": "literal" , "value": "Verkehrsgeschichte | Transport history" } ,
@@ -1522,7 +1521,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "140" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15695-6" } ,
         "stwLabel": { "type": "literal" , "value": "Stadtgeschichte | Urban history" } ,
@@ -1533,7 +1532,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "141" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16564-2" } ,
         "stwLabel": { "type": "literal" , "value": "Soziologie | Sociology" } ,
@@ -1544,7 +1543,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "142" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14196-1" } ,
         "stwLabel": { "type": "literal" , "value": "Erdgas | Natural gas" } ,
@@ -1555,7 +1554,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "143" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14432-1" } ,
         "stwLabel": { "type": "literal" , "value": "Fahrrad | Bicycle" } ,
@@ -1566,7 +1565,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "144" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1577,7 +1576,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "145" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15920-4" } ,
         "stwLabel": { "type": "literal" , "value": "Frauen | Women" } ,
@@ -1588,7 +1587,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "146" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16550-6" } ,
         "stwLabel": { "type": "literal" , "value": "Kommunalverwaltung | Local government" } ,
@@ -1599,7 +1598,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "147" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15966-1" } ,
         "stwLabel": { "type": "literal" , "value": "Recht | Law" } ,
@@ -1610,7 +1609,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "148" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15671-6" } ,
         "stwLabel": { "type": "literal" , "value": "Religion | Religion" } ,
@@ -1621,7 +1620,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "149" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13210-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
@@ -1632,7 +1631,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "150" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10000-1" } ,
         "stwLabel": { "type": "literal" , "value": "Angebot | Supply" } ,
@@ -1643,7 +1642,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "151" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10000-1" } ,
         "stwLabel": { "type": "literal" , "value": "Angebot | Supply" } ,
@@ -1654,7 +1653,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "152" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10000-1" } ,
         "stwLabel": { "type": "literal" , "value": "Angebot | Supply" } ,
@@ -1665,7 +1664,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "153" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10013-6" } ,
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
@@ -1676,7 +1675,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "154" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10013-6" } ,
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
@@ -1687,7 +1686,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "155" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10013-6" } ,
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
@@ -1698,7 +1697,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "156" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10013-6" } ,
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
@@ -1709,7 +1708,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "157" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10013-6" } ,
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
@@ -1720,7 +1719,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "158" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19033-4" } ,
         "stwLabel": { "type": "literal" , "value": "Messung | Measurement" } ,
@@ -1731,7 +1730,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "159" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1742,7 +1741,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "160" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11706-5" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
@@ -1753,7 +1752,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "161" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13200-6" } ,
         "stwLabel": { "type": "literal" , "value": "Einzelhandel | Retail trade" } ,
@@ -1764,7 +1763,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "162" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29853-2" } ,
         "stwLabel": { "type": "literal" , "value": "Labor | Laboratory" } ,
@@ -1775,7 +1774,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "163" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18793-5" } ,
         "stwLabel": { "type": "literal" , "value": "Experten | Experts" } ,
@@ -1786,7 +1785,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "164" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14088-4" } ,
         "stwLabel": { "type": "literal" , "value": "Getreide | Grain" } ,
@@ -1797,7 +1796,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "165" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19072-1" } ,
         "stwLabel": { "type": "literal" , "value": "Statistik | Applied statistics" } ,
@@ -1808,7 +1807,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "166" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13301-0" } ,
         "stwLabel": { "type": "literal" , "value": "Dienstleistung | Services" } ,
@@ -1819,7 +1818,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "167" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1830,7 +1829,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "168" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -1841,7 +1840,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "169" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19677-2" } ,
         "stwLabel": { "type": "literal" , "value": "Milchpreis | Milk price" } ,
@@ -1852,7 +1851,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "170" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -1863,7 +1862,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "171" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11628-6" } ,
         "stwLabel": { "type": "literal" , "value": "Öffentliches Unternehmen | Public enterprise" } ,
@@ -1874,7 +1873,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "172" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14433-6" } ,
         "stwLabel": { "type": "literal" , "value": "Kraftfahrzeug | Motor vehicle" } ,
@@ -1885,7 +1884,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "173" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11706-5" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
@@ -1896,7 +1895,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "174" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1907,7 +1906,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "175" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1918,7 +1917,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "176" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1929,7 +1928,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "177" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1940,7 +1939,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "178" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1951,7 +1950,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "179" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1962,7 +1961,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "180" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1973,7 +1972,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "181" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1984,7 +1983,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "182" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -1995,7 +1994,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "183" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2006,7 +2005,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "184" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2017,7 +2016,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "185" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2028,7 +2027,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "186" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2039,7 +2038,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "187" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2050,7 +2049,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "188" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2061,7 +2060,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "189" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2072,7 +2071,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "190" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2083,7 +2082,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "191" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2094,7 +2093,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "192" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2105,7 +2104,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "193" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2116,7 +2115,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "194" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2127,7 +2126,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "195" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10836-4" } ,
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
@@ -2138,7 +2137,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "196" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11666-5" } ,
         "stwLabel": { "type": "literal" , "value": "Körperschaftsteuer | Corporate income tax" } ,
@@ -2149,7 +2148,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "197" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2160,7 +2159,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "198" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18729-0" } ,
         "stwLabel": { "type": "literal" , "value": "Börsengeschichte | Stock market history" } ,
@@ -2171,7 +2170,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "199" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2182,7 +2181,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "200" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19133-0" } ,
         "stwLabel": { "type": "literal" , "value": "Beziehungsmarketing | Relationship marketing" } ,
@@ -2193,7 +2192,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "201" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10010-5" } ,
         "stwLabel": { "type": "literal" , "value": "Konsum | Consumption" } ,
@@ -2204,7 +2203,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "202" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15472-5" } ,
         "stwLabel": { "type": "literal" , "value": "Gruppenentscheidung | Group decision-making" } ,
@@ -2215,7 +2214,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "203" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11356-6" } ,
         "stwLabel": { "type": "literal" , "value": "Akademiker | University graduates" } ,
@@ -2226,7 +2225,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "204" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19438-6" } ,
         "stwLabel": { "type": "literal" , "value": "Räumliche Verteilung | Spatial distribution" } ,
@@ -2237,7 +2236,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "205" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2248,7 +2247,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "206" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2259,7 +2258,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "207" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2270,7 +2269,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "208" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2281,7 +2280,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "209" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19687-6" } ,
         "stwLabel": { "type": "literal" , "value": "Staatsangehörigkeit | Citizenship" } ,
@@ -2292,7 +2291,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "210" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12072-1" } ,
         "stwLabel": { "type": "literal" , "value": "Unternehmen | Enterprise" } ,
@@ -2303,7 +2302,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "211" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -2314,7 +2313,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "212" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2325,7 +2324,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "213" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -2336,7 +2335,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "214" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15920-4" } ,
         "stwLabel": { "type": "literal" , "value": "Frauen | Women" } ,
@@ -2347,7 +2346,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "215" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2358,7 +2357,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "216" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18168-0" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktprognose | Employment forecast" } ,
@@ -2369,7 +2368,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "217" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11264-4" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktstatistik | Labour statistics" } ,
@@ -2380,7 +2379,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "218" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10833-3" } ,
         "stwLabel": { "type": "literal" , "value": "Außenhandel | Foreign trade" } ,
@@ -2391,7 +2390,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "219" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2402,7 +2401,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "220" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2413,7 +2412,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "221" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2424,7 +2423,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "222" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2435,7 +2434,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "223" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12065-5" } ,
         "stwLabel": { "type": "literal" , "value": "Produktion | Production" } ,
@@ -2446,7 +2445,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "224" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -2457,7 +2456,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "225" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15621-0" } ,
         "stwLabel": { "type": "literal" , "value": "Software | Software" } ,
@@ -2468,7 +2467,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "226" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2479,7 +2478,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "227" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15982-3" } ,
         "stwLabel": { "type": "literal" , "value": "Vertrag | Contract" } ,
@@ -2490,7 +2489,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "228" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2501,7 +2500,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "229" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2512,7 +2511,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "230" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12591-5" } ,
         "stwLabel": { "type": "literal" , "value": "Betriebliche Altersversorgung | Occupational pension plan" } ,
@@ -2523,7 +2522,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "231" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15703-5" } ,
         "stwLabel": { "type": "literal" , "value": "Industriegeschichte | Industrial history" } ,
@@ -2534,7 +2533,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "232" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2545,7 +2544,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "233" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2556,7 +2555,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "234" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2567,7 +2566,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "235" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15073-5" } ,
         "stwLabel": { "type": "literal" , "value": "Sozialer Indikator | Social indicator" } ,
@@ -2578,7 +2577,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "236" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11391-4" } ,
         "stwLabel": { "type": "literal" , "value": "Weiterbildung | Further training" } ,
@@ -2589,7 +2588,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "237" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12330-5" } ,
         "stwLabel": { "type": "literal" , "value": "IT-gestütztes Rechnungswesen | Accounting information system" } ,
@@ -2600,7 +2599,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "238" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19544-0" } ,
         "stwLabel": { "type": "literal" , "value": "E-Business | E-business" } ,
@@ -2611,7 +2610,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "239" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16186-1" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Recht | International law" } ,
@@ -2622,7 +2621,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "240" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16186-1" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Recht | International law" } ,
@@ -2633,7 +2632,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "241" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14728-1" } ,
         "stwLabel": { "type": "literal" , "value": "Arzneimittel | Pharmaceuticals" } ,
@@ -2644,7 +2643,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "242" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2655,7 +2654,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "243" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2666,7 +2665,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "244" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2677,7 +2676,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "245" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2688,7 +2687,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "246" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2699,7 +2698,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "247" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2710,7 +2709,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "248" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2721,7 +2720,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "249" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2732,7 +2731,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "250" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10011-3" } ,
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
@@ -2743,7 +2742,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "251" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15621-0" } ,
         "stwLabel": { "type": "literal" , "value": "Software | Software" } ,
@@ -2754,7 +2753,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "252" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2765,7 +2764,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "253" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2776,7 +2775,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "254" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2787,7 +2786,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "255" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2798,7 +2797,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "256" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2809,7 +2808,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "257" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2820,7 +2819,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "258" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2831,7 +2830,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "259" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2842,7 +2841,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "260" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2853,7 +2852,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "261" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2864,7 +2863,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "262" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10213-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
@@ -2875,7 +2874,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "263" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2886,7 +2885,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "264" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11706-5" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
@@ -2897,7 +2896,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "265" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10251-4" } ,
         "stwLabel": { "type": "literal" , "value": "Multiplikator | Multiplier" } ,
@@ -2908,7 +2907,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "266" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14216-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kraftstoff | Motor fuel" } ,
@@ -2919,7 +2918,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "267" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10120-5" } ,
         "stwLabel": { "type": "literal" , "value": "Kapital | Capital" } ,
@@ -2930,7 +2929,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "268" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12041-5" } ,
         "stwLabel": { "type": "literal" , "value": "Betriebswirtschaftslehre | Business economics" } ,
@@ -2941,7 +2940,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "269" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12041-5" } ,
         "stwLabel": { "type": "literal" , "value": "Betriebswirtschaftslehre | Business economics" } ,
@@ -2952,7 +2951,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "270" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -2963,7 +2962,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "271" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -2974,7 +2973,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "272" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10135-6" } ,
         "stwLabel": { "type": "literal" , "value": "Zins | Interest rate" } ,
@@ -2985,7 +2984,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "273" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15746-1" } ,
         "stwLabel": { "type": "literal" , "value": "Naturschutz | Nature conservation" } ,
@@ -2996,7 +2995,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "274" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19510-3" } ,
         "stwLabel": { "type": "literal" , "value": "Sachtransfer | In-kind transfer" } ,
@@ -3007,7 +3006,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "275" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11434-5" } ,
         "stwLabel": { "type": "literal" , "value": "Münzen | Coins" } ,
@@ -3018,7 +3017,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "276" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12180-5" } ,
         "stwLabel": { "type": "literal" , "value": "Genossenschaft | Cooperative" } ,
@@ -3029,7 +3028,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "277" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12180-5" } ,
         "stwLabel": { "type": "literal" , "value": "Genossenschaft | Cooperative" } ,
@@ -3040,7 +3039,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "278" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12281-6" } ,
         "stwLabel": { "type": "literal" , "value": "Investmentfonds | Investment Fund" } ,
@@ -3051,7 +3050,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "279" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12281-6" } ,
         "stwLabel": { "type": "literal" , "value": "Investmentfonds | Investment Fund" } ,
@@ -3062,7 +3061,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "280" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11537-2" } ,
         "stwLabel": { "type": "literal" , "value": "Gemeindefinanzen | Local government finance" } ,
@@ -3073,7 +3072,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "281" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3084,7 +3083,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "282" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3095,7 +3094,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "283" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3106,7 +3105,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "284" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3117,7 +3116,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "285" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3128,7 +3127,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "286" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3139,7 +3138,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "287" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3150,7 +3149,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "288" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3161,7 +3160,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "289" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3172,7 +3171,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "290" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3183,7 +3182,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "291" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3194,7 +3193,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "292" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3205,7 +3204,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "293" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10838-0" } ,
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
@@ -3216,7 +3215,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "294" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12607-2" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsgestaltung | Job design" } ,
@@ -3227,7 +3226,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "295" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3238,7 +3237,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "296" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18952-4" } ,
         "stwLabel": { "type": "literal" , "value": "Digitale Bibliothek | Digital library" } ,
@@ -3249,7 +3248,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "297" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14083-0" } ,
         "stwLabel": { "type": "literal" , "value": "Tee | Tea" } ,
@@ -3260,7 +3259,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "298" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14603-0" } ,
         "stwLabel": { "type": "literal" , "value": "Gas | Gases" } ,
@@ -3271,7 +3270,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "299" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12781-0" } ,
         "stwLabel": { "type": "literal" , "value": "Filiale | Branch office" } ,
@@ -3282,7 +3281,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "300" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3293,7 +3292,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "301" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3304,7 +3303,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "302" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3315,7 +3314,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "303" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3326,7 +3325,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "304" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3337,7 +3336,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "305" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3348,7 +3347,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "306" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3359,7 +3358,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "307" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3370,7 +3369,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "308" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3381,7 +3380,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "309" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3392,7 +3391,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "310" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3403,7 +3402,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "311" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3414,7 +3413,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "312" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3425,7 +3424,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "313" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3436,7 +3435,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "314" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3447,7 +3446,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "315" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3458,7 +3457,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "316" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3469,7 +3468,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "317" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3480,7 +3479,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "318" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3491,7 +3490,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "319" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3502,7 +3501,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "320" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3513,7 +3512,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "321" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3524,7 +3523,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "322" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3535,7 +3534,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "323" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3546,7 +3545,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "324" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3557,7 +3556,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "325" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3568,7 +3567,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "326" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3579,7 +3578,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "327" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3590,7 +3589,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "328" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3601,7 +3600,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "329" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3612,7 +3611,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "330" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3623,7 +3622,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "331" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3634,7 +3633,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "332" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3645,7 +3644,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "333" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3656,7 +3655,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "334" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3667,7 +3666,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "335" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3678,7 +3677,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "336" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3689,7 +3688,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "337" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
@@ -3700,7 +3699,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "338" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16288-0" } ,
         "stwLabel": { "type": "literal" , "value": "Politischer Konflikt | Political conflict" } ,
@@ -3711,7 +3710,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "339" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19657-1" } ,
         "stwLabel": { "type": "literal" , "value": "Interaktive Medien | Interactive media" } ,
@@ -3722,7 +3721,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "340" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
@@ -3733,7 +3732,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "341" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11533-3" } ,
         "stwLabel": { "type": "literal" , "value": "Finanzgeschichte | Fiscal history" } ,
@@ -3744,7 +3743,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "342" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11540-6" } ,
         "stwLabel": { "type": "literal" , "value": "Öffentliche Finanzen | Public finance" } ,
@@ -3755,7 +3754,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "343" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12781-0" } ,
         "stwLabel": { "type": "literal" , "value": "Filiale | Branch office" } ,
@@ -3766,7 +3765,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "344" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12781-0" } ,
         "stwLabel": { "type": "literal" , "value": "Filiale | Branch office" } ,
@@ -3777,7 +3776,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "345" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13200-6" } ,
         "stwLabel": { "type": "literal" , "value": "Einzelhandel | Retail trade" } ,
@@ -3788,7 +3787,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "346" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16809-5" } ,
         "stwLabel": { "type": "literal" , "value": "Welt | World" } ,
@@ -3799,7 +3798,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "347" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11702-6" } ,
         "stwLabel": { "type": "literal" , "value": "Steuervergünstigung | Tax incentive" } ,
@@ -3810,7 +3809,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "348" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12046-2" } ,
         "stwLabel": { "type": "literal" , "value": "Unternehmensgeschichte | Business history" } ,
@@ -3821,7 +3820,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "349" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13415-6" } ,
         "stwLabel": { "type": "literal" , "value": "Gesetzliche Krankenversicherung | Public health insurance" } ,
@@ -3832,7 +3831,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "350" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13210-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
@@ -3843,7 +3842,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "351" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19039-6" } ,
         "stwLabel": { "type": "literal" , "value": "Versorgung | Supply situation" } ,
@@ -3854,7 +3853,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "352" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14802-1" } ,
         "stwLabel": { "type": "literal" , "value": "Papier | Paper" } ,
@@ -3865,7 +3864,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "353" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10225-5" } ,
         "stwLabel": { "type": "literal" , "value": "Vollkommene Information | Complete information" } ,
@@ -3876,7 +3875,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "354" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15920-4" } ,
         "stwLabel": { "type": "literal" , "value": "Frauen | Women" } ,
@@ -3887,7 +3886,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "355" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15609-4" } ,
         "stwLabel": { "type": "literal" , "value": "Informatik | Computer science" } ,
@@ -3898,7 +3897,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "356" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11559-6" } ,
         "stwLabel": { "type": "literal" , "value": "Öffentlicher Dienst | Civil service" } ,
@@ -3909,7 +3908,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "357" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12985-5" } ,
         "stwLabel": { "type": "literal" , "value": "Erzbergbau | Metal mining" } ,
@@ -3920,7 +3919,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "358" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18869-5" } ,
         "stwLabel": { "type": "literal" , "value": "Wissenstransfer | Knowledge transfer" } ,
@@ -3931,7 +3930,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "359" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19072-1" } ,
         "stwLabel": { "type": "literal" , "value": "Statistik | Applied statistics" } ,
@@ -3942,7 +3941,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "360" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10984-3" } ,
         "stwLabel": { "type": "literal" , "value": "Interessenvertretung | Interest group" } ,
@@ -3953,7 +3952,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "361" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16112-2" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerstrafrecht | Criminal tax law" } ,
@@ -3964,7 +3963,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "362" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19405-0" } ,
         "stwLabel": { "type": "literal" , "value": "Steuergeschichte | History of taxation" } ,
@@ -3975,7 +3974,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "363" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11416-0" } ,
         "stwLabel": { "type": "literal" , "value": "Geldgeschichte | Monetary history" } ,
@@ -3986,7 +3985,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "364" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19566-4" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitskosten | Labour costs" } ,
@@ -3997,7 +3996,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "365" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16564-2" } ,
         "stwLabel": { "type": "literal" , "value": "Soziologie | Sociology" } ,
@@ -4008,7 +4007,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "366" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16564-2" } ,
         "stwLabel": { "type": "literal" , "value": "Soziologie | Sociology" } ,
@@ -4019,7 +4018,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "367" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12881-3" } ,
         "stwLabel": { "type": "literal" , "value": "Unternehmensberatung | Consultancy services" } ,
@@ -4030,7 +4029,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "368" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18410-5" } ,
         "stwLabel": { "type": "literal" , "value": "Kraftwerksbau | Power plant construction" } ,
@@ -4041,7 +4040,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "369" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13209-2" } ,
         "stwLabel": { "type": "literal" , "value": "Großhandel | Wholesale trade" } ,
@@ -4052,7 +4051,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "370" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11373-6" } ,
         "stwLabel": { "type": "literal" , "value": "Hochschule | Higher education institution" } ,
@@ -4063,7 +4062,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "371" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10135-6" } ,
         "stwLabel": { "type": "literal" , "value": "Zins | Interest rate" } ,
@@ -4074,7 +4073,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "372" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11261-3" } ,
         "stwLabel": { "type": "literal" , "value": "Ältere Arbeitskräfte | Older workers" } ,
@@ -4085,7 +4084,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "373" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13210-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
@@ -4096,7 +4095,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "374" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20485-1" } ,
         "stwLabel": { "type": "literal" , "value": "Freie Mitarbeiter | Freelancers" } ,
@@ -4107,7 +4106,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "375" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11702-6" } ,
         "stwLabel": { "type": "literal" , "value": "Steuervergünstigung | Tax incentive" } ,
@@ -4118,7 +4117,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "376" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13210-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
@@ -4129,7 +4128,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "377" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13393-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kirche | Church" } ,
@@ -4140,7 +4139,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "378" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10036-1" } ,
         "stwLabel": { "type": "literal" , "value": "Elastizität | Elasticity" } ,
@@ -4151,7 +4150,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "379" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18154-4" } ,
         "stwLabel": { "type": "literal" , "value": "Quellensteuer | Withholding tax" } ,
@@ -4162,7 +4161,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "380" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16671-1" } ,
         "stwLabel": { "type": "literal" , "value": "Obdachlosigkeit | Homelessness" } ,
@@ -4173,7 +4172,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "381" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16809-5" } ,
         "stwLabel": { "type": "literal" , "value": "Welt | World" } ,
@@ -4184,7 +4183,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "382" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12842-6" } ,
         "stwLabel": { "type": "literal" , "value": "Werbemusik | Advertising music" } ,
@@ -4195,7 +4194,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "383" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12357-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bilanz | Balance sheet" } ,
@@ -4206,7 +4205,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "384" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11377-5" } ,
         "stwLabel": { "type": "literal" , "value": "Schule | School" } ,
@@ -4217,7 +4216,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "385" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10338-6" } ,
         "stwLabel": { "type": "literal" , "value": "Konjunktur | Business cycle" } ,
@@ -4228,7 +4227,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "386" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10135-6" } ,
         "stwLabel": { "type": "literal" , "value": "Zins | Interest rate" } ,
@@ -4239,7 +4238,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "387" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18059-5" } ,
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsinformation | Economic information" } ,
@@ -4250,7 +4249,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "388" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13210-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
@@ -4261,7 +4260,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "389" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14064-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kaffee | Coffee" } ,
@@ -4272,7 +4271,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "390" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29707-6" } ,
         "stwLabel": { "type": "literal" , "value": "Insurance-Linked Securities | Insurance-linked securities" } ,
@@ -4283,7 +4282,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "391" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14040-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kunstwerk | Work of art" } ,
@@ -4294,7 +4293,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "392" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12846-5" } ,
         "stwLabel": { "type": "literal" , "value": "Werbung | Advertising" } ,
@@ -4305,7 +4304,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "393" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10057-0" } ,
         "stwLabel": { "type": "literal" , "value": "Risiko | Risk" } ,
@@ -4316,7 +4315,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "394" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18736-3" } ,
         "stwLabel": { "type": "literal" , "value": "Betrug | Fraud" } ,
@@ -4327,7 +4326,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "395" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15966-1" } ,
         "stwLabel": { "type": "literal" , "value": "Recht | Law" } ,
@@ -4338,7 +4337,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "396" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11706-5" } ,
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
@@ -4349,7 +4348,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "397" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15966-1" } ,
         "stwLabel": { "type": "literal" , "value": "Recht | Law" } ,
@@ -4360,7 +4359,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
       } ,
-      {
+      { 
         "ln": { "type": "literal" , "value": "398" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10012-1" } ,
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
