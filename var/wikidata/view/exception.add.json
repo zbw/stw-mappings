@@ -451,7 +451,7 @@
         "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q22923174" } ,
-        "wdLabel": { "type": "literal" , "value": "Forstwirtschaft | " } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/48" } ,
         "issueLabel": { "type": "literal" , "value": "#48" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
