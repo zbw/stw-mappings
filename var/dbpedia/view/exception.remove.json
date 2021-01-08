@@ -9,7 +9,7 @@
         "stwLabel": { "type": "literal" , "value": "Uri | Uri" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "dbr": { "type": "uri" , "value": "http://dbpedia.org/resource/Uniform_Resource_Identifier" } ,
-        "dbrLabel": { "type": "literal" , "value": "Uniform Resource Identifier | Uniform Resource Identifier" } ,
+        "dbrLabel": { "type": "literal" , "value": " | Uniform Resource Identifier" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/2" } ,
         "issueLabel": { "type": "literal" , "value": "#2" } ,
         "note": { "type": "literal" , "value": " " }
