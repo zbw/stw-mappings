@@ -100,12 +100,12 @@
         "stwLabel": { "type": "literal" , "value": "Publizisten | Authors" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4178004" } ,
-        "wdLabel": { "type": "literal" , "value": "Publizist | publicist" } ,
+        "wdLabel": { "type": "literal" , "value": "Publizist (Werbung) | publicist" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6051619" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinungsjournalist | opinion journalist" }
+        "wdExistsLabel": { "type": "literal" , "value": "Publizist | opinion journalist" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "10" } ,
