@@ -365,7 +365,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1475507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Futterbau | Feed production" }
+        "wdExistsLabel": { "type": "literal" , "value": "Futterbau | feed production" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "31" } ,
