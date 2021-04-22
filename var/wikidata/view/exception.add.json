@@ -532,9 +532,45 @@
         "wdLabel": { "type": "literal" , "value": "Stromhandel | power trading" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/57" } ,
         "issueLabel": { "type": "literal" , "value": "#57" } ,
-        "note": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1341287" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Energiehandel | energy trading" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "43" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14479-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Generator | Electric generator" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1364228" } ,
+        "wdLabel": { "type": "literal" , "value": "Stromerzeugungsaggregat | emergency power system" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/58" } ,
+        "issueLabel": { "type": "literal" , "value": "#58" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "44" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14479-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Generator | Electric generator" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q58430" } ,
+        "wdLabel": { "type": "literal" , "value": "Wechselstromgenerator | alternator" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/58" } ,
+        "issueLabel": { "type": "literal" , "value": "#58" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "45" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14479-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Generator | Electric generator" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25659662" } ,
+        "wdLabel": { "type": "literal" , "value": "Gleichstrommaschine | DC electric machine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/58" } ,
+        "issueLabel": { "type": "literal" , "value": "#58" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
