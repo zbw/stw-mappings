@@ -607,6 +607,19 @@
         "issueLabel": { "type": "literal" , "value": "#59" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "49" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14025-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Dentalprodukt | Dental products" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3512547" } ,
+        "wdLabel": { "type": "literal" , "value": "Dentalporzellan | Dental porcelain" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/60" } ,
+        "issueLabel": { "type": "literal" , "value": "#60" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106492567" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Dentalprodukt | dental products" }
       }
     ]
   }

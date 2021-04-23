@@ -50,3 +50,4 @@ stw:14479-3 skos:narrowMatch wd:Q25659662 .
 stw:14486-6 skos:exactMatch wd:Q1138737 .
 stw:14486-6 skos:narrowMatch wd:Q47616 .
 stw:14486-6 skos:narrowMatch wd:Q12177156 .
+stw:14025-0 skos:narrowMatch wd:Q3512547 .
