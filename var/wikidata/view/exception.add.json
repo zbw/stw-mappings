@@ -571,6 +571,42 @@
         "issueLabel": { "type": "literal" , "value": "#58" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "46" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14486-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Lampe | Lamp" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1138737" } ,
+        "wdLabel": { "type": "literal" , "value": "Lampe | lamp" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/59" } ,
+        "issueLabel": { "type": "literal" , "value": "#59" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "47" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14486-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Lampe | Lamp" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47616" } ,
+        "wdLabel": { "type": "literal" , "value": "Glühlampe | incandescent light bulb" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/59" } ,
+        "issueLabel": { "type": "literal" , "value": "#59" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "48" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14486-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Lampe | Lamp" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12177156" } ,
+        "wdLabel": { "type": "literal" , "value": "Leuchtröhre | neon lighting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/59" } ,
+        "issueLabel": { "type": "literal" , "value": "#59" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
