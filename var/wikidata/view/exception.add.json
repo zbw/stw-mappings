@@ -48,7 +48,7 @@
         "stwLabel": { "type": "literal" , "value": "Agrotourismus | Rural tourism" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1956672" } ,
-        "wdLabel": { "type": "literal" , "value": "Agrotourismus | Agritourism" } ,
+        "wdLabel": { "type": "literal" , "value": "Agrotourismus | agritourism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/18" } ,
         "issueLabel": { "type": "literal" , "value": "#18" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
