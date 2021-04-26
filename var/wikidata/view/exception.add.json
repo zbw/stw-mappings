@@ -620,6 +620,45 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106492567" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Dentalprodukt | dental products" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "50" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14722-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | Genetically modified product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q679692" } ,
+        "wdLabel": { "type": "literal" , "value": "Biopharmazeutikum | biopharmaceutical" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/61" } ,
+        "issueLabel": { "type": "literal" , "value": "#61" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106601212" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | genetically modified product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "51" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14722-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | Genetically modified product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q394222" } ,
+        "wdLabel": { "type": "literal" , "value": "gentechnisch verändertes Lebensmittel | genetically modified food" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/61" } ,
+        "issueLabel": { "type": "literal" , "value": "#61" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106601212" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | genetically modified product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "52" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14722-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | Genetically modified product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182726" } ,
+        "wdLabel": { "type": "literal" , "value": "gentechnisch veränderter Organismus | GMOS" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/61" } ,
+        "issueLabel": { "type": "literal" , "value": "#61" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106601212" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | genetically modified product" }
       }
     ]
   }

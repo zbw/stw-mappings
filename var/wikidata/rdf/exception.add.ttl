@@ -51,3 +51,6 @@ stw:14486-6 skos:exactMatch wd:Q1138737 .
 stw:14486-6 skos:narrowMatch wd:Q47616 .
 stw:14486-6 skos:narrowMatch wd:Q12177156 .
 stw:14025-0 skos:narrowMatch wd:Q3512547 .
+stw:14722-6 skos:narrowMatch wd:Q679692 .
+stw:14722-6 skos:narrowMatch wd:Q394222 .
+stw:14722-6 skos:narrowMatch wd:Q182726 .
