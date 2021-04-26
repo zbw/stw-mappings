@@ -659,6 +659,102 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106601212" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | genetically modified product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "53" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14512-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Waschmaschine | Washing machine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820492" } ,
+        "wdLabel": { "type": "literal" , "value": "Wäscheschleuder | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/62" } ,
+        "issueLabel": { "type": "literal" , "value": "#62" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "54" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14512-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Waschmaschine | Washing machine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q496334" } ,
+        "wdLabel": { "type": "literal" , "value": "Wäschetrockner | clothes dryer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/62" } ,
+        "issueLabel": { "type": "literal" , "value": "#62" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "55" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14513-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bespielte Medien | Pre-recorded media" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1063273" } ,
+        "wdLabel": { "type": "literal" , "value": "DVD-Video | DVD-Video" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/63" } ,
+        "issueLabel": { "type": "literal" , "value": "#63" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "56" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14513-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bespielte Medien | Pre-recorded media" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1121020" } ,
+        "wdLabel": { "type": "literal" , "value": "Compact Disc Digital Audio | Compact Disc Digital Audio" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/63" } ,
+        "issueLabel": { "type": "literal" , "value": "#63" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "57" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14513-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bespielte Medien | Pre-recorded media" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16629185" } ,
+        "wdLabel": { "type": "literal" , "value": "Schallplatte | phonograph record" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/63" } ,
+        "issueLabel": { "type": "literal" , "value": "#63" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "58" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14513-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bespielte Medien | Pre-recorded media" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q544858" } ,
+        "wdLabel": { "type": "literal" , "value": "Tonband | reel-to-reel audio tape recording and recorders" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/63" } ,
+        "issueLabel": { "type": "literal" , "value": "#63" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "59" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14513-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Bespielte Medien | Pre-recorded media" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q747779" } ,
+        "wdLabel": { "type": "literal" , "value": "Videokassette | videotape" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/63" } ,
+        "issueLabel": { "type": "literal" , "value": "#63" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "60" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14515-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Fernsehgerät | Television set" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q849194" } ,
+        "wdLabel": { "type": "literal" , "value": "Farbfernsehen | color television" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/64" } ,
+        "issueLabel": { "type": "literal" , "value": "#64" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
