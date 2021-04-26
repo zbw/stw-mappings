@@ -755,6 +755,42 @@
         "issueLabel": { "type": "literal" , "value": "#64" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "61" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14583-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Computerspiel | Video game" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6561427" } ,
+        "wdLabel": { "type": "literal" , "value": "Konsolenspiel | console game" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/65" } ,
+        "issueLabel": { "type": "literal" , "value": "#65" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "62" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14583-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Computerspiel | Video game" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q300920" } ,
+        "wdLabel": { "type": "literal" , "value": "E-Sport | esports" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/65" } ,
+        "issueLabel": { "type": "literal" , "value": "#65" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "63" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14583-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Computerspiel | Video game" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116634" } ,
+        "wdLabel": { "type": "literal" , "value": "Online-Spiel | online game" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/65" } ,
+        "issueLabel": { "type": "literal" , "value": "#65" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
