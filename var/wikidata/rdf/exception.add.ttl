@@ -65,3 +65,11 @@ stw:14515-4 skos:narrowMatch wd:Q849194 .
 stw:14583-1 skos:narrowMatch wd:Q6561427 .
 stw:14583-1 skos:narrowMatch wd:Q300920 .
 stw:14583-1 skos:narrowMatch wd:Q116634 .
+stw:18195-4 skos:narrowMatch wd:Q12330939 .
+stw:18195-4 skos:narrowMatch wd:Q169 .
+stw:18195-4 skos:narrowMatch wd:Q13194 .
+stw:18195-4 skos:narrowMatch wd:Q3181909 .
+stw:18195-4 skos:narrowMatch wd:Q961769 .
+stw:18195-4 skos:narrowMatch wd:Q5881191 .
+stw:14093-4 skos:exactMatch wd:Q25618328 .
+stw:14090-3 skos:exactMatch wd:Q24265484 .
