@@ -73,3 +73,8 @@ stw:18195-4 skos:narrowMatch wd:Q961769 .
 stw:18195-4 skos:narrowMatch wd:Q5881191 .
 stw:14093-4 skos:exactMatch wd:Q25618328 .
 stw:14090-3 skos:exactMatch wd:Q24265484 .
+stw:19024-5 skos:exactMatch wd:Q3406628 .
+stw:19024-5 skos:narrowMatch wd:Q23400 .
+stw:19024-5 skos:narrowMatch wd:Q1807269 .
+stw:19024-5 skos:narrowMatch wd:Q1807269 .
+stw:19024-5 skos:exactMatch wd:Q244599 .
