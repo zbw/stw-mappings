@@ -74,3 +74,6 @@ stw:,rel,wd:,issue,note
 19024-5,=,Q244599,#69,Mehrfach-Match in WD
 14107-5,=,Q146281,#70,Mehrfach-Match in WD
 29858-6,=,Q10817602,#71,Mehrfach-Match in WD
+14092-6,=,Q16587531,#72,Mehrfach-Match in WD
+14092-6,>,Q173265,#72,Mehrfach-Match in WD
+14092-6,>,Q152088,#72,Mehrfach-Match in WD
