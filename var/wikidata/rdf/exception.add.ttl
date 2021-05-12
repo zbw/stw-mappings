@@ -96,3 +96,16 @@ stw:14962-0 skos:narrowMatch wd:Q2920655 .
 stw:14962-0 skos:narrowMatch wd:Q72827 .
 stw:14962-0 skos:narrowMatch wd:Q863266 .
 stw:14160-1 skos:narrowMatch wd:Q30263 .
+stw:19019-5 skos:narrowMatch wd:Q40802 .
+stw:19019-5 skos:narrowMatch wd:Q7504001 .
+stw:19019-5 skos:narrowMatch wd:Q1211742 .
+stw:19019-5 skos:narrowMatch wd:Q29498 .
+stw:19019-5 skos:narrowMatch wd:Q16667272 .
+stw:19019-5 skos:narrowMatch wd:Q1790289 .
+stw:19019-5 skos:narrowMatch wd:Q916760 .
+stw:19019-5 skos:narrowMatch wd:Q1788617 .
+stw:19019-5 skos:narrowMatch wd:Q11827352 .
+stw:19019-5 skos:narrowMatch wd:Q11827352 .
+stw:19019-5 skos:narrowMatch wd:Q1517781 .
+stw:14141-5 skos:narrowMatch wd:Q12718890 .
+stw:19023-0 skos:narrowMatch wd:Q7369 .
