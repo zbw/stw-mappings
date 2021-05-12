@@ -89,3 +89,10 @@ stw:14066-0 skos:narrowMatch wd:Q193726 .
 stw:14109-1 skos:narrowMatch wd:Q7885904 .
 stw:14109-1 skos:narrowMatch wd:Q578307 .
 stw:14109-1 skos:narrowMatch wd:Q208021 .
+stw:14962-0 skos:narrowMatch wd:Q1786125 .
+stw:14962-0 skos:narrowMatch wd:Q1053334 .
+stw:14962-0 skos:narrowMatch wd:Q748786 .
+stw:14962-0 skos:narrowMatch wd:Q2920655 .
+stw:14962-0 skos:narrowMatch wd:Q72827 .
+stw:14962-0 skos:narrowMatch wd:Q863266 .
+stw:14160-1 skos:narrowMatch wd:Q30263 .
