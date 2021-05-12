@@ -1001,6 +1001,90 @@
         "issueLabel": { "type": "literal" , "value": "#72" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "80" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14105-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gemüse | Vegetables" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q28367" } ,
+        "wdLabel": { "type": "literal" , "value": "Gemüsespargel | Asparagus officinalis" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/73" } ,
+        "issueLabel": { "type": "literal" , "value": "#73" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "81" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14105-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gemüse | Vegetables" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q58677" } ,
+        "wdLabel": { "type": "literal" , "value": "Kohl | Brassica" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/73" } ,
+        "issueLabel": { "type": "literal" , "value": "#73" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "82" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14105-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gemüse | Vegetables" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q83193" } ,
+        "wdLabel": { "type": "literal" , "value": "Gartensalat | lettuce" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/73" } ,
+        "issueLabel": { "type": "literal" , "value": "#73" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "83" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14066-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Kokosnuss | Coconut" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q193726" } ,
+        "wdLabel": { "type": "literal" , "value": "Kopra | copra" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/74" } ,
+        "issueLabel": { "type": "literal" , "value": "#74" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "84" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14109-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Nuss | Nut" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7885904" } ,
+        "wdLabel": { "type": "literal" , "value": "Kaschufrucht | cashew nut" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/75" } ,
+        "issueLabel": { "type": "literal" , "value": "#75" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "85" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14109-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Nuss | Nut" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q578307" } ,
+        "wdLabel": { "type": "literal" , "value": "Haselnuss | hazelnut" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/75" } ,
+        "issueLabel": { "type": "literal" , "value": "#75" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "86" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14109-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Nuss | Nut" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q208021" } ,
+        "wdLabel": { "type": "literal" , "value": "Walnuss | walnut" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/75" } ,
+        "issueLabel": { "type": "literal" , "value": "#75" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
