@@ -1325,6 +1325,78 @@
         "issueLabel": { "type": "literal" , "value": "#80" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "107" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14164-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212239" } ,
+        "wdLabel": { "type": "literal" , "value": "Anguillidae | Anguillidae" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
+        "issueLabel": { "type": "literal" , "value": "#81" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "108" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14164-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q59576" } ,
+        "wdLabel": { "type": "literal" , "value": "Welsartige | Siluriformes" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
+        "issueLabel": { "type": "literal" , "value": "#81" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "109" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14164-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2258881" } ,
+        "wdLabel": { "type": "literal" , "value": "Forellen | trout" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
+        "issueLabel": { "type": "literal" , "value": "#81" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "110" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14164-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q81110" } ,
+        "wdLabel": { "type": "literal" , "value": "Karpfen | Common carp" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
+        "issueLabel": { "type": "literal" , "value": "#81" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "111" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14164-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2796766" } ,
+        "wdLabel": { "type": "literal" , "value": "Lachse | salmon" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
+        "issueLabel": { "type": "literal" , "value": "#81" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "112" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14164-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q312329" } ,
+        "wdLabel": { "type": "literal" , "value": "Pangasius | Pangasius" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
+        "issueLabel": { "type": "literal" , "value": "#81" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
