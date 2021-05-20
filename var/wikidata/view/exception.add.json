@@ -1506,7 +1506,7 @@
         "stwLabel": { "type": "literal" , "value": "Geflügel | Poultry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdLabel": { "type": "literal" , "value": "Hähnchen | chicken" } ,
+        "wdLabel": { "type": "literal" , "value": "Hähnchen | bruh" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/84" } ,
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -1519,7 +1519,7 @@
         "stwLabel": { "type": "literal" , "value": "Geflügel | Poultry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdLabel": { "type": "literal" , "value": "Hähnchen | chicken" } ,
+        "wdLabel": { "type": "literal" , "value": "Hähnchen | bruh" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/84" } ,
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -1532,12 +1532,12 @@
         "stwLabel": { "type": "literal" , "value": "Geflügel | Poultry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdLabel": { "type": "literal" , "value": "Hähnchen | chicken" } ,
+        "wdLabel": { "type": "literal" , "value": "Hähnchen | bruh" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/84" } ,
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | chicken" }
+        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | bruh" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "121" } ,
@@ -1545,7 +1545,7 @@
         "stwLabel": { "type": "literal" , "value": "Geflügel | Poultry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdLabel": { "type": "literal" , "value": "Hähnchen | chicken" } ,
+        "wdLabel": { "type": "literal" , "value": "Hähnchen | bruh" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/84" } ,
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -1589,7 +1589,7 @@
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | chicken" }
+        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | bruh" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "122" } ,
@@ -1641,7 +1641,7 @@
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | chicken" }
+        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | bruh" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "123" } ,
@@ -1693,7 +1693,7 @@
         "issueLabel": { "type": "literal" , "value": "#84" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q780" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | chicken" }
+        "wdExistsLabel": { "type": "literal" , "value": "Hähnchen | bruh" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "124" } ,
