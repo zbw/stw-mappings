@@ -1152,7 +1152,7 @@
         "stwLabel": { "type": "literal" , "value": "Tierfett | Animal fat" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q863266" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": "Talg | tallow" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/76" } ,
         "issueLabel": { "type": "literal" , "value": "#76" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
