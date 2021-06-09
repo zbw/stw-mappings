@@ -1731,6 +1731,90 @@
         "issueLabel": { "type": "literal" , "value": "#85" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "127" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14163-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Seefische | Saltwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q199788" } ,
+        "wdLabel": { "type": "literal" , "value": "atlantischer Kabeljau | Atlantic cod" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/86" } ,
+        "issueLabel": { "type": "literal" , "value": "#86" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "128" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14163-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Seefische | Saltwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2396858" } ,
+        "wdLabel": { "type": "literal" , "value": "Atlantischer Hering | Atlantic herring" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/86" } ,
+        "issueLabel": { "type": "literal" , "value": "#86" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "129" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14163-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Seefische | Saltwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q30153" } ,
+        "wdLabel": { "type": "literal" , "value": "Makrele | Atlantic mackerel" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/86" } ,
+        "issueLabel": { "type": "literal" , "value": "#86" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "130" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14163-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Seefische | Saltwater fish" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2346039" } ,
+        "wdLabel": { "type": "literal" , "value": "Thunfische | Thunnus" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/86" } ,
+        "issueLabel": { "type": "literal" , "value": "#86" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "131" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19023-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Wale | Whales" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1865281" } ,
+        "wdLabel": { "type": "literal" , "value": "Wal | whale" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/87" } ,
+        "issueLabel": { "type": "literal" , "value": "#87" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "132" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14170-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Wildtiere | Wild animals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11788" } ,
+        "wdLabel": { "type": "literal" , "value": "Bären | Ursidae" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/88" } ,
+        "issueLabel": { "type": "literal" , "value": "#88" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "133" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14170-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Wildtiere | Wild animals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2372824" } ,
+        "wdLabel": { "type": "literal" , "value": "Elefanten | elaphantidae" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/88" } ,
+        "issueLabel": { "type": "literal" , "value": "#88" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
