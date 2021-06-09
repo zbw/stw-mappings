@@ -1815,6 +1815,78 @@
         "issueLabel": { "type": "literal" , "value": "#88" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "134" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14149-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Forstprodukt | Forest product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q535814" } ,
+        "wdLabel": { "type": "literal" , "value": "Gummi arabicum | gum arabic" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/89" } ,
+        "issueLabel": { "type": "literal" , "value": "#89" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "135" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14149-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Forstprodukt | Forest product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q173486" } ,
+        "wdLabel": { "type": "literal" , "value": "Weihrauch | frankincense" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/89" } ,
+        "issueLabel": { "type": "literal" , "value": "#89" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "136" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18203-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Holzenergie | Fuelwood" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q177463" } ,
+        "wdLabel": { "type": "literal" , "value": "Holzkohle | charcoal" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/90" } ,
+        "issueLabel": { "type": "literal" , "value": "#90" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "137" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29613-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Palme | Palms" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q165403" } ,
+        "wdLabel": { "type": "literal" , "value": "Elaeis guineensis | Elaeis guineensis" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/91" } ,
+        "issueLabel": { "type": "literal" , "value": "#91" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "138" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14157-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropenholz | Tropical wood" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q45669" } ,
+        "wdLabel": { "type": "literal" , "value": "Eukalypten | Eucalyptus" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/92" } ,
+        "issueLabel": { "type": "literal" , "value": "#92" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "139" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14157-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropenholz | Tropical wood" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q156938" } ,
+        "wdLabel": { "type": "literal" , "value": "Teakbaum | Tectona grandis" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/92" } ,
+        "issueLabel": { "type": "literal" , "value": "#92" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
