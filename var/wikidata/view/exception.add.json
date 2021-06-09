@@ -1887,6 +1887,97 @@
         "issueLabel": { "type": "literal" , "value": "#92" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "140" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37868" } ,
+        "wdLabel": { "type": "literal" , "value": "Algen | algae" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "141" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107411" } ,
+        "wdLabel": { "type": "literal" , "value": "Austern | oyster" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "142" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q171446" } ,
+        "wdLabel": { "type": "literal" , "value": "Koralle | coral" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "143" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192935" } ,
+        "wdLabel": { "type": "literal" , "value": "Fische und Meeresfrüchte | seafood" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "144" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q237169" } ,
+        "wdLabel": { "type": "literal" , "value": "Seetang | seaweed" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "145" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q749814" } ,
+        "wdLabel": { "type": "literal" , "value": "Tintenfische | Coleoidea" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "146" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14161-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q186101" } ,
+        "wdLabel": { "type": "literal" , "value": "Wasserpflanze | aquatic plant" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
+        "issueLabel": { "type": "literal" , "value": "#93" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107166476" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Fischereiprodukt | fishery product" }
       }
     ]
   }
