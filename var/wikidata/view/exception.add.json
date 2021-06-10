@@ -1810,7 +1810,7 @@
         "stwLabel": { "type": "literal" , "value": "Wildtiere | Wild animals" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2372824" } ,
-        "wdLabel": { "type": "literal" , "value": "Elefanten | elaphantidae" } ,
+        "wdLabel": { "type": "literal" , "value": "Elefanten | Elephantidae" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/88" } ,
         "issueLabel": { "type": "literal" , "value": "#88" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
