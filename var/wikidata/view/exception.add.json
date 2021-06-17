@@ -2014,6 +2014,30 @@
         "issueLabel": { "type": "literal" , "value": "#95" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "150" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14249-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Beton | Concrete" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q23542011" } ,
+        "wdLabel": { "type": "literal" , "value": "Fertigbeton | Fertigbeton" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/96" } ,
+        "issueLabel": { "type": "literal" , "value": "#96" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "151" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14249-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Beton | Concrete" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q916964" } ,
+        "wdLabel": { "type": "literal" , "value": "Porenbeton | autoclaved aerated concrete" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/96" } ,
+        "issueLabel": { "type": "literal" , "value": "#96" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
