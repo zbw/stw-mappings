@@ -2146,6 +2146,30 @@
         "issueLabel": { "type": "literal" , "value": "#100" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "161" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14245-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Ton | Clay" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q380149" } ,
+        "wdLabel": { "type": "literal" , "value": "Bentonit | bentonite" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/101" } ,
+        "issueLabel": { "type": "literal" , "value": "#101" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "162" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14245-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Ton | Clay" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q380149" } ,
+        "wdLabel": { "type": "literal" , "value": "Bentonit | bentonite" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/101" } ,
+        "issueLabel": { "type": "literal" , "value": "#101" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
