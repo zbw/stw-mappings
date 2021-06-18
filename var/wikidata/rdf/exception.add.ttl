@@ -155,3 +155,6 @@ stw:14189-5 skos:narrowMatch wd:Q25509593 .
 stw:14249-6 skos:narrowMatch wd:Q23542011 .
 stw:14249-6 skos:narrowMatch wd:Q916964 .
 stw:14189-5 skos:narrowMatch wd:Q184037 .
+stw:14064-4 skos:narrowMatch wd:Q153697 .
+stw:14064-4 skos:narrowMatch wd:Q795206 .
+stw:14074-1 skos:narrowMatch wd:Q15818966 .

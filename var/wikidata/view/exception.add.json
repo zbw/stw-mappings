@@ -2050,6 +2050,42 @@
         "issueLabel": { "type": "literal" , "value": "#97" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "153" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14064-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kaffee | Coffee" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q153697" } ,
+        "wdLabel": { "type": "literal" , "value": "Kaffeebohne | coffee bean" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/98" } ,
+        "issueLabel": { "type": "literal" , "value": "#98" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "154" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14064-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kaffee | Coffee" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q795206" } ,
+        "wdLabel": { "type": "literal" , "value": "Grüner Kaffee | green coffee" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/98" } ,
+        "issueLabel": { "type": "literal" , "value": "#98" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "155" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14074-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Feldfrucht | Crops" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15818966" } ,
+        "wdLabel": { "type": "literal" , "value": "Hackfrucht | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/99" } ,
+        "issueLabel": { "type": "literal" , "value": "#99" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
