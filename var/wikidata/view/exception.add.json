@@ -2086,6 +2086,66 @@
         "issueLabel": { "type": "literal" , "value": "#99" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "156" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14106-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Hülsenfrucht | Pulses" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12034432" } ,
+        "wdLabel": { "type": "literal" , "value": "Hülsenfrucht | legume" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/100" } ,
+        "issueLabel": { "type": "literal" , "value": "#100" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "157" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14106-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Hülsenfrucht | Pulses" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q379813" } ,
+        "wdLabel": { "type": "literal" , "value": "Bohne | bean" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/100" } ,
+        "issueLabel": { "type": "literal" , "value": "#100" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "158" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14106-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Hülsenfrucht | Pulses" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q498940" } ,
+        "wdLabel": { "type": "literal" , "value": "Augenbohne | Vigna unguiculata" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/100" } ,
+        "issueLabel": { "type": "literal" , "value": "#100" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "159" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14106-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Hülsenfrucht | Pulses" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131226" } ,
+        "wdLabel": { "type": "literal" , "value": "Linse | Lens culinaris" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/100" } ,
+        "issueLabel": { "type": "literal" , "value": "#100" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "160" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14106-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Hülsenfrucht | Pulses" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25237" } ,
+        "wdLabel": { "type": "literal" , "value": "Erbse | pea" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/100" } ,
+        "issueLabel": { "type": "literal" , "value": "#100" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
