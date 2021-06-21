@@ -1279,18 +1279,6 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "103" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19019-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Krebstiere | Crustacea" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11827352" } ,
-        "wdLabel": { "type": "literal" , "value": "Hummer | Homarus" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/78" } ,
-        "issueLabel": { "type": "literal" , "value": "#78" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
-      } ,
-      { 
         "ln": { "type": "literal" , "value": "104" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19019-5" } ,
         "stwLabel": { "type": "literal" , "value": "Krebstiere | Crustacea" } ,
@@ -2192,6 +2180,30 @@
         "wdLabel": { "type": "literal" , "value": "Erz | ore" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/102" } ,
         "issueLabel": { "type": "literal" , "value": "#102" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "165" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14240-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Sand | Sand" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q133833" } ,
+        "wdLabel": { "type": "literal" , "value": "Kiesel | gravel" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/103" } ,
+        "issueLabel": { "type": "literal" , "value": "#103" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "166" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14240-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Sand | Sand" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q43010" } ,
+        "wdLabel": { "type": "literal" , "value": "Quarz | quartz" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/103" } ,
+        "issueLabel": { "type": "literal" , "value": "#103" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
