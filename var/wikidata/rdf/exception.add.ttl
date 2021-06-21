@@ -189,3 +189,5 @@ stw:18162-5 skos:narrowMatch wd:Q861 .
 stw:18162-5 skos:narrowMatch wd:Q867 .
 stw:18162-5 skos:narrowMatch wd:Q1094 .
 stw:18162-5 skos:narrowMatch wd:Q1046 .
+stw:14302-0 skos:narrowMatch wd:Q355809 .
+stw:14268-2 skos:narrowMatch wd:Q358821 .
