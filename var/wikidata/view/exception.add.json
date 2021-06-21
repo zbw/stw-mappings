@@ -2387,6 +2387,66 @@
         "issueLabel": { "type": "literal" , "value": "#109" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "182" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18162-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kritische Metalle | Critical metals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q569" } ,
+        "wdLabel": { "type": "literal" , "value": "Beryllium | beryllium" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/110" } ,
+        "issueLabel": { "type": "literal" , "value": "#110" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "183" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18162-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kritische Metalle | Critical metals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q861" } ,
+        "wdLabel": { "type": "literal" , "value": "Gallium | gallium" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/110" } ,
+        "issueLabel": { "type": "literal" , "value": "#110" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "184" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18162-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kritische Metalle | Critical metals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q867" } ,
+        "wdLabel": { "type": "literal" , "value": "Germanium | germanium" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/110" } ,
+        "issueLabel": { "type": "literal" , "value": "#110" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "185" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18162-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kritische Metalle | Critical metals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1094" } ,
+        "wdLabel": { "type": "literal" , "value": "Indium | indium" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/110" } ,
+        "issueLabel": { "type": "literal" , "value": "#110" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "186" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18162-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kritische Metalle | Critical metals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1046" } ,
+        "wdLabel": { "type": "literal" , "value": "Niob | niobium" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/110" } ,
+        "issueLabel": { "type": "literal" , "value": "#110" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
