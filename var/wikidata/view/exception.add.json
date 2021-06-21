@@ -2170,6 +2170,30 @@
         "issueLabel": { "type": "literal" , "value": "#101" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "163" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14236-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Mineral | Mineral" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1662087" } ,
+        "wdLabel": { "type": "literal" , "value": "Industriemineral | industrial mineral" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/102" } ,
+        "issueLabel": { "type": "literal" , "value": "#102" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "164" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14236-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Mineral | Mineral" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q102798" } ,
+        "wdLabel": { "type": "literal" , "value": "Erz | ore" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/102" } ,
+        "issueLabel": { "type": "literal" , "value": "#102" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
