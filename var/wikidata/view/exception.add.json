@@ -2206,6 +2206,115 @@
         "issueLabel": { "type": "literal" , "value": "#103" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "167" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14252-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Baukeramik | Building ceramics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q468402" } ,
+        "wdLabel": { "type": "literal" , "value": "Kachel | tile" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/104" } ,
+        "issueLabel": { "type": "literal" , "value": "#104" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "168" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14252-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Baukeramik | Building ceramics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q268547" } ,
+        "wdLabel": { "type": "literal" , "value": "Dachziegel | roof tile" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/104" } ,
+        "issueLabel": { "type": "literal" , "value": "#104" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "169" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14252-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Baukeramik | Building ceramics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q970812" } ,
+        "wdLabel": { "type": "literal" , "value": "Klinker | Clinker brick" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/104" } ,
+        "issueLabel": { "type": "literal" , "value": "#104" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "170" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14252-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Baukeramik | Building ceramics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q40089" } ,
+        "wdLabel": { "type": "literal" , "value": "Mauerziegel | brick" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/104" } ,
+        "issueLabel": { "type": "literal" , "value": "#104" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "171" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18305-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Getränkeverpackung | Drinks packaging" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10862480" } ,
+        "wdLabel": { "type": "literal" , "value": "Flaschenpfand | container deposit" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/105" } ,
+        "issueLabel": { "type": "literal" , "value": "#105" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107285261" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Getränkeverpackung | drinks packaging" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "172" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14775-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Flachglas | Flat glass" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1429077" } ,
+        "wdLabel": { "type": "literal" , "value": "Floatglas | float glass" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/106" } ,
+        "issueLabel": { "type": "literal" , "value": "#106" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "173" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14775-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Flachglas | Flat glass" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1142019" } ,
+        "wdLabel": { "type": "literal" , "value": "Einscheiben-Sicherheitsglas | tempered glass" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/106" } ,
+        "issueLabel": { "type": "literal" , "value": "#106" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "174" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14775-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Flachglas | Flat glass" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q35197" } ,
+        "wdLabel": { "type": "literal" , "value": "Spiegel | mirror" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/106" } ,
+        "issueLabel": { "type": "literal" , "value": "#106" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "175" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14775-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Flachglas | Flat glass" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2086307" } ,
+        "wdLabel": { "type": "literal" , "value": "Verbund-Sicherheitsglas | laminated glass" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/106" } ,
+        "issueLabel": { "type": "literal" , "value": "#106" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

@@ -169,3 +169,12 @@ stw:14236-1 skos:narrowMatch wd:Q1662087 .
 stw:14236-1 skos:narrowMatch wd:Q102798 .
 stw:14240-3 skos:narrowMatch wd:Q133833 .
 stw:14240-3 skos:narrowMatch wd:Q43010 .
+stw:14252-3 skos:narrowMatch wd:Q468402 .
+stw:14252-3 skos:narrowMatch wd:Q268547 .
+stw:14252-3 skos:narrowMatch wd:Q970812 .
+stw:14252-3 skos:narrowMatch wd:Q40089 .
+stw:18305-2 skos:narrowMatch wd:Q10862480 .
+stw:14775-6 skos:narrowMatch wd:Q1429077 .
+stw:14775-6 skos:narrowMatch wd:Q1142019 .
+stw:14775-6 skos:narrowMatch wd:Q35197 .
+stw:14775-6 skos:narrowMatch wd:Q2086307 .
