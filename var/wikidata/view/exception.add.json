@@ -2471,6 +2471,66 @@
         "issueLabel": { "type": "literal" , "value": "#112" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "189" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14554-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Herd | Cooker" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q358821" } ,
+        "wdLabel": { "type": "literal" , "value": "Stahlguss | Steel casting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/113" } ,
+        "issueLabel": { "type": "literal" , "value": "#113" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "190" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14554-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Herd | Cooker" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q127956" } ,
+        "wdLabel": { "type": "literal" , "value": "Mikrowellenherd | microwave oven" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/113" } ,
+        "issueLabel": { "type": "literal" , "value": "#113" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "191" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14554-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Herd | Cooker" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211746" } ,
+        "wdLabel": { "type": "literal" , "value": "Elektroherd | electric stove" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/113" } ,
+        "issueLabel": { "type": "literal" , "value": "#113" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "192" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14554-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Herd | Cooker" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1667685" } ,
+        "wdLabel": { "type": "literal" , "value": "Gasherd | gas stove" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/113" } ,
+        "issueLabel": { "type": "literal" , "value": "#113" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "193" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14545-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Schneidwaren | Cutlery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14918092" } ,
+        "wdLabel": { "type": "literal" , "value": "Kochstelle | cooker" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/114" } ,
+        "issueLabel": { "type": "literal" , "value": "#114" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
