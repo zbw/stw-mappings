@@ -2570,6 +2570,66 @@
       } ,
       { 
         "ln": { "type": "literal" , "value": "196" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4352227" } ,
+        "wdLabel": { "type": "literal" , "value": "Zimmerofen | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "197" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13221754" } ,
+        "wdLabel": { "type": "literal" , "value": "Elektrowärme | electric heating" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "198" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2691767" } ,
+        "wdLabel": { "type": "literal" , "value": "Elektrogebäudeheizung | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "199" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1572702" } ,
+        "wdLabel": { "type": "literal" , "value": "Heizkörper | radiator" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "200" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15951606" } ,
+        "wdLabel": { "type": "literal" , "value": "Heizkörper | Radiator" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "201" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18296-5" } ,
         "stwLabel": { "type": "literal" , "value": "Navigationssystem | Navigation system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2581,7 +2641,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "197" } ,
+        "ln": { "type": "literal" , "value": "202" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18296-5" } ,
         "stwLabel": { "type": "literal" , "value": "Navigationssystem | Navigation system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2593,7 +2653,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "198" } ,
+        "ln": { "type": "literal" , "value": "203" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18296-5" } ,
         "stwLabel": { "type": "literal" , "value": "Navigationssystem | Navigation system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2605,7 +2665,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "199" } ,
+        "ln": { "type": "literal" , "value": "204" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14480-4" } ,
         "stwLabel": { "type": "literal" , "value": "Halbleiter | Semiconductor" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2617,7 +2677,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "200" } ,
+        "ln": { "type": "literal" , "value": "205" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14480-4" } ,
         "stwLabel": { "type": "literal" , "value": "Halbleiter | Semiconductor" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2629,7 +2689,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "201" } ,
+        "ln": { "type": "literal" , "value": "206" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18271-0" } ,
         "stwLabel": { "type": "literal" , "value": "Chipkarte | Smart card" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2641,7 +2701,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "202" } ,
+        "ln": { "type": "literal" , "value": "207" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14534-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kopiergerät | Copy machine" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2653,7 +2713,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "203" } ,
+        "ln": { "type": "literal" , "value": "208" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14534-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kopiergerät | Copy machine" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2665,7 +2725,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "204" } ,
+        "ln": { "type": "literal" , "value": "209" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14538-6" } ,
         "stwLabel": { "type": "literal" , "value": "Fotoapparat | Photographic camera" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2675,6 +2735,174 @@
         "issueLabel": { "type": "literal" , "value": "#122" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "210" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14548-3" } ,
+        "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11022" } ,
+        "wdLabel": { "type": "literal" , "value": "Schraube | screw" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
+        "issueLabel": { "type": "literal" , "value": "#123" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106697391" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "EBM-Waren | metal hardware" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "211" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14548-3" } ,
+        "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q228039" } ,
+        "wdLabel": { "type": "literal" , "value": "Schloss | lock" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
+        "issueLabel": { "type": "literal" , "value": "#123" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106697391" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "EBM-Waren | metal hardware" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "212" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14548-3" } ,
+        "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212500" } ,
+        "wdLabel": { "type": "literal" , "value": "Niet | rivet" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
+        "issueLabel": { "type": "literal" , "value": "#123" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106697391" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "EBM-Waren | metal hardware" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "213" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14548-3" } ,
+        "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37077" } ,
+        "wdLabel": { "type": "literal" , "value": "Nagel | nail" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
+        "issueLabel": { "type": "literal" , "value": "#123" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106697391" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "EBM-Waren | metal hardware" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "214" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14548-3" } ,
+        "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q829554" } ,
+        "wdLabel": { "type": "literal" , "value": "Beschlag | builders hardware" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
+        "issueLabel": { "type": "literal" , "value": "#123" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106697391" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "EBM-Waren | metal hardware" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "215" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14490-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131214" } ,
+        "wdLabel": { "type": "literal" , "value": "Antenne | antenna" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
+        "issueLabel": { "type": "literal" , "value": "#124" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "216" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14490-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q132744" } ,
+        "wdLabel": { "type": "literal" , "value": "Fax | fax" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
+        "issueLabel": { "type": "literal" , "value": "#124" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "217" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14490-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66196" } ,
+        "wdLabel": { "type": "literal" , "value": "Fernschreiber | teleprinter" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
+        "issueLabel": { "type": "literal" , "value": "#124" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "218" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14490-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q313625" } ,
+        "wdLabel": { "type": "literal" , "value": "professionelle Videokamera | professional video camera" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
+        "issueLabel": { "type": "literal" , "value": "#124" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "219" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14490-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q190157" } ,
+        "wdLabel": { "type": "literal" , "value": "Sendeanlage | transmitter" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
+        "issueLabel": { "type": "literal" , "value": "#124" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "220" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14490-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2401720" } ,
+        "wdLabel": { "type": "literal" , "value": "Telekommunikationsanlage | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
+        "issueLabel": { "type": "literal" , "value": "#124" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "221" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14527-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Augenoptisches Erzeugnis | Ophthalmic products" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q23797" } ,
+        "wdLabel": { "type": "literal" , "value": "Kontaktlinse | contact lens" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/125" } ,
+        "issueLabel": { "type": "literal" , "value": "#125" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "222" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14549-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Metallverpackung | Metal packaging" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66660321" } ,
+        "wdLabel": { "type": "literal" , "value": "Blechdose | Tin can" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/126" } ,
+        "issueLabel": { "type": "literal" , "value": "#126" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106706434" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Metallverpackung | metal packaging" }
       }
     ]
   }
