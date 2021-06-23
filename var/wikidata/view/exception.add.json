@@ -2534,6 +2534,42 @@
       } ,
       { 
         "ln": { "type": "literal" , "value": "194" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11880006" } ,
+        "wdLabel": { "type": "literal" , "value": "Gebäudeheizung | heating" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "195" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2429341" } ,
+        "wdLabel": { "type": "literal" , "value": "Heizungssystem | Heating system" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "196" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14404-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1476344" } ,
+        "wdLabel": { "type": "literal" , "value": "Heiztechnik | heating technology" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
+        "issueLabel": { "type": "literal" , "value": "#116" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "197" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18296-5" } ,
         "stwLabel": { "type": "literal" , "value": "Navigationssystem | Navigation system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2545,7 +2581,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "195" } ,
+        "ln": { "type": "literal" , "value": "198" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18296-5" } ,
         "stwLabel": { "type": "literal" , "value": "Navigationssystem | Navigation system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2557,7 +2593,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "196" } ,
+        "ln": { "type": "literal" , "value": "199" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18296-5" } ,
         "stwLabel": { "type": "literal" , "value": "Navigationssystem | Navigation system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -2566,6 +2602,78 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/117" } ,
         "issueLabel": { "type": "literal" , "value": "#117" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "200" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14480-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Halbleiter | Semiconductor" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5297" } ,
+        "wdLabel": { "type": "literal" , "value": "Mikroprozessor | microprocessor" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/119" } ,
+        "issueLabel": { "type": "literal" , "value": "#119" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "201" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14480-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Halbleiter | Semiconductor" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q80831" } ,
+        "wdLabel": { "type": "literal" , "value": "integrierter Schaltkreis | integrated circuit" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/119" } ,
+        "issueLabel": { "type": "literal" , "value": "#119" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "202" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18271-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Chipkarte | Smart card" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41349" } ,
+        "wdLabel": { "type": "literal" , "value": "Chipkarte | smart card" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/120" } ,
+        "issueLabel": { "type": "literal" , "value": "#120" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "203" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14534-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Kopiergerät | Copy machine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753339" } ,
+        "wdLabel": { "type": "literal" , "value": "Xerografie | xerography" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/121" } ,
+        "issueLabel": { "type": "literal" , "value": "#121" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "204" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14534-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Kopiergerät | Copy machine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2532528" } ,
+        "wdLabel": { "type": "literal" , "value": "Vollfarbkopie | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/121" } ,
+        "issueLabel": { "type": "literal" , "value": "#121" } ,
+        "note": { "type": "literal" , "value": "Mehfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "205" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14538-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Fotoapparat | Photographic camera" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q62927" } ,
+        "wdLabel": { "type": "literal" , "value": "Digitalkamera | digital camera" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/122" } ,
+        "issueLabel": { "type": "literal" , "value": "#122" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
