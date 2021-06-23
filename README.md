@@ -19,7 +19,7 @@ This repository aimes at covering mapping processes and code for STW. Currently 
 |\*|skos:closeMatch|
 |<|skos:broadMatch|
 |>|skos:narrowMatch|
-|~|skos:relatedMatch|
+|^|skos:relatedMatch|
 
 
 ## Language
