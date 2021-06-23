@@ -192,7 +192,7 @@ stw:,rel,wd:,issue,note
 14554-1,>,Q1667685,#113,Mehrfachmatch in WD
 14545-2,>,Q14918092,#114,Mehrfachmatch in WD
 14404-6,>,Q11880006,#116,Mehrfachmatch in WD
-14404-6,~,Q2429341,#116,Mehrfachmatch in WD
+14404-6,^,Q2429341,#116,Mehrfachmatch in WD
 14404-6,>,Q1476344,#116,Mehrfachmatch in WD
 18296-5,>,Q18822,#117,Mehrfachmatch in WD
 18296-5,>,Q3475123,#117,Mehrfachmatch in WD
