@@ -105,7 +105,6 @@ stw:19019-5 skos:narrowMatch wd:Q1790289 .
 stw:19019-5 skos:narrowMatch wd:Q916760 .
 stw:19019-5 skos:narrowMatch wd:Q1788617 .
 stw:19019-5 skos:narrowMatch wd:Q11827352 .
-stw:14240-319019-5 skos:narrowMatch wd:Q11827352 .
 stw:19019-5 skos:narrowMatch wd:Q1517781 .
 stw:14141-5 skos:narrowMatch wd:Q12718890 .
 stw:19023-0 skos:narrowMatch wd:Q7369 .
