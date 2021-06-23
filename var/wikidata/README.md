@@ -22,10 +22,3 @@ Deletions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.gi
 - the [mapping in its current state](http://zbw.eu/beta/sparql-lab/?endpoint=http://zbw.eu/beta/sparql/stw/query&queryRef=https://api.github.com/repos/zbw/sparql-queries/contents/stw/wikidata_mapping.rq)
 - [further reports for maintenance and quality assurance](https://www.wikidata.org/wiki/Property_talk:P3911#Reports_for_the_maintenance_of_the_STW_ID_.2F_Wikidata_mapping)
 
-
-
-## Process (TODO)
-
-### 1) Sub-thesaurus G (geografic names)
-
-### 2) Sub-thesaurus W (economic sectors)

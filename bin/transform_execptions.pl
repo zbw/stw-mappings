@@ -142,10 +142,10 @@ order by ?line
     query      => '
 select distinct (str(?line) as ?ln)  ?pm20ag ?pm20agLabel ?relation ?wd ?wdLabel ?issue ?note
 where {
-  values ( ?line ?pm20ag ?relation ?wd ?issueLabel ?note ) {
-    ( 2 pm20ag:141729 "=" wd:Q42530 " " " "  )
-  }
-  graph <http://zbw.eu/beta/wikidata/ng> {
+  service <https://query.wikidata.org/sparql> {
+    values ( ?line ?pm20ag ?relation ?wd ?issueLabel ?note ) {
+      ( 2 pm20ag:141729 "=" wd:Q42530 " " " "  )
+    }
     optional {
       ?wd rdfs:label ?wdLabelDe
       filter(lang(?wdLabelDe) = "de")
@@ -250,7 +250,7 @@ while ( my $row = $csv->getline_hr($in_fh) ) {
       if ( defined $relation{$column_value} ) {
         $skos_relation = $relation{$column_value};
       } else {
-        die "Wrong rel value '$column_value'\n";
+        die "Wrong rel value '$column_value' in line $line_no of file $infile\n";
       }
     }
 

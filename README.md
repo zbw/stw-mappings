@@ -11,6 +11,17 @@ This repository aimes at covering mapping processes and code for STW. Currently 
 - __[GND](var/gnd)__
 - __[DBpedia](var/dbpedia)__
 
+## Symbols in exception tables
+
+!Symbol!translates to!
+|-|----|
+|=|skos:exactMatch|
+|\*|skos:closeMatch|
+|<|skos:broadMatch|
+|>|skos:narrowMatch|
+|~|skos:relatedMatch|
+
+
 ## Language
 
 While code and structural information will be in English, issues and discussion about particular terms will take place mostly in German, since that's the native language for members of the STW editorial team.
