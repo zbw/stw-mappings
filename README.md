@@ -13,8 +13,8 @@ This repository aimes at covering mapping processes and code for STW. Currently 
 
 ## Symbols in exception tables
 
-!Symbol!translates to!
-|-|----|
+|Symbol|translates to|
+|---|------|
 |=|skos:exactMatch|
 |\*|skos:closeMatch|
 |<|skos:broadMatch|
