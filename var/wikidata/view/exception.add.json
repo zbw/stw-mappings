@@ -3181,6 +3181,114 @@
         "issueLabel": { "type": "literal" , "value": "#133" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "246" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14380-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Landmaschine | Agricultural machinery" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q194118" } ,
+        "wdLabel": { "type": "literal" , "value": "Landtechnik | agricultural engineering" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/134" } ,
+        "issueLabel": { "type": "literal" , "value": "#134" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "247" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14380-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Landmaschine | Agricultural machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q252234" } ,
+        "wdLabel": { "type": "literal" , "value": "Melkmaschine | milking machine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/134" } ,
+        "issueLabel": { "type": "literal" , "value": "#134" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "248" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14380-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Landmaschine | Agricultural machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2166154" } ,
+        "wdLabel": { "type": "literal" , "value": "Automatisches Melksystem | automatic milking" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/134" } ,
+        "issueLabel": { "type": "literal" , "value": "#134" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "249" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14380-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Landmaschine | Agricultural machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26886" } ,
+        "wdLabel": { "type": "literal" , "value": "Mähdrescher | combine harvester" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/134" } ,
+        "issueLabel": { "type": "literal" , "value": "#134" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "250" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14380-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Landmaschine | Agricultural machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11464" } ,
+        "wdLabel": { "type": "literal" , "value": "Pflug | plough" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/134" } ,
+        "issueLabel": { "type": "literal" , "value": "#134" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "251" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14366-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Baumaschine | Construction machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182661" } ,
+        "wdLabel": { "type": "literal" , "value": "Bagger | excavator" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/135" } ,
+        "issueLabel": { "type": "literal" , "value": "#135" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "252" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14366-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Baumaschine | Construction machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q831584" } ,
+        "wdLabel": { "type": "literal" , "value": "Betonmischer | concrete mixer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/135" } ,
+        "issueLabel": { "type": "literal" , "value": "#135" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "253" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14366-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Baumaschine | Construction machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131677" } ,
+        "wdLabel": { "type": "literal" , "value": "Planierraupe | bulldozer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/135" } ,
+        "issueLabel": { "type": "literal" , "value": "#135" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "254" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14366-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Baumaschine | Construction machinery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q874311" } ,
+        "wdLabel": { "type": "literal" , "value": "Schwermaschinen | heavy equipment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/135" } ,
+        "issueLabel": { "type": "literal" , "value": "#135" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

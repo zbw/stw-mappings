@@ -248,3 +248,12 @@ stw:14483-5 skos:narrowMatch wd:Q188447 .
 stw:14483-5 skos:narrowMatch wd:Q1674858 .
 stw:14262-0 skos:narrowMatch wd:Q192065 .
 stw:14262-0 skos:relatedMatch wd:Q25040860 .
+stw:14380-1 skos:closeMatch wd:Q194118 .
+stw:14380-1 skos:narrowMatch wd:Q252234 .
+stw:14380-1 skos:narrowMatch wd:Q2166154 .
+stw:14380-1 skos:narrowMatch wd:Q26886 .
+stw:14380-1 skos:narrowMatch wd:Q11464 .
+stw:14366-2 skos:narrowMatch wd:Q182661 .
+stw:14366-2 skos:narrowMatch wd:Q831584 .
+stw:14366-2 skos:narrowMatch wd:Q131677 .
+stw:14366-2 skos:narrowMatch wd:Q874311 .
