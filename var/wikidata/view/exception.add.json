@@ -3133,6 +3133,54 @@
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q39558" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Motorenbenzin | gasoline" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "242" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14483-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kabel und Draht | Cable and wire" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q188447" } ,
+        "wdLabel": { "type": "literal" , "value": "Kabel | electrical cable" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/132" } ,
+        "issueLabel": { "type": "literal" , "value": "#132" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "243" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14483-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Kabel und Draht | Cable and wire" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1674858" } ,
+        "wdLabel": { "type": "literal" , "value": "Telefonkabel | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/132" } ,
+        "issueLabel": { "type": "literal" , "value": "#132" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "244" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14262-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Draht | Wire" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192065" } ,
+        "wdLabel": { "type": "literal" , "value": "Stacheldraht | barbed wire" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/133" } ,
+        "issueLabel": { "type": "literal" , "value": "#133" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "245" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14262-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Draht | Wire" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25040860" } ,
+        "wdLabel": { "type": "literal" , "value": " | Long steel products" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/133" } ,
+        "issueLabel": { "type": "literal" , "value": "#133" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
