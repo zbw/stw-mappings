@@ -3289,6 +3289,102 @@
         "issueLabel": { "type": "literal" , "value": "#135" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "255" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q143873" } ,
+        "wdLabel": { "type": "literal" , "value": "Zahnrad | cogwheel" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "256" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1950629" } ,
+        "wdLabel": { "type": "literal" , "value": "Wälzlager | Ball bearing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "257" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1335987" } ,
+        "wdLabel": { "type": "literal" , "value": "Wälzlager | rolling-element bearing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "258" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11432170" } ,
+        "wdLabel": { "type": "literal" , "value": " | ball bearing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "259" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6497460" } ,
+        "wdLabel": { "type": "literal" , "value": "Getriebe | gearbox" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "260" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q656656" } ,
+        "wdLabel": { "type": "literal" , "value": "Auslaufarmatur | tap" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "261" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182612" } ,
+        "wdLabel": { "type": "literal" , "value": "Armatur | plumbing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "262" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26820931" } ,
+        "wdLabel": { "type": "literal" , "value": "Fitting | fitting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
+        "issueLabel": { "type": "literal" , "value": "#136" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
