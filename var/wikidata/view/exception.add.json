@@ -3652,6 +3652,138 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106707749" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Bürotechnik | office technology" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "285" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14607-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Klebstoff | Adhesive" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1427914" } ,
+        "wdLabel": { "type": "literal" , "value": "Dichtstoff | sealant" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/144" } ,
+        "issueLabel": { "type": "literal" , "value": "#144" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "286" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14607-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Klebstoff | Adhesive" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q320441" } ,
+        "wdLabel": { "type": "literal" , "value": "Klebeband | adhesive tape" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/144" } ,
+        "issueLabel": { "type": "literal" , "value": "#144" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "287" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14607-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Klebstoff | Adhesive" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q500548" } ,
+        "wdLabel": { "type": "literal" , "value": "Leim | glue" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/144" } ,
+        "issueLabel": { "type": "literal" , "value": "#144" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "288" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14044-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Fette | Fats" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q124695" } ,
+        "wdLabel": { "type": "literal" , "value": "Wachs | wax" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/145" } ,
+        "issueLabel": { "type": "literal" , "value": "#145" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "289" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14611-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Lebensmittelzusatzstoff | Food additive" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q898745" } ,
+        "wdLabel": { "type": "literal" , "value": "Geschmacksverstärker | flavour enhancer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/146" } ,
+        "issueLabel": { "type": "literal" , "value": "#146" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "290" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14683-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q81406" } ,
+        "wdLabel": { "type": "literal" , "value": "Alkene | alkene" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
+        "issueLabel": { "type": "literal" , "value": "#148" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "291" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14683-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41581" } ,
+        "wdLabel": { "type": "literal" , "value": "Alkane | alkane" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
+        "issueLabel": { "type": "literal" , "value": "#148" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "292" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14683-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2270" } ,
+        "wdLabel": { "type": "literal" , "value": "Benzol | benzene" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
+        "issueLabel": { "type": "literal" , "value": "#148" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "293" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14683-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5130692" } ,
+        "wdLabel": { "type": "literal" , "value": "Butane | butanes" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
+        "issueLabel": { "type": "literal" , "value": "#148" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "294" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14683-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q52858" } ,
+        "wdLabel": { "type": "literal" , "value": "Ethan | ethane" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
+        "issueLabel": { "type": "literal" , "value": "#148" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "295" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14683-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11797724" } ,
+        "wdLabel": { "type": "literal" , "value": "Olefine | olefin" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
+        "issueLabel": { "type": "literal" , "value": "#148" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
