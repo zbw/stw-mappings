@@ -4341,6 +4341,42 @@
         "issueLabel": { "type": "literal" , "value": "#169" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "343" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14732-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Haarkosmetik | Hair care product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180204" } ,
+        "wdLabel": { "type": "literal" , "value": "Haarwaschmittel | shampoo" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/171" } ,
+        "issueLabel": { "type": "literal" , "value": "#171" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "344" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14732-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Haarkosmetik | Hair care product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1058689" } ,
+        "wdLabel": { "type": "literal" , "value": "Haarspray | hair spray" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/171" } ,
+        "issueLabel": { "type": "literal" , "value": "#171" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "345" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14732-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Haarkosmetik | Hair care product" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q50430027" } ,
+        "wdLabel": { "type": "literal" , "value": " | hair preparations" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/171" } ,
+        "issueLabel": { "type": "literal" , "value": "#171" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
