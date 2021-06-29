@@ -4113,6 +4113,30 @@
         "issueLabel": { "type": "literal" , "value": "#163" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "324" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19020-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Organischer Dünger | Organic fertilizer" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q170185" } ,
+        "wdLabel": { "type": "literal" , "value": "Guano | guano" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/164" } ,
+        "issueLabel": { "type": "literal" , "value": "#164" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "325" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19020-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Organischer Dünger | Organic fertilizer" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q905313" } ,
+        "wdLabel": { "type": "literal" , "value": "Gülle | liquid manure" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/164" } ,
+        "issueLabel": { "type": "literal" , "value": "#164" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
