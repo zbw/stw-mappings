@@ -4305,6 +4305,42 @@
         "issueLabel": { "type": "literal" , "value": "#168" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "340" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14741-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Waschmittel | Detergents" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q910284" } ,
+        "wdLabel": { "type": "literal" , "value": "Waschmittel | laundry detergent" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/169" } ,
+        "issueLabel": { "type": "literal" , "value": "#169" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "341" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14741-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Waschmittel | Detergents" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1517816" } ,
+        "wdLabel": { "type": "literal" , "value": "Geschirrspülmittel | dishwashing liquid" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/169" } ,
+        "issueLabel": { "type": "literal" , "value": "#169" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "342" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14741-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Waschmittel | Detergents" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q901832" } ,
+        "wdLabel": { "type": "literal" , "value": "Weichspüler | fabric softener" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/169" } ,
+        "issueLabel": { "type": "literal" , "value": "#169" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
