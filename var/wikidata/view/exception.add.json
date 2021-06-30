@@ -2957,7 +2957,7 @@
         "stwLabel": { "type": "literal" , "value": "Metallverpackung | Metal packaging" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66660321" } ,
-        "wdLabel": { "type": "literal" , "value": "Blechdose | Tin can" } ,
+        "wdLabel": { "type": "literal" , "value": "Blechdose | tin can" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/126" } ,
         "issueLabel": { "type": "literal" , "value": "#126" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
