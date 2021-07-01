@@ -4429,6 +4429,45 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107388855" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "350" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14537-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Optisches Produkt | Optical product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q102626" } ,
+        "wdLabel": { "type": "literal" , "value": "Fernglas | binoculars" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/173" } ,
+        "issueLabel": { "type": "literal" , "value": "#173" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107377414" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "351" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14537-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Optisches Produkt | Optical product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q166849" } ,
+        "wdLabel": { "type": "literal" , "value": "Lupe | magnifying glass" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/173" } ,
+        "issueLabel": { "type": "literal" , "value": "#173" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107377414" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "352" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14537-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Optisches Produkt | Optical product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q196538" } ,
+        "wdLabel": { "type": "literal" , "value": "Mikroskop | microscope" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/173" } ,
+        "issueLabel": { "type": "literal" , "value": "#173" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107377414" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
       }
     ]
   }
