@@ -359,3 +359,15 @@ stw:14665-6 skos:narrowMatch wd:Q16391 .
 stw:14665-6 skos:narrowMatch wd:Q132501 .
 stw:14665-6 skos:narrowMatch wd:Q14982 .
 stw:14665-6 skos:exactMatch wd:Q156 .
+stw:14646-3 skos:narrowMatch wd:Q46220103 .
+stw:14635-1 skos:narrowMatch wd:Q80728 .
+stw:14635-1 skos:narrowMatch wd:Q639432 .
+stw:14635-1 skos:narrowMatch wd:Q20459 .
+stw:14635-1 skos:narrowMatch wd:Q162867 .
+stw:14635-1 skos:narrowMatch wd:Q37507 .
+stw:18254-0 skos:narrowMatch wd:Q4456821 .
+stw:14953-1 skos:narrowMatch wd:Q13319 .
+stw:14623-1 skos:relatedMatch wd:Q4173974 .
+stw:14623-1 skos:relatedMatch wd:Q1541064 .
+stw:14623-1 skos:relatedMatch wd:Q485537 .
+stw:14623-1 skos:closeMatch wd:Q15043636 .
