@@ -347,7 +347,6 @@ stw:14741-2 skos:narrowMatch wd:Q1517816 .
 stw:14741-2 skos:narrowMatch wd:Q901832 .
 stw:14732-3 skos:narrowMatch wd:Q180204 .
 stw:14732-3 skos:narrowMatch wd:Q1058689 .
-stw:14732-3 skos:exactMatch wd:Q50430027 .
 stw:14466-5 skos:narrowMatch wd:Q15856134 .
 stw:14466-5 skos:narrowMatch wd:Q5320 .
 stw:14466-5 skos:narrowMatch wd:Q174053 .
@@ -371,3 +370,6 @@ stw:14623-1 skos:relatedMatch wd:Q4173974 .
 stw:14623-1 skos:relatedMatch wd:Q1541064 .
 stw:14623-1 skos:relatedMatch wd:Q485537 .
 stw:14623-1 skos:closeMatch wd:Q15043636 .
+stw:18263-6 skos:narrowMatch wd:Q1545022 .
+stw:14733-1 skos:narrowMatch wd:Q1363153 .
+stw:14733-1 skos:narrowMatch wd:Q827658 .

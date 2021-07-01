@@ -4352,7 +4352,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/171" } ,
         "issueLabel": { "type": "literal" , "value": "#171" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q50430027" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Haarkosmetik | hair care products" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "344" } ,
@@ -4364,22 +4365,11 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/171" } ,
         "issueLabel": { "type": "literal" , "value": "#171" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q50430027" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Haarkosmetik | hair care products" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "345" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14732-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Haarkosmetik | Hair care product" } ,
-        "relation": { "type": "literal" , "value": "=" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q50430027" } ,
-        "wdLabel": { "type": "literal" , "value": " | hair preparations" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/171" } ,
-        "issueLabel": { "type": "literal" , "value": "#171" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "346" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
         "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4392,7 +4382,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "347" } ,
+        "ln": { "type": "literal" , "value": "346" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
         "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4405,7 +4395,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "348" } ,
+        "ln": { "type": "literal" , "value": "347" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
         "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4418,7 +4408,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "349" } ,
+        "ln": { "type": "literal" , "value": "348" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
         "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4431,7 +4421,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "350" } ,
+        "ln": { "type": "literal" , "value": "349" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14537-1" } ,
         "stwLabel": { "type": "literal" , "value": "Optisches Produkt | Optical product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4444,7 +4434,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "351" } ,
+        "ln": { "type": "literal" , "value": "350" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14537-1" } ,
         "stwLabel": { "type": "literal" , "value": "Optisches Produkt | Optical product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4457,7 +4447,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "352" } ,
+        "ln": { "type": "literal" , "value": "351" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14537-1" } ,
         "stwLabel": { "type": "literal" , "value": "Optisches Produkt | Optical product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4470,7 +4460,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "353" } ,
+        "ln": { "type": "literal" , "value": "352" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4482,7 +4472,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "354" } ,
+        "ln": { "type": "literal" , "value": "353" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4494,7 +4484,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "355" } ,
+        "ln": { "type": "literal" , "value": "354" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4506,7 +4496,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "356" } ,
+        "ln": { "type": "literal" , "value": "355" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -4518,7 +4508,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "357" } ,
+        "ln": { "type": "literal" , "value": "356" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14646-3" } ,
         "stwLabel": { "type": "literal" , "value": "Phosphor | Phosphorus" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4530,7 +4520,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "358" } ,
+        "ln": { "type": "literal" , "value": "357" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14635-1" } ,
         "stwLabel": { "type": "literal" , "value": "Pyrotechnik | Pyrotechnics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4542,7 +4532,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "359" } ,
+        "ln": { "type": "literal" , "value": "358" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14635-1" } ,
         "stwLabel": { "type": "literal" , "value": "Pyrotechnik | Pyrotechnics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4554,7 +4544,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "360" } ,
+        "ln": { "type": "literal" , "value": "359" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14635-1" } ,
         "stwLabel": { "type": "literal" , "value": "Pyrotechnik | Pyrotechnics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4566,7 +4556,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "361" } ,
+        "ln": { "type": "literal" , "value": "360" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14635-1" } ,
         "stwLabel": { "type": "literal" , "value": "Pyrotechnik | Pyrotechnics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4578,7 +4568,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "362" } ,
+        "ln": { "type": "literal" , "value": "361" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14635-1" } ,
         "stwLabel": { "type": "literal" , "value": "Pyrotechnik | Pyrotechnics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4590,7 +4580,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "363" } ,
+        "ln": { "type": "literal" , "value": "362" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18254-0" } ,
         "stwLabel": { "type": "literal" , "value": "Technisches Gas | Technical gas" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4602,7 +4592,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "364" } ,
+        "ln": { "type": "literal" , "value": "363" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14953-1" } ,
         "stwLabel": { "type": "literal" , "value": "Joghurt | Yogurt" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -4614,7 +4604,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "365" } ,
+        "ln": { "type": "literal" , "value": "364" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14623-1" } ,
         "stwLabel": { "type": "literal" , "value": "Aromastoff | Flavour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -4626,7 +4616,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "366" } ,
+        "ln": { "type": "literal" , "value": "365" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14623-1" } ,
         "stwLabel": { "type": "literal" , "value": "Aromastoff | Flavour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -4638,7 +4628,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "367" } ,
+        "ln": { "type": "literal" , "value": "366" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14623-1" } ,
         "stwLabel": { "type": "literal" , "value": "Aromastoff | Flavour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -4650,7 +4640,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "368" } ,
+        "ln": { "type": "literal" , "value": "367" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14623-1" } ,
         "stwLabel": { "type": "literal" , "value": "Aromastoff | Flavour" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -4660,6 +4650,45 @@
         "issueLabel": { "type": "literal" , "value": "#183" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "368" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18263-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Herrenkosmetik | Men's cosmetics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1545022" } ,
+        "wdLabel": { "type": "literal" , "value": "Rasierwasser | aftershave" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/185" } ,
+        "issueLabel": { "type": "literal" , "value": "#185" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107391101" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Herrenkosmetik | men's cosmetics" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "369" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14733-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Hautpflegemittel | Skincare product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1363153" } ,
+        "wdLabel": { "type": "literal" , "value": "Hautcreme | cream" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/186" } ,
+        "issueLabel": { "type": "literal" , "value": "#186" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107391148" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Hautpflegemittel | skincare product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "370" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14733-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Hautpflegemittel | Skincare product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q827658" } ,
+        "wdLabel": { "type": "literal" , "value": "Sonnencreme | sunscreen" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/186" } ,
+        "issueLabel": { "type": "literal" , "value": "#186" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107391148" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Hautpflegemittel | skincare product" }
       }
     ]
   }
