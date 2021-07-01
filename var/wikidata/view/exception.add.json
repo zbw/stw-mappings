@@ -4468,6 +4468,54 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107377414" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Optisches Produkt | optical product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "353" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16391" } ,
+        "wdLabel": { "type": "literal" , "value": "1-Butanol | butan-1-ol" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/175" } ,
+        "issueLabel": { "type": "literal" , "value": "#175" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "354" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q132501" } ,
+        "wdLabel": { "type": "literal" , "value": "Glycerin | glycerol" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/175" } ,
+        "issueLabel": { "type": "literal" , "value": "#175" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "355" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14982" } ,
+        "wdLabel": { "type": "literal" , "value": "Methanol | methanol" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/175" } ,
+        "issueLabel": { "type": "literal" , "value": "#175" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "356" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14665-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q156" } ,
+        "wdLabel": { "type": "literal" , "value": "Alkohol | alcohols" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/175" } ,
+        "issueLabel": { "type": "literal" , "value": "#175" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
