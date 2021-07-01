@@ -4377,6 +4377,58 @@
         "issueLabel": { "type": "literal" , "value": "#171" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "346" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15856134" } ,
+        "wdLabel": { "type": "literal" , "value": "Überstromschutzeinrichtung | overcurrent protection" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/172" } ,
+        "issueLabel": { "type": "literal" , "value": "#172" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107388855" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "347" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5320" } ,
+        "wdLabel": { "type": "literal" , "value": "Schalter | switch" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/172" } ,
+        "issueLabel": { "type": "literal" , "value": "#172" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107388855" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "348" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q174053" } ,
+        "wdLabel": { "type": "literal" , "value": "Relais | relay" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/172" } ,
+        "issueLabel": { "type": "literal" , "value": "#172" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107388855" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "349" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14466-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q215292" } ,
+        "wdLabel": { "type": "literal" , "value": "Wechselstrom-Anschluss | AC power connector" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/172" } ,
+        "issueLabel": { "type": "literal" , "value": "#172" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107388855" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Elektrokomponenten | electrical components" }
       }
     ]
   }
