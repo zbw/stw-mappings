@@ -3810,18 +3810,6 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "300" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14392-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Textilmaschine | Textile machinery" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12059072" } ,
-        "wdLabel": { "type": "literal" , "value": "Webmaschine | power loom" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/150" } ,
-        "issueLabel": { "type": "literal" , "value": "#150" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
-      } ,
-      { 
         "ln": { "type": "literal" , "value": "301" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14392-1" } ,
         "stwLabel": { "type": "literal" , "value": "Textilmaschine | Textile machinery" } ,
@@ -4726,6 +4714,30 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192628" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Rindfleisch | beef" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "375" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14997-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Tabakwaren | Tobacco product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q44106" } ,
+        "wdLabel": { "type": "literal" , "value": "Tabakprodukte | tobacco product" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/190" } ,
+        "issueLabel": { "type": "literal" , "value": "#190" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "376" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14927-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Convenience Food | Convenience food" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1202833" } ,
+        "wdLabel": { "type": "literal" , "value": "Fertiggericht | TV dinner" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/192" } ,
+        "issueLabel": { "type": "literal" , "value": "#192" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
