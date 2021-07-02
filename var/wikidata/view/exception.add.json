@@ -4685,10 +4685,47 @@
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1501257" } ,
         "wdLabel": { "type": "literal" , "value": "Gemüsesaft | vegetable juice" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/187" } ,
-        "issueLabel": { "type": "literal" , "value": "#187" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/188" } ,
+        "issueLabel": { "type": "literal" , "value": "#188" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "372" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14969-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischprodukt | Fish product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15944430" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischfilet | fish fillet" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/188" } ,
+        "issueLabel": { "type": "literal" , "value": "#188" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "373" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14969-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Fischprodukt | Fish product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1413095" } ,
+        "wdLabel": { "type": "literal" , "value": "Fischmehl | Fish meal" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/188" } ,
+        "issueLabel": { "type": "literal" , "value": "#188" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "374" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18220-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Rindfleisch | Beef" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q957434" } ,
+        "wdLabel": { "type": "literal" , "value": "Kalbfleisch | veal" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/189" } ,
+        "issueLabel": { "type": "literal" , "value": "#189" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192628" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Rindfleisch | beef" }
       }
     ]
   }
