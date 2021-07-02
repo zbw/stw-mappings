@@ -4738,6 +4738,30 @@
         "issueLabel": { "type": "literal" , "value": "#192" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "377" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14996-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwaren | Confectionery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56250611" } ,
+        "wdLabel": { "type": "literal" , "value": "Zuckerware | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/193" } ,
+        "issueLabel": { "type": "literal" , "value": "#193" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "378" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14996-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Süßwaren | Confectionery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5159627" } ,
+        "wdLabel": { "type": "literal" , "value": "Konfekt | confection" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/193" } ,
+        "issueLabel": { "type": "literal" , "value": "#193" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
