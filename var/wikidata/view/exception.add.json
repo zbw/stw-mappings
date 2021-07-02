@@ -4762,6 +4762,18 @@
         "issueLabel": { "type": "literal" , "value": "#193" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "379" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14998-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Zigarette | Cigarette" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189511" } ,
+        "wdLabel": { "type": "literal" , "value": "elektrische Zigarette | electronic cigarette" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/194" } ,
+        "issueLabel": { "type": "literal" , "value": "#194" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
