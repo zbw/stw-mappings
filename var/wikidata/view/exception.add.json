@@ -4733,7 +4733,7 @@
         "stwLabel": { "type": "literal" , "value": "Convenience Food | Convenience food" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1202833" } ,
-        "wdLabel": { "type": "literal" , "value": "Fertiggericht | TV dinner" } ,
+        "wdLabel": { "type": "literal" , "value": "Fertiggericht | frozen meal" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/192" } ,
         "issueLabel": { "type": "literal" , "value": "#192" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
