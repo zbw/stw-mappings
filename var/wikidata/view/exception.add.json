@@ -5038,6 +5038,69 @@
         "issueLabel": { "type": "literal" , "value": "#203" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "402" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14802-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Papier | Paper" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2737119" } ,
+        "wdLabel": { "type": "literal" , "value": "Packpapier | packing paper" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/205" } ,
+        "issueLabel": { "type": "literal" , "value": "#205" } ,
+        "note": { "type": "literal" , "value": "Mehrachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "403" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14802-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Papier | Paper" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2309497" } ,
+        "wdLabel": { "type": "literal" , "value": "Spezialpapier | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/205" } ,
+        "issueLabel": { "type": "literal" , "value": "#205" } ,
+        "note": { "type": "literal" , "value": "Mehrachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "404" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14804-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Papierverpackung | Paper packaging" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2071005" } ,
+        "wdLabel": { "type": "literal" , "value": "Kartonage | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/206" } ,
+        "issueLabel": { "type": "literal" , "value": "#206" } ,
+        "note": { "type": "literal" , "value": "Mehrachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107420994" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Papierverpackung | paper packaging" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "405" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14804-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Papierverpackung | Paper packaging" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q379754" } ,
+        "wdLabel": { "type": "literal" , "value": "Tüte | paper bag" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/206" } ,
+        "issueLabel": { "type": "literal" , "value": "#206" } ,
+        "note": { "type": "literal" , "value": "Mehrachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107420994" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Papierverpackung | paper packaging" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "406" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14804-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Papierverpackung | Paper packaging" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7463524" } ,
+        "wdLabel": { "type": "literal" , "value": "Wellpappe | corrugated fiberboard" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/206" } ,
+        "issueLabel": { "type": "literal" , "value": "#206" } ,
+        "note": { "type": "literal" , "value": "Mehrachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107420994" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Papierverpackung | paper packaging" }
       }
     ]
   }
