@@ -4858,6 +4858,78 @@
         "issueLabel": { "type": "literal" , "value": "#198" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "387" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14724-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Verhütungsmittel | Contraceptive" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q817281" } ,
+        "wdLabel": { "type": "literal" , "value": "Antibabypille | combined oral contraceptive pill" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/199" } ,
+        "issueLabel": { "type": "literal" , "value": "#199" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "388" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14724-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Verhütungsmittel | Contraceptive" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14076" } ,
+        "wdLabel": { "type": "literal" , "value": "Kondom | condom" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/199" } ,
+        "issueLabel": { "type": "literal" , "value": "#199" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "389" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14724-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Verhütungsmittel | Contraceptive" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q122224" } ,
+        "wdLabel": { "type": "literal" , "value": "Empfängnisverhütung | contraception" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/199" } ,
+        "issueLabel": { "type": "literal" , "value": "#199" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "390" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14728-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Arzneimittel | Pharmaceuticals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q173235" } ,
+        "wdLabel": { "type": "literal" , "value": "Analgetikum | analgesic" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/201" } ,
+        "issueLabel": { "type": "literal" , "value": "#201" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "391" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14728-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Arzneimittel | Pharmaceuticals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1595418" } ,
+        "wdLabel": { "type": "literal" , "value": "Heilmittel | remedy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/201" } ,
+        "issueLabel": { "type": "literal" , "value": "#201" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "392" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14728-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Arzneimittel | Pharmaceuticals" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q134808" } ,
+        "wdLabel": { "type": "literal" , "value": "Impfstoff | vaccine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/201" } ,
+        "issueLabel": { "type": "literal" , "value": "#201" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
