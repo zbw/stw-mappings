@@ -413,4 +413,5 @@ stw:14024-2 skos:narrowMatch wd:Q121916 .
 stw:14024-2 skos:narrowMatch wd:Q14674 .
 stw:14024-2 skos:narrowMatch wd:Q192401 .
 stw:14024-2 skos:narrowMatch wd:Q5359605 .
-stw:14803-36 skos:narrowMatch wd:Q62033192 .
+stw:14803-6 skos:narrowMatch wd:Q62033192 .
+stw:14810-2 skos:narrowMatch wd:Q672506 .
