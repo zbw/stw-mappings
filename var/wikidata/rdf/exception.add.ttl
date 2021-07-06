@@ -424,3 +424,7 @@ stw:13670-4 skos:narrowMatch wd:Q2302208 .
 stw:13670-4 skos:narrowMatch wd:Q1110794 .
 stw:13670-4 skos:narrowMatch wd:Q2305295 .
 stw:14046-6 skos:narrowMatch wd:Q191839 .
+stw:18211-4 skos:narrowMatch wd:Q614289 .
+stw:14812-5 skos:narrowMatch wd:Q2110504 .
+stw:18028-2 skos:narrowMatch wd:Q3402519 .
+stw:18028-2 skos:narrowMatch wd:Q1059863 .

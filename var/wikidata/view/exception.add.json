@@ -5283,6 +5283,54 @@
         "issueLabel": { "type": "literal" , "value": "#217" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "422" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18211-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Presseerzeugnis | Press media" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q614289" } ,
+        "wdLabel": { "type": "literal" , "value": "Anzeigenblatt | Pennysaver" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/218" } ,
+        "issueLabel": { "type": "literal" , "value": "#218" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "423" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14812-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Druckerzeugnis | Printed product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2110504" } ,
+        "wdLabel": { "type": "literal" , "value": "Drucksache | printed matter" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/219" } ,
+        "issueLabel": { "type": "literal" , "value": "#219" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "424" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18028-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Spezialzeitschrift | Special interest magazine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3402519" } ,
+        "wdLabel": { "type": "literal" , "value": "Computerzeitschrift | computer magazine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/220" } ,
+        "issueLabel": { "type": "literal" , "value": "#220" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "425" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18028-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Spezialzeitschrift | Special interest magazine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1059863" } ,
+        "wdLabel": { "type": "literal" , "value": "Frauenzeitschrift | women's magazine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/220" } ,
+        "issueLabel": { "type": "literal" , "value": "#220" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
