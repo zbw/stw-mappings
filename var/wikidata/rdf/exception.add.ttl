@@ -415,3 +415,11 @@ stw:14024-2 skos:narrowMatch wd:Q192401 .
 stw:14024-2 skos:narrowMatch wd:Q5359605 .
 stw:14803-6 skos:narrowMatch wd:Q62033192 .
 stw:14810-2 skos:narrowMatch wd:Q672506 .
+stw:14821-4 skos:narrowMatch wd:Q498439 .
+stw:14821-4 skos:narrowMatch wd:Q1757946 .
+stw:18209-5 skos:narrowMatch wd:Q5633421 .
+stw:13669-3 skos:narrowMatch wd:Q20820199 .
+stw:13670-4 skos:narrowMatch wd:Q1868552 .
+stw:13670-4 skos:narrowMatch wd:Q2302208 .
+stw:13670-4 skos:narrowMatch wd:Q1110794 .
+stw:13670-4 skos:narrowMatch wd:Q2305295 .

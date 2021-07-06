@@ -5173,6 +5173,104 @@
         "issueLabel": { "type": "literal" , "value": "#209" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "413" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14821-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kunststoffverpackung | Plastic packaging" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q498439" } ,
+        "wdLabel": { "type": "literal" , "value": "Plastikbeutel | plastic bag" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/210" } ,
+        "issueLabel": { "type": "literal" , "value": "#210" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107421100" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kunststoffverpackung | plastic packaging" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "414" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14821-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kunststoffverpackung | Plastic packaging" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1757946" } ,
+        "wdLabel": { "type": "literal" , "value": "Plastikflasche | plastic bottle" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/210" } ,
+        "issueLabel": { "type": "literal" , "value": "#210" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107421100" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kunststoffverpackung | plastic packaging" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "415" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18209-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Fachzeitschrift | Journal" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5633421" } ,
+        "wdLabel": { "type": "literal" , "value": "wissenschaftliche Zeitschrift | scientific journal" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/212" } ,
+        "issueLabel": { "type": "literal" , "value": "#212" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "416" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13669-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Zeitschrift | Magazine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820199" } ,
+        "wdLabel": { "type": "literal" , "value": "Illustrierte | illustrated magazine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/213" } ,
+        "issueLabel": { "type": "literal" , "value": "#213" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "417" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13670-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Zeitung | Newspaper" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1868552" } ,
+        "wdLabel": { "type": "literal" , "value": "Lokalzeitung | local newspaper" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/215" } ,
+        "issueLabel": { "type": "literal" , "value": "#215" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "418" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13670-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Zeitung | Newspaper" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2302208" } ,
+        "wdLabel": { "type": "literal" , "value": "Sonntagszeitung | Sunday newspaper" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/215" } ,
+        "issueLabel": { "type": "literal" , "value": "#215" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "419" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13670-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Zeitung | Newspaper" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1110794" } ,
+        "wdLabel": { "type": "literal" , "value": "Tageszeitung | daily newspaper" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/215" } ,
+        "issueLabel": { "type": "literal" , "value": "#215" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "420" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13670-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Zeitung | Newspaper" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2305295" } ,
+        "wdLabel": { "type": "literal" , "value": "Wochenzeitung | weekly newspaper" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/215" } ,
+        "issueLabel": { "type": "literal" , "value": "#215" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
