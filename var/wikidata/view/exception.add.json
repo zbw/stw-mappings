@@ -5427,6 +5427,66 @@
         "issueLabel": { "type": "literal" , "value": "#221" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "434" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14914-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschenwaren | Knitwear" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56133040" } ,
+        "wdLabel": { "type": "literal" , "value": "Wirkware | knitwear" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/222" } ,
+        "issueLabel": { "type": "literal" , "value": "#222" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "435" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14914-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschenwaren | Knitwear" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2524539" } ,
+        "wdLabel": { "type": "literal" , "value": "Strumpfwaren | hosiery" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/222" } ,
+        "issueLabel": { "type": "literal" , "value": "#222" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "436" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14831-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Lederwaren | Leather product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q467505" } ,
+        "wdLabel": { "type": "literal" , "value": "Handtasche | handbag" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/223" } ,
+        "issueLabel": { "type": "literal" , "value": "#223" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "437" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14831-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Lederwaren | Leather product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q200814" } ,
+        "wdLabel": { "type": "literal" , "value": "Koffer | suitcase" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/223" } ,
+        "issueLabel": { "type": "literal" , "value": "#223" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "438" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14831-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Lederwaren | Leather product" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47518092" } ,
+        "wdLabel": { "type": "literal" , "value": "Sattlerwaren | saddlemaking" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/223" } ,
+        "issueLabel": { "type": "literal" , "value": "#223" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
