@@ -452,3 +452,4 @@ stw:14788-4 skos:narrowMatch wd:Q838828 .
 stw:14788-4 skos:narrowMatch wd:Q1317763 .
 stw:14788-4 skos:narrowMatch wd:Q1026887 .
 stw:14805-2 skos:exactMatch wd:Q389782 .
+stw:18212-2 skos:narrowMatch wd:Q106651372 .
