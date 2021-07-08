@@ -5144,7 +5144,7 @@
         "stwLabel": { "type": "literal" , "value": "Büromaterial | Stationery" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5359605" } ,
-        "wdLabel": { "type": "literal" , "value": " | school supplies" } ,
+        "wdLabel": { "type": "literal" , "value": "Schulbedarf | school supplies" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/207" } ,
         "issueLabel": { "type": "literal" , "value": "#207" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
@@ -5611,6 +5611,18 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99317889" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Holzprodukt | Wood product" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "449" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14805-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Pappe | Cardboard" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q389782" } ,
+        "wdLabel": { "type": "literal" , "value": "Karton | cardboard" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/229" } ,
+        "issueLabel": { "type": "literal" , "value": "#229" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
