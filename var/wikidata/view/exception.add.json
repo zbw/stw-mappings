@@ -1308,7 +1308,7 @@
         "stwLabel": { "type": "literal" , "value": "Wale | Whales" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7369" } ,
-        "wdLabel": { "type": "literal" , "value": "Delfin | dolphi" } ,
+        "wdLabel": { "type": "literal" , "value": "Delfin | dolphin" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/80" } ,
         "issueLabel": { "type": "literal" , "value": "#80" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
