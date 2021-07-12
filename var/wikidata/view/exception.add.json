@@ -5995,6 +5995,30 @@
         "issueLabel": { "type": "literal" , "value": "#162" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "481" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14101-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Baum | Tree" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1372331" } ,
+        "wdLabel": { "type": "literal" , "value": "Mangrove | Mangle" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/232" } ,
+        "issueLabel": { "type": "literal" , "value": "#232" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "482" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14337-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Kühlung | Cooling" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q592197" } ,
+        "wdLabel": { "type": "literal" , "value": "Kühlkette | cold chain" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/233" } ,
+        "issueLabel": { "type": "literal" , "value": "#233" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
