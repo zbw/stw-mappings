@@ -4645,7 +4645,7 @@
         "stwLabel": { "type": "literal" , "value": "Getreideprodukt | Cereal product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q29056749" } ,
-        "wdLabel": { "type": "literal" , "value": "Grieß | semolina" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/184" } ,
         "issueLabel": { "type": "literal" , "value": "#184" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
