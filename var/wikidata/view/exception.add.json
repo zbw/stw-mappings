@@ -3743,7 +3743,7 @@
         "stwLabel": { "type": "literal" , "value": "Kohlenwasserstoffe | Hydrocarbons" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5130692" } ,
-        "wdLabel": { "type": "literal" , "value": "Butane | butanes" } ,
+        "wdLabel": { "type": "literal" , "value": "Butane | butane" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/148" } ,
         "issueLabel": { "type": "literal" , "value": "#148" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
