@@ -1714,7 +1714,7 @@
         "stwLabel": { "type": "literal" , "value": "Reptilien | Reptiles" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25363" } ,
-        "wdLabel": { "type": "literal" , "value": "Krokodile | Crocodilia" } ,
+        "wdLabel": { "type": "literal" , "value": "Krokodile | crocodilia" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/85" } ,
         "issueLabel": { "type": "literal" , "value": "#85" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
