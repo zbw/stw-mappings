@@ -5882,7 +5882,7 @@
         "stwLabel": { "type": "literal" , "value": "Saatgut | Seed" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q35625" } ,
-        "wdLabel": { "type": "literal" , "value": "Ingwer | Zingiber officinaleme" } ,
+        "wdLabel": { "type": "literal" , "value": "Ingwer | Zingiber officinale" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/231" } ,
         "issueLabel": { "type": "literal" , "value": "#231" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
