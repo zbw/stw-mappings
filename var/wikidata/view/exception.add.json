@@ -2610,7 +2610,7 @@
         "stwLabel": { "type": "literal" , "value": "Heizungsanlage | Heating system" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2429341" } ,
-        "wdLabel": { "type": "literal" , "value": "Heizungssystem | Heating system" } ,
+        "wdLabel": { "type": "literal" , "value": "Heizungssystem | heating system" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/116" } ,
         "issueLabel": { "type": "literal" , "value": "#116" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
