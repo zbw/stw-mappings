@@ -1726,7 +1726,7 @@
         "stwLabel": { "type": "literal" , "value": "Seefische | Saltwater fish" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q199788" } ,
-        "wdLabel": { "type": "literal" , "value": "atlantischer Kabeljau | Atlantic cod" } ,
+        "wdLabel": { "type": "literal" , "value": "Kabeljau | Atlantic cod" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/86" } ,
         "issueLabel": { "type": "literal" , "value": "#86" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
