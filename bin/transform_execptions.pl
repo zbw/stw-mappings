@@ -179,10 +179,13 @@ my %relation = (
 );
 
 my ( $infile, $config_name );
-if ( $ARGV[1] and -f path( $ARGV[1] ) ) {
+if ( not $ARGV[1] ) {
+  die "usage: $0 configuration infile\n";
+}
+if ( -f path( $ARGV[1] ) ) {
   $infile = path( $ARGV[1] );
 } else {
-  die "usage: $0 configuration infile\n";
+  die "input file $ARGV[1] is missing\n";
 }
 $config_name = $ARGV[0];
 if ( not defined $config{$config_name} ) {
