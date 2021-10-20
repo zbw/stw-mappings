@@ -6641,6 +6641,19 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q901520" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Schaumstoff | foam rubber" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "496" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13444-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Agrargeschichte | Agricultural history" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q396077" } ,
+        "wdLabel": { "type": "literal" , "value": "Agrargeschichte | agrarian history" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/236" } ,
+        "issueLabel": { "type": "literal" , "value": "#236" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q952080" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Geschichte der Landwirtschaft | history of agriculture" }
       }
     ]
   }
