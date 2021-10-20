@@ -4419,7 +4419,7 @@
         "issueLabel": { "type": "literal" , "value": "#164" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q539815" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | organic fertilizer" }
+        "wdExistsLabel": { "type": "literal" , "value": "Organischer Dünger | organic fertilizer" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "325" } ,
@@ -4432,7 +4432,7 @@
         "issueLabel": { "type": "literal" , "value": "#164" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q539815" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | organic fertilizer" }
+        "wdExistsLabel": { "type": "literal" , "value": "Organischer Dünger | organic fertilizer" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "326" } ,
@@ -6615,6 +6615,32 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q350039" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kurzwaren | mercery" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "494" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19020-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Organischer Dünger | Organic fertilizer" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2585828" } ,
+        "wdLabel": { "type": "literal" , "value": "Wirtschaftsdünger | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/234" } ,
+        "issueLabel": { "type": "literal" , "value": "#234" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q539815" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Organischer Dünger | organic fertilizer" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "495" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14716-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Schaumstoff | Foamed plastic" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3362098" } ,
+        "wdLabel": { "type": "literal" , "value": "Schaumplastik | plastic foam" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/235" } ,
+        "issueLabel": { "type": "literal" , "value": "#235" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q901520" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Schaumstoff | foam rubber" }
       }
     ]
   }
