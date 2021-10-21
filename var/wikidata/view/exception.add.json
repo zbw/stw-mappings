@@ -6667,6 +6667,19 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q45108" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gemeiner Lein | Linum usitatissimum" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "498" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19017-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Hanf | Hemp" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13414920" } ,
+        "wdLabel": { "type": "literal" , "value": "Hanffaser | hemp fiber" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/238" } ,
+        "issueLabel": { "type": "literal" , "value": "#238" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7150699" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Nutzhanf | hemp" }
       }
     ]
   }
