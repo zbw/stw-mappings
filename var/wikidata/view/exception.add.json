@@ -3829,7 +3829,7 @@
         "stwLabel": { "type": "literal" , "value": "Mineralölprodukt | Petroleum product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q167510" } ,
-        "wdLabel": { "type": "literal" , "value": "Bitumen | asphalt" } ,
+        "wdLabel": { "type": "literal" , "value": "Bitumen | bitumen" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/141" } ,
         "issueLabel": { "type": "literal" , "value": "#141" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
