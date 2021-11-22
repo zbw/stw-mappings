@@ -65,7 +65,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/30" } ,
         "issueLabel": { "type": "literal" , "value": "#30" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12167297" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4498099" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Backwarenindustrie | bakery industry" }
       } ,
       { 
