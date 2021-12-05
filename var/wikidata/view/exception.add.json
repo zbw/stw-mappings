@@ -958,7 +958,7 @@
         "stwLabel": { "type": "literal" , "value": "Zwiebel | Onion" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q244599" } ,
-        "wdLabel": { "type": "literal" , "value": "Zwiebelgemüse | bulb vegetable" } ,
+        "wdLabel": { "type": "literal" , "value": "Zwiebelgemüse | bulbous vegetables" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/69" } ,
         "issueLabel": { "type": "literal" , "value": "#69" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
