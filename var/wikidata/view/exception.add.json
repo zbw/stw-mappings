@@ -6065,7 +6065,7 @@
         "stwLabel": { "type": "literal" , "value": "Pelze | Furs" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q197195" } ,
-        "wdLabel": { "type": "literal" , "value": "Pelz | fur clothing" } ,
+        "wdLabel": { "type": "literal" , "value": "Pelzkleidung | fur clothing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/226" } ,
         "issueLabel": { "type": "literal" , "value": "#226" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
