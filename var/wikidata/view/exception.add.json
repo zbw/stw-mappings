@@ -5264,7 +5264,7 @@
         "issueLabel": { "type": "literal" , "value": "#194" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1578" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zigarette | cigarette" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zigarette | cigarrete" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "390" } ,
