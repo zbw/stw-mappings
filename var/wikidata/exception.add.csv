@@ -548,7 +548,9 @@ stw:,rel,wd:,issue,note
 19140-3,>,Q1441513,#259,Mehrfachmatch
 19140-3,^,Q331814,#259,Mehrfachmatch
 29843-5,>,Q2027292,#260,Mehrfachmatch
-13992-3,>,Q42855995,##261,Mehrfachmatch
-13992-3,>,Q3053337,##261,Mehrfachmatch
-13992-3,>,Q6606110,##261,Mehrfachmatch
-13992-3,>,Q52090,##261,Mehrfachmatch
+13992-3,>,Q42855995,#261,Mehrfachmatch
+13992-3,>,Q3053337,#261,Mehrfachmatch
+13992-3,>,Q6606110,#261,Mehrfachmatch
+13992-3,>,Q52090,#261,Mehrfachmatch
+10032-2,>,Q47555,#262,Mehrfachmatch
+10032-2,>,Q10979515,#262,Mehrfachmatch
