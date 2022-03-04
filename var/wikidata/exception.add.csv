@@ -478,7 +478,7 @@ stw:,rel,wd:,issue,note
 14079-5,>,Q167893,#231,Mehrfachmatch in WD
 14079-5,>,Q83165,#231,Mehrfachmatch in WD
 14079-5,>,Q3143131,#231,Mehrfachmatch in WD
-10827-514079-5,>,Q43084,#231,Mehrfachmatch in WD
+10827-5,>,Q43084,#231,Mehrfachmatch in WD
 14079-5,>,Q131748,#231,Mehrfachmatch in WD
 14079-5,>,Q2596994,#231,Mehrfachmatch in WD
 14079-5,>,Q13241,#231,Mehrfachmatch in WD
@@ -576,3 +576,6 @@ stw:,rel,wd:,issue,note
 29043-2,>,Q856418,#269,Mehrfachmatch
 12142-6,>,Q1780922,#270,Mehrfachmatch
 12078-3,>,Q2498468,#271,Mehrfachmatch
+12085-6,=,Q29632390,#272,Mehrfachmatch
+12085-6,>,Q13405651,#272,Mehrfachmatch
+12085-6,>,Q9387158,#272,Mehrfachmatch
