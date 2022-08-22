@@ -615,6 +615,7 @@ stw:,rel,wd:,issue,note
 12087-2,^,Q1198141,#284,Mehrfachmatch
 28561-6,>,Q1400839,#285,Mehrfachmatch
 15038-0,>,Q1540562,#286,Mehrfachmatch
+28561-6,*,Q1400839,#287,Mehrfachmatch
 15038-0,>,Q1058754,#288,Mehrfachmatch
 15038-0,>,Q240464,#289,Mehrfachmatch
 15038-0,>,Q724168,#290,Mehrfachmatch
