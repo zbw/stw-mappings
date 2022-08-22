@@ -624,3 +624,8 @@ stw:,rel,wd:,issue,note
 12158-5,>,Q1413046,#293,Mehrfachmatch
 18029-0,>,Q932522,#294,Mehrfachmatch
 15072-0,>,Q3624438,#295,Mehrfachmatch
+19150-0,>,Q1541178,#296,Mehrfachmatch
+19150-0,~,Q7268708,#296,Mehrfachmatch
+19150-0,~,Q7100785,#296,Mehrfachmatch
+19150-0,=,Q104773677,#296,Mehrfachmatch
+19150-0,~,Q15841341,#296,Mehrfachmatch
