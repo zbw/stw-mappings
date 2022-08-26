@@ -728,3 +728,7 @@ stw:,rel,wd:,issue,note
 12105-5,>,Q110406476,#340,Mehrfachmatch
 15543-1,>,Q2078279,#341,Mehrfachmatch
 15543-1,>,Q5477546,#341,Mehrfachmatch
+29918-0,>,Q814581,#342,Mehrfachmatch
+29918-0,>,Q1306230,#342,Mehrfachmatch
+29918-0,^,Q1192100,#342,Mehrfachmatch
+29918-0,^,Q924362,#342,Mehrfachmatch
