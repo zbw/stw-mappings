@@ -735,3 +735,5 @@ stw:,rel,wd:,issue,note
 12172-4,=,Q831917,#343,Mehrfachmatch
 15429-6,=,Q2377195,#344,Mehrfachmatch
 12116-0,*,Q203549,#345,Mehrfachmatch
+24847-1,*,Q10380311,#346,Mehrfachmatch
+24847-1,>,Q7102023,#346,Mehrfachmatch
