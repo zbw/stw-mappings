@@ -1199,9 +1199,10 @@ stw:,rel,wd:,issue,note
 10261-1,>,Q316025,#562,Mehrfachmatch
 10261-1,^,Q1451360,#562,Mehrfachmatch
 11281-4,^,Q667022,#563,Mehrfachmatch
+11191-5,=,Q17353762,#564,Mehrfachmatch
+11191-5,>,Q16216484,#564,Mehrfachmatch
 11191-5,=,Q1797063,#564,Mehrfachmatch
 11191-5,>,Q1685500,#564,Mehrfachmatch
-11191-5,=,Q20664756,#564,Mehrfachmatch
 20381-6,>,Q1507953,#565,Mehrfachmatch
 19091-4,>,Q475356,#566,Mehrfachmatch
 19091-4,>,Q2643006,#566,Mehrfachmatch
