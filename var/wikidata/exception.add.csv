@@ -1404,7 +1404,7 @@ stw:,rel,wd:,issue,note
 12514-2,>,Q21653442,#663,Mehrfachmatch
 12531-2,>,Q795053,#664,Mehrfachmatch
 12531-2,>,Q1780073,#664,Mehrfachmatch
-12497-4,~,Q1275689,#665,Mehrfachmatch
+12497-4,*,Q1275689,#665,Mehrfachmatch
 12275-1,^,Q5326940,#666,Mehrfachmatch
 12275-1,^,Q5157006,#666,Mehrfachmatch
 12275-1,>,Q2402196,#666,Mehrfachmatch
