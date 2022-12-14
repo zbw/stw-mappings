@@ -17,7 +17,7 @@
       { 
         "ln": { "type": "literal" , "value": "3" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19661-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Computerunterstützung | Computerized method" } ,
+        "stwLabel": { "type": "literal" , "value": "ComputerunterstÃ¼tzung | Computerized method" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4826292-4" } ,
         "gndLabel": { "type": "literal" , "value": "Computer Aided Facility Management" } ,
@@ -64,7 +64,7 @@
         "stwLabel": { "type": "literal" , "value": "Kauf | Purchase" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4022360-7" } ,
-        "gndLabel": { "type": "literal" , "value": "Grundstückskauf" } ,
+        "gndLabel": { "type": "literal" , "value": "GrundstuÌckskauf" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -86,7 +86,7 @@
         "stwLabel": { "type": "literal" , "value": "Regionalpolitik | Regional policy" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4115725-4" } ,
-        "gndLabel": { "type": "literal" , "value": "Regionale Beschäftigungspolitik" } ,
+        "gndLabel": { "type": "literal" , "value": "Regionale BeschaÌftigungspolitik" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -94,10 +94,10 @@
       { 
         "ln": { "type": "literal" , "value": "10" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16195-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Kriminalität | Crime" } ,
+        "stwLabel": { "type": "literal" , "value": "KriminalitÃ¤t | Crime" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7864395-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Internetkriminalität" } ,
+        "gndLabel": { "type": "literal" , "value": "InternetkriminalitaÌt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -105,10 +105,10 @@
       { 
         "ln": { "type": "literal" , "value": "11" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14197-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Erdöl | Petroleum" } ,
+        "stwLabel": { "type": "literal" , "value": "ErdÃ¶l | Petroleum" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4124847-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Erdölangebot" } ,
+        "gndLabel": { "type": "literal" , "value": "ErdoÌlangebot" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -182,7 +182,7 @@
       { 
         "ln": { "type": "literal" , "value": "18" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27423-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Spiritualität | Spirituality" } ,
+        "stwLabel": { "type": "literal" , "value": "SpiritualitÃ¤t | Spirituality" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/1054037531" } ,
         "gndLabel": { "type": "literal" , "value": "Spiritueller Tourismus" } ,
@@ -273,7 +273,7 @@
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4209153-6" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätsimport" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtsimport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -325,7 +325,7 @@
       { 
         "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29652-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Prüfungsausschuss des Aufsichtsrats | Audit committee" } ,
+        "stwLabel": { "type": "literal" , "value": "PrÃ¼fungsausschuss des Aufsichtsrats | Audit committee" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4644800-7" } ,
         "gndLabel": { "type": "literal" , "value": "Audit Committee" } ,
@@ -372,7 +372,7 @@
         "stwLabel": { "type": "literal" , "value": "Theorie | Theory" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4175812-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Produktivitätstheorie" } ,
+        "gndLabel": { "type": "literal" , "value": "ProduktivitaÌtstheorie" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -457,10 +457,10 @@
       { 
         "ln": { "type": "literal" , "value": "43" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14105-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Gemüse | Vegetables" } ,
+        "stwLabel": { "type": "literal" , "value": "GemÃ¼se | Vegetables" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4492841-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Gemüseverbrauch" } ,
+        "gndLabel": { "type": "literal" , "value": "GemuÌseverbrauch" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -471,7 +471,7 @@
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4134749-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Erdölexport" } ,
+        "gndLabel": { "type": "literal" , "value": "ErdoÌlexport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -578,10 +578,10 @@
       { 
         "ln": { "type": "literal" , "value": "54" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13427-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Düngemittel | Fertilizer" } ,
+        "stwLabel": { "type": "literal" , "value": "DÃ¼ngemittel | Fertilizer" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4280234-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Düngemittelverbrauch" } ,
+        "gndLabel": { "type": "literal" , "value": "DuÌngemittelverbrauch" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -625,7 +625,7 @@
         "stwLabel": { "type": "literal" , "value": "Gemeinde | Municipality" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4156524-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Gemeindevermögen" } ,
+        "gndLabel": { "type": "literal" , "value": "GemeindevermoÌgen" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -644,10 +644,10 @@
       { 
         "ln": { "type": "literal" , "value": "60" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13209-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Großhandel | Wholesale trade" } ,
+        "stwLabel": { "type": "literal" , "value": "GroÃhandel | Wholesale trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4180079-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Schuhgroßhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "SchuhgroÃhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -691,7 +691,7 @@
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4139406-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Körperschaftsteuerreform" } ,
+        "gndLabel": { "type": "literal" , "value": "KoÌrperschaftsteuerreform" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -713,7 +713,7 @@
         "stwLabel": { "type": "literal" , "value": "Geldgeschichte | Monetary history" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4040629-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Münze" } ,
+        "gndLabel": { "type": "literal" , "value": "MuÌnze" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -721,10 +721,10 @@
       { 
         "ln": { "type": "literal" , "value": "67" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11434-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Münzen | Coins" } ,
+        "stwLabel": { "type": "literal" , "value": "MÃ¼nzen | Coins" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4040629-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Münze" } ,
+        "gndLabel": { "type": "literal" , "value": "MuÌnze" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -757,7 +757,7 @@
         "stwLabel": { "type": "literal" , "value": "Produktion | Production" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4120597-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Konsumgüterproduktion" } ,
+        "gndLabel": { "type": "literal" , "value": "KonsumguÌterproduktion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -834,7 +834,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4396699-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Gartengerätemarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "GartengeraÌtemarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -856,7 +856,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4039867-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Möbelmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "MoÌbelmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -900,7 +900,7 @@
         "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4510054-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Prämienkalkulation" } ,
+        "gndLabel": { "type": "literal" , "value": "PraÌmienkalkulation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -911,7 +911,7 @@
         "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4257582-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Gebührenkalkulation" } ,
+        "gndLabel": { "type": "literal" , "value": "GebuÌhrenkalkulation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -933,7 +933,7 @@
         "stwLabel": { "type": "literal" , "value": "Buchhandel | Book trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4384147-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Buchhändlerverband" } ,
+        "gndLabel": { "type": "literal" , "value": "BuchhaÌndlerverband" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -966,7 +966,7 @@
         "stwLabel": { "type": "literal" , "value": "Betriebliche Kennzahl | Financial ratio" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7637985-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Gesamtanlageneffektivität" } ,
+        "gndLabel": { "type": "literal" , "value": "GesamtanlageneffektivitaÌt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1029,7 +1029,7 @@
       { 
         "ln": { "type": "literal" , "value": "95" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11238-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Beschäftigungseffekt | Employment effect" } ,
+        "stwLabel": { "type": "literal" , "value": "BeschÃ¤ftigungseffekt | Employment effect" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4261476-4" } ,
         "gndLabel": { "type": "literal" , "value": "Arbeitsmarktwirkungen moderner Technologien" } ,
@@ -1084,7 +1084,7 @@
       { 
         "ln": { "type": "literal" , "value": "100" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11554-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Öffentliche Ausgaben | Public expenditure" } ,
+        "stwLabel": { "type": "literal" , "value": "Ãffentliche Ausgaben | Public expenditure" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4207825-8" } ,
         "gndLabel": { "type": "literal" , "value": "Raumfahrtausgaben" } ,
@@ -1120,7 +1120,7 @@
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4365548-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Süßwarenhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "SuÌÃwarenhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1172,10 +1172,10 @@
       { 
         "ln": { "type": "literal" , "value": "108" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14976-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Getränk | Beverage" } ,
+        "stwLabel": { "type": "literal" , "value": "GetrÃ¤nk | Beverage" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4157188-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Getränkeverbrauch" } ,
+        "gndLabel": { "type": "literal" , "value": "GetraÌnkeverbrauch" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1205,7 +1205,7 @@
       { 
         "ln": { "type": "literal" , "value": "111" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11341-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Vergütungssystem | Compensation system" } ,
+        "stwLabel": { "type": "literal" , "value": "VergÃ¼tungssystem | Compensation system" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4815042-3" } ,
         "gndLabel": { "type": "literal" , "value": "Trucksystem" } ,
@@ -1219,7 +1219,7 @@
         "stwLabel": { "type": "literal" , "value": "Genossenschaft | Cooperative" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4116640-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Straßenverkehrsgenossenschaft" } ,
+        "gndLabel": { "type": "literal" , "value": "StraÃenverkehrsgenossenschaft" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1241,7 +1241,7 @@
         "stwLabel": { "type": "literal" , "value": "Jahresabschluss | Financial statement" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4144015-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Bankprüfung" } ,
+        "gndLabel": { "type": "literal" , "value": "BankpruÌfung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1315,10 +1315,10 @@
       { 
         "ln": { "type": "literal" , "value": "121" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12918-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Konsumgüterindustrie | Consumer goods industry" } ,
+        "stwLabel": { "type": "literal" , "value": "KonsumgÃ¼terindustrie | Consumer goods industry" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7674042-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Luxusgüterindustrie" } ,
+        "gndLabel": { "type": "literal" , "value": "LuxusguÌterindustrie" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1395,7 +1395,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4125826-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Produktivgütermarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "ProduktivguÌtermarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1406,7 +1406,7 @@
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4162245-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Investitionsgüterexport" } ,
+        "gndLabel": { "type": "literal" , "value": "InvestitionsguÌterexport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1428,7 +1428,7 @@
         "stwLabel": { "type": "literal" , "value": "Statistische Verteilung | Statistical distribution" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4218541-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Statistische Maßzahl" } ,
+        "gndLabel": { "type": "literal" , "value": "Statistische MaÃzahl" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1447,10 +1447,10 @@
       { 
         "ln": { "type": "literal" , "value": "133" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18496-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Gebäude | Building" } ,
+        "stwLabel": { "type": "literal" , "value": "GebÃ¤ude | Building" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4203547-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Bankgebäude" } ,
+        "gndLabel": { "type": "literal" , "value": "BankgebaÌude" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1502,7 +1502,7 @@
       { 
         "ln": { "type": "literal" , "value": "138" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11275-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Junge Arbeitskräfte | Young workers" } ,
+        "stwLabel": { "type": "literal" , "value": "Junge ArbeitskrÃ¤fte | Young workers" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4162823-8" } ,
         "gndLabel": { "type": "literal" , "value": "Jugendberufshilfe" } ,
@@ -1615,7 +1615,7 @@
         "stwLabel": { "type": "literal" , "value": "Religion | Religion" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4819954-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Ökonomische Theorie der Religion" } ,
+        "gndLabel": { "type": "literal" , "value": "OÌkonomische Theorie der Religion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1637,7 +1637,7 @@
         "stwLabel": { "type": "literal" , "value": "Angebot | Supply" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7597327-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätsangebot" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtsangebot" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1692,7 +1692,7 @@
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4120596-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Konsumgüternachfrage" } ,
+        "gndLabel": { "type": "literal" , "value": "KonsumguÌternachfrage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1703,7 +1703,7 @@
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4151748-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätsnachfrage" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtsnachfrage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1714,7 +1714,7 @@
         "stwLabel": { "type": "literal" , "value": "Nachfrage | Demand" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4219414-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Gebrauchsgüternachfrage" } ,
+        "gndLabel": { "type": "literal" , "value": "GebrauchsguÌternachfrage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1736,7 +1736,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4020787-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Getränkemarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "GetraÌnkemarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1747,7 +1747,7 @@
         "stwLabel": { "type": "literal" , "value": "Steuerreform | Tax reform" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4368640-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Ökologische Steuerreform" } ,
+        "gndLabel": { "type": "literal" , "value": "OÌkologische Steuerreform" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1824,7 +1824,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4316442-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Glücksspielmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "GluÌcksspielmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1835,7 +1835,7 @@
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4015185-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Erdölimport" } ,
+        "gndLabel": { "type": "literal" , "value": "ErdoÌlimport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -1865,10 +1865,10 @@
       { 
         "ln": { "type": "literal" , "value": "171" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11628-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Öffentliches Unternehmen | Public enterprise" } ,
+        "stwLabel": { "type": "literal" , "value": "Ãffentliches Unternehmen | Public enterprise" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4259811-4" } ,
-        "gndLabel": { "type": "literal" , "value": "Öffentlich-rechtlicher Versicherungsbetrieb" } ,
+        "gndLabel": { "type": "literal" , "value": "OÌffentlich-rechtlicher Versicherungsbetrieb" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2044,7 +2044,7 @@
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4332241-4" } ,
-        "gndLabel": { "type": "literal" , "value": "Olivenölexport" } ,
+        "gndLabel": { "type": "literal" , "value": "OlivenoÌlexport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2055,7 +2055,7 @@
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4209152-4" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätsexport" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtsexport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2066,7 +2066,7 @@
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4603666-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Gemüseexport" } ,
+        "gndLabel": { "type": "literal" , "value": "GemuÌseexport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2132,7 +2132,7 @@
         "stwLabel": { "type": "literal" , "value": "Export | Export" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4050897-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Rüstungsexport" } ,
+        "gndLabel": { "type": "literal" , "value": "RuÌstungsexport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2140,10 +2140,10 @@
       { 
         "ln": { "type": "literal" , "value": "196" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11666-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Körperschaftsteuer | Corporate income tax" } ,
+        "stwLabel": { "type": "literal" , "value": "KÃ¶rperschaftsteuer | Corporate income tax" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4424655-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Körperschaftsteuerstatistik" } ,
+        "gndLabel": { "type": "literal" , "value": "KoÌrperschaftsteuerstatistik" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2162,10 +2162,10 @@
       { 
         "ln": { "type": "literal" , "value": "198" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18729-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Börsengeschichte | Stock market history" } ,
+        "stwLabel": { "type": "literal" , "value": "BÃ¶rsengeschichte | Stock market history" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4007502-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Börse" } ,
+        "gndLabel": { "type": "literal" , "value": "BoÌrse" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2228,7 +2228,7 @@
       { 
         "ln": { "type": "literal" , "value": "204" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19438-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Räumliche Verteilung | Spatial distribution" } ,
+        "stwLabel": { "type": "literal" , "value": "RÃ¤umliche Verteilung | Spatial distribution" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4294058-8" } ,
         "gndLabel": { "type": "literal" , "value": "Regionale Arbeitslosigkeit" } ,
@@ -2283,10 +2283,10 @@
       { 
         "ln": { "type": "literal" , "value": "209" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19687-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Staatsangehörigkeit | Citizenship" } ,
+        "stwLabel": { "type": "literal" , "value": "StaatsangehÃ¶rigkeit | Citizenship" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7578209-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Unionsbürgerschaft" } ,
+        "gndLabel": { "type": "literal" , "value": "UnionsbuÌrgerschaft" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2330,7 +2330,7 @@
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4246784-6" } ,
-        "gndLabel": { "type": "literal" , "value": "Investitionsgüterimport" } ,
+        "gndLabel": { "type": "literal" , "value": "InvestitionsguÌterimport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2382,10 +2382,10 @@
       { 
         "ln": { "type": "literal" , "value": "218" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10833-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Außenhandel | Foreign trade" } ,
+        "stwLabel": { "type": "literal" , "value": "AuÃenhandel | Foreign trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4680722-6" } ,
-        "gndLabel": { "type": "literal" , "value": "Lebensmittelaußenhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "LebensmittelauÃenhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2418,7 +2418,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4328181-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätsmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtsmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2429,7 +2429,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4127143-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Wärmemarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "WaÌrmemarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2440,7 +2440,7 @@
         "stwLabel": { "type": "literal" , "value": "Produktion | Production" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4484034-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Verbrauchsgüterproduktion" } ,
+        "gndLabel": { "type": "literal" , "value": "VerbrauchsguÌterproduktion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2539,7 +2539,7 @@
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4264525-6" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätskosten" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtskosten" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2591,10 +2591,10 @@
       { 
         "ln": { "type": "literal" , "value": "237" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12330-5" } ,
-        "stwLabel": { "type": "literal" , "value": "IT-gestütztes Rechnungswesen | Accounting information system" } ,
+        "stwLabel": { "type": "literal" , "value": "IT-gestÃ¼tztes Rechnungswesen | Accounting information system" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4193372-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Grundsätze ordnungsmäßiger Datenverarbeitung" } ,
+        "gndLabel": { "type": "literal" , "value": "GrundsaÌtze ordnungsmaÌÃiger Datenverarbeitung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2605,7 +2605,7 @@
         "stwLabel": { "type": "literal" , "value": "E-Business | E-business" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7730524-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Internetökonomie" } ,
+        "gndLabel": { "type": "literal" , "value": "InternetoÌkonomie" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2660,7 +2660,7 @@
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4264901-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Lärmschutzkosten" } ,
+        "gndLabel": { "type": "literal" , "value": "LaÌrmschutzkosten" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2715,7 +2715,7 @@
         "stwLabel": { "type": "literal" , "value": "Kosten | Costs" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4133664-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Elektrizitätserzeugungskosten" } ,
+        "gndLabel": { "type": "literal" , "value": "ElektrizitaÌtserzeugungskosten" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2803,7 +2803,7 @@
         "stwLabel": { "type": "literal" , "value": "Preis | Price" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4370372-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Düngemittelpreis" } ,
+        "gndLabel": { "type": "literal" , "value": "DuÌngemittelpreis" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2902,7 +2902,7 @@
         "stwLabel": { "type": "literal" , "value": "Multiplikator | Multiplier" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4019905-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Geldschöpfungsmultiplikator" } ,
+        "gndLabel": { "type": "literal" , "value": "GeldschoÌpfungsmultiplikator" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -2957,7 +2957,7 @@
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4388073-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Rüstungsimport" } ,
+        "gndLabel": { "type": "literal" , "value": "RuÌstungsimport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3009,10 +3009,10 @@
       { 
         "ln": { "type": "literal" , "value": "275" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11434-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Münzen | Coins" } ,
+        "stwLabel": { "type": "literal" , "value": "MÃ¼nzen | Coins" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4352849-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Münzauktion" } ,
+        "gndLabel": { "type": "literal" , "value": "MuÌnzauktion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3067,7 +3067,7 @@
         "stwLabel": { "type": "literal" , "value": "Gemeindefinanzen | Local government finance" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4266047-6" } ,
-        "gndLabel": { "type": "literal" , "value": "Örtliche Rechnungsprüfung" } ,
+        "gndLabel": { "type": "literal" , "value": "OÌrtliche RechnungspruÌfung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3111,7 +3111,7 @@
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4603696-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Gemüseimport" } ,
+        "gndLabel": { "type": "literal" , "value": "GemuÌseimport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3188,7 +3188,7 @@
         "stwLabel": { "type": "literal" , "value": "Import | Import" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4436780-6" } ,
-        "gndLabel": { "type": "literal" , "value": "Verbrauchsgüterimport" } ,
+        "gndLabel": { "type": "literal" , "value": "VerbrauchsguÌterimport" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3430,7 +3430,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4197961-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Süßwarenmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "SuÌÃwarenmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3441,7 +3441,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4193249-3" } ,
-        "gndLabel": { "type": "literal" , "value": "Konsumgütermarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "KonsumguÌtermarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3463,7 +3463,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4192861-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Kraftfahrzeugzubehörmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "KraftfahrzeugzubehoÌrmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3485,7 +3485,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4160386-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Hörgerätemarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "HoÌrgeraÌtemarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3551,7 +3551,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4137877-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Bürotechnikmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "BuÌrotechnikmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3595,7 +3595,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4159250-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Hausgerätemarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "HausgeraÌtemarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3606,7 +3606,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4125886-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Investitionsgütermarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "InvestitionsguÌtermarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3672,7 +3672,7 @@
         "stwLabel": { "type": "literal" , "value": "Markt | Market" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4126210-4" } ,
-        "gndLabel": { "type": "literal" , "value": "Parfümmarkt" } ,
+        "gndLabel": { "type": "literal" , "value": "ParfuÌmmarkt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3746,7 +3746,7 @@
       { 
         "ln": { "type": "literal" , "value": "342" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11540-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Öffentliche Finanzen | Public finance" } ,
+        "stwLabel": { "type": "literal" , "value": "Ãffentliche Finanzen | Public finance" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4017214-4" } ,
         "gndLabel": { "type": "literal" , "value": "Finanzwirtschaft" } ,
@@ -3782,7 +3782,7 @@
         "stwLabel": { "type": "literal" , "value": "Einzelhandel | Retail trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4544744-5" } ,
-        "gndLabel": { "type": "literal" , "value": "Luxusgüterhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "LuxusguÌterhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3801,7 +3801,7 @@
       { 
         "ln": { "type": "literal" , "value": "347" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11702-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Steuervergünstigung | Tax incentive" } ,
+        "stwLabel": { "type": "literal" , "value": "SteuervergÃ¼nstigung | Tax incentive" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7565724-7" } ,
         "gndLabel": { "type": "literal" , "value": "Entfernungspauschale" } ,
@@ -3848,7 +3848,7 @@
         "stwLabel": { "type": "literal" , "value": "Versorgung | Supply situation" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4032257-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Konsumgüterversorgung" } ,
+        "gndLabel": { "type": "literal" , "value": "KonsumguÌterversorgung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3881,7 +3881,7 @@
         "stwLabel": { "type": "literal" , "value": "Frauen | Women" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4131694-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Weibliche Selbstständige" } ,
+        "gndLabel": { "type": "literal" , "value": "Weibliche SelbststaÌndige" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -3900,7 +3900,7 @@
       { 
         "ln": { "type": "literal" , "value": "356" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11559-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Öffentlicher Dienst | Civil service" } ,
+        "stwLabel": { "type": "literal" , "value": "Ãffentlicher Dienst | Civil service" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4149745-4" } ,
         "gndLabel": { "type": "literal" , "value": "Dienstzeugnis" } ,
@@ -4043,10 +4043,10 @@
       { 
         "ln": { "type": "literal" , "value": "369" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13209-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Großhandel | Wholesale trade" } ,
+        "stwLabel": { "type": "literal" , "value": "GroÃhandel | Wholesale trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4699900-0" } ,
-        "gndLabel": { "type": "literal" , "value": "Kurzwarengroßhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "KurzwarengroÃhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4076,10 +4076,10 @@
       { 
         "ln": { "type": "literal" , "value": "372" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11261-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Ältere Arbeitskräfte | Older workers" } ,
+        "stwLabel": { "type": "literal" , "value": "Ãltere ArbeitskrÃ¤fte | Older workers" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4218407-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Älterer Arbeitsloser" } ,
+        "gndLabel": { "type": "literal" , "value": "AÌlterer Arbeitsloser" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4090,7 +4090,7 @@
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4162246-7" } ,
-        "gndLabel": { "type": "literal" , "value": "Investitionsgüterhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "InvestitionsguÌterhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4109,7 +4109,7 @@
       { 
         "ln": { "type": "literal" , "value": "375" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11702-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Steuervergünstigung | Tax incentive" } ,
+        "stwLabel": { "type": "literal" , "value": "SteuervergÃ¼nstigung | Tax incentive" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4168085-6" } ,
         "gndLabel": { "type": "literal" , "value": "Lohnsteuerfreiheit" } ,
@@ -4142,10 +4142,10 @@
       { 
         "ln": { "type": "literal" , "value": "378" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10036-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Elastizität | Elasticity" } ,
+        "stwLabel": { "type": "literal" , "value": "ElastizitÃ¤t | Elasticity" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4190925-2" } ,
-        "gndLabel": { "type": "literal" , "value": "Zinselastizität" } ,
+        "gndLabel": { "type": "literal" , "value": "ZinselastizitaÌt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4189,7 +4189,7 @@
         "stwLabel": { "type": "literal" , "value": "Werbemusik | Advertising music" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7614468-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Akustische Markenführung" } ,
+        "gndLabel": { "type": "literal" , "value": "Akustische MarkenfuÌhrung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4244,7 +4244,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsinformation | Economic information" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4425143-9" } ,
-        "gndLabel": { "type": "literal" , "value": "Börsenberichterstattung" } ,
+        "gndLabel": { "type": "literal" , "value": "BoÌrsenberichterstattung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4255,7 +4255,7 @@
         "stwLabel": { "type": "literal" , "value": "Handel | Trade" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4175798-1" } ,
-        "gndLabel": { "type": "literal" , "value": "Produktionsgüterhandel" } ,
+        "gndLabel": { "type": "literal" , "value": "ProduktionsguÌterhandel" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
@@ -4299,7 +4299,7 @@
         "stwLabel": { "type": "literal" , "value": "Werbung | Advertising" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4500382-8" } ,
-        "gndLabel": { "type": "literal" , "value": "Konsumgüterwerbung" } ,
+        "gndLabel": { "type": "literal" , "value": "KonsumguÌterwerbung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "GND CK Bug" }
