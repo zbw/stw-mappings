@@ -19136,6 +19136,32 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q720362" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Waldbau | silviculture" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1433" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30022-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Kokerei | Coke oven" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106850206" } ,
+        "wdLabel": { "type": "literal" , "value": "Koksofen | coke oven" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/685" } ,
+        "issueLabel": { "type": "literal" , "value": "#685" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106850206" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Koksofen | coke oven" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1433" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30022-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Kokerei | Coke oven" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106850206" } ,
+        "wdLabel": { "type": "literal" , "value": "Koksofen | coke oven" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/685" } ,
+        "issueLabel": { "type": "literal" , "value": "#685" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q905318" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kokerei | coke plant" }
       }
     ]
   }
