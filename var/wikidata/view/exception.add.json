@@ -7391,19 +7391,6 @@
         "issueLabel": { "type": "literal" , "value": "#259" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q108039701" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | physical distribution" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "548" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19140-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Vertrieb | Physical distribution" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1441513" } ,
-        "wdLabel": { "type": "literal" , "value": "Vertriebssteuerung | " } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/259" } ,
-        "issueLabel": { "type": "literal" , "value": "#259" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q115005779" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Vertrieb | physical distribution" }
       } ,
       { 
@@ -7417,19 +7404,6 @@
         "issueLabel": { "type": "literal" , "value": "#259" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q108039701" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | physical distribution" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "549" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19140-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Vertrieb | Physical distribution" } ,
-        "relation": { "type": "literal" , "value": "^" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q331814" } ,
-        "wdLabel": { "type": "literal" , "value": "Absatzlogistik | mass-market retailing" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/259" } ,
-        "issueLabel": { "type": "literal" , "value": "#259" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q115005779" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Vertrieb | physical distribution" }
       } ,
       { 
