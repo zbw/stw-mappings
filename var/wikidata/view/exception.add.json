@@ -7313,7 +7313,7 @@
         "issueLabel": { "type": "literal" , "value": "#254" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7100700" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | order processing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Auftragsabwicklung | order processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "543" } ,
@@ -7326,7 +7326,7 @@
         "issueLabel": { "type": "literal" , "value": "#254" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7100700" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | order processing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Auftragsabwicklung | order processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "544" } ,
@@ -8990,7 +8990,7 @@
         "issueLabel": { "type": "literal" , "value": "#316" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5249566" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | decomposition method" }
+        "wdExistsLabel": { "type": "literal" , "value": "Dekompositionsverfahren | decomposition method" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "672" } ,
@@ -9003,7 +9003,7 @@
         "issueLabel": { "type": "literal" , "value": "#316" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5249566" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | decomposition method" }
+        "wdExistsLabel": { "type": "literal" , "value": "Dekompositionsverfahren | decomposition method" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "673" } ,
@@ -18733,6 +18733,71 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1513250" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Internationales Steuerrecht | international taxation" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1423" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10276-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Privater Konsum | Private consumption" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192270" } ,
+        "wdLabel": { "type": "literal" , "value": "Konsum | consumption" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/678" } ,
+        "issueLabel": { "type": "literal" , "value": "#678" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5164722" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Privater Konsum | consumer spending" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1424" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12570-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Führungskräfteauswahl | Executive selection" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q265558" } ,
+        "wdLabel": { "type": "literal" , "value": "Assessment-Center | Assessment center" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/679" } ,
+        "issueLabel": { "type": "literal" , "value": "#679" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1227658" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Direktsuche | executive search" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1424" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12570-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Führungskräfteauswahl | Executive selection" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q265558" } ,
+        "wdLabel": { "type": "literal" , "value": "Assessment-Center | Assessment center" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/679" } ,
+        "issueLabel": { "type": "literal" , "value": "#679" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q265558" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Assessment-Center | Assessment center" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1425" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10374-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Frühindikator | Leading indicator" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2033951" } ,
+        "wdLabel": { "type": "literal" , "value": "Purchasing Managers Index | Purchasing Managers' Index" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/680" } ,
+        "issueLabel": { "type": "literal" , "value": "#680" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2033951" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Purchasing Managers Index | Purchasing Managers' Index" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1425" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10374-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Frühindikator | Leading indicator" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2033951" } ,
+        "wdLabel": { "type": "literal" , "value": "Purchasing Managers Index | Purchasing Managers' Index" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/680" } ,
+        "issueLabel": { "type": "literal" , "value": "#680" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3829218" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Frühindikator | Leading Indicator" }
       }
     ]
   }
