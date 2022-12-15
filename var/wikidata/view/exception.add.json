@@ -18798,6 +18798,32 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3829218" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Frühindikator | Leading Indicator" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1426" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13193-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Pharmahandel | Pharmaceutical distributors" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13107184" } ,
+        "wdLabel": { "type": "literal" , "value": "Apotheke | pharmacy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/681" } ,
+        "issueLabel": { "type": "literal" , "value": "#681" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13107184" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Apotheke | pharmacy" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1426" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13193-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Pharmahandel | Pharmaceutical distributors" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13107184" } ,
+        "wdLabel": { "type": "literal" , "value": "Apotheke | pharmacy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/681" } ,
+        "issueLabel": { "type": "literal" , "value": "#681" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q57332194" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Pharmahandel | pharmaceutical distributor" }
       }
     ]
   }
