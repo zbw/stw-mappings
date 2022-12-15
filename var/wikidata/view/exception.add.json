@@ -15366,7 +15366,7 @@
         "issueLabel": { "type": "literal" , "value": "#551" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2682116" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Collaborative leadership" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kooperative Führung | Collaborative leadership" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1164" } ,
@@ -15379,7 +15379,7 @@
         "issueLabel": { "type": "literal" , "value": "#551" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2682116" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Collaborative leadership" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kooperative Führung | Collaborative leadership" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1165" } ,
@@ -15392,7 +15392,7 @@
         "issueLabel": { "type": "literal" , "value": "#551" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2682116" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Collaborative leadership" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kooperative Führung | Collaborative leadership" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1166" } ,
@@ -15405,7 +15405,7 @@
         "issueLabel": { "type": "literal" , "value": "#551" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2682116" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Collaborative leadership" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kooperative Führung | Collaborative leadership" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1167" } ,
