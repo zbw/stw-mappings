@@ -5259,12 +5259,12 @@
         "stwLabel": { "type": "literal" , "value": "Tabakwaren | Tobacco product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q44106" } ,
-        "wdLabel": { "type": "literal" , "value": "Tabakprodukte | tobacco product" } ,
+        "wdLabel": { "type": "literal" , "value": "Tabakprodukte | tobacco products" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/190" } ,
         "issueLabel": { "type": "literal" , "value": "#190" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q44106" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tabakprodukte | tobacco product" }
+        "wdExistsLabel": { "type": "literal" , "value": "Tabakprodukte | tobacco products" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "386" } ,
