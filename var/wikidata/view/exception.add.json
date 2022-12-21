@@ -14494,12 +14494,12 @@
         "stwLabel": { "type": "literal" , "value": "Bilanzierungspflicht | Accounting obligations" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q114633954" } ,
-        "wdLabel": { "type": "literal" , "value": "Bilanzierungspflicht | accounting obligations" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/520" } ,
         "issueLabel": { "type": "literal" , "value": "#520" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q114633954" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bilanzierungspflicht | accounting obligations" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q860349" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Bilanzierungsfähigkeit | accounting obligations" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1097" } ,
