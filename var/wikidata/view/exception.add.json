@@ -1556,7 +1556,7 @@
         "stwLabel": { "type": "literal" , "value": "Nutztiere | Livestock" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41692" } ,
-        "wdLabel": { "type": "literal" , "value": "Maultier | Beauceron Pinscher" } ,
+        "wdLabel": { "type": "literal" , "value": "Maultier | mule" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/82" } ,
         "issueLabel": { "type": "literal" , "value": "#82" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
