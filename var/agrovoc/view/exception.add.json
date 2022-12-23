@@ -1,0 +1,19 @@
+{ "head": {
+    "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "agrovoc" , "agrovocLabel" , "issue" , "issueLabel" , "note" ]
+  } ,
+  "results": {
+    "bindings": [
+      { 
+        "ln": { "type": "literal" , "value": "2" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19316-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Herkunftsbezeichnung | Designation of origin" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "agrovoc": { "type": "uri" , "value": "http://aims.fao.org/aos/agrovoc/c_34241" } ,
+        "agrovocLabel": { "type": "literal" , "value": "Ursprungsbezeichnung | designation of origin" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": " " }
+      }
+    ]
+  }
+}

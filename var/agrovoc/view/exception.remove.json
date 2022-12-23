@@ -1,0 +1,9 @@
+{ "head": {
+    "vars": [ "ln" , "stw" , "stwLabel" , "relation" , "agrovoc" , "agrovocLabel" , "issue" , "issueLabel" , "note" ]
+  } ,
+  "results": {
+    "bindings": [
+      
+    ]
+  }
+}
