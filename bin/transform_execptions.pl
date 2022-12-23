@@ -133,6 +133,43 @@ order by ?line
 ',
   },
 
+  stw_agrovoc => {
+    target     => 'agrovoc',
+    source_col => 'stw',
+    target_col => 'agrovoc',
+    endpoint   => 'http://zbw.eu/beta/sparql/stw/query',
+    query      => '
+select distinct (str(?line) as ?ln)  ?stw ?stwLabel ?relation ?agrovoc ?agrovocLabel ?issue ?issueLabel ?note
+where {
+  service <http://zbw.eu/beta/sparql/agrovoc/query> {
+    values ( ?line ?stw ?relation ?agrovoc ?issueLabel ?note ) {
+      ( 2 stw:19316-6 "=" agrovoc:c_34241 " " "missing"  )
+    }
+
+    optional {
+      ?agrovoc skos:prefLabel ?agrovocLabelEn .
+      filter(lang(?agrovocLabelEn) = "en")
+    }
+    optional {
+      ?agrovoc skos:prefLabel ?agrovocLabelDe .
+      filter(lang(?agrovocLabelDe) = "de")
+    }
+    bind(concat(if(bound(?agrovocLabelDe), str(?agrovocLabelDe), ""), " | ", if(bound(?agrovocLabelEn), str(?agrovocLabelEn), "")) as ?agrovocLabel)
+    #
+    bind(strafter(str(?stw), str(stw:)) as ?stwId)
+    #
+  }
+  ?stw skos:prefLabel ?stwLabelDe .
+  filter(lang(?stwLabelDe) = "de")
+  ?stw skos:prefLabel ?stwLabelEn .
+  filter(lang(?stwLabelEn) = "en")
+  bind(concat(if(bound(?stwLabelDe), str(?stwLabelDe), ""), " | ", if(bound(?stwLabelEn), str(?stwLabelEn), "")) as ?stwLabel)
+  bind(uri(concat("https://github.com/zbw/stw-mappings/issues/", strafter(?issueLabel, "#"))) as ?issue)
+}
+order by ?line
+',
+  },
+
   # Non-STW mappings
 
   pm20ag_wd => {
