@@ -9,6 +9,7 @@ This repository aimes at covering mapping processes and code for STW. Currently 
 
 - __[Wikidata](var/wikidata)__
 - __[GND](var/gnd)__
+- __[AGROVOC](var/agrovoc)__
 - __[DBpedia](var/dbpedia)__
 
 ## Symbols in exception tables
