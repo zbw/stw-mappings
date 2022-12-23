@@ -1,7 +1,7 @@
 #!/bin/bash
 # nbt, 23.12.2022
 
-# create directories and files für a new mapping
+# create directories and files für a new stw mapping
 
 if [[ $# < 1 ]]; then
   echo "Usage: $0 {dataset}"
@@ -19,7 +19,7 @@ for action in add remove ; do
   file=../var/$DATASET/exception.${action}.csv
   if [ -f $file ] ; then
     echo ERROR: $file already exists
-    ##exit 1
+    exit 1
   else
     echo "stw:,rel,$DATASET:,issue,note" > ../var/$DATASET/exception.${action}.csv
   fi
@@ -44,6 +44,18 @@ Deletions | [view](http://zbw.eu/beta/sparql-lab/result?resultRef=https://api.gi
 EOF
 
 
-cp ../var/gnd/prefix.ttl ../var/$DATASET
-echo "INFO: Please define '$DATASET:' in ../var/$DATASET/prefix.ttl and extend ../var/$DATASET/README.md"
+if [ -f ../var/$DATASET/prefix.ttl ] ; then
+  echo ERROR: ../var/$DATASET/prefix.ttl already exists
+  exit 1
+else
+  cp ../var/gnd/prefix.ttl ../var/$DATASET
+fi
+
+echo "INFO: manual tasks"
+echo "INFO: - define '$DATASET:' in ../var/$DATASET/prefix.ttl"
+echo "INFO: - add 'stw_$DATASET' section to transform_execptions.pl"
+echo "INFO: - add $DATASET to rebuild_exception_lists.sh"
+echo "INFO: - extend ../var/$DATASET/README.md"
+echo "INFO: - add link to ../README.md"
+
 
