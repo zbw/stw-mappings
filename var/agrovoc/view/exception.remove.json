@@ -3,7 +3,17 @@
   } ,
   "results": {
     "bindings": [
-      
+      { 
+        "ln": { "type": "literal" , "value": "2" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11180-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Arbeit | Labour" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "agrovoc": { "type": "uri" , "value": "http://aims.fao.org/aos/agrovoc/c_6021" } ,
+        "agrovocLabel": { "type": "literal" , "value": "Pflügen | ploughing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mail Manuela 22.5.2013" }
+      }
     ]
   }
 }
