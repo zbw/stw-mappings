@@ -13,6 +13,17 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mail Manuela 22.5.2013" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10951-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Verdrängungswettbewerb | Predatory pricing" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "agrovoc": { "type": "uri" , "value": "http://aims.fao.org/aos/agrovoc/c_6162" } ,
+        "agrovocLabel": { "type": "literal" , "value": "Beute machen | predation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mail Manuela 16.1.2014" }
       }
     ]
   }
