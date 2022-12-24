@@ -2596,7 +2596,7 @@
         "stwLabel": { "type": "literal" , "value": "Glaswaren | Glassware" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q359572" } ,
-        "wdLabel": { "type": "literal" , "value": "Bleikristall | " } ,
+        "wdLabel": { "type": "literal" , "value": "Bleikristall | crystal" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/107" } ,
         "issueLabel": { "type": "literal" , "value": "#107" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
