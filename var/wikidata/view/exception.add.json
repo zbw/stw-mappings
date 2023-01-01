@@ -12220,7 +12220,7 @@
         "stwLabel": { "type": "literal" , "value": "Programmiersprache | Programming language" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q169411" } ,
-        "wdLabel": { "type": "literal" , "value": "Unified Modeling Language | Unified Modeling Language" } ,
+        "wdLabel": { "type": "literal" , "value": "UML | Unified Modeling Language" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/426" } ,
         "issueLabel": { "type": "literal" , "value": "#426" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
