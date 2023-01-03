@@ -7490,7 +7490,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftswissenschaft | Economics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10979515" } ,
-        "wdLabel": { "type": "literal" , "value": "Volkswirtschaftslehre | general economics" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/262" } ,
         "issueLabel": { "type": "literal" , "value": "#262" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
