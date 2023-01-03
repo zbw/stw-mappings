@@ -19211,6 +19211,90 @@
         "issueLabel": { "type": "literal" , "value": "#688" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1438" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q40348" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtsanwalt | lawyer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1439" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q613087" } ,
+        "wdLabel": { "type": "literal" , "value": "Anwalt | Anwalt" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1440" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q40348" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtsanwalt | lawyer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1441" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16533" } ,
+        "wdLabel": { "type": "literal" , "value": "Richter | judge" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1442" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189010" } ,
+        "wdLabel": { "type": "literal" , "value": "Notar | notary" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1443" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q185351" } ,
+        "wdLabel": { "type": "literal" , "value": "Jurist | jurist" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1444" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13995-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1714315" } ,
+        "wdLabel": { "type": "literal" , "value": "Justizfachangestellter | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
+        "issueLabel": { "type": "literal" , "value": "#689" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
