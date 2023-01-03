@@ -19295,6 +19295,66 @@
         "issueLabel": { "type": "literal" , "value": "#689" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1445" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15976-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtswissenschaft | Jurisprudence" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q382995" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtswissenschaften | legal science" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/690" } ,
+        "issueLabel": { "type": "literal" , "value": "#690" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1446" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15976-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtswissenschaft | Jurisprudence" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q126842" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtsphilosophie | philosophy of law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/690" } ,
+        "issueLabel": { "type": "literal" , "value": "#690" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1447" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15976-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtswissenschaft | Jurisprudence" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1331392" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtstheorie | legal theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/690" } ,
+        "issueLabel": { "type": "literal" , "value": "#690" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1448" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15976-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Rechtswissenschaft | Jurisprudence" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1192543" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtsdogmatik | legal doctrine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/690" } ,
+        "issueLabel": { "type": "literal" , "value": "#690" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1449" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18805-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Konzession | Concession" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7075804" } ,
+        "wdLabel": { "type": "literal" , "value": "Gewerbekonzession | occupational licensing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/691" } ,
+        "issueLabel": { "type": "literal" , "value": "#691" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
