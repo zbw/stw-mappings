@@ -18489,19 +18489,6 @@
         "wdExistsLabel": { "type": "literal" , "value": "Kosten-Volumen-Gewinn-Analyse | cost\u2013volume\u2013profit analysis" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "1404" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12514-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Deckungsbeitragsrechnung | Contribution margin" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q21653442" } ,
-        "wdLabel": { "type": "literal" , "value": "Direct Costing | Direct Costs method" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/663" } ,
-        "issueLabel": { "type": "literal" , "value": "#663" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1545019" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Deckungsbeitrag | contribution margin" }
-      } ,
-      { 
         "ln": { "type": "literal" , "value": "1405" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
@@ -19401,6 +19388,102 @@
         "wdLabel": { "type": "literal" , "value": "Personenfreizügigkeit | freedom of movement" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/693" } ,
         "issueLabel": { "type": "literal" , "value": "#693" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1454" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15998-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Grundrecht | Fundamental right" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q315575" } ,
+        "wdLabel": { "type": "literal" , "value": "Grundrechte | fundamental rights in the German Constitution" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/694" } ,
+        "issueLabel": { "type": "literal" , "value": "#694" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1455" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15998-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Grundrecht | Fundamental right" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2068570" } ,
+        "wdLabel": { "type": "literal" , "value": "Grundrechte | constitutional right" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/694" } ,
+        "issueLabel": { "type": "literal" , "value": "#694" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1456" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15998-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Grundrecht | Fundamental right" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q29556" } ,
+        "wdLabel": { "type": "literal" , "value": "Freiheitsrechte | civil liberties" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/694" } ,
+        "issueLabel": { "type": "literal" , "value": "#694" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1457" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15998-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Grundrecht | Fundamental right" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q316254" } ,
+        "wdLabel": { "type": "literal" , "value": "Gleichheitssatz | equality before the law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/694" } ,
+        "issueLabel": { "type": "literal" , "value": "#694" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1458" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15998-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Grundrecht | Fundamental right" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q162254" } ,
+        "wdLabel": { "type": "literal" , "value": "Versammlungsfreiheit | freedom of assembly" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/694" } ,
+        "issueLabel": { "type": "literal" , "value": "#694" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1459" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11349-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Koalitionsfreiheit | Freedom of association" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q781837" } ,
+        "wdLabel": { "type": "literal" , "value": "Koalitionsfreiheit | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/695" } ,
+        "issueLabel": { "type": "literal" , "value": "#695" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1460" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11349-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Koalitionsfreiheit | Freedom of association" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897031" } ,
+        "wdLabel": { "type": "literal" , "value": "Tarifautonomie | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/695" } ,
+        "issueLabel": { "type": "literal" , "value": "#695" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1461" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13422-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Verfassungsgericht | Constitutional court" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q764822" } ,
+        "wdLabel": { "type": "literal" , "value": "Verfassungsgerichtsbarkeit | constitutional review" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/696" } ,
+        "issueLabel": { "type": "literal" , "value": "#696" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
