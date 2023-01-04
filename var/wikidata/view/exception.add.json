@@ -19355,6 +19355,54 @@
         "issueLabel": { "type": "literal" , "value": "#691" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1450" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16007-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Öffentliches Recht | Public law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12719652" } ,
+        "wdLabel": { "type": "literal" , "value": "Öffentliches Recht (Deutschland) | public law (Germany)" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/692" } ,
+        "issueLabel": { "type": "literal" , "value": "#692" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1451" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15994-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Freizügigkeit | Freedom of movement" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1455018" } ,
+        "wdLabel": { "type": "literal" , "value": "Freizügigkeitsgesetz | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/693" } ,
+        "issueLabel": { "type": "literal" , "value": "#693" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1452" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15994-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Freizügigkeit | Freedom of movement" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q627297" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitnehmerfreizügigkeit | Freedom of movement for workers" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/693" } ,
+        "issueLabel": { "type": "literal" , "value": "#693" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1453" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15994-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Freizügigkeit | Freedom of movement" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1344824" } ,
+        "wdLabel": { "type": "literal" , "value": "Personenfreizügigkeit | freedom of movement" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/693" } ,
+        "issueLabel": { "type": "literal" , "value": "#693" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
