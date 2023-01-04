@@ -19486,6 +19486,66 @@
         "issueLabel": { "type": "literal" , "value": "#696" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1462" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19729-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Beschränkte Haftung | Limited liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q179050" } ,
+        "wdLabel": { "type": "literal" , "value": "Durchgriffshaftung | Piercing the corporate veil" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/697" } ,
+        "issueLabel": { "type": "literal" , "value": "#697" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1463" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29948-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Diskurstheorie | Discourse theory" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1129466" } ,
+        "wdLabel": { "type": "literal" , "value": "Diskursanalyse | discourse analysis" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/699" } ,
+        "issueLabel": { "type": "literal" , "value": "#699" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1464" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16708-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Erkenntnistheorie | Epistemology" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1355027" } ,
+        "wdLabel": { "type": "literal" , "value": "Erkenntniskritik | Critique of knowledge" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/701" } ,
+        "issueLabel": { "type": "literal" , "value": "#701" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1465" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16708-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Erkenntnistheorie | Epistemology" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q147027" } ,
+        "wdLabel": { "type": "literal" , "value": "Gedankenexperiment | thought experiment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/701" } ,
+        "issueLabel": { "type": "literal" , "value": "#701" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1466" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29932-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Ideengeschichte | History of ideas" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1499017" } ,
+        "wdLabel": { "type": "literal" , "value": "Geistesgeschichte | Geistesgeschichte" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/702" } ,
+        "issueLabel": { "type": "literal" , "value": "#702" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
