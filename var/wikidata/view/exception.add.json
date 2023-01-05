@@ -19618,6 +19618,54 @@
         "issueLabel": { "type": "literal" , "value": "#704" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1473" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16029-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Erbrecht | Inheritance law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897012" } ,
+        "wdLabel": { "type": "literal" , "value": "Erbfolge | legal succession" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/705" } ,
+        "issueLabel": { "type": "literal" , "value": "#705" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1474" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16029-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Erbrecht | Inheritance law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q319530" } ,
+        "wdLabel": { "type": "literal" , "value": "Erbschein | certificate of inheritance" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/705" } ,
+        "issueLabel": { "type": "literal" , "value": "#705" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1475" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16029-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Erbrecht | Inheritance law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1348562" } ,
+        "wdLabel": { "type": "literal" , "value": "Erbvertrag | testamentary contract" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/705" } ,
+        "issueLabel": { "type": "literal" , "value": "#705" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1476" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16029-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Erbrecht | Inheritance law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q155656" } ,
+        "wdLabel": { "type": "literal" , "value": "Testament | will" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/705" } ,
+        "issueLabel": { "type": "literal" , "value": "#705" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
