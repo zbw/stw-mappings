@@ -19666,6 +19666,90 @@
         "issueLabel": { "type": "literal" , "value": "#705" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1477" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1334046" } ,
+        "wdLabel": { "type": "literal" , "value": "elterliche Gewalt | parental authority" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1478" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q82749" } ,
+        "wdLabel": { "type": "literal" , "value": "Familiengericht | family court" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1479" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q355736" } ,
+        "wdLabel": { "type": "literal" , "value": "Gütergemeinschaft | community property" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1480" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180472" } ,
+        "wdLabel": { "type": "literal" , "value": "Adoption | adoption" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1481" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q526834" } ,
+        "wdLabel": { "type": "literal" , "value": "Gütertrennung | separation of property" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1482" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1248021" } ,
+        "wdLabel": { "type": "literal" , "value": "Versorgungsausgleich | pension rights adjustment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1483" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16030-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q108466280" } ,
+        "wdLabel": { "type": "literal" , "value": "Vormundschaft | legal guardianship" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
+        "issueLabel": { "type": "literal" , "value": "#706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
