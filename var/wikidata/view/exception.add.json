@@ -10609,7 +10609,7 @@
         "stwLabel": { "type": "literal" , "value": "Insolvenz | Insolvency" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3709121" } ,
-        "wdLabel": { "type": "literal" , "value": "Insolvenzordnung | Bankruptcy Code" } ,
+        "wdLabel": { "type": "literal" , "value": "Insolvenzordnung | bankruptcy code" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/379" } ,
         "issueLabel": { "type": "literal" , "value": "#379" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
