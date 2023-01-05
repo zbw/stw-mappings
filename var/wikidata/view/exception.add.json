@@ -19546,6 +19546,54 @@
         "issueLabel": { "type": "literal" , "value": "#702" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1467" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11771-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Enteignung | Expropriation" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q86757" } ,
+        "wdLabel": { "type": "literal" , "value": "Enteignung | expropriation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/703" } ,
+        "issueLabel": { "type": "literal" , "value": "#703" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1468" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11771-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Enteignung | Expropriation" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3044872" } ,
+        "wdLabel": { "type": "literal" , "value": "Enteignung | dispossession" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/703" } ,
+        "issueLabel": { "type": "literal" , "value": "#703" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1469" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11771-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Enteignung | Expropriation" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3044872" } ,
+        "wdLabel": { "type": "literal" , "value": "Enteignung | dispossession" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/703" } ,
+        "issueLabel": { "type": "literal" , "value": "#703" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1470" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11771-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Enteignung | Expropriation" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q664017" } ,
+        "wdLabel": { "type": "literal" , "value": "Arisierung | Aryanization" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/703" } ,
+        "issueLabel": { "type": "literal" , "value": "#703" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
