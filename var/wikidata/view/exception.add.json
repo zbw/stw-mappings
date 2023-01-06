@@ -19834,6 +19834,54 @@
         "issueLabel": { "type": "literal" , "value": "#709" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1491" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16034-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Produkthaftung | Product liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15841057" } ,
+        "wdLabel": { "type": "literal" , "value": "Produzentenhaftung | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/710" } ,
+        "issueLabel": { "type": "literal" , "value": "#710" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1492" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16034-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Produkthaftung | Product liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q359495" } ,
+        "wdLabel": { "type": "literal" , "value": "Rückrufaktion | product recall" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/710" } ,
+        "issueLabel": { "type": "literal" , "value": "#710" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1493" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16034-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Produkthaftung | Product liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q127191" } ,
+        "wdLabel": { "type": "literal" , "value": "Produkthaftungsgesetz | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/710" } ,
+        "issueLabel": { "type": "literal" , "value": "#710" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1494" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16034-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Produkthaftung | Product liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27897621" } ,
+        "wdLabel": { "type": "literal" , "value": "Produkthaftung | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/710" } ,
+        "issueLabel": { "type": "literal" , "value": "#710" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
