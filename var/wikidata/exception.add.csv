@@ -1481,9 +1481,10 @@ stw:,rel,wd:,issue,note
 16030-4,>,Q526834,#706,Mehrfachmatch
 16030-4,>,Q1248021,#706,Mehrfachmatch
 16030-4,>,Q108466280,#706,Mehrfachmatch
-19088-0,>,Q10548618,#707,Mehrfachmatch
+19088-0,*,Q10548618,#707,Mehrfachmatch
 19088-0,>,Q1345925,#707,Mehrfachmatch
 18067-6,>,Q19284669, #708,Mehrfachmatch
 18067-6,>,Q1326512, #708,Mehrfachmatch
 18067-6,>,Q1568195, #708,Mehrfachmatch
-
+19118-3,*,Q10552154,#709,Mehrfachmatch
+19118-3,>,Q1054726,#709,Mehrfachmatch
