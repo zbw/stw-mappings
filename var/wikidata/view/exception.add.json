@@ -19750,6 +19750,90 @@
         "issueLabel": { "type": "literal" , "value": "#706" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1484" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19088-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Gläubiger | Creditors" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10548618" } ,
+        "wdLabel": { "type": "literal" , "value": "Kreditor | vendor" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/707" } ,
+        "issueLabel": { "type": "literal" , "value": "#707" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1485" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19088-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Gläubiger | Creditors" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1345925" } ,
+        "wdLabel": { "type": "literal" , "value": "Kreditgeber | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/707" } ,
+        "issueLabel": { "type": "literal" , "value": "#707" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1486" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18067-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Haftung | Liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19284669" } ,
+        "wdLabel": { "type": "literal" , "value": "Haftung | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/708" } ,
+        "issueLabel": { "type": "literal" , "value": " #708" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1487" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18067-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Haftung | Liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1326512" } ,
+        "wdLabel": { "type": "literal" , "value": "Haftung | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/708" } ,
+        "issueLabel": { "type": "literal" , "value": " #708" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1488" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18067-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Haftung | Liability" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1568195" } ,
+        "wdLabel": { "type": "literal" , "value": "Haftpflichtgesetz | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/708" } ,
+        "issueLabel": { "type": "literal" , "value": " #708" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1489" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19118-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Kauf | Purchase" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10552154" } ,
+        "wdLabel": { "type": "literal" , "value": "Kauf | Purchase" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/709" } ,
+        "issueLabel": { "type": "literal" , "value": "#709" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1490" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19118-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Kauf | Purchase" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1054726" } ,
+        "wdLabel": { "type": "literal" , "value": "Kaufvertrag | contract of sale" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/709" } ,
+        "issueLabel": { "type": "literal" , "value": "#709" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
