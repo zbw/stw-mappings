@@ -20783,6 +20783,66 @@
         "issueLabel": { "type": "literal" , "value": "#746" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1570" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19747-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Ästhetik | Aesthetics" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7242" } ,
+        "wdLabel": { "type": "literal" , "value": "Schönheit | beauty" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/748" } ,
+        "issueLabel": { "type": "literal" , "value": "#748" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1571" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29939-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Östliche Philosophie | Eastern philosophy" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9598" } ,
+        "wdLabel": { "type": "literal" , "value": "Daoismus | Taoism" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/749" } ,
+        "issueLabel": { "type": "literal" , "value": "#749" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1572" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29939-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Östliche Philosophie | Eastern philosophy" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q812767" } ,
+        "wdLabel": { "type": "literal" , "value": "Shintō | Shinto" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/750" } ,
+        "issueLabel": { "type": "literal" , "value": "#750" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1573" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19743-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Holismus | Holistic approach" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1925511" } ,
+        "wdLabel": { "type": "literal" , "value": "Methodologischer Kollektivismus | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/751" } ,
+        "issueLabel": { "type": "literal" , "value": "#751" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1574" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16716-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Logik | Logic" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1003009" } ,
+        "wdLabel": { "type": "literal" , "value": "formale Logik | formal logic" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/752" } ,
+        "issueLabel": { "type": "literal" , "value": "#752" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
