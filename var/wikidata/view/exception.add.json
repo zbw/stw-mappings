@@ -20675,6 +20675,42 @@
         "issueLabel": { "type": "literal" , "value": "#741" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1561" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18726-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Aktienstimmrecht | Shareholder voting rights" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1191864" } ,
+        "wdLabel": { "type": "literal" , "value": "Depotstimmrecht | proxy voting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/742" } ,
+        "issueLabel": { "type": "literal" , "value": "#742" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1562" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16053-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Gewerblicher Rechtsschutz | Industrial property rights" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q23006439" } ,
+        "wdLabel": { "type": "literal" , "value": "Kennzeichenrecht | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/743" } ,
+        "issueLabel": { "type": "literal" , "value": "#743" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1563" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13464-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Handelsrecht | Commercial law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q314649" } ,
+        "wdLabel": { "type": "literal" , "value": "Handelsgesetzbuch | Handelsgesetzbuch" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/744" } ,
+        "issueLabel": { "type": "literal" , "value": "#744" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
