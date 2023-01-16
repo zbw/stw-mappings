@@ -20711,6 +20711,78 @@
         "issueLabel": { "type": "literal" , "value": "#744" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1564" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16051-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Kartellrecht | Antitrust law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q657534" } ,
+        "wdLabel": { "type": "literal" , "value": "Essential-Facilities-Doktrin | Essential facilities doctrine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/745" } ,
+        "issueLabel": { "type": "literal" , "value": "#745" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1565" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16051-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Kartellrecht | Antitrust law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1432678" } ,
+        "wdLabel": { "type": "literal" , "value": "Gesetz gegen Wettbewerbsbeschränkungen | Gesetz gegen Wettbewerbsbeschränkungen" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/745" } ,
+        "issueLabel": { "type": "literal" , "value": "#745" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1566" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16051-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Kartellrecht | Antitrust law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1432678" } ,
+        "wdLabel": { "type": "literal" , "value": "Gesetz gegen Wettbewerbsbeschränkungen | Gesetz gegen Wettbewerbsbeschränkungen" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/745" } ,
+        "issueLabel": { "type": "literal" , "value": "#745" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1567" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10478-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Patent | Patent" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q302753" } ,
+        "wdLabel": { "type": "literal" , "value": "Patentpool | Patent pool" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/746" } ,
+        "issueLabel": { "type": "literal" , "value": "#746" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1568" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10481-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Patentrecht | Patent law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2056721" } ,
+        "wdLabel": { "type": "literal" , "value": "Patentgesetz | German patent law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/746" } ,
+        "issueLabel": { "type": "literal" , "value": "#746" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1569" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10481-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Patentrecht | Patent law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1148446" } ,
+        "wdLabel": { "type": "literal" , "value": "Patentamt | patent office" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/746" } ,
+        "issueLabel": { "type": "literal" , "value": "#746" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
