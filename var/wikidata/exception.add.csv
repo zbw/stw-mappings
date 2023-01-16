@@ -1478,7 +1478,7 @@ stw:,rel,wd:,issue,note
 16030-4,>,Q82749,#706,Mehrfachmatch
 16030-4,>,Q355736,#706,Mehrfachmatch
 16030-4,>,Q180472,#706,Mehrfachmatch
-16030-4,>,Q526834,#706,Mehrfachmatch
+16203-616030-4,>,Q526834,#706,Mehrfachmatch
 16030-4,>,Q1248021,#706,Mehrfachmatch
 16030-4,>,Q108466280,#706,Mehrfachmatch
 19088-0,*,Q10548618,#707,Mehrfachmatch
@@ -1543,3 +1543,6 @@ stw:,rel,wd:,issue,note
 16039-0,>,Q292247,#735,Mehrfachmatch
 16039-0,>,Q34582,#735,Mehrfachmatch
 16039-0,>,Q258906,#735,Mehrfachmatch
+16203-6,>,Q157188,#736,Mehrfachmatch
+6203-6,>,Q1932346,#736,Mehrfachmatch
+
