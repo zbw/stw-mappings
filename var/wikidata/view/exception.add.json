@@ -20927,6 +20927,55 @@
         "issueLabel": { "type": "literal" , "value": "#756" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1582" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19315-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Internationales Investitionsrecht | International investment law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1671773" } ,
+        "wdLabel": { "type": "literal" , "value": "Investitionsschutzabkommen | Bilateral Investment Treaty" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/757" } ,
+        "issueLabel": { "type": "literal" , "value": "#757" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116234562" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Internationales Investitionsrecht | international investment law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1583" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19326-3" } ,
+        "stwLabel": { "type": "literal" , "value": "WTO-Recht | WTO law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1207038" } ,
+        "wdLabel": { "type": "literal" , "value": "Inländerbehandlung | national treatment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/758" } ,
+        "issueLabel": { "type": "literal" , "value": "#758" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1584" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11532-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Finanzgericht | Tax court" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1416362" } ,
+        "wdLabel": { "type": "literal" , "value": "Finanzgerichtsbarkeit | jurisdiction of the tax courts" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/759" } ,
+        "issueLabel": { "type": "literal" , "value": "#759" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1585" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11532-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Finanzgericht | Tax court" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1416365" } ,
+        "wdLabel": { "type": "literal" , "value": "Finanzgerichtsordnung | Tax Court Code" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/759" } ,
+        "issueLabel": { "type": "literal" , "value": "#759" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
