@@ -20903,6 +20903,30 @@
         "issueLabel": { "type": "literal" , "value": "#754" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1580" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18790-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Internationale Schiedsgerichtsbarkeit | International commercial arbitration" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2563566" } ,
+        "wdLabel": { "type": "literal" , "value": "Wertpapierprospektgesetz | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/755" } ,
+        "issueLabel": { "type": "literal" , "value": "#755" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1581" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19329-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Internationales Handelsrecht | International trade law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1196344" } ,
+        "wdLabel": { "type": "literal" , "value": "UN-Kaufrecht | United Nations Convention on Contracts for the International Sale of Goods" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/756" } ,
+        "issueLabel": { "type": "literal" , "value": "#756" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
