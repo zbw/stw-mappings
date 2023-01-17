@@ -20843,6 +20843,54 @@
         "issueLabel": { "type": "literal" , "value": "#752" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1575" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10910-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Unlauterer Wettbewerb | Unfair competition" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1296353" } ,
+        "wdLabel": { "type": "literal" , "value": "Gesetz gegen den unlauteren Wettbewerb | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/753" } ,
+        "issueLabel": { "type": "literal" , "value": "#753" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1576" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10910-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Unlauterer Wettbewerb | Unfair competition" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1808662" } ,
+        "wdLabel": { "type": "literal" , "value": "Lauterkeitsrecht | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/753" } ,
+        "issueLabel": { "type": "literal" , "value": "#753" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1577" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10910-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Unlauterer Wettbewerb | Unfair competition" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3401418" } ,
+        "wdLabel": { "type": "literal" , "value": "wettbewerbswidrige Praktiken | anti-competitive practices" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/753" } ,
+        "issueLabel": { "type": "literal" , "value": "#753" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1578" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10910-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Unlauterer Wettbewerb | Unfair competition" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q693033" } ,
+        "wdLabel": { "type": "literal" , "value": "unlauterer Wettbewerb | unfair competition" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/753" } ,
+        "issueLabel": { "type": "literal" , "value": "#753" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

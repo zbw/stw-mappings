@@ -1577,3 +1577,7 @@ stw:29939-6 skos:narrowMatch wd:Q9598 .
 stw:29939-6 skos:narrowMatch wd:Q812767 .
 stw:19743-1 skos:closeMatch wd:Q1925511 .
 stw:16716-5 skos:narrowMatch wd:Q1003009 .
+stw:10910-4 skos:narrowMatch wd:Q1296353 .
+stw:10910-4 skos:narrowMatch wd:Q1808662 .
+stw:10910-4 skos:narrowMatch wd:Q3401418 .
+stw:10910-4 skos:narrowMatch wd:Q693033 .
