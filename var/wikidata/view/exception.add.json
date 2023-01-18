@@ -21356,6 +21356,66 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1617" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16726-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Methodenkritik | Methodological criticism" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1796820" } ,
+        "wdLabel": { "type": "literal" , "value": "Methodenstreit | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/771" } ,
+        "issueLabel": { "type": "literal" , "value": "#771" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1618" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16730-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Werturteil | Value judgement" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2563485" } ,
+        "wdLabel": { "type": "literal" , "value": "Wertfreiheit | axiological neutrality" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/772" } ,
+        "issueLabel": { "type": "literal" , "value": "#772" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1619" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16730-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Werturteil | Value judgement" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q918562" } ,
+        "wdLabel": { "type": "literal" , "value": "Werturteilsstreit | Werturteilsstreit" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/772" } ,
+        "issueLabel": { "type": "literal" , "value": "#772" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1620" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16727-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Wissenschaftliche Methode | Scientific method" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1438073" } ,
+        "wdLabel": { "type": "literal" , "value": "Forschungsmethode | research method" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/773" } ,
+        "issueLabel": { "type": "literal" , "value": "#773" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1621" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29445-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Wissenschaftliche Publikation | Academic publication" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5246046" } ,
+        "wdLabel": { "type": "literal" , "value": "wissenschaftliches Publizieren | academic publishing" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/774" } ,
+        "issueLabel": { "type": "literal" , "value": "#774" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
