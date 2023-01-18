@@ -21291,6 +21291,71 @@
         "issueLabel": { "type": "literal" , "value": "#769" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1612" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19860-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | Crimes against international law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1328552" } ,
+        "wdLabel": { "type": "literal" , "value": "Internationale Menschenrechtscharta | International Bill of Human Rights" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/770" } ,
+        "issueLabel": { "type": "literal" , "value": "#770" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1613" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19860-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | Crimes against international law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q173462" } ,
+        "wdLabel": { "type": "literal" , "value": "Verbrechen gegen die Menschlichkeit | crime against humanity" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/770" } ,
+        "issueLabel": { "type": "literal" , "value": "#770" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1614" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19860-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | Crimes against international law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41397" } ,
+        "wdLabel": { "type": "literal" , "value": "Völkermord | genocide" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/770" } ,
+        "issueLabel": { "type": "literal" , "value": "#770" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1615" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19860-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | Crimes against international law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1055905" } ,
+        "wdLabel": { "type": "literal" , "value": "Völkerstrafrecht | international criminal law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/770" } ,
+        "issueLabel": { "type": "literal" , "value": "#770" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1616" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19860-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | Crimes against international law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
+        "wdLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/770" } ,
+        "issueLabel": { "type": "literal" , "value": "#770" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116250089" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Völkerrechtsverbrechen | crimes against international law" }
       }
     ]
   }
