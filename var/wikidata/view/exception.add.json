@@ -21048,6 +21048,18 @@
         "issueLabel": { "type": "literal" , "value": "#762" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1592" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11710-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Ursprungsregeln | Rules of origin" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q379866" } ,
+        "wdLabel": { "type": "literal" , "value": "Herkunftslandprinzip | Country of origin principle" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/763" } ,
+        "issueLabel": { "type": "literal" , "value": "#763" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
