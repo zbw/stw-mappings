@@ -21060,6 +21060,66 @@
         "issueLabel": { "type": "literal" , "value": "#763" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1593" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16122-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Zollrecht | Customs law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4450935" } ,
+        "wdLabel": { "type": "literal" , "value": "Zollverfahren | customs procedure" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/764" } ,
+        "issueLabel": { "type": "literal" , "value": "#764" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1594" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16122-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Zollrecht | Customs law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q103816936" } ,
+        "wdLabel": { "type": "literal" , "value": "Zollkodex der Union | Union Customs Code" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/764" } ,
+        "issueLabel": { "type": "literal" , "value": "#764" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1595" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29752-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Antidiskriminierungsrecht | Anti-discrimination law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2648968" } ,
+        "wdLabel": { "type": "literal" , "value": "Allgemeines Gleichbehandlungsgesetz | Allgemeines Gleichbehandlungsgestz" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/765" } ,
+        "issueLabel": { "type": "literal" , "value": "#765" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1596" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29752-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Antidiskriminierungsrecht | Anti-discrimination law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q214244" } ,
+        "wdLabel": { "type": "literal" , "value": "Affirmative Action | affirmative action" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/765" } ,
+        "issueLabel": { "type": "literal" , "value": "#765" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1597" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29752-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Antidiskriminierungsrecht | Anti-discrimination law" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1228909" } ,
+        "wdLabel": { "type": "literal" , "value": "Diskriminierungsverbot | nondiscrimination rule" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/765" } ,
+        "issueLabel": { "type": "literal" , "value": "#765" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
