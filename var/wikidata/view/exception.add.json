@@ -21944,6 +21944,42 @@
         "issueLabel": { "type": "literal" , "value": "#794" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1666" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16732-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Wissenschaftstheorie | Philosophy of science" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2586267" } ,
+        "wdLabel": { "type": "literal" , "value": "Wissenschaftskunde | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/795" } ,
+        "issueLabel": { "type": "literal" , "value": "#795" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmach" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1667" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29935-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Zitationsanalyse | Citation analysis" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q206290" } ,
+        "wdLabel": { "type": "literal" , "value": "Zitationsdatenbank | citation index" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/796" } ,
+        "issueLabel": { "type": "literal" , "value": "#796" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmach " } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1668" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29935-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Zitationsanalyse | Citation analysis" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5330" } ,
+        "wdLabel": { "type": "literal" , "value": "Impact Factor | impact factor" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/796" } ,
+        "issueLabel": { "type": "literal" , "value": "#796" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
