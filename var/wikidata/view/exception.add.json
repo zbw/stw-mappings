@@ -21428,6 +21428,42 @@
         "issueLabel": { "type": "literal" , "value": "#775" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1623" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30058-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Erpressung | Extortion" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34284" } ,
+        "wdLabel": { "type": "literal" , "value": "Chantage | blackmail" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/776" } ,
+        "issueLabel": { "type": "literal" , "value": "#776" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1624" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11419-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Geldfälschung | Money counterfeiting" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q854851" } ,
+        "wdLabel": { "type": "literal" , "value": "Falschgeld | counterfeit money" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/777" } ,
+        "issueLabel": { "type": "literal" , "value": "#777" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1625" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30142-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Geldstrafe | Fine" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1243001" } ,
+        "wdLabel": { "type": "literal" , "value": "Buße | fine" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/778" } ,
+        "issueLabel": { "type": "literal" , "value": "#778" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
