@@ -21536,6 +21536,138 @@
         "issueLabel": { "type": "literal" , "value": "#781" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1632" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19814-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Organisierte Kriminalität | Organized crime" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q468804" } ,
+        "wdLabel": { "type": "literal" , "value": "Camorra | Camorra" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/782" } ,
+        "issueLabel": { "type": "literal" , "value": "#782" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1633" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19814-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Organisierte Kriminalität | Organized crime" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18550" } ,
+        "wdLabel": { "type": "literal" , "value": "Mafia | mafia" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/782" } ,
+        "issueLabel": { "type": "literal" , "value": "#782" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1634" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19814-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Organisierte Kriminalität | Organized crime" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q125752" } ,
+        "wdLabel": { "type": "literal" , "value": "La Cosa Nostra | American Mafia" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/782" } ,
+        "issueLabel": { "type": "literal" , "value": "#782" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1635" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19814-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Organisierte Kriminalität | Organized crime" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q425698" } ,
+        "wdLabel": { "type": "literal" , "value": "Ndrangheta | 'Ndrangheta" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/782" } ,
+        "issueLabel": { "type": "literal" , "value": "#782" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1636" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19813-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Strafe | Punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8454" } ,
+        "wdLabel": { "type": "literal" , "value": "Todesstrafe | capital punishment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/783" } ,
+        "issueLabel": { "type": "literal" , "value": "#783" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1637" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16504-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Straffreiheit | Exemption from punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q185943" } ,
+        "wdLabel": { "type": "literal" , "value": "Amnestie | amnesty" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/784" } ,
+        "issueLabel": { "type": "literal" , "value": "#784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1638" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16504-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Straffreiheit | Exemption from punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q537151" } ,
+        "wdLabel": { "type": "literal" , "value": "Gnadenbefugnis | pardon" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/784" } ,
+        "issueLabel": { "type": "literal" , "value": "#784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1639" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16504-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Straffreiheit | Exemption from punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q322732" } ,
+        "wdLabel": { "type": "literal" , "value": "Abolition | abolition" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/784" } ,
+        "issueLabel": { "type": "literal" , "value": "#784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1640" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16504-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Straffreiheit | Exemption from punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2745341" } ,
+        "wdLabel": { "type": "literal" , "value": "Impunität | impunity" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/784" } ,
+        "issueLabel": { "type": "literal" , "value": "#784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1641" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16504-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Straffreiheit | Exemption from punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2352796" } ,
+        "wdLabel": { "type": "literal" , "value": "Straferlass | pardon" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/784" } ,
+        "issueLabel": { "type": "literal" , "value": "#784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1642" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16504-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Straffreiheit | Exemption from punishment" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q146491" } ,
+        "wdLabel": { "type": "literal" , "value": "Strafrecht | criminal law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/785" } ,
+        "issueLabel": { "type": "literal" , "value": "#785" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
