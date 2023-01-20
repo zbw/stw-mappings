@@ -21992,6 +21992,90 @@
         "issueLabel": { "type": "literal" , "value": "#797" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1670" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13410-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2177151" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatsanwaltschaft | public prosecution" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1671" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13410-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1092499" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatsanwaltschaft | prosecutors office" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1672" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13410-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18626769" } ,
+        "wdLabel": { "type": "literal" , "value": "Justizbehörde | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1673" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13410-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16514399" } ,
+        "wdLabel": { "type": "literal" , "value": "Justizverwaltung | administration of justice" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1674" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13410-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1522168" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtspflege | justice and judicial activities" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1675" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13410-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q61092682" } ,
+        "wdLabel": { "type": "literal" , "value": "Gerichtsverwaltung | court administration" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1676" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28353-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Konfliktregelung | Dispute settlement" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1640893" } ,
+        "wdLabel": { "type": "literal" , "value": "Konfliktmanagement | conflict management" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
+        "issueLabel": { "type": "literal" , "value": "#798" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

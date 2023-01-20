@@ -1672,3 +1672,10 @@ stw:16732-0 skos:relatedMatch wd:Q2586267 .
 stw:29935-0 skos:relatedMatch wd:Q206290 .
 stw:29935-0 skos:narrowMatch wd:Q5330 .
 stw:13410-2 skos:narrowMatch wd:Q41487 .
+stw:13410-2 skos:narrowMatch wd:Q2177151 .
+stw:13410-2 skos:narrowMatch wd:Q1092499 .
+stw:13410-2 skos:narrowMatch wd:Q18626769 .
+stw:13410-2 skos:narrowMatch wd:Q16514399 .
+stw:13410-2 skos:narrowMatch wd:Q1522168 .
+stw:13410-2 skos:narrowMatch wd:Q61092682 .
+stw:28353-6 skos:narrowMatch wd:Q1640893 .
