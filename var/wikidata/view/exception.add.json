@@ -8179,7 +8179,7 @@
         "stwLabel": { "type": "literal" , "value": "Entscheidungstheorie | Decision theory" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5249242" } ,
-        "wdLabel": { "type": "literal" , "value": " | Decision model" } ,
+        "wdLabel": { "type": "literal" , "value": " | decision model" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/281" } ,
         "issueLabel": { "type": "literal" , "value": "#281" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
