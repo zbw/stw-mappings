@@ -14991,7 +14991,7 @@
         "issueLabel": { "type": "literal" , "value": "#541" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q365276" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "g | intermediatption" }
+        "wdExistsLabel": { "type": "literal" , "value": "Vorleistung | intermediate consumption" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1135" } ,
@@ -15004,7 +15004,7 @@
         "issueLabel": { "type": "literal" , "value": "#541" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q365276" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "g | intermediatption" }
+        "wdExistsLabel": { "type": "literal" , "value": "Vorleistung | intermediate consumption" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1136" } ,
@@ -15017,7 +15017,7 @@
         "issueLabel": { "type": "literal" , "value": "#541" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q365276" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "g | intermediatption" }
+        "wdExistsLabel": { "type": "literal" , "value": "Vorleistung | intermediate consumption" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1137" } ,
