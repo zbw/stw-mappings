@@ -7906,7 +7906,7 @@
         "stwLabel": { "type": "literal" , "value": "Mittleres Management | Middle management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5483094" } ,
-        "wdLabel": { "type": "literal" , "value": "Linienmanagement | line management" } ,
+        "wdLabel": { "type": "literal" , "value": "Produktionslinienmanagement | line management" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/274" } ,
         "issueLabel": { "type": "literal" , "value": "#274" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
