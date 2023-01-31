@@ -1792,9 +1792,18 @@ stw:,rel,wd:,issue,note
 11111-1,<,Q3187415,#845,Mehrfachmatch
 11111-1,>,Q1497178,#845,Mehrfachmatch
 11111-1,^,Q1935127,#845,Mehrfachmatch
-
-
-
-
+19635-4,^,Q50675,#846,Mehrfachmatch
+15694-1,^,Q50637,#847,Mehrfachmatch
+15694-1,>,Q1920942,#847,Mehrfachmatch
+15696-4,>,Q202763,#848,Mehrfachmatch
+15696-4,^,Q146246,#848,Mehrfachmatch
+15696-4,>,Q212685,#848,Mehrfachmatch
+15696-4,>,Q212976,#848,Mehrfachmatch
+30016-2,>,Q5308718,#849,Mehrfachmatch
+15699-5,>,Q695827,#850,Mehrfachmatch
+30021-2,*,Q18882,#851,Mehrfachmatch
+30020-4,>,Q361,#852,Mehrfachmatch
+30020-4,>,Q362,#852,Mehrfachmatch
+19784-1,>,Q186408,#853,Mehrfachmatch
 
 
