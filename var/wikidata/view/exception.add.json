@@ -1132,7 +1132,7 @@
         "issueLabel": { "type": "literal" , "value": "#74" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3342808" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kokosnuss | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Kokosnuss | coconut" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "84" } ,
