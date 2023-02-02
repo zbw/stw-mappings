@@ -1,8 +1,8 @@
 PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 #
 stw:30083-1 skos:narrowMatch wd:Q4127 .
 stw:12964-6 skos:closeMatch wd:Q14373 .
@@ -1810,3 +1810,37 @@ stw:30021-2 skos:closeMatch wd:Q18882 .
 stw:30020-4 skos:narrowMatch wd:Q361 .
 stw:30020-4 skos:narrowMatch wd:Q362 .
 stw:19784-1 skos:narrowMatch wd:Q186408 .
+stw:19229-1 skos:narrowMatch wd:Q1873049 .
+stw:10246-4 skos:closeMatch wd:Q1849533 .
+stw:10282-0 skos:narrowMatch wd:Q7310794 .
+stw:10282-0 skos:narrowMatch wd:Q4669820 .
+stw:10010-5 skos:broadMatch wd:Q1804516 .
+stw:11571-2 skos:narrowMatch wd:Q627301 .
+stw:10285-1 skos:narrowMatch wd:Q1661238 .
+stw:11751-0 skos:relatedMatch wd:Q3154018 .
+stw:30203-3 skos:narrowMatch wd:Q1371297 .
+stw:10438-2 skos:closeMatch wd:Q1671755 .
+stw:10438-2 skos:narrowMatch wd:Q1671765 .
+stw:10811-6 skos:relatedMatch wd:Q5441656 .
+stw:10126-0 skos:narrowMatch wd:Q7998451 .
+stw:10126-0 skos:narrowMatch wd:Q1424453 .
+stw:10440-1 skos:relatedMatch wd:Q628211 .
+stw:11186-5 skos:narrowMatch wd:Q4431071 .
+stw:11735-5 skos:relatedMatch wd:Q5055020 .
+stw:10243-3 skos:relatedMatch wd:Q2918662 .
+stw:10265-0 skos:narrowMatch wd:Q1752134 .
+stw:10265-0 skos:narrowMatch wd:Q6803767 .
+stw:10265-0 skos:narrowMatch wd:Q15853126 .
+stw:10028-0 skos:narrowMatch wd:Q994873 .
+stw:10377-3 skos:narrowMatch wd:Q877530 .
+stw:10377-3 skos:narrowMatch wd:Q608537 .
+stw:11551-1 skos:relatedMatch wd:Q1021668 .
+stw:10383-1 skos:relatedMatch wd:Q1962298 .
+stw:11004-2 skos:narrowMatch wd:Q7909351 .
+stw:11004-2 skos:narrowMatch wd:Q441635 .
+stw:15075-1 skos:narrowMatch wd:Q9378373 .
+stw:10381-5 skos:narrowMatch wd:Q17010135 .
+stw:10381-5 skos:relatedMatch wd:Q3559147 .
+stw:10381-5 skos:relatedMatch wd:Q27518349 .
+stw:10338-6 skos:narrowMatch wd:Q176494 .
+stw:10338-6 skos:narrowMatch wd:Q1814941 .
