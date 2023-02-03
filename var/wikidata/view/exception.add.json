@@ -18559,7 +18559,7 @@
         "stwLabel": { "type": "literal" , "value": "Gewinn | Profit" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5157006" } ,
-        "wdLabel": { "type": "literal" , "value": "Konzerngesamtergebnis | Comprehensive income" } ,
+        "wdLabel": { "type": "literal" , "value": "Konzerngesamtergebnis | comprehensive income" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/666" } ,
         "issueLabel": { "type": "literal" , "value": "#666" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
