@@ -9497,7 +9497,7 @@
         "issueLabel": { "type": "literal" , "value": "#331" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3622646" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kritische Managementstudien | Critical management studies" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kritische Managementstudien | critical management studies" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "711" } ,
