@@ -24150,7 +24150,7 @@
         "stwLabel": { "type": "literal" , "value": "Bevölkerungswachstum | Population growth" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q851982" } ,
-        "wdLabel": { "type": "literal" , "value": "Bevölkerungsexplosion | population explosion" } ,
+        "wdLabel": { "type": "literal" , "value": "Bevölkerungsexplosion | human population explosion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/882" } ,
         "issueLabel": { "type": "literal" , "value": "#882" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
