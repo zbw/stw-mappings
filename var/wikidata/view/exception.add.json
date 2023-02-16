@@ -10882,7 +10882,7 @@
         "stwLabel": { "type": "literal" , "value": "Übernahme | Takeover" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q731112" } ,
-        "wdLabel": { "type": "literal" , "value": "mergers & acquisitions | mergers and acquisitions" } ,
+        "wdLabel": { "type": "literal" , "value": "Mergers & Acquisitions | mergers and acquisitions" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/387" } ,
         "issueLabel": { "type": "literal" , "value": "#387" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
