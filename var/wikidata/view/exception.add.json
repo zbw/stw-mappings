@@ -3062,7 +3062,7 @@
         "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q228039" } ,
-        "wdLabel": { "type": "literal" , "value": "Schloss | lock" } ,
+        "wdLabel": { "type": "literal" , "value": "Schloss (Technik) | lock" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
         "issueLabel": { "type": "literal" , "value": "#123" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
