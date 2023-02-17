@@ -1036,7 +1036,7 @@
         "stwLabel": { "type": "literal" , "value": "Ananas | Pineapple" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10817602" } ,
-        "wdLabel": { "type": "literal" , "value": "Ananas | " } ,
+        "wdLabel": { "type": "literal" , "value": "Ananas | pineapple" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/71" } ,
         "issueLabel": { "type": "literal" , "value": "#71" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
