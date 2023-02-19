@@ -7024,7 +7024,7 @@
         "stwLabel": { "type": "literal" , "value": "Einkommensteuer | Income tax" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1308205" } ,
-        "wdLabel": { "type": "literal" , "value": "Einkommensteuergesetz | " } ,
+        "wdLabel": { "type": "literal" , "value": "Einkommensteuergesetz | Income Tax Act" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/244" } ,
         "issueLabel": { "type": "literal" , "value": "#244" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
