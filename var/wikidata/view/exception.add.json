@@ -21855,7 +21855,7 @@
         "stwLabel": { "type": "literal" , "value": "IT-Kriminalität | IT crime" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1668028" } ,
-        "wdLabel": { "type": "literal" , "value": "Internetkriminalität | " } ,
+        "wdLabel": { "type": "literal" , "value": "Internetkriminalität | Internet crim" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/790" } ,
         "issueLabel": { "type": "literal" , "value": "#790" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
