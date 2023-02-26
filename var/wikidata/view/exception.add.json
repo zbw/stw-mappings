@@ -139,7 +139,7 @@
         "stwLabel": { "type": "literal" , "value": "Ehrenamtliche Arbeit | Voluntary work" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q24716636" } ,
-        "wdLabel": { "type": "literal" , "value": "ehrenamtlicher Mitarbeiter | volunteer" } ,
+        "wdLabel": { "type": "literal" , "value": "ehrenamtlicher Mitarbeiter | Q24716636" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
