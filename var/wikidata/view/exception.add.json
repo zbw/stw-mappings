@@ -22443,7 +22443,7 @@
         "stwLabel": { "type": "literal" , "value": "Analysis | Mathematical analysis" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2338709" } ,
-        "wdLabel": { "type": "literal" , "value": "Infinitesimalrechnung I | history of calculus" } ,
+        "wdLabel": { "type": "literal" , "value": "Infinitesimalrechnung I | History of calculus" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/810" } ,
         "issueLabel": { "type": "literal" , "value": "#810" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
