@@ -682,7 +682,7 @@
       { 
         "ln": { "type": "literal" , "value": "49" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14722-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | Genetically modified product" } ,
+        "stwLabel": { "type": "literal" , "value": "Gentechnisch erzeugtes Produkt | Genetically modified product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q679692" } ,
         "wdLabel": { "type": "literal" , "value": "Biopharmazeutikum | biopharmaceutical" } ,
@@ -695,7 +695,7 @@
       { 
         "ln": { "type": "literal" , "value": "50" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14722-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | Genetically modified product" } ,
+        "stwLabel": { "type": "literal" , "value": "Gentechnisch erzeugtes Produkt | Genetically modified product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q394222" } ,
         "wdLabel": { "type": "literal" , "value": "gentechnisch verändertes Lebensmittel | genetically modified food" } ,
@@ -708,7 +708,7 @@
       { 
         "ln": { "type": "literal" , "value": "51" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14722-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Gentechnisch verändertes Produkt | Genetically modified product" } ,
+        "stwLabel": { "type": "literal" , "value": "Gentechnisch erzeugtes Produkt | Genetically modified product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182726" } ,
         "wdLabel": { "type": "literal" , "value": "gentechnisch veränderter Organismus | GMO" } ,
@@ -3566,7 +3566,7 @@
       { 
         "ln": { "type": "literal" , "value": "255" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q143873" } ,
         "wdLabel": { "type": "literal" , "value": "Zahnrad | cogwheel" } ,
@@ -3579,7 +3579,7 @@
       { 
         "ln": { "type": "literal" , "value": "256" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1950629" } ,
         "wdLabel": { "type": "literal" , "value": "Wälzlager | ball bearing" } ,
@@ -3592,7 +3592,7 @@
       { 
         "ln": { "type": "literal" , "value": "257" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1335987" } ,
         "wdLabel": { "type": "literal" , "value": "Wälzlager | rolling-element bearing" } ,
@@ -3605,7 +3605,7 @@
       { 
         "ln": { "type": "literal" , "value": "258" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11432170" } ,
         "wdLabel": { "type": "literal" , "value": " | ball bearing" } ,
@@ -3618,7 +3618,7 @@
       { 
         "ln": { "type": "literal" , "value": "259" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6497460" } ,
         "wdLabel": { "type": "literal" , "value": "Getriebe | gearbox" } ,
@@ -3631,7 +3631,7 @@
       { 
         "ln": { "type": "literal" , "value": "260" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q656656" } ,
         "wdLabel": { "type": "literal" , "value": "Auslaufarmatur | tap" } ,
@@ -3644,7 +3644,7 @@
       { 
         "ln": { "type": "literal" , "value": "261" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182612" } ,
         "wdLabel": { "type": "literal" , "value": "Armatur | plumbing" } ,
@@ -3657,7 +3657,7 @@
       { 
         "ln": { "type": "literal" , "value": "262" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14336-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Maschinenteile | Machine parts" } ,
+        "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26820931" } ,
         "wdLabel": { "type": "literal" , "value": "Fitting | fitting" } ,
@@ -6594,7 +6594,7 @@
       { 
         "ln": { "type": "literal" , "value": "488" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14335-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Automat | Vending machine" } ,
+        "stwLabel": { "type": "literal" , "value": "Automat | Automat" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q33972" } ,
         "wdLabel": { "type": "literal" , "value": "Einarmiger Bandit | slot machine" } ,
@@ -23219,7 +23219,7 @@
       { 
         "ln": { "type": "literal" , "value": "1772" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11266-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Arbeitsnachfrage | Labour demand" } ,
+        "stwLabel": { "type": "literal" , "value": "Arbeitsnachfrage | Labor demand" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q356251" } ,
         "wdLabel": { "type": "literal" , "value": "Stellenausschreibung | job vacancy advertisement" } ,
