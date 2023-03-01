@@ -24587,6 +24587,90 @@
         "issueLabel": { "type": "literal" , "value": "#903" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1886" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30160-2" } ,
+        "stwLabel": { "type": "literal" , "value": "People of Color | People of color" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5149038" } ,
+        "wdLabel": { "type": "literal" , "value": "Farbiger | Colored" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/904" } ,
+        "issueLabel": { "type": "literal" , "value": "#904" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1887" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15929-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Schwarze Menschen | Black people" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q28401147" } ,
+        "wdLabel": { "type": "literal" , "value": "Weibliche Schwarze | black women" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/905" } ,
+        "issueLabel": { "type": "literal" , "value": "#905" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1888" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26773-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Weiße | White people" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q49078" } ,
+        "wdLabel": { "type": "literal" , "value": "weiße Amerikaner | White Americans" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/906" } ,
+        "issueLabel": { "type": "literal" , "value": "#906" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1889" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15904-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Ältere Menschen | Elderly people" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1358789" } ,
+        "wdLabel": { "type": "literal" , "value": "Senior | senior" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/907" } ,
+        "issueLabel": { "type": "literal" , "value": "#907" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1890" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15904-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Ältere Menschen | Elderly people" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q797819" } ,
+        "wdLabel": { "type": "literal" , "value": "Baby-Boomer | Baby Boomers" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/907" } ,
+        "issueLabel": { "type": "literal" , "value": "#907" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1891" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26197-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Chinesen | Chinese (People)" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q779191" } ,
+        "wdLabel": { "type": "literal" , "value": "Auslandschinesen | Overseas Chinese" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/908" } ,
+        "issueLabel": { "type": "literal" , "value": "#908" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1892" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26225-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Esten | Estonians" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1147273" } ,
+        "wdLabel": { "type": "literal" , "value": "Estländer | Estonians" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/909" } ,
+        "issueLabel": { "type": "literal" , "value": "#909" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
