@@ -24671,6 +24671,54 @@
         "issueLabel": { "type": "literal" , "value": "#909" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1893" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29361-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Licht | Light" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7211482" } ,
+        "wdLabel": { "type": "literal" , "value": "Lichttechnik | stage lighting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/910" } ,
+        "issueLabel": { "type": "literal" , "value": "#910" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1894" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29361-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Licht | Light" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17177506" } ,
+        "wdLabel": { "type": "literal" , "value": "Lichttechnik | lighting technic" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/910" } ,
+        "issueLabel": { "type": "literal" , "value": "#910" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1895" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29361-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Licht | Light" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16491" } ,
+        "wdLabel": { "type": "literal" , "value": "Tageslicht | daylight" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/910" } ,
+        "issueLabel": { "type": "literal" , "value": "#910" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1896" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29361-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Licht | Light" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q221656" } ,
+        "wdLabel": { "type": "literal" , "value": "Helligkeit | brightness" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/910" } ,
+        "issueLabel": { "type": "literal" , "value": "#910" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
