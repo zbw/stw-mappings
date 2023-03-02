@@ -24719,6 +24719,102 @@
         "issueLabel": { "type": "literal" , "value": "#910" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1897" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15669-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Physik | Physics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q373065" } ,
+        "wdLabel": { "type": "literal" , "value": "angewandte Physik | applied physics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/911" } ,
+        "issueLabel": { "type": "literal" , "value": "#911" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1898" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15669-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Physik | Physics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18362" } ,
+        "wdLabel": { "type": "literal" , "value": "theoretische Physik | theoretical physics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/911" } ,
+        "issueLabel": { "type": "literal" , "value": "#911" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1899" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15669-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Physik | Physics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q43514" } ,
+        "wdLabel": { "type": "literal" , "value": "Relativitätstheorie | theory of relativity" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/911" } ,
+        "issueLabel": { "type": "literal" , "value": "#911" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1900" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15669-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Physik | Physics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11452" } ,
+        "wdLabel": { "type": "literal" , "value": "allgemeine Relativitätstheorie | general relativity" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/911" } ,
+        "issueLabel": { "type": "literal" , "value": "#911" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1901" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15669-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Physik | Physics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1144457" } ,
+        "wdLabel": { "type": "literal" , "value": "Quantenphysik | quantum physics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/911" } ,
+        "issueLabel": { "type": "literal" , "value": "#911" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1902" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15669-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Physik | Physics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3194786" } ,
+        "wdLabel": { "type": "literal" , "value": "Quantentheorie | quantum theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/911" } ,
+        "issueLabel": { "type": "literal" , "value": "#911" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1903" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15873-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Geologie | Geology" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q52109" } ,
+        "wdLabel": { "type": "literal" , "value": "Geomorphologie | geomorphology" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/912" } ,
+        "issueLabel": { "type": "literal" , "value": "#912" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1904" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15873-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Geologie | Geology" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q853915" } ,
+        "wdLabel": { "type": "literal" , "value": "Lagerstättenkunde | economic geology" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/912" } ,
+        "issueLabel": { "type": "literal" , "value": "#912" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
