@@ -24815,6 +24815,66 @@
         "issueLabel": { "type": "literal" , "value": "#912" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1905" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15876-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Geowissenschaften | Earth sciences" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9161265" } ,
+        "wdLabel": { "type": "literal" , "value": "Bodenkunde | soil science" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/913" } ,
+        "issueLabel": { "type": "literal" , "value": "#913" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1906" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15876-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Geowissenschaften | Earth sciences" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46255" } ,
+        "wdLabel": { "type": "literal" , "value": "Geophysik | geophysics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/913" } ,
+        "issueLabel": { "type": "literal" , "value": "#913" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1907" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15876-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Geowissenschaften | Earth sciences" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q83353" } ,
+        "wdLabel": { "type": "literal" , "value": "Mineralogie | mineralogy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/913" } ,
+        "issueLabel": { "type": "literal" , "value": "#913" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1908" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29599-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Hydrologie | Hydrology" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182468" } ,
+        "wdLabel": { "type": "literal" , "value": "Hydrographie | hydrography" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/914" } ,
+        "issueLabel": { "type": "literal" , "value": "#914" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1909" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15891-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Meeresforschung | Oceanography" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q43518" } ,
+        "wdLabel": { "type": "literal" , "value": "Ozeanographie | oceanography" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/915" } ,
+        "issueLabel": { "type": "literal" , "value": "#915" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

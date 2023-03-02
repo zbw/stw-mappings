@@ -1,5 +1,5 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
 PREFIX wd: <http://www.wikidata.org/entity/>
@@ -1907,3 +1907,8 @@ stw:15669-0 skos:narrowMatch wd:Q1144457 .
 stw:15669-0 skos:narrowMatch wd:Q3194786 .
 stw:15873-1 skos:narrowMatch wd:Q52109 .
 stw:15873-1 skos:narrowMatch wd:Q853915 .
+stw:15876-2 skos:narrowMatch wd:Q9161265 .
+stw:15876-2 skos:narrowMatch wd:Q46255 .
+stw:15876-2 skos:narrowMatch wd:Q83353 .
+stw:29599-4 skos:narrowMatch wd:Q182468 .
+stw:15891-6 skos:narrowMatch wd:Q43518 .
