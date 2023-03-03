@@ -24875,6 +24875,90 @@
         "issueLabel": { "type": "literal" , "value": "#915" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1910" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18984-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Feuchtgebiet | Wetland" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q62562206" } ,
+        "wdLabel": { "type": "literal" , "value": "Marschland | tidal marsh" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/916" } ,
+        "issueLabel": { "type": "literal" , "value": "#916" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1911" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18984-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Feuchtgebiet | Wetland" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13360514" } ,
+        "wdLabel": { "type": "literal" , "value": "Marsch | marsch" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/916" } ,
+        "issueLabel": { "type": "literal" , "value": "#916" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1912" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18984-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Feuchtgebiet | Wetland" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1681353" } ,
+        "wdLabel": { "type": "literal" , "value": "Moor | bog" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/916" } ,
+        "issueLabel": { "type": "literal" , "value": "#916" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1913" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18984-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Feuchtgebiet | Wetland" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q43197" } ,
+        "wdLabel": { "type": "literal" , "value": "Flussdelta | river delta" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/916" } ,
+        "issueLabel": { "type": "literal" , "value": "#916" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1914" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18984-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Feuchtgebiet | Wetland" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106259" } ,
+        "wdLabel": { "type": "literal" , "value": "Polder | polder" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/916" } ,
+        "issueLabel": { "type": "literal" , "value": "#916" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1915" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15869-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Gebirge | Mountains" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q115473637" } ,
+        "wdLabel": { "type": "literal" , "value": "Berggebiet | mountain area" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/917" } ,
+        "issueLabel": { "type": "literal" , "value": "#917" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1916" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15869-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Gebirge | Mountains" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15766" } ,
+        "wdLabel": { "type": "literal" , "value": "Hochgebirge | high mountains" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/917" } ,
+        "issueLabel": { "type": "literal" , "value": "#917" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
