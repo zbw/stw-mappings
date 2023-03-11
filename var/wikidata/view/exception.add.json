@@ -24486,7 +24486,7 @@
         "stwLabel": { "type": "literal" , "value": "Behinderte | Disabled persons" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1250414" } ,
-        "wdLabel": { "type": "literal" , "value": "Schwerbehinderter | Schwerbehinderter" } ,
+        "wdLabel": { "type": "literal" , "value": "Schwerbehinderter | Severely disabled" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/898" } ,
         "issueLabel": { "type": "literal" , "value": "#898" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
