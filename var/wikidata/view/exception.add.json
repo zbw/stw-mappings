@@ -4003,7 +4003,7 @@
         "issueLabel": { "type": "literal" , "value": "#145" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q127980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Fette | fat" }
+        "wdExistsLabel": { "type": "literal" , "value": "Fette | Wendy; the fat" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "289" } ,
