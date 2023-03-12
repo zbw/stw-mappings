@@ -5740,7 +5740,7 @@
         "stwLabel": { "type": "literal" , "value": "Zellstoff | Wood pulp" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q672506" } ,
-        "wdLabel": { "type": "literal" , "value": "Faserstoff (Papierherstellung) | paper pulp" } ,
+        "wdLabel": { "type": "literal" , "value": "Holzstoff | paper pulp" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/209" } ,
         "issueLabel": { "type": "literal" , "value": "#209" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
