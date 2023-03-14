@@ -2002,3 +2002,7 @@ stw:,rel,wd:,issue,note
 18022-0,*,Q1365703,#963,Mehrfachmatch
 18022-0,>,Q1326122,#963,Mehrfachmatch
 13807-3,>,Q986008,#694,Mehrfachmatch
+26558-5,>,Q1042001#965,Mehrfachmatch
+26600-4,^,Q1026,#966,Mehrfachmatch
+15935-5,*,Q76475,#967,Mehrfachmatch
+15935-5,>,Q840648,#967,Mehrfachmatch
