@@ -10193,7 +10193,7 @@
         "stwLabel": { "type": "literal" , "value": "Board of Directors | Board of directors" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2520720" } ,
-        "wdLabel": { "type": "literal" , "value": "Verwaltungsrat (Schweiz) | " } ,
+        "wdLabel": { "type": "literal" , "value": "Verwaltungsrat (Schweiz) | administration board" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/363" } ,
         "issueLabel": { "type": "literal" , "value": "#363" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
