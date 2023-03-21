@@ -5714,7 +5714,7 @@
         "stwLabel": { "type": "literal" , "value": "Büromaterial | Stationery" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5359605" } ,
-        "wdLabel": { "type": "literal" , "value": "Schulbedarf | school supplies" } ,
+        "wdLabel": { "type": "literal" , "value": "Schulbedarf | school supply" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/207" } ,
         "issueLabel": { "type": "literal" , "value": "#207" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
