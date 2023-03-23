@@ -22970,7 +22970,7 @@
         "stwLabel": { "type": "literal" , "value": "Ethik | Ethics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16669800" } ,
-        "wdLabel": { "type": "literal" , "value": "Moralphilosophie | Predicador" } ,
+        "wdLabel": { "type": "literal" , "value": "Moralphilosophie | moral philosophy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/824" } ,
         "issueLabel": { "type": "literal" , "value": "#824" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
