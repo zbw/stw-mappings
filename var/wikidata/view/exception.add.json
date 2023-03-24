@@ -27210,6 +27210,66 @@
         "issueLabel": { "type": "literal" , "value": "#1017" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2103" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16233-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Staatstheorie | Theory of the state" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820125" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatstheorie | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1018" } ,
+        "issueLabel": { "type": "literal" , "value": "#1018" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2104" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16233-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Staatstheorie | Theory of the state" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1494494" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatswissenschaften | political science" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1018" } ,
+        "issueLabel": { "type": "literal" , "value": "#1018" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2105" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30000-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Fragiler Staat | Fragile state" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q392160" } ,
+        "wdLabel": { "type": "literal" , "value": "Gescheiterter Staat | failed state" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1019" } ,
+        "issueLabel": { "type": "literal" , "value": "#1019" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2106" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15878-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Grenze | Political border" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1292279" } ,
+        "wdLabel": { "type": "literal" , "value": "politische Grenze | political border" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1020" } ,
+        "issueLabel": { "type": "literal" , "value": "#1020" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2107" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16299-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Nation | Nation" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q156595" } ,
+        "wdLabel": { "type": "literal" , "value": "Selbstbestimmungsrecht der Völker | self-determination" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1021" } ,
+        "issueLabel": { "type": "literal" , "value": "#1021" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
