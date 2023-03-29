@@ -24594,7 +24594,7 @@
         "stwLabel": { "type": "literal" , "value": "Kinder | Children" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q998" } ,
-        "wdLabel": { "type": "literal" , "value": "Säugling | baby" } ,
+        "wdLabel": { "type": "literal" , "value": "Säugling | infant" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/903" } ,
         "issueLabel": { "type": "literal" , "value": "#903" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
