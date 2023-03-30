@@ -24702,7 +24702,7 @@
         "stwLabel": { "type": "literal" , "value": "Licht | Light" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17177506" } ,
-        "wdLabel": { "type": "literal" , "value": "Lichttechnik | lighting technic" } ,
+        "wdLabel": { "type": "literal" , "value": "Lichttechnik | lighting technique" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/910" } ,
         "issueLabel": { "type": "literal" , "value": "#910" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
