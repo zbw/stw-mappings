@@ -789,7 +789,7 @@
         "stwLabel": { "type": "literal" , "value": "Bespielte Medien | Pre-recorded media" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q544858" } ,
-        "wdLabel": { "type": "literal" , "value": "Tonband | reel-to-reel audio tape and tape recording" } ,
+        "wdLabel": { "type": "literal" , "value": "Tonband | reel-to-reel audio tape" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/63" } ,
         "issueLabel": { "type": "literal" , "value": "#63" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
