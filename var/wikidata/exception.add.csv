@@ -2201,8 +2201,25 @@ stw:,rel,wd:,issue,note
 15604-0,<,Q23647168,#1081,Mehrfachmatch
 15604-0,>,Q729649,#1081,Mehrfachmatch
 15604-0,>,Q1247836,#1081,Mehrfachmatch
-
-
+18110-3,^,Q1196904,#1082,Mehrfachmatch
+18110-3,>,Q128093,#1082,Mehrfachmatch
+18110-3,>,Q1327300,#1082,Mehrfachmatch
+18110-3,>,Q1327252,#1082,Mehrfachmatch
+18110-3,>,Q5276122,#1082,Mehrfachmatch
+10142-2,*,Q6031064,#1083,Mehrfachmatch
+10142-2,*,Q10283002,#1083,Mehrfachmatch
+29326-4,^,Q780705,#1084,Mehrfachmatch
+29323-3,^,Q12058576,#1085,Mehrfachmatch
+18647-2,^,Q837900,#1086,Mehrfachmatch
+29228-4,>,Q554950,#1087,Mehrfachmatch
+29182-2,^,Q210980,#1088,Mehrfachmatch
+29182-2,^,Q6576792,#1088,Mehrfachmatch
+29182-2,*,Q3220391,#1088,Mehrfachmatch
+29182-2,>,Q202833,#1088,Mehrfachmatch
+27743-5,>,Q20899,#1089,Mehrfachmatch
+27743-5,>,Q30849,#1089,Mehrfachmatch
+27743-5,>,Q58199,#1089,Mehrfachmatch
+27743-5,>,Q171,#1089,Mehrfachmatch
 
 
 
