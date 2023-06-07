@@ -4310,7 +4310,7 @@
         "stwLabel": { "type": "literal" , "value": "Spezialchemikalie | Specialty chemicals" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820277" } ,
-        "wdLabel": { "type": "literal" , "value": "Holzschutzmittel | wood preservation" } ,
+        "wdLabel": { "type": "literal" , "value": "Holzschutzmittel | wood protection agents" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/157" } ,
         "issueLabel": { "type": "literal" , "value": "#157" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
