@@ -74,7 +74,7 @@
         "stwLabel": { "type": "literal" , "value": "Immobilienmakler | Real estate brokers" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16148831" } ,
-        "wdLabel": { "type": "literal" , "value": "Immobilienmakler | estate agent" } ,
+        "wdLabel": { "type": "literal" , "value": " | estate agent" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
