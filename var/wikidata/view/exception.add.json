@@ -26026,7 +26026,7 @@
         "stwLabel": { "type": "literal" , "value": "Zahlungsverkehr | Payment system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q986008" } ,
-        "wdLabel": { "type": "literal" , "value": "Zahlungsverfahren | payment learn" } ,
+        "wdLabel": { "type": "literal" , "value": "Zahlungsverfahren | payment system" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/694" } ,
         "issueLabel": { "type": "literal" , "value": "#694" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
