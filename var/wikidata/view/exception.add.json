@@ -25062,7 +25062,7 @@
         "stwLabel": { "type": "literal" , "value": "Grasland | Grassland" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q42320" } ,
-        "wdLabel": { "type": "literal" , "value": "Savanne | Savanna" } ,
+        "wdLabel": { "type": "literal" , "value": "Savanne | savanna" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/923" } ,
         "issueLabel": { "type": "literal" , "value": "#923" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
