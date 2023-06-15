@@ -16804,7 +16804,7 @@
         "stwLabel": { "type": "literal" , "value": "Mitarbeiterbindung | Employee retention" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q267236" } ,
-        "wdLabel": { "type": "literal" , "value": "Organisationales Commitment | Organizational commitment" } ,
+        "wdLabel": { "type": "literal" , "value": "Organisationales Commitment | organizational commitment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/593" } ,
         "issueLabel": { "type": "literal" , "value": "#593" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
