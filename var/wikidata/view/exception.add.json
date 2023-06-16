@@ -31294,6 +31294,126 @@
         "issueLabel": { "type": "literal" , "value": "#1191" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2442" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11036-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Selbstverwalteter Betrieb | Labour-managed firm" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15981562" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeiterselbstverwaltung | workers' self-management" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1192" } ,
+        "issueLabel": { "type": "literal" , "value": "#1192" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2443" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11036-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Selbstverwalteter Betrieb | Labour-managed firm" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1939471" } ,
+        "wdLabel": { "type": "literal" , "value": "Mitarbeiterunternehmen | worker cooperative" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1192" } ,
+        "issueLabel": { "type": "literal" , "value": "#1192" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2444" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18905-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Subsidiarität | Subsidiarity" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56292871" } ,
+        "wdLabel": { "type": "literal" , "value": "Subsidiaritätsprinzip | subsidiarity principle" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1193" } ,
+        "issueLabel": { "type": "literal" , "value": "#1193" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2445" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19516-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Bildungsertrag | Returns to education" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6863330" } ,
+        "wdLabel": { "type": "literal" , "value": "Mincer-Einkommensgleichung | Mincer equation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1194" } ,
+        "issueLabel": { "type": "literal" , "value": "#1194" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2446" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19516-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Bildungsertrag | Returns to education" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2146480" } ,
+        "wdLabel": { "type": "literal" , "value": "Return on Education | Return on Education" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1194" } ,
+        "issueLabel": { "type": "literal" , "value": "#1194" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2447" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18992-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkoholpolitik | Alcohol policy" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2647483" } ,
+        "wdLabel": { "type": "literal" , "value": "Alkoholgesetz | alcohol law" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1195" } ,
+        "issueLabel": { "type": "literal" , "value": "#1195" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2448" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18992-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkoholpolitik | Alcohol policy" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46388" } ,
+        "wdLabel": { "type": "literal" , "value": "Prohibition | prohibition" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1195" } ,
+        "issueLabel": { "type": "literal" , "value": "#1195" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2449" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18992-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Alkoholpolitik | Alcohol policy" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1044854" } ,
+        "wdLabel": { "type": "literal" , "value": "Alkoholmonopol | alcohol monopoly" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1195" } ,
+        "issueLabel": { "type": "literal" , "value": "#1195" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2450" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28938-6" } ,
+        "stwLabel": { "type": "literal" , "value": "DRG-System | DRG (Diagnosis Related Groups)" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1394682" } ,
+        "wdLabel": { "type": "literal" , "value": "Fallpauschale und Sonderentgelt | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1196" } ,
+        "issueLabel": { "type": "literal" , "value": "#1196" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2451" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15698-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Sklaverei | Slavery" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2986234" } ,
+        "wdLabel": { "type": "literal" , "value": "Sklavenhandel | slave trade" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1197" } ,
+        "issueLabel": { "type": "literal" , "value": "#1197" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

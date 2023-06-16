@@ -1,8 +1,8 @@
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 #
 stw:30083-1 skos:narrowMatch wd:Q4127 .
 stw:12964-6 skos:closeMatch wd:Q14373 .
@@ -2444,3 +2444,13 @@ stw:14011-4 skos:narrowMatch wd:Q104188750 .
 stw:14011-4 skos:narrowMatch wd:Q169470 .
 stw:14017-6 skos:narrowMatch wd:Q11626095 .
 stw:14017-6 skos:narrowMatch wd:Q17488363 .
+stw:11036-3 skos:relatedMatch wd:Q15981562 .
+stw:11036-3 skos:exactMatch wd:Q1939471 .
+stw:18905-6 skos:narrowMatch wd:Q56292871 .
+stw:19516-5 skos:narrowMatch wd:Q6863330 .
+stw:19516-5 skos:narrowMatch wd:Q2146480 .
+stw:18992-6 skos:narrowMatch wd:Q2647483 .
+stw:18992-6 skos:narrowMatch wd:Q46388 .
+stw:18992-6 skos:narrowMatch wd:Q1044854 .
+stw:28938-6 skos:closeMatch wd:Q1394682 .
+stw:15698-0 skos:narrowMatch wd:Q2986234 .
