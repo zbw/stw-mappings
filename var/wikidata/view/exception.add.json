@@ -10323,7 +10323,7 @@
         "stwLabel": { "type": "literal" , "value": "GmbH | Private limited company" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q460178" } ,
-        "wdLabel": { "type": "literal" , "value": "Gesellschaft mit beschränkter Haftung | GmbH" } ,
+        "wdLabel": { "type": "literal" , "value": "Gesellschaft mit beschränkter Haftung | Gesellschaft mit beschränkter Haftung" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
