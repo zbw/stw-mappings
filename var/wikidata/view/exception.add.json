@@ -16414,7 +16414,7 @@
         "stwLabel": { "type": "literal" , "value": "Leistungsmotivation | Work motivation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56292912" } ,
-        "wdLabel": { "type": "literal" , "value": "Leistungsträger | High performer" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/581" } ,
         "issueLabel": { "type": "literal" , "value": "#581" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
