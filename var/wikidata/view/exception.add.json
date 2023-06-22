@@ -932,7 +932,7 @@
         "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5881191" } ,
-        "wdLabel": { "type": "literal" , "value": "Melone | melon" } ,
+        "wdLabel": { "type": "literal" , "value": "Melone | Melon" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
