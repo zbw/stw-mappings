@@ -23390,7 +23390,7 @@
         "stwLabel": { "type": "literal" , "value": "Philanthropie | Philanthropy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q214092" } ,
-        "wdLabel": { "type": "literal" , "value": "Mäzenatentum | patronage" } ,
+        "wdLabel": { "type": "literal" , "value": "Mäzenatentum | art patronage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/841" } ,
         "issueLabel": { "type": "literal" , "value": "#841" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
