@@ -14083,7 +14083,7 @@
         "issueLabel": { "type": "literal" , "value": "#504" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q441898" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Fertigungsinsel | Cellular manufacturing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Fertigungsinsel | cellular manufacturing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1065" } ,
@@ -14096,7 +14096,7 @@
         "issueLabel": { "type": "literal" , "value": "#504" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q441898" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Fertigungsinsel | Cellular manufacturing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Fertigungsinsel | cellular manufacturing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1066" } ,
@@ -16505,7 +16505,7 @@
         "stwLabel": { "type": "literal" , "value": "Vorschlagswesen | Employee suggestion system" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q376444" } ,
-        "wdLabel": { "type": "literal" , "value": "Kaizen | Kaizen" } ,
+        "wdLabel": { "type": "literal" , "value": "Kaizen | kaizen" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/583" } ,
         "issueLabel": { "type": "literal" , "value": "#583" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
