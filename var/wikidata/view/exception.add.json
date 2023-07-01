@@ -7984,7 +7984,7 @@
         "stwLabel": { "type": "literal" , "value": "Qualitätsmanagement | Quality management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q763591" } ,
-        "wdLabel": { "type": "literal" , "value": "Quality Function Deployment | Quality function deployment" } ,
+        "wdLabel": { "type": "literal" , "value": "Quality Function Deployment | quality function deployment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/275" } ,
         "issueLabel": { "type": "literal" , "value": "#275" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
