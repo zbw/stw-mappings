@@ -20550,7 +20550,7 @@
         "stwLabel": { "type": "literal" , "value": "Zivilrecht | Private law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q222249" } ,
-        "wdLabel": { "type": "literal" , "value": "Allgemeines Privatrecht | civil law" } ,
+        "wdLabel": { "type": "literal" , "value": "Zivilrecht | civil law" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/737" } ,
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
