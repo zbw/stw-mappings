@@ -27321,6 +27321,18 @@
       } ,
       { 
         "ln": { "type": "literal" , "value": "2112" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10637-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Faktorproportionentheorem | Factor proportions" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2261156" } ,
+        "wdLabel": { "type": "literal" , "value": "Heckscher-Ohlin-Modell | Heckscher\u2013Ohlin model" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1024" } ,
+        "issueLabel": { "type": "literal" , "value": "#1024" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2113" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10635-0" } ,
         "stwLabel": { "type": "literal" , "value": "Handelseffekt | Trade effect" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27332,10 +27344,10 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2113" } ,
+        "ln": { "type": "literal" , "value": "2114" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10641-5" } ,
         "stwLabel": { "type": "literal" , "value": "Komparativer Vorteil | Comparative advantage" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1426665" } ,
         "wdLabel": { "type": "literal" , "value": "Ricardo-Modell | Ricardian model" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1026" } ,
@@ -27344,10 +27356,10 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2114" } ,
+        "ln": { "type": "literal" , "value": "2115" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10641-5" } ,
         "stwLabel": { "type": "literal" , "value": "Komparativer Vorteil | Comparative advantage" } ,
-        "relation": { "type": "literal" , "value": "^" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1430930" } ,
         "wdLabel": { "type": "literal" , "value": "Revealed Comparative Advantage | Revealed comparative advantage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1026" } ,
@@ -27356,7 +27368,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2115" } ,
+        "ln": { "type": "literal" , "value": "2116" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19245-3" } ,
         "stwLabel": { "type": "literal" , "value": "Rohstoffreichtum | Resource wealth" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -27368,7 +27380,19 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2116" } ,
+        "ln": { "type": "literal" , "value": "2117" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19245-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Rohstoffreichtum | Resource wealth" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q72596" } ,
+        "wdLabel": { "type": "literal" , "value": "Ressourcenfluch | resource curse" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1027" } ,
+        "issueLabel": { "type": "literal" , "value": "#1027" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2118" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10675-2" } ,
         "stwLabel": { "type": "literal" , "value": "Terms of Trade | Terms of trade" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27380,7 +27404,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2117" } ,
+        "ln": { "type": "literal" , "value": "2119" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10714-4" } ,
         "stwLabel": { "type": "literal" , "value": "Zollpräferenzen | Tariff preferences" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27392,7 +27416,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2118" } ,
+        "ln": { "type": "literal" , "value": "2120" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10692-2" } ,
         "stwLabel": { "type": "literal" , "value": "Exportbeschränkung | Export restrictions" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27404,7 +27428,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2119" } ,
+        "ln": { "type": "literal" , "value": "2121" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10692-2" } ,
         "stwLabel": { "type": "literal" , "value": "Exportbeschränkung | Export restrictions" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27416,7 +27440,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2120" } ,
+        "ln": { "type": "literal" , "value": "2122" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10692-2" } ,
         "stwLabel": { "type": "literal" , "value": "Exportbeschränkung | Export restrictions" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27428,7 +27452,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2121" } ,
+        "ln": { "type": "literal" , "value": "2123" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10683-3" } ,
         "stwLabel": { "type": "literal" , "value": "Handelshemmnisse | Trade barriers" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -27440,7 +27464,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2122" } ,
+        "ln": { "type": "literal" , "value": "2124" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10685-6" } ,
         "stwLabel": { "type": "literal" , "value": "Importquote | Import quotas" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -27452,7 +27476,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2123" } ,
+        "ln": { "type": "literal" , "value": "2125" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10706-3" } ,
         "stwLabel": { "type": "literal" , "value": "Nichttarifäre Handelshemmnisse | Non-tariff barriers" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27464,7 +27488,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2124" } ,
+        "ln": { "type": "literal" , "value": "2126" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10710-5" } ,
         "stwLabel": { "type": "literal" , "value": "Zoll | Tariffs" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27476,7 +27500,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2125" } ,
+        "ln": { "type": "literal" , "value": "2127" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10842-2" } ,
         "stwLabel": { "type": "literal" , "value": "Internationaler Wettbewerb | International competition" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -27488,7 +27512,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2126" } ,
+        "ln": { "type": "literal" , "value": "2128" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30234-6" } ,
         "stwLabel": { "type": "literal" , "value": "Neue Seidenstraße | New silk road" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27500,7 +27524,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2127" } ,
+        "ln": { "type": "literal" , "value": "2129" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10567-5" } ,
         "stwLabel": { "type": "literal" , "value": "Sonderwirtschaftszone | Special economic zone" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27512,7 +27536,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2128" } ,
+        "ln": { "type": "literal" , "value": "2130" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10566-0" } ,
         "stwLabel": { "type": "literal" , "value": "Exportpreis | Export price" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27524,7 +27548,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2129" } ,
+        "ln": { "type": "literal" , "value": "2131" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10566-0" } ,
         "stwLabel": { "type": "literal" , "value": "Exportpreis | Export price" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27536,7 +27560,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2130" } ,
+        "ln": { "type": "literal" , "value": "2132" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20002-5" } ,
         "stwLabel": { "type": "literal" , "value": "Grauer Markt | Grey market" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27548,7 +27572,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2131" } ,
+        "ln": { "type": "literal" , "value": "2133" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19324-0" } ,
         "stwLabel": { "type": "literal" , "value": "Handelskonflikt | Trade dispute" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27560,7 +27584,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2132" } ,
+        "ln": { "type": "literal" , "value": "2134" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10618-0" } ,
         "stwLabel": { "type": "literal" , "value": "Internationale Wirtschaftsorganisation | International economic organization" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27572,7 +27596,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2133" } ,
+        "ln": { "type": "literal" , "value": "2135" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29734-3" } ,
         "stwLabel": { "type": "literal" , "value": "WTO-Verhandlungen | WTO negotiations" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27584,7 +27608,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2134" } ,
+        "ln": { "type": "literal" , "value": "2136" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29734-3" } ,
         "stwLabel": { "type": "literal" , "value": "WTO-Verhandlungen | WTO negotiations" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27596,7 +27620,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2135" } ,
+        "ln": { "type": "literal" , "value": "2137" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29732-0" } ,
         "stwLabel": { "type": "literal" , "value": "Zahlungsbilanztheorie | Balance-of-payments theory" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27609,7 +27633,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Zahlungsbilanztheorie | balance-of-payments theory" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2136" } ,
+        "ln": { "type": "literal" , "value": "2138" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10717-5" } ,
         "stwLabel": { "type": "literal" , "value": "Abwertung | Currency devaluation" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -27621,7 +27645,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2137" } ,
+        "ln": { "type": "literal" , "value": "2139" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29958-2" } ,
         "stwLabel": { "type": "literal" , "value": "Balassa-Samuelson-Effekt | Balassa-Samuelson effect" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -27633,7 +27657,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2138" } ,
+        "ln": { "type": "literal" , "value": "2140" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10734-5" } ,
         "stwLabel": { "type": "literal" , "value": "Europäisches Währungssystem | European Monetary System" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27645,7 +27669,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2139" } ,
+        "ln": { "type": "literal" , "value": "2141" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10736-1" } ,
         "stwLabel": { "type": "literal" , "value": "Flexibler Wechselkurs | Flexible exchange rate" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -27657,7 +27681,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2140" } ,
+        "ln": { "type": "literal" , "value": "2142" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10746-5" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Währungssystem | International monetary system" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27669,7 +27693,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2141" } ,
+        "ln": { "type": "literal" , "value": "2143" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10754-6" } ,
         "stwLabel": { "type": "literal" , "value": "Reservewährung | Reserve currency" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27681,7 +27705,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2142" } ,
+        "ln": { "type": "literal" , "value": "2144" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10761-2" } ,
         "stwLabel": { "type": "literal" , "value": "Stufenflexibilität | Adjustable peg" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27693,7 +27717,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2143" } ,
+        "ln": { "type": "literal" , "value": "2145" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10722-5" } ,
         "stwLabel": { "type": "literal" , "value": "Wechselkurspolitik | Exchange rate policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27705,7 +27729,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2144" } ,
+        "ln": { "type": "literal" , "value": "2146" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19335-2" } ,
         "stwLabel": { "type": "literal" , "value": "Wechselkurssystem | Exchange rate regime" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27717,7 +27741,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2145" } ,
+        "ln": { "type": "literal" , "value": "2147" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10768-2" } ,
         "stwLabel": { "type": "literal" , "value": "Währungskorb | Currency basket" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27729,7 +27753,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2146" } ,
+        "ln": { "type": "literal" , "value": "2148" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10770-1" } ,
         "stwLabel": { "type": "literal" , "value": "Währungsreserven | Foreign exchange reserves" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27741,7 +27765,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2147" } ,
+        "ln": { "type": "literal" , "value": "2149" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10771-6" } ,
         "stwLabel": { "type": "literal" , "value": "Währungsunion | Monetary union" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27753,7 +27777,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2148" } ,
+        "ln": { "type": "literal" , "value": "2150" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10779-4" } ,
         "stwLabel": { "type": "literal" , "value": "Devisenmarkt | Foreign exchange market" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27765,7 +27789,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2149" } ,
+        "ln": { "type": "literal" , "value": "2151" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10612-5" } ,
         "stwLabel": { "type": "literal" , "value": "Freihandelsabkommen | Free trade agreement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27777,7 +27801,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2150" } ,
+        "ln": { "type": "literal" , "value": "2152" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10612-5" } ,
         "stwLabel": { "type": "literal" , "value": "Freihandelsabkommen | Free trade agreement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27789,7 +27813,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2151" } ,
+        "ln": { "type": "literal" , "value": "2153" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10608-3" } ,
         "stwLabel": { "type": "literal" , "value": "EU-Binnenmarkt | Single European market" } ,
         "relation": { "type": "literal" , "value": "<" } ,
@@ -27801,7 +27825,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2152" } ,
+        "ln": { "type": "literal" , "value": "2154" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20810-2" } ,
         "stwLabel": { "type": "literal" , "value": "Europäischer Stabilitätsmechanismus | European Stability Mechanism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27813,7 +27837,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2153" } ,
+        "ln": { "type": "literal" , "value": "2155" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20810-2" } ,
         "stwLabel": { "type": "literal" , "value": "Europäischer Stabilitätsmechanismus | European Stability Mechanism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27825,7 +27849,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2154" } ,
+        "ln": { "type": "literal" , "value": "2156" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20810-2" } ,
         "stwLabel": { "type": "literal" , "value": "Europäischer Stabilitätsmechanismus | European Stability Mechanism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27837,7 +27861,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2155" } ,
+        "ln": { "type": "literal" , "value": "2157" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10486-5" } ,
         "stwLabel": { "type": "literal" , "value": "Analphabetismus | Illiteracy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27849,7 +27873,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2156" } ,
+        "ln": { "type": "literal" , "value": "2158" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10486-5" } ,
         "stwLabel": { "type": "literal" , "value": "Analphabetismus | Illiteracy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27861,7 +27885,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2157" } ,
+        "ln": { "type": "literal" , "value": "2159" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10486-5" } ,
         "stwLabel": { "type": "literal" , "value": "Analphabetismus | Illiteracy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27873,7 +27897,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2158" } ,
+        "ln": { "type": "literal" , "value": "2160" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11354-3" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsniveau | Educational achievement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27885,7 +27909,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2159" } ,
+        "ln": { "type": "literal" , "value": "2161" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11354-3" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsniveau | Educational achievement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27897,7 +27921,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2160" } ,
+        "ln": { "type": "literal" , "value": "2162" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11354-3" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsniveau | Educational achievement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27909,7 +27933,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2161" } ,
+        "ln": { "type": "literal" , "value": "2163" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11354-3" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsniveau | Educational achievement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27921,7 +27945,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2162" } ,
+        "ln": { "type": "literal" , "value": "2164" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11354-3" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsniveau | Educational achievement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27933,7 +27957,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2163" } ,
+        "ln": { "type": "literal" , "value": "2165" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11397-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungspolitik | Education policy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -27945,7 +27969,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2164" } ,
+        "ln": { "type": "literal" , "value": "2166" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11397-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungspolitik | Education policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27957,7 +27981,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2165" } ,
+        "ln": { "type": "literal" , "value": "2167" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11398-4" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsreform | Education reform" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27969,7 +27993,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2166" } ,
+        "ln": { "type": "literal" , "value": "2168" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28710-1" } ,
         "stwLabel": { "type": "literal" , "value": "Frühkindliche Bildung | Early childhood education" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -27981,7 +28005,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2167" } ,
+        "ln": { "type": "literal" , "value": "2169" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18292-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lehrmaterial | Teaching aid" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -27993,7 +28017,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2168" } ,
+        "ln": { "type": "literal" , "value": "2170" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18292-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lehrmaterial | Teaching aid" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28005,7 +28029,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2169" } ,
+        "ln": { "type": "literal" , "value": "2171" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18292-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lehrmaterial | Teaching aid" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28017,7 +28041,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2170" } ,
+        "ln": { "type": "literal" , "value": "2172" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28418-4" } ,
         "stwLabel": { "type": "literal" , "value": "Lernmethode | Learning method" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28029,7 +28053,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2171" } ,
+        "ln": { "type": "literal" , "value": "2173" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28418-4" } ,
         "stwLabel": { "type": "literal" , "value": "Lernmethode | Learning method" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28041,7 +28065,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2172" } ,
+        "ln": { "type": "literal" , "value": "2174" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28418-4" } ,
         "stwLabel": { "type": "literal" , "value": "Lernmethode | Learning method" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28053,7 +28077,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2173" } ,
+        "ln": { "type": "literal" , "value": "2175" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28418-4" } ,
         "stwLabel": { "type": "literal" , "value": "Lernmethode | Learning method" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28065,7 +28089,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2174" } ,
+        "ln": { "type": "literal" , "value": "2176" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15786-3" } ,
         "stwLabel": { "type": "literal" , "value": "Lernpsychologie | Learning psychology" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28077,7 +28101,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2175" } ,
+        "ln": { "type": "literal" , "value": "2177" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15666-6" } ,
         "stwLabel": { "type": "literal" , "value": "Pädagogik | Pedagogy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28089,7 +28113,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2176" } ,
+        "ln": { "type": "literal" , "value": "2178" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15666-6" } ,
         "stwLabel": { "type": "literal" , "value": "Pädagogik | Pedagogy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28101,7 +28125,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2177" } ,
+        "ln": { "type": "literal" , "value": "2179" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28657-0" } ,
         "stwLabel": { "type": "literal" , "value": "Ökonomische Bildung | Economic education" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28113,7 +28137,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2178" } ,
+        "ln": { "type": "literal" , "value": "2180" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19608-0" } ,
         "stwLabel": { "type": "literal" , "value": "Linguistik | Linguistics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28125,7 +28149,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2179" } ,
+        "ln": { "type": "literal" , "value": "2181" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19608-0" } ,
         "stwLabel": { "type": "literal" , "value": "Linguistik | Linguistics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28137,7 +28161,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2180" } ,
+        "ln": { "type": "literal" , "value": "2182" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19775-2" } ,
         "stwLabel": { "type": "literal" , "value": "Mehrsprachigkeit | Multilingualism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28149,7 +28173,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2181" } ,
+        "ln": { "type": "literal" , "value": "2183" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28230-1" } ,
         "stwLabel": { "type": "literal" , "value": "Narrative Methode | Narrative method" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28161,7 +28185,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2182" } ,
+        "ln": { "type": "literal" , "value": "2184" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19777-5" } ,
         "stwLabel": { "type": "literal" , "value": "Semiotik | Semiotics" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28173,7 +28197,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2183" } ,
+        "ln": { "type": "literal" , "value": "2185" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15676-3" } ,
         "stwLabel": { "type": "literal" , "value": "Sprache | Language" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28185,7 +28209,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2184" } ,
+        "ln": { "type": "literal" , "value": "2186" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13277-6" } ,
         "stwLabel": { "type": "literal" , "value": "Sprachverarbeitung | Speech processing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28197,7 +28221,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2185" } ,
+        "ln": { "type": "literal" , "value": "2187" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13277-6" } ,
         "stwLabel": { "type": "literal" , "value": "Sprachverarbeitung | Speech processing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28209,7 +28233,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2186" } ,
+        "ln": { "type": "literal" , "value": "2188" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13277-6" } ,
         "stwLabel": { "type": "literal" , "value": "Sprachverarbeitung | Speech processing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28221,7 +28245,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2187" } ,
+        "ln": { "type": "literal" , "value": "2189" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13673-5" } ,
         "stwLabel": { "type": "literal" , "value": "Text | Text" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28233,7 +28257,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2188" } ,
+        "ln": { "type": "literal" , "value": "2190" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13673-5" } ,
         "stwLabel": { "type": "literal" , "value": "Text | Text" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28245,7 +28269,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2189" } ,
+        "ln": { "type": "literal" , "value": "2191" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13673-5" } ,
         "stwLabel": { "type": "literal" , "value": "Text | Text" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28257,7 +28281,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2190" } ,
+        "ln": { "type": "literal" , "value": "2192" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13673-5" } ,
         "stwLabel": { "type": "literal" , "value": "Text | Text" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28269,7 +28293,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2191" } ,
+        "ln": { "type": "literal" , "value": "2193" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13673-5" } ,
         "stwLabel": { "type": "literal" , "value": "Text | Text" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28281,7 +28305,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2192" } ,
+        "ln": { "type": "literal" , "value": "2194" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30030-1" } ,
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsterminologie | Economic terminology" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28293,7 +28317,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2193" } ,
+        "ln": { "type": "literal" , "value": "2195" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30030-1" } ,
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsterminologie | Economic terminology" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28305,7 +28329,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2194" } ,
+        "ln": { "type": "literal" , "value": "2196" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29682-3" } ,
         "stwLabel": { "type": "literal" , "value": "Feiertag | Holiday" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28317,7 +28341,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2195" } ,
+        "ln": { "type": "literal" , "value": "2197" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29682-3" } ,
         "stwLabel": { "type": "literal" , "value": "Feiertag | Holiday" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28329,7 +28353,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2196" } ,
+        "ln": { "type": "literal" , "value": "2198" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29682-3" } ,
         "stwLabel": { "type": "literal" , "value": "Feiertag | Holiday" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28341,7 +28365,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2197" } ,
+        "ln": { "type": "literal" , "value": "2199" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15644-2" } ,
         "stwLabel": { "type": "literal" , "value": "Geisteswissenschaft | Humanities" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28353,7 +28377,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2198" } ,
+        "ln": { "type": "literal" , "value": "2200" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14040-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kunstwerk | Work of art" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28365,7 +28389,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2199" } ,
+        "ln": { "type": "literal" , "value": "2201" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14040-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kunstwerk | Work of art" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28377,7 +28401,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2200" } ,
+        "ln": { "type": "literal" , "value": "2202" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14040-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kunstwerk | Work of art" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28389,7 +28413,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2201" } ,
+        "ln": { "type": "literal" , "value": "2203" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15604-0" } ,
         "stwLabel": { "type": "literal" , "value": "Datenschutz | Data protection" } ,
         "relation": { "type": "literal" , "value": "<" } ,
@@ -28401,7 +28425,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2202" } ,
+        "ln": { "type": "literal" , "value": "2204" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15604-0" } ,
         "stwLabel": { "type": "literal" , "value": "Datenschutz | Data protection" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28413,7 +28437,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2203" } ,
+        "ln": { "type": "literal" , "value": "2205" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15604-0" } ,
         "stwLabel": { "type": "literal" , "value": "Datenschutz | Data protection" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28425,7 +28449,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2204" } ,
+        "ln": { "type": "literal" , "value": "2206" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18110-3" } ,
         "stwLabel": { "type": "literal" , "value": "Elektronische Publikation | Electronic publishing" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28437,7 +28461,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2205" } ,
+        "ln": { "type": "literal" , "value": "2207" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18110-3" } ,
         "stwLabel": { "type": "literal" , "value": "Elektronische Publikation | Electronic publishing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28449,7 +28473,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2206" } ,
+        "ln": { "type": "literal" , "value": "2208" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18110-3" } ,
         "stwLabel": { "type": "literal" , "value": "Elektronische Publikation | Electronic publishing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28461,7 +28485,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2207" } ,
+        "ln": { "type": "literal" , "value": "2209" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18110-3" } ,
         "stwLabel": { "type": "literal" , "value": "Elektronische Publikation | Electronic publishing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28473,7 +28497,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2208" } ,
+        "ln": { "type": "literal" , "value": "2210" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18110-3" } ,
         "stwLabel": { "type": "literal" , "value": "Elektronische Publikation | Electronic publishing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28485,7 +28509,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2209" } ,
+        "ln": { "type": "literal" , "value": "2211" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10142-2" } ,
         "stwLabel": { "type": "literal" , "value": "Informationsverbreitung | Information dissemination" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28497,7 +28521,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2210" } ,
+        "ln": { "type": "literal" , "value": "2212" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10142-2" } ,
         "stwLabel": { "type": "literal" , "value": "Informationsverbreitung | Information dissemination" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28509,7 +28533,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2211" } ,
+        "ln": { "type": "literal" , "value": "2213" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29326-4" } ,
         "stwLabel": { "type": "literal" , "value": "Internetnutzung | Internet usage" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28521,7 +28545,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2212" } ,
+        "ln": { "type": "literal" , "value": "2214" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29323-3" } ,
         "stwLabel": { "type": "literal" , "value": "Mediale Berichterstattung | Media coverage" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28533,7 +28557,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2213" } ,
+        "ln": { "type": "literal" , "value": "2215" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18647-2" } ,
         "stwLabel": { "type": "literal" , "value": "Multimedia | Multimedia" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28545,7 +28569,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2214" } ,
+        "ln": { "type": "literal" , "value": "2216" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29228-4" } ,
         "stwLabel": { "type": "literal" , "value": "Personalisierung | Personalization" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28557,7 +28581,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2215" } ,
+        "ln": { "type": "literal" , "value": "2217" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29182-2" } ,
         "stwLabel": { "type": "literal" , "value": "Social Web | Social web" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28569,7 +28593,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2216" } ,
+        "ln": { "type": "literal" , "value": "2218" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29182-2" } ,
         "stwLabel": { "type": "literal" , "value": "Social Web | Social web" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28581,7 +28605,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2217" } ,
+        "ln": { "type": "literal" , "value": "2219" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29182-2" } ,
         "stwLabel": { "type": "literal" , "value": "Social Web | Social web" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28593,7 +28617,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2218" } ,
+        "ln": { "type": "literal" , "value": "2220" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29182-2" } ,
         "stwLabel": { "type": "literal" , "value": "Social Web | Social web" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28605,7 +28629,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2219" } ,
+        "ln": { "type": "literal" , "value": "2221" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27743-5" } ,
         "stwLabel": { "type": "literal" , "value": "Web 2.0-Technologien | Web 2.0 technologies" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28617,7 +28641,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2220" } ,
+        "ln": { "type": "literal" , "value": "2222" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27743-5" } ,
         "stwLabel": { "type": "literal" , "value": "Web 2.0-Technologien | Web 2.0 technologies" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28629,7 +28653,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2221" } ,
+        "ln": { "type": "literal" , "value": "2223" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27743-5" } ,
         "stwLabel": { "type": "literal" , "value": "Web 2.0-Technologien | Web 2.0 technologies" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28641,7 +28665,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2222" } ,
+        "ln": { "type": "literal" , "value": "2224" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27743-5" } ,
         "stwLabel": { "type": "literal" , "value": "Web 2.0-Technologien | Web 2.0 technologies" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28653,7 +28677,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2223" } ,
+        "ln": { "type": "literal" , "value": "2225" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19771-3" } ,
         "stwLabel": { "type": "literal" , "value": "Angst | Anxiety" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28665,7 +28689,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2224" } ,
+        "ln": { "type": "literal" , "value": "2226" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19771-3" } ,
         "stwLabel": { "type": "literal" , "value": "Angst | Anxiety" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28677,7 +28701,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2225" } ,
+        "ln": { "type": "literal" , "value": "2227" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19771-3" } ,
         "stwLabel": { "type": "literal" , "value": "Angst | Anxiety" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28689,7 +28713,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2226" } ,
+        "ln": { "type": "literal" , "value": "2228" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27842-3" } ,
         "stwLabel": { "type": "literal" , "value": "Coping-Strategie | Coping strategy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28701,7 +28725,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2227" } ,
+        "ln": { "type": "literal" , "value": "2229" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19599-3" } ,
         "stwLabel": { "type": "literal" , "value": "Emotion | Emotion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28713,7 +28737,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2228" } ,
+        "ln": { "type": "literal" , "value": "2230" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19599-3" } ,
         "stwLabel": { "type": "literal" , "value": "Emotion | Emotion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28725,7 +28749,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2229" } ,
+        "ln": { "type": "literal" , "value": "2231" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19599-3" } ,
         "stwLabel": { "type": "literal" , "value": "Emotion | Emotion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28737,7 +28761,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2230" } ,
+        "ln": { "type": "literal" , "value": "2232" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19599-3" } ,
         "stwLabel": { "type": "literal" , "value": "Emotion | Emotion" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28749,7 +28773,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2231" } ,
+        "ln": { "type": "literal" , "value": "2233" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19599-3" } ,
         "stwLabel": { "type": "literal" , "value": "Emotion | Emotion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28761,7 +28785,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2232" } ,
+        "ln": { "type": "literal" , "value": "2234" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19600-2" } ,
         "stwLabel": { "type": "literal" , "value": "Humor | Humor" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28773,7 +28797,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2233" } ,
+        "ln": { "type": "literal" , "value": "2235" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19600-2" } ,
         "stwLabel": { "type": "literal" , "value": "Humor | Humor" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28785,7 +28809,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2234" } ,
+        "ln": { "type": "literal" , "value": "2236" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26376-4" } ,
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28797,7 +28821,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2235" } ,
+        "ln": { "type": "literal" , "value": "2237" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26376-4" } ,
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28809,7 +28833,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2236" } ,
+        "ln": { "type": "literal" , "value": "2238" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26376-4" } ,
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28820,7 +28844,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2237" } ,
+        "ln": { "type": "literal" , "value": "2239" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26376-4" } ,
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28831,7 +28855,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2238" } ,
+        "ln": { "type": "literal" , "value": "2240" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26376-4" } ,
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28843,7 +28867,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2239" } ,
+        "ln": { "type": "literal" , "value": "2241" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26376-4" } ,
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28855,7 +28879,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2240" } ,
+        "ln": { "type": "literal" , "value": "2242" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19601-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kognition | Cognition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28867,7 +28891,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2241" } ,
+        "ln": { "type": "literal" , "value": "2243" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19601-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kognition | Cognition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28879,7 +28903,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2242" } ,
+        "ln": { "type": "literal" , "value": "2244" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19601-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kognition | Cognition" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -28891,7 +28915,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2243" } ,
+        "ln": { "type": "literal" , "value": "2245" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19601-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kognition | Cognition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28903,7 +28927,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2244" } ,
+        "ln": { "type": "literal" , "value": "2246" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18924-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kulturelle Identität | Cultural identity" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28915,7 +28939,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2245" } ,
+        "ln": { "type": "literal" , "value": "2247" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18924-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kulturelle Identität | Cultural identity" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28927,7 +28951,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2246" } ,
+        "ln": { "type": "literal" , "value": "2248" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18924-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kulturelle Identität | Cultural identity" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -28939,7 +28963,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2247" } ,
+        "ln": { "type": "literal" , "value": "2249" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
         "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -28951,34 +28975,10 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2248" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
-        "relation": { "type": "literal" , "value": "^" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q622645" } ,
-        "wdLabel": { "type": "literal" , "value": "Einstellung | attitude" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1097" } ,
-        "issueLabel": { "type": "literal" , "value": "#1097" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "2249" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q851176" } ,
-        "wdLabel": { "type": "literal" , "value": "Beurteilung | assessment" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1097" } ,
-        "issueLabel": { "type": "literal" , "value": "#1097" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
-      } ,
-      { 
         "ln": { "type": "literal" , "value": "2250" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
         "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
-        "relation": { "type": "literal" , "value": "*" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q622645" } ,
         "wdLabel": { "type": "literal" , "value": "Einstellung | attitude" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1097" } ,
@@ -28991,6 +28991,30 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
         "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q851176" } ,
+        "wdLabel": { "type": "literal" , "value": "Beurteilung | assessment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1097" } ,
+        "issueLabel": { "type": "literal" , "value": "#1097" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2252" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q622645" } ,
+        "wdLabel": { "type": "literal" , "value": "Einstellung | attitude" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1097" } ,
+        "issueLabel": { "type": "literal" , "value": "#1097" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2253" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q179742" } ,
         "wdLabel": { "type": "literal" , "value": "Vorurteil | prejudice" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1097" } ,
@@ -28999,7 +29023,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2252" } ,
+        "ln": { "type": "literal" , "value": "2254" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15821-6" } ,
         "stwLabel": { "type": "literal" , "value": "Meinung | Opinion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29011,7 +29035,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2253" } ,
+        "ln": { "type": "literal" , "value": "2255" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27952-3" } ,
         "stwLabel": { "type": "literal" , "value": "Motivationstheorie | Motivation theory" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29023,7 +29047,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2254" } ,
+        "ln": { "type": "literal" , "value": "2256" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27952-3" } ,
         "stwLabel": { "type": "literal" , "value": "Motivationstheorie | Motivation theory" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29035,7 +29059,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2255" } ,
+        "ln": { "type": "literal" , "value": "2257" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15410-6" } ,
         "stwLabel": { "type": "literal" , "value": "Mustererkennung | Pattern recognition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29047,7 +29071,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2256" } ,
+        "ln": { "type": "literal" , "value": "2258" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29610-0" } ,
         "stwLabel": { "type": "literal" , "value": "Persönlichkeitsmerkmal | Personality trait" } ,
         "relation": { "type": "literal" , "value": "<" } ,
@@ -29059,7 +29083,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2257" } ,
+        "ln": { "type": "literal" , "value": "2259" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29610-0" } ,
         "stwLabel": { "type": "literal" , "value": "Persönlichkeitsmerkmal | Personality trait" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29071,7 +29095,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2258" } ,
+        "ln": { "type": "literal" , "value": "2260" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19013-3" } ,
         "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental disorder" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29083,7 +29107,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2259" } ,
+        "ln": { "type": "literal" , "value": "2261" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19013-3" } ,
         "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental disorder" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29095,7 +29119,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2260" } ,
+        "ln": { "type": "literal" , "value": "2262" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19013-3" } ,
         "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental disorder" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29107,7 +29131,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2261" } ,
+        "ln": { "type": "literal" , "value": "2263" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15790-5" } ,
         "stwLabel": { "type": "literal" , "value": "Psychologie | Psychology" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29119,7 +29143,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2262" } ,
+        "ln": { "type": "literal" , "value": "2264" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29131,7 +29155,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2263" } ,
+        "ln": { "type": "literal" , "value": "2265" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29143,7 +29167,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2264" } ,
+        "ln": { "type": "literal" , "value": "2266" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29155,7 +29179,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2265" } ,
+        "ln": { "type": "literal" , "value": "2267" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29167,7 +29191,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2266" } ,
+        "ln": { "type": "literal" , "value": "2268" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29179,7 +29203,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2267" } ,
+        "ln": { "type": "literal" , "value": "2269" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
         "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29191,7 +29215,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2268" } ,
+        "ln": { "type": "literal" , "value": "2270" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27853-5" } ,
         "stwLabel": { "type": "literal" , "value": "Zufriedenheit | Satisfaction" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29203,7 +29227,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2269" } ,
+        "ln": { "type": "literal" , "value": "2271" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/27853-5" } ,
         "stwLabel": { "type": "literal" , "value": "Zufriedenheit | Satisfaction" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29215,7 +29239,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2270" } ,
+        "ln": { "type": "literal" , "value": "2272" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29931-1" } ,
         "stwLabel": { "type": "literal" , "value": "Nachhaltiger Konsum | Sustainable consumption" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29227,7 +29251,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2271" } ,
+        "ln": { "type": "literal" , "value": "2273" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29931-1" } ,
         "stwLabel": { "type": "literal" , "value": "Nachhaltiger Konsum | Sustainable consumption" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29239,7 +29263,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2272" } ,
+        "ln": { "type": "literal" , "value": "2274" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29818-4" } ,
         "stwLabel": { "type": "literal" , "value": "Visuelle Wahrnehmung | Visual perception" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29251,7 +29275,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2273" } ,
+        "ln": { "type": "literal" , "value": "2275" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10205-4" } ,
         "stwLabel": { "type": "literal" , "value": "Monopol | Monopoly" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29263,7 +29287,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2274" } ,
+        "ln": { "type": "literal" , "value": "2276" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19431-6" } ,
         "stwLabel": { "type": "literal" , "value": "Netzwerkökonomik | Network economics" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29275,7 +29299,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2275" } ,
+        "ln": { "type": "literal" , "value": "2277" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19431-6" } ,
         "stwLabel": { "type": "literal" , "value": "Netzwerkökonomik | Network economics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29287,7 +29311,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2276" } ,
+        "ln": { "type": "literal" , "value": "2278" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19431-6" } ,
         "stwLabel": { "type": "literal" , "value": "Netzwerkökonomik | Network economics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29299,7 +29323,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2277" } ,
+        "ln": { "type": "literal" , "value": "2279" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19431-6" } ,
         "stwLabel": { "type": "literal" , "value": "Netzwerkökonomik | Network economics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29311,7 +29335,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2278" } ,
+        "ln": { "type": "literal" , "value": "2280" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10209-3" } ,
         "stwLabel": { "type": "literal" , "value": "Oligopol | Oligopoly" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29323,7 +29347,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2279" } ,
+        "ln": { "type": "literal" , "value": "2281" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10209-3" } ,
         "stwLabel": { "type": "literal" , "value": "Oligopol | Oligopoly" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29335,7 +29359,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2280" } ,
+        "ln": { "type": "literal" , "value": "2282" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10227-1" } ,
         "stwLabel": { "type": "literal" , "value": "Vollkommener Wettbewerb | Perfect competition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29347,7 +29371,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2281" } ,
+        "ln": { "type": "literal" , "value": "2283" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10227-1" } ,
         "stwLabel": { "type": "literal" , "value": "Vollkommener Wettbewerb | Perfect competition" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29359,7 +29383,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2282" } ,
+        "ln": { "type": "literal" , "value": "2284" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11754-1" } ,
         "stwLabel": { "type": "literal" , "value": "Ökonomische Rente | Economic rent" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29371,7 +29395,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2283" } ,
+        "ln": { "type": "literal" , "value": "2285" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11754-1" } ,
         "stwLabel": { "type": "literal" , "value": "Ökonomische Rente | Economic rent" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29383,7 +29407,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2284" } ,
+        "ln": { "type": "literal" , "value": "2286" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19125-6" } ,
         "stwLabel": { "type": "literal" , "value": "Marktführer | Market leader" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29395,7 +29419,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2285" } ,
+        "ln": { "type": "literal" , "value": "2287" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10908-5" } ,
         "stwLabel": { "type": "literal" , "value": "Nichtpreiswettbewerb | Non-price competition" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29407,7 +29431,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2286" } ,
+        "ln": { "type": "literal" , "value": "2288" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10923-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kartell | Cartel" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29419,7 +29443,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2287" } ,
+        "ln": { "type": "literal" , "value": "2289" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10942-5" } ,
         "stwLabel": { "type": "literal" , "value": "Wettbewerbsbeschränkung | Restraints of competition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29431,7 +29455,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2288" } ,
+        "ln": { "type": "literal" , "value": "2290" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19433-2" } ,
         "stwLabel": { "type": "literal" , "value": "Anreizregulierung | Incentive regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29443,7 +29467,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2289" } ,
+        "ln": { "type": "literal" , "value": "2291" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19433-2" } ,
         "stwLabel": { "type": "literal" , "value": "Anreizregulierung | Incentive regulation" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29455,7 +29479,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2290" } ,
+        "ln": { "type": "literal" , "value": "2292" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19433-2" } ,
         "stwLabel": { "type": "literal" , "value": "Anreizregulierung | Incentive regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29467,7 +29491,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2291" } ,
+        "ln": { "type": "literal" , "value": "2293" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19433-2" } ,
         "stwLabel": { "type": "literal" , "value": "Anreizregulierung | Incentive regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29479,7 +29503,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2292" } ,
+        "ln": { "type": "literal" , "value": "2294" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10961-1" } ,
         "stwLabel": { "type": "literal" , "value": "Entflechtung | Unbundling" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29491,7 +29515,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2293" } ,
+        "ln": { "type": "literal" , "value": "2295" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10961-1" } ,
         "stwLabel": { "type": "literal" , "value": "Entflechtung | Unbundling" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29503,7 +29527,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2294" } ,
+        "ln": { "type": "literal" , "value": "2296" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10961-1" } ,
         "stwLabel": { "type": "literal" , "value": "Entflechtung | Unbundling" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29515,7 +29539,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2295" } ,
+        "ln": { "type": "literal" , "value": "2297" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10949-5" } ,
         "stwLabel": { "type": "literal" , "value": "Marktabgrenzung | Market definition" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29527,7 +29551,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2296" } ,
+        "ln": { "type": "literal" , "value": "2298" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10978-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preisregulierung | Price regulation" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29539,7 +29563,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2297" } ,
+        "ln": { "type": "literal" , "value": "2299" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10978-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preisregulierung | Price regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29551,7 +29575,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2298" } ,
+        "ln": { "type": "literal" , "value": "2300" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10978-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preisregulierung | Price regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29563,7 +29587,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2299" } ,
+        "ln": { "type": "literal" , "value": "2301" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10978-5" } ,
         "stwLabel": { "type": "literal" , "value": "Preisregulierung | Price regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29575,7 +29599,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2300" } ,
+        "ln": { "type": "literal" , "value": "2302" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10894-4" } ,
         "stwLabel": { "type": "literal" , "value": "Regulierung | Regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29587,7 +29611,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2301" } ,
+        "ln": { "type": "literal" , "value": "2303" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10894-4" } ,
         "stwLabel": { "type": "literal" , "value": "Regulierung | Regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29599,7 +29623,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2302" } ,
+        "ln": { "type": "literal" , "value": "2304" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10894-4" } ,
         "stwLabel": { "type": "literal" , "value": "Regulierung | Regulation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29611,7 +29635,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2303" } ,
+        "ln": { "type": "literal" , "value": "2305" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11951-6" } ,
         "stwLabel": { "type": "literal" , "value": "Regionalwissenschaft | Regional science" } ,
         "relation": { "type": "literal" , "value": "<" } ,
@@ -29623,7 +29647,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2304" } ,
+        "ln": { "type": "literal" , "value": "2306" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11951-6" } ,
         "stwLabel": { "type": "literal" , "value": "Regionalwissenschaft | Regional science" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29635,7 +29659,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2305" } ,
+        "ln": { "type": "literal" , "value": "2307" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11951-6" } ,
         "stwLabel": { "type": "literal" , "value": "Regionalwissenschaft | Regional science" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29647,7 +29671,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2306" } ,
+        "ln": { "type": "literal" , "value": "2308" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11979-5" } ,
         "stwLabel": { "type": "literal" , "value": "Ballungsraum | Metropolitan area" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29659,7 +29683,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2307" } ,
+        "ln": { "type": "literal" , "value": "2309" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11979-5" } ,
         "stwLabel": { "type": "literal" , "value": "Ballungsraum | Metropolitan area" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29671,7 +29695,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2308" } ,
+        "ln": { "type": "literal" , "value": "2310" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11979-5" } ,
         "stwLabel": { "type": "literal" , "value": "Ballungsraum | Metropolitan area" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29683,7 +29707,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2309" } ,
+        "ln": { "type": "literal" , "value": "2311" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11979-5" } ,
         "stwLabel": { "type": "literal" , "value": "Ballungsraum | Metropolitan area" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29695,7 +29719,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2310" } ,
+        "ln": { "type": "literal" , "value": "2312" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19448-3" } ,
         "stwLabel": { "type": "literal" , "value": "Standortmarketing | Place marketing" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29707,7 +29731,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2311" } ,
+        "ln": { "type": "literal" , "value": "2313" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19448-3" } ,
         "stwLabel": { "type": "literal" , "value": "Standortmarketing | Place marketing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29719,7 +29743,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2312" } ,
+        "ln": { "type": "literal" , "value": "2314" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11903-3" } ,
         "stwLabel": { "type": "literal" , "value": "Zentrale Orte | Central places" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -29731,7 +29755,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2313" } ,
+        "ln": { "type": "literal" , "value": "2315" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11903-3" } ,
         "stwLabel": { "type": "literal" , "value": "Zentrale Orte | Central places" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29743,7 +29767,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2314" } ,
+        "ln": { "type": "literal" , "value": "2316" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11903-3" } ,
         "stwLabel": { "type": "literal" , "value": "Zentrale Orte | Central places" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29755,7 +29779,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2315" } ,
+        "ln": { "type": "literal" , "value": "2317" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11903-3" } ,
         "stwLabel": { "type": "literal" , "value": "Zentrale Orte | Central places" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29767,7 +29791,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2316" } ,
+        "ln": { "type": "literal" , "value": "2318" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12020-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenrecht | Land tenure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29779,7 +29803,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2317" } ,
+        "ln": { "type": "literal" , "value": "2319" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12020-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenrecht | Land tenure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29791,7 +29815,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2318" } ,
+        "ln": { "type": "literal" , "value": "2320" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12020-6" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenrecht | Land tenure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29803,7 +29827,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2319" } ,
+        "ln": { "type": "literal" , "value": "2321" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11921-1" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenwirtschaft | Land economy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29815,7 +29839,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2320" } ,
+        "ln": { "type": "literal" , "value": "2322" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11921-1" } ,
         "stwLabel": { "type": "literal" , "value": "Bodenwirtschaft | Land economy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29827,7 +29851,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2321" } ,
+        "ln": { "type": "literal" , "value": "2323" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18014-6" } ,
         "stwLabel": { "type": "literal" , "value": "Brachfläche | Uncultivated land" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29839,7 +29863,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2322" } ,
+        "ln": { "type": "literal" , "value": "2324" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19453-3" } ,
         "stwLabel": { "type": "literal" , "value": "Städtische Flächennutzung | Urban land use" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29851,7 +29875,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2323" } ,
+        "ln": { "type": "literal" , "value": "2325" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19453-3" } ,
         "stwLabel": { "type": "literal" , "value": "Städtische Flächennutzung | Urban land use" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29863,7 +29887,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2324" } ,
+        "ln": { "type": "literal" , "value": "2326" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11869-5" } ,
         "stwLabel": { "type": "literal" , "value": "Raumordnung | Physical planning" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -29875,7 +29899,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2325" } ,
+        "ln": { "type": "literal" , "value": "2327" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11869-5" } ,
         "stwLabel": { "type": "literal" , "value": "Raumordnung | Physical planning" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29887,7 +29911,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2326" } ,
+        "ln": { "type": "literal" , "value": "2328" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11869-5" } ,
         "stwLabel": { "type": "literal" , "value": "Raumordnung | Physical planning" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29899,7 +29923,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2327" } ,
+        "ln": { "type": "literal" , "value": "2329" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19829-5" } ,
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsförderung | Regional business growth programme" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29911,7 +29935,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2328" } ,
+        "ln": { "type": "literal" , "value": "2330" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11862-5" } ,
         "stwLabel": { "type": "literal" , "value": "Dorf | Village" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29923,7 +29947,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2329" } ,
+        "ln": { "type": "literal" , "value": "2331" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11862-5" } ,
         "stwLabel": { "type": "literal" , "value": "Dorf | Village" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29935,7 +29959,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2330" } ,
+        "ln": { "type": "literal" , "value": "2332" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19458-0" } ,
         "stwLabel": { "type": "literal" , "value": "Dorfentwicklung | Village development" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29947,7 +29971,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2331" } ,
+        "ln": { "type": "literal" , "value": "2333" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11981-4" } ,
         "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Enterprise zone" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29959,7 +29983,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2332" } ,
+        "ln": { "type": "literal" , "value": "2334" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11981-4" } ,
         "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Enterprise zone" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -29971,7 +29995,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2333" } ,
+        "ln": { "type": "literal" , "value": "2335" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11981-4" } ,
         "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Enterprise zone" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29983,7 +30007,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2334" } ,
+        "ln": { "type": "literal" , "value": "2336" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11975-6" } ,
         "stwLabel": { "type": "literal" , "value": "Innenstadt | Central city" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -29995,7 +30019,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2335" } ,
+        "ln": { "type": "literal" , "value": "2337" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11975-6" } ,
         "stwLabel": { "type": "literal" , "value": "Innenstadt | Central city" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30007,7 +30031,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2336" } ,
+        "ln": { "type": "literal" , "value": "2338" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11975-6" } ,
         "stwLabel": { "type": "literal" , "value": "Innenstadt | Central city" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30019,7 +30043,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2337" } ,
+        "ln": { "type": "literal" , "value": "2339" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16656-4" } ,
         "stwLabel": { "type": "literal" , "value": "Segregation | Segregation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30031,7 +30055,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2338" } ,
+        "ln": { "type": "literal" , "value": "2340" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11973-3" } ,
         "stwLabel": { "type": "literal" , "value": "Stadtquartier | Urban quarter" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30043,7 +30067,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2339" } ,
+        "ln": { "type": "literal" , "value": "2341" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11973-3" } ,
         "stwLabel": { "type": "literal" , "value": "Stadtquartier | Urban quarter" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30055,7 +30079,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2340" } ,
+        "ln": { "type": "literal" , "value": "2342" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11973-3" } ,
         "stwLabel": { "type": "literal" , "value": "Stadtquartier | Urban quarter" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30067,7 +30091,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2341" } ,
+        "ln": { "type": "literal" , "value": "2343" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30079,7 +30103,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2342" } ,
+        "ln": { "type": "literal" , "value": "2344" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30091,7 +30115,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2343" } ,
+        "ln": { "type": "literal" , "value": "2345" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30103,7 +30127,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2344" } ,
+        "ln": { "type": "literal" , "value": "2346" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30115,7 +30139,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2345" } ,
+        "ln": { "type": "literal" , "value": "2347" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30127,7 +30151,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2346" } ,
+        "ln": { "type": "literal" , "value": "2348" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30139,7 +30163,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2347" } ,
+        "ln": { "type": "literal" , "value": "2349" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30151,7 +30175,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2348" } ,
+        "ln": { "type": "literal" , "value": "2350" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19479-6" } ,
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30163,7 +30187,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2349" } ,
+        "ln": { "type": "literal" , "value": "2351" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11627-1" } ,
         "stwLabel": { "type": "literal" , "value": "Kommunales Unternehmen | Municipal enterprise" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30175,7 +30199,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2350" } ,
+        "ln": { "type": "literal" , "value": "2352" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11627-1" } ,
         "stwLabel": { "type": "literal" , "value": "Kommunales Unternehmen | Municipal enterprise" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30187,7 +30211,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2351" } ,
+        "ln": { "type": "literal" , "value": "2353" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19473-4" } ,
         "stwLabel": { "type": "literal" , "value": "Nachhaltige Stadtentwicklung | Sustainable urban development" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30199,7 +30223,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2352" } ,
+        "ln": { "type": "literal" , "value": "2354" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11999-6" } ,
         "stwLabel": { "type": "literal" , "value": "Stadterneuerung | Urban renewal" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30211,7 +30235,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2353" } ,
+        "ln": { "type": "literal" , "value": "2355" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11999-6" } ,
         "stwLabel": { "type": "literal" , "value": "Stadterneuerung | Urban renewal" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30223,7 +30247,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2354" } ,
+        "ln": { "type": "literal" , "value": "2356" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11844-0" } ,
         "stwLabel": { "type": "literal" , "value": "Städtebau | Urban design" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30235,7 +30259,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2355" } ,
+        "ln": { "type": "literal" , "value": "2357" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18031-6" } ,
         "stwLabel": { "type": "literal" , "value": "Technologiepark | Technology park" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -30247,7 +30271,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2356" } ,
+        "ln": { "type": "literal" , "value": "2358" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18031-6" } ,
         "stwLabel": { "type": "literal" , "value": "Technologiepark | Technology park" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30259,7 +30283,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2357" } ,
+        "ln": { "type": "literal" , "value": "2359" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19483-1" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltbewertung | Environmental valuation" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30272,7 +30296,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Umweltbewertung | environmental valuation" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2358" } ,
+        "ln": { "type": "literal" , "value": "2360" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19483-1" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltbewertung | Environmental valuation" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30285,7 +30309,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Umweltbewertung | environmental valuation" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2359" } ,
+        "ln": { "type": "literal" , "value": "2361" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19483-1" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltbewertung | Environmental valuation" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30298,7 +30322,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Umweltbewertung | environmental valuation" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2360" } ,
+        "ln": { "type": "literal" , "value": "2362" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19483-1" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltbewertung | Environmental valuation" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30311,7 +30335,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Umweltbewertung | environmental valuation" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2361" } ,
+        "ln": { "type": "literal" , "value": "2363" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15738-0" } ,
         "stwLabel": { "type": "literal" , "value": "Internationale Umweltpolitik | International environmental policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30323,7 +30347,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2362" } ,
+        "ln": { "type": "literal" , "value": "2364" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29581-2" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Umweltrecht | International environmental law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30335,7 +30359,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2363" } ,
+        "ln": { "type": "literal" , "value": "2365" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29581-2" } ,
         "stwLabel": { "type": "literal" , "value": "Internationales Umweltrecht | International environmental law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30347,7 +30371,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2364" } ,
+        "ln": { "type": "literal" , "value": "2366" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15764-6" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltbewusstsein | Environmental consciousness" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30359,7 +30383,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2365" } ,
+        "ln": { "type": "literal" , "value": "2367" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15768-5" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltpolitik | Environmental policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30371,7 +30395,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2366" } ,
+        "ln": { "type": "literal" , "value": "2368" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15775-1" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltverträglichkeit | Environmental sustainability" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30383,7 +30407,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2367" } ,
+        "ln": { "type": "literal" , "value": "2369" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15775-1" } ,
         "stwLabel": { "type": "literal" , "value": "Umweltverträglichkeit | Environmental sustainability" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30395,7 +30419,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2368" } ,
+        "ln": { "type": "literal" , "value": "2370" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29585-1" } ,
         "stwLabel": { "type": "literal" , "value": "CO2-Speicherung | Carbon capture" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30407,7 +30431,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2369" } ,
+        "ln": { "type": "literal" , "value": "2371" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29578-5" } ,
         "stwLabel": { "type": "literal" , "value": "Internationale Klimapolitik | International climate policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30419,7 +30443,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2370" } ,
+        "ln": { "type": "literal" , "value": "2372" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29578-5" } ,
         "stwLabel": { "type": "literal" , "value": "Internationale Klimapolitik | International climate policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30431,7 +30455,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2371" } ,
+        "ln": { "type": "literal" , "value": "2373" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11811-1" } ,
         "stwLabel": { "type": "literal" , "value": "Energieeinsparung | Energy conservation" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30443,7 +30467,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2372" } ,
+        "ln": { "type": "literal" , "value": "2374" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18356-6" } ,
         "stwLabel": { "type": "literal" , "value": "Gasversorgung | Gas supply" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30455,7 +30479,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2373" } ,
+        "ln": { "type": "literal" , "value": "2375" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18356-6" } ,
         "stwLabel": { "type": "literal" , "value": "Gasversorgung | Gas supply" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30467,7 +30491,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2374" } ,
+        "ln": { "type": "literal" , "value": "2376" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15751-1" } ,
         "stwLabel": { "type": "literal" , "value": "Erschöpfbare Ressourcen | Exhaustible resources" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30479,7 +30503,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2375" } ,
+        "ln": { "type": "literal" , "value": "2377" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/25974-3" } ,
         "stwLabel": { "type": "literal" , "value": "Austauschtheorie | Social exchange theory" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30491,7 +30515,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2376" } ,
+        "ln": { "type": "literal" , "value": "2378" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/25974-3" } ,
         "stwLabel": { "type": "literal" , "value": "Austauschtheorie | Social exchange theory" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30503,7 +30527,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2377" } ,
+        "ln": { "type": "literal" , "value": "2379" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11168-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kollektives Handeln | Collective action" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30515,7 +30539,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2378" } ,
+        "ln": { "type": "literal" , "value": "2380" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15723-6" } ,
         "stwLabel": { "type": "literal" , "value": "Sozialgeschichte | Social history" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30527,7 +30551,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2379" } ,
+        "ln": { "type": "literal" , "value": "2381" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28014-0" } ,
         "stwLabel": { "type": "literal" , "value": "Sozialtechnologie | Social engineering" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30539,7 +30563,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2380" } ,
+        "ln": { "type": "literal" , "value": "2382" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28007-4" } ,
         "stwLabel": { "type": "literal" , "value": "Mikropolitik | Micropolitics" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30551,7 +30575,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2381" } ,
+        "ln": { "type": "literal" , "value": "2383" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19751-2" } ,
         "stwLabel": { "type": "literal" , "value": "Selbstorganisation | Self-organization" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30563,7 +30587,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2382" } ,
+        "ln": { "type": "literal" , "value": "2384" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16588-2" } ,
         "stwLabel": { "type": "literal" , "value": "Gesellschaft | Society" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30575,7 +30599,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2383" } ,
+        "ln": { "type": "literal" , "value": "2385" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16588-2" } ,
         "stwLabel": { "type": "literal" , "value": "Gesellschaft | Society" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30587,7 +30611,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2384" } ,
+        "ln": { "type": "literal" , "value": "2386" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16588-2" } ,
         "stwLabel": { "type": "literal" , "value": "Gesellschaft | Society" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30599,7 +30623,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2385" } ,
+        "ln": { "type": "literal" , "value": "2387" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16654-1" } ,
         "stwLabel": { "type": "literal" , "value": "Soziale Ausgrenzung | Social exclusion" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -30611,7 +30635,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2386" } ,
+        "ln": { "type": "literal" , "value": "2388" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16654-1" } ,
         "stwLabel": { "type": "literal" , "value": "Soziale Ausgrenzung | Social exclusion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30623,7 +30647,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2387" } ,
+        "ln": { "type": "literal" , "value": "2389" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16654-1" } ,
         "stwLabel": { "type": "literal" , "value": "Soziale Ausgrenzung | Social exclusion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30635,7 +30659,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2388" } ,
+        "ln": { "type": "literal" , "value": "2390" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16615-4" } ,
         "stwLabel": { "type": "literal" , "value": "Soziale Integration | Social integration" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30647,7 +30671,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2389" } ,
+        "ln": { "type": "literal" , "value": "2391" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16615-4" } ,
         "stwLabel": { "type": "literal" , "value": "Soziale Integration | Social integration" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30659,7 +30683,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2390" } ,
+        "ln": { "type": "literal" , "value": "2392" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11197-0" } ,
         "stwLabel": { "type": "literal" , "value": "Heimarbeit | Home-based work" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30671,7 +30695,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2391" } ,
+        "ln": { "type": "literal" , "value": "2393" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11197-0" } ,
         "stwLabel": { "type": "literal" , "value": "Heimarbeit | Home-based work" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30683,7 +30707,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2392" } ,
+        "ln": { "type": "literal" , "value": "2394" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11197-0" } ,
         "stwLabel": { "type": "literal" , "value": "Heimarbeit | Home-based work" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30695,7 +30719,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2393" } ,
+        "ln": { "type": "literal" , "value": "2395" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11258-6" } ,
         "stwLabel": { "type": "literal" , "value": "Saisonarbeitskräfte | Seasonal workers" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30708,7 +30732,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Saisonarbeitskräfte | seasonal workers" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2394" } ,
+        "ln": { "type": "literal" , "value": "2396" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11258-6" } ,
         "stwLabel": { "type": "literal" , "value": "Saisonarbeitskräfte | Seasonal workers" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30721,7 +30745,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Saisonarbeitskräfte | seasonal workers" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2395" } ,
+        "ln": { "type": "literal" , "value": "2397" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19491-2" } ,
         "stwLabel": { "type": "literal" , "value": "Atypische Beschäftigung | Non-standard employment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30734,7 +30758,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2396" } ,
+        "ln": { "type": "literal" , "value": "2398" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19491-2" } ,
         "stwLabel": { "type": "literal" , "value": "Atypische Beschäftigung | Non-standard employment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30747,7 +30771,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2397" } ,
+        "ln": { "type": "literal" , "value": "2399" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19491-2" } ,
         "stwLabel": { "type": "literal" , "value": "Atypische Beschäftigung | Non-standard employment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30760,7 +30784,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2398" } ,
+        "ln": { "type": "literal" , "value": "2400" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19491-2" } ,
         "stwLabel": { "type": "literal" , "value": "Atypische Beschäftigung | Non-standard employment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30773,7 +30797,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2399" } ,
+        "ln": { "type": "literal" , "value": "2401" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18792-0" } ,
         "stwLabel": { "type": "literal" , "value": "Befristete Beschäftigung | Temporary employment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30785,7 +30809,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2400" } ,
+        "ln": { "type": "literal" , "value": "2402" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18792-0" } ,
         "stwLabel": { "type": "literal" , "value": "Befristete Beschäftigung | Temporary employment" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30797,7 +30821,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2401" } ,
+        "ln": { "type": "literal" , "value": "2403" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19902-0" } ,
         "stwLabel": { "type": "literal" , "value": "Beschäftigungssystem | Employment system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30810,7 +30834,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Beschäftigungssystem | employment system" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2402" } ,
+        "ln": { "type": "literal" , "value": "2404" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19902-0" } ,
         "stwLabel": { "type": "literal" , "value": "Beschäftigungssystem | Employment system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30823,7 +30847,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Beschäftigungssystem | employment system" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2403" } ,
+        "ln": { "type": "literal" , "value": "2405" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11272-5" } ,
         "stwLabel": { "type": "literal" , "value": "Erwerbstätigkeit | Employment" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30835,7 +30859,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2404" } ,
+        "ln": { "type": "literal" , "value": "2406" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11278-0" } ,
         "stwLabel": { "type": "literal" , "value": "Offene Stellen | Job vacancies" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -30847,7 +30871,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2405" } ,
+        "ln": { "type": "literal" , "value": "2407" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11182-6" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitslosigkeit | Unemployment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30859,7 +30883,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2406" } ,
+        "ln": { "type": "literal" , "value": "2408" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11182-6" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitslosigkeit | Unemployment" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -30871,7 +30895,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2407" } ,
+        "ln": { "type": "literal" , "value": "2409" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11211-4" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktsegmentation | Labour market segmentation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30884,7 +30908,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Arbeitsmarktsegmentation | labour market segmentation" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2408" } ,
+        "ln": { "type": "literal" , "value": "2410" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11219-2" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarkttheorie | Labour market theory" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30897,7 +30921,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Arbeitsmarkttheorie | labour market theory" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2409" } ,
+        "ln": { "type": "literal" , "value": "2411" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11336-5" } ,
         "stwLabel": { "type": "literal" , "value": "Lohntheorie | Wage theory" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30909,7 +30933,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2410" } ,
+        "ln": { "type": "literal" , "value": "2412" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11336-5" } ,
         "stwLabel": { "type": "literal" , "value": "Lohntheorie | Wage theory" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30921,7 +30945,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2411" } ,
+        "ln": { "type": "literal" , "value": "2413" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19508-4" } ,
         "stwLabel": { "type": "literal" , "value": "Aktivierende Arbeitsmarktpolitik | Workfare" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -30933,7 +30957,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2412" } ,
+        "ln": { "type": "literal" , "value": "2414" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11235-4" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktpolitik | Labour market policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30945,7 +30969,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2413" } ,
+        "ln": { "type": "literal" , "value": "2415" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11235-4" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktpolitik | Labour market policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30957,7 +30981,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2414" } ,
+        "ln": { "type": "literal" , "value": "2416" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29720-0" } ,
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktreform | Labour market reform" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30969,7 +30993,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2415" } ,
+        "ln": { "type": "literal" , "value": "2417" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11241-2" } ,
         "stwLabel": { "type": "literal" , "value": "Lohnsubvention | Wage subsidy" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -30981,7 +31005,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2416" } ,
+        "ln": { "type": "literal" , "value": "2418" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11241-2" } ,
         "stwLabel": { "type": "literal" , "value": "Lohnsubvention | Wage subsidy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -30993,7 +31017,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2417" } ,
+        "ln": { "type": "literal" , "value": "2419" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11241-2" } ,
         "stwLabel": { "type": "literal" , "value": "Lohnsubvention | Wage subsidy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31005,7 +31029,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2418" } ,
+        "ln": { "type": "literal" , "value": "2420" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11233-1" } ,
         "stwLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | Intermediate labour market" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31017,7 +31041,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2419" } ,
+        "ln": { "type": "literal" , "value": "2421" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11233-1" } ,
         "stwLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | Intermediate labour market" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31029,7 +31053,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2420" } ,
+        "ln": { "type": "literal" , "value": "2422" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18173-0" } ,
         "stwLabel": { "type": "literal" , "value": "Effizienzlohn | Efficiency wages" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31041,7 +31065,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2421" } ,
+        "ln": { "type": "literal" , "value": "2423" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11327-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lohnstruktur | Wage structure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31054,7 +31078,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Lohnstruktur | wage structure" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2422" } ,
+        "ln": { "type": "literal" , "value": "2424" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11327-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lohnstruktur | Wage structure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31067,7 +31091,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Lohnstruktur | wage structure" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2423" } ,
+        "ln": { "type": "literal" , "value": "2425" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11327-6" } ,
         "stwLabel": { "type": "literal" , "value": "Lohnstruktur | Wage structure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31080,7 +31104,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Lohnstruktur | wage structure" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2424" } ,
+        "ln": { "type": "literal" , "value": "2426" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11328-4" } ,
         "stwLabel": { "type": "literal" , "value": "Mindestlohn | Minimum wage" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31092,7 +31116,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2425" } ,
+        "ln": { "type": "literal" , "value": "2427" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11290-3" } ,
         "stwLabel": { "type": "literal" , "value": "Beruf | Occupation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31104,7 +31128,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2426" } ,
+        "ln": { "type": "literal" , "value": "2428" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29758-3" } ,
         "stwLabel": { "type": "literal" , "value": "Berufsgruppe | Occupational group" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31116,7 +31140,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2427" } ,
+        "ln": { "type": "literal" , "value": "2429" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11295-0" } ,
         "stwLabel": { "type": "literal" , "value": "Berufswahl | Occupational choice" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31128,7 +31152,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2428" } ,
+        "ln": { "type": "literal" , "value": "2430" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11299-6" } ,
         "stwLabel": { "type": "literal" , "value": "Erwerbsverlauf | Occupational attainment" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31140,7 +31164,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2429" } ,
+        "ln": { "type": "literal" , "value": "2431" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20485-1" } ,
         "stwLabel": { "type": "literal" , "value": "Freie Mitarbeiter | Freelancers" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -31152,7 +31176,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2430" } ,
+        "ln": { "type": "literal" , "value": "2432" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20485-1" } ,
         "stwLabel": { "type": "literal" , "value": "Freie Mitarbeiter | Freelancers" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31164,7 +31188,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2431" } ,
+        "ln": { "type": "literal" , "value": "2433" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13985-0" } ,
         "stwLabel": { "type": "literal" , "value": "Büroberufe | Office workers" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -31176,7 +31200,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2432" } ,
+        "ln": { "type": "literal" , "value": "2434" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13985-0" } ,
         "stwLabel": { "type": "literal" , "value": "Büroberufe | Office workers" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31188,7 +31212,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2433" } ,
+        "ln": { "type": "literal" , "value": "2435" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13985-0" } ,
         "stwLabel": { "type": "literal" , "value": "Büroberufe | Office workers" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31200,7 +31224,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2434" } ,
+        "ln": { "type": "literal" , "value": "2436" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18977-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kaufleute | Merchants" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31212,7 +31236,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2435" } ,
+        "ln": { "type": "literal" , "value": "2437" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13957-5" } ,
         "stwLabel": { "type": "literal" , "value": "Architekten | Architects" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -31224,7 +31248,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2436" } ,
+        "ln": { "type": "literal" , "value": "2438" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14011-4" } ,
         "stwLabel": { "type": "literal" , "value": "Naturwissenschaftler | Natural scientists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31236,7 +31260,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2437" } ,
+        "ln": { "type": "literal" , "value": "2439" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14011-4" } ,
         "stwLabel": { "type": "literal" , "value": "Naturwissenschaftler | Natural scientists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31248,7 +31272,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2438" } ,
+        "ln": { "type": "literal" , "value": "2440" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14011-4" } ,
         "stwLabel": { "type": "literal" , "value": "Naturwissenschaftler | Natural scientists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31260,7 +31284,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2439" } ,
+        "ln": { "type": "literal" , "value": "2441" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14011-4" } ,
         "stwLabel": { "type": "literal" , "value": "Naturwissenschaftler | Natural scientists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31272,7 +31296,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2440" } ,
+        "ln": { "type": "literal" , "value": "2442" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14017-6" } ,
         "stwLabel": { "type": "literal" , "value": "Ökonomen | Economists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31284,7 +31308,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2441" } ,
+        "ln": { "type": "literal" , "value": "2443" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14017-6" } ,
         "stwLabel": { "type": "literal" , "value": "Ökonomen | Economists" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31296,7 +31320,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2442" } ,
+        "ln": { "type": "literal" , "value": "2444" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11036-3" } ,
         "stwLabel": { "type": "literal" , "value": "Selbstverwalteter Betrieb | Labour-managed firm" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31308,7 +31332,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2443" } ,
+        "ln": { "type": "literal" , "value": "2445" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11036-3" } ,
         "stwLabel": { "type": "literal" , "value": "Selbstverwalteter Betrieb | Labour-managed firm" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -31320,7 +31344,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2444" } ,
+        "ln": { "type": "literal" , "value": "2446" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18905-6" } ,
         "stwLabel": { "type": "literal" , "value": "Subsidiarität | Subsidiarity" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31332,7 +31356,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2445" } ,
+        "ln": { "type": "literal" , "value": "2447" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19516-5" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsertrag | Returns to education" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31344,7 +31368,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2446" } ,
+        "ln": { "type": "literal" , "value": "2448" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19516-5" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungsertrag | Returns to education" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31356,7 +31380,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2447" } ,
+        "ln": { "type": "literal" , "value": "2449" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18992-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkoholpolitik | Alcohol policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31368,7 +31392,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2448" } ,
+        "ln": { "type": "literal" , "value": "2450" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18992-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkoholpolitik | Alcohol policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31380,7 +31404,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2449" } ,
+        "ln": { "type": "literal" , "value": "2451" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18992-6" } ,
         "stwLabel": { "type": "literal" , "value": "Alkoholpolitik | Alcohol policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31392,7 +31416,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2450" } ,
+        "ln": { "type": "literal" , "value": "2452" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28938-6" } ,
         "stwLabel": { "type": "literal" , "value": "DRG-System | DRG (Diagnosis Related Groups)" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -31404,7 +31428,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2451" } ,
+        "ln": { "type": "literal" , "value": "2453" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15698-0" } ,
         "stwLabel": { "type": "literal" , "value": "Sklaverei | Slavery" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31416,7 +31440,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2452" } ,
+        "ln": { "type": "literal" , "value": "2454" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10494-6" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungsindikator | Development indicator" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31428,7 +31452,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2453" } ,
+        "ln": { "type": "literal" , "value": "2455" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10524-2" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungsstrategie | Development strategy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31440,7 +31464,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2454" } ,
+        "ln": { "type": "literal" , "value": "2456" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10524-2" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungsstrategie | Development strategy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31452,7 +31476,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2455" } ,
+        "ln": { "type": "literal" , "value": "2457" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10524-2" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungsstrategie | Development strategy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31464,7 +31488,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2456" } ,
+        "ln": { "type": "literal" , "value": "2458" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18325-3" } ,
         "stwLabel": { "type": "literal" , "value": "Nachhaltige Entwicklung | Sustainable development" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31476,7 +31500,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2457" } ,
+        "ln": { "type": "literal" , "value": "2459" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18325-3" } ,
         "stwLabel": { "type": "literal" , "value": "Nachhaltige Entwicklung | Sustainable development" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -31488,7 +31512,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2458" } ,
+        "ln": { "type": "literal" , "value": "2460" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10537-0" } ,
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsstufentheorie | Stages of growth model" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31500,7 +31524,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2459" } ,
+        "ln": { "type": "literal" , "value": "2461" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11969-1" } ,
         "stwLabel": { "type": "literal" , "value": "Informelle Siedlung | Informal settlement" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -31512,7 +31536,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2460" } ,
+        "ln": { "type": "literal" , "value": "2462" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11969-1" } ,
         "stwLabel": { "type": "literal" , "value": "Informelle Siedlung | Informal settlement" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -31524,7 +31548,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2461" } ,
+        "ln": { "type": "literal" , "value": "2463" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11201-0" } ,
         "stwLabel": { "type": "literal" , "value": "Kinderarbeit | Child labour" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31536,7 +31560,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2462" } ,
+        "ln": { "type": "literal" , "value": "2464" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10552-4" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungsfinanzierung | Development finance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31549,7 +31573,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Entwicklungsfinanzierung | development finance" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2463" } ,
+        "ln": { "type": "literal" , "value": "2465" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10556-3" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungshilfekonditionen | Conditionality" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31561,7 +31585,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2464" } ,
+        "ln": { "type": "literal" , "value": "2466" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10523-4" } ,
         "stwLabel": { "type": "literal" , "value": "Entwicklungsplanung | Development planning" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31573,7 +31597,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2465" } ,
+        "ln": { "type": "literal" , "value": "2467" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10575-6" } ,
         "stwLabel": { "type": "literal" , "value": "Ländliche Entwicklung | Rural development" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31585,7 +31609,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2466" } ,
+        "ln": { "type": "literal" , "value": "2468" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18061-4" } ,
         "stwLabel": { "type": "literal" , "value": "Schuldenerlass | Debt relief" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31597,7 +31621,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2467" } ,
+        "ln": { "type": "literal" , "value": "2469" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10510-6" } ,
         "stwLabel": { "type": "literal" , "value": "Stadtentwicklung | Urban development" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -31609,7 +31633,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2468" } ,
+        "ln": { "type": "literal" , "value": "2470" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11400-1" } ,
         "stwLabel": { "type": "literal" , "value": "Bildungschancen | Equality of opportunity in education" } ,
         "relation": { "type": "literal" , "value": "^" } ,
@@ -31621,7 +31645,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2469" } ,
+        "ln": { "type": "literal" , "value": "2471" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10498-5" } ,
         "stwLabel": { "type": "literal" , "value": "Grundbedürfnisse | Basic needs" } ,
         "relation": { "type": "literal" , "value": "=" } ,
@@ -31633,7 +31657,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "2470" } ,
+        "ln": { "type": "literal" , "value": "2472" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11224-2" } ,
         "stwLabel": { "type": "literal" , "value": "Humankapital | Human capital" } ,
         "relation": { "type": "literal" , "value": ">" } ,
