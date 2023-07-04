@@ -2109,10 +2109,12 @@ stw:,rel,wd:,issue,note
 10638-1,^,Q977912,#1023,Mehrfachmatch
 10637-3,^,Q1348736,#1024,Mehrfachmatch
 10637-3,^,Q1338089,#1024,Mehrfachmatch
+10637-3,<,Q2261156,#1024,Mehrfachmatch
 10635-0,>,Q7832035,#1025,Mehrfachmatch
-10641-5,>,Q1426665,#1026,Mehrfachmatch
-10641-5,^,Q1430930,#1026,Mehrfachmatch
+10641-5,=,Q1426665,#1026,Mehrfachmatch
+10641-5,>,Q1430930,#1026,Mehrfachmatch
 19245-3,*,Q192523,#1027,Mehrfachmatch
+19245-3,*,Q72596,#1027,Mehrfachmatch
 10675-2,^,Q1780940,#1028,Mehrfachmatch
 10714-4,>,Q1187364,#1029,Mehrfachmatch
 10692-2,^,Q1384707,#1030,Mehrfachmatch
