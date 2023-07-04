@@ -2121,6 +2121,7 @@ stw:,rel,wd:,issue,note
 10692-2,>,Q96377540,#1030,Mehrfachmatch
 10692-2,>,Q2233422,#1030,Mehrfachmatch
 10683-3,*,Q7832074,#1031,Mehrfachmatch
+10683-3,>,Q1316162,#1031,Mehrfachmatch
 10685-6,=,Q1308936,#1032,Mehrfachmatch
 10706-3,>,Q3055140,#1033,Mehrfachmatch
 10710-5,^,Q4450957,#1034,Mehrfachmatch
