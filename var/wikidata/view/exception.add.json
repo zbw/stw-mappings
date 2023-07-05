@@ -14286,7 +14286,7 @@
         "stwLabel": { "type": "literal" , "value": "Durchlaufzeit | Lead time" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25098678" } ,
-        "wdLabel": { "type": "literal" , "value": "Zykluszeit | Makespan" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/511" } ,
         "issueLabel": { "type": "literal" , "value": "#511" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
