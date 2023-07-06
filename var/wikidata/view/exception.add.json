@@ -26545,7 +26545,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsdemokratie | Economic democracy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3560795" } ,
-        "wdLabel": { "type": "literal" , "value": "Industrielle Demokratie | Industrial democracy" } ,
+        "wdLabel": { "type": "literal" , "value": "Industrielle Demokratie | industrial democracy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/986" } ,
         "issueLabel": { "type": "literal" , "value": "#986" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
