@@ -8742,8 +8742,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/305" } ,
         "issueLabel": { "type": "literal" , "value": "#305" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628801" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsorganisation | labor organisation" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26989053" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsorganisation | organization of work" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "653" } ,
@@ -8755,8 +8755,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/305" } ,
         "issueLabel": { "type": "literal" , "value": "#305" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628801" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsorganisation | labor organisation" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26989053" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsorganisation | organization of work" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "654" } ,
