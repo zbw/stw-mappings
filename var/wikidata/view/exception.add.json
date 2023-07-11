@@ -10050,7 +10050,7 @@
         "stwLabel": { "type": "literal" , "value": "Unternehmenspublizität | Corporate disclosure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7940976" } ,
-        "wdLabel": { "type": "literal" , "value": "Freiwillige Unternehmenspublizität | Voluntary disclosure" } ,
+        "wdLabel": { "type": "literal" , "value": "Freiwillige Unternehmenspublizität | voluntary disclosure" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/356" } ,
         "issueLabel": { "type": "literal" , "value": "#356" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
