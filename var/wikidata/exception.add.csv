@@ -2794,7 +2794,7 @@ stw:,rel,wd:,issue,note
 16275-2,*,Q30032116,#1351,Mehrfachmatch
 29816-1,>,Q1038864,#1352,Mehrfachmatch
 16269-4,>,Q1830374,#1353,Mehrfachmatch
-16432-5^,Q2920329,#1354,Mehrfachmatch
+16432-5,^,Q2920329,#1354,Mehrfachmatch
 16266-3,^,Q65807646,#1355,Mehrfachmatch
 30062-2,>,Q1414948,#1356,Mehrfachmatch
 30062-2,>,Q8272977,#1356,Mehrfachmatch
