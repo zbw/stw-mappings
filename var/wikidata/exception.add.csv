@@ -2779,3 +2779,5 @@ stw:,rel,wd:,issue,note
 19422-0,>,Q1721059,#1345,Mehrfachmatch
 19422-0,>,Q2232075,#1345,Mehrfachmatch
 11676-2,>,Q820602,#1346,Mehrfachmatch
+11680-4 Verbrauchsteuer,*,Verbrauchssteuer (Q4351853),#,Mehrfachmatch 
+11680-4 Verbrauchsteuer,>,Verbrauchsabgaben (Q2514281),#,Mehrfachmatch
