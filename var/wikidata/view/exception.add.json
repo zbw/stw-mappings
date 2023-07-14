@@ -2505,7 +2505,7 @@
         "stwLabel": { "type": "literal" , "value": "Baukeramik | Building ceramics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q970812" } ,
-        "wdLabel": { "type": "literal" , "value": "Klinker | Clinker brick" } ,
+        "wdLabel": { "type": "literal" , "value": "Klinker | clinker brick" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/104" } ,
         "issueLabel": { "type": "literal" , "value": "#104" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
