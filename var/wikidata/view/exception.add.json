@@ -3946,7 +3946,7 @@
         "stwLabel": { "type": "literal" , "value": "Bürotechnik | Office technology" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1021672" } ,
-        "wdLabel": { "type": "literal" , "value": "Büromaschine | " } ,
+        "wdLabel": { "type": "literal" , "value": "Büromaschine | Electronic office machines" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/142" } ,
         "issueLabel": { "type": "literal" , "value": "#142" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
