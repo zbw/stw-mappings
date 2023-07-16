@@ -31046,7 +31046,7 @@
         "stwLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | Intermediate labour market" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q353199" } ,
-        "wdLabel": { "type": "literal" , "value": "Arbeitsbeschaffungsmaßnahme | Job creation program" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitsbeschaffungsmaßnahme | job creation program" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1178" } ,
         "issueLabel": { "type": "literal" , "value": "#1178" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
