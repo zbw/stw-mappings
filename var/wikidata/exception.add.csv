@@ -2911,38 +2911,28 @@ stw:,rel,wd:,issue,note
 11618-2,>,Q1006685,#1416,Mehrfachmatch
 11618-2,>,Q3538285,#1416,Mehrfachmatch
 11618-2,>,Q107196255,#1416,Mehrfachmatch
- 
-13400-5,mweltorganisation > Q1785733 Umweltschutzorganisation 
-13400-5 Umweltorganisation > Q1899015 Naturschutzorganisation
-
-18820-0 Brandschutz ^ Q6498663 Feuerwehr 
-
-16332-2 Geheimdienst * Q47913 intelligence agency 
-16332-2 Geheimdienst ^ Q501700 Spionageabwehr 
-16332-2 Geheimdienst ^ Q3238445 Inlandsnachrichtendienst 
-
-19847-3 Geheimhaltung * Q20183205 secrecy 
-19847-3 Geheimhaltung ^ Q443955 Amtsgeheimnis
-19847-3 Geheimhaltung ^ Q15461542 Amtsgeheimnis 
-19847-3 Geheimhaltung ^ Q113925598 Geheimnis
-19847-3 Geheimhaltung ^ Q1498470 Geheimschutz 
-19847-3 Geheimhaltung ^ Q1791366 Staatsgeheimnis
-19847-3 Geheimhaltung ^ Q2476929 Verschwiegenheitspflicht
-
-29566-5 Katastrophenschutz > Q852008 Bevölkerungsschutz 
-29566-5 Katastrophenschutz > Q10427676 Zivilschutz
-29566-5 Katastrophenschutz > Q111584075 Selbstschutz
-
-19855-4 Spionage > Q160128 Landesverrat
-
-16395-6 Terrorismus ^ Q3399774 political violence 
-16395-6 Terrorismus > Q2223653 Terroranschlag
-16395-6 Terrorismus ^ Q3882219 Attentat 
-16395-6 Terrorismus ^ Q891854 Sprengstoffanschlag 
-
-30064-5 Terrorismusbekämpfung * Q117006000 prevention of terrorism 
-
-19854-6 Visapolitik > Q170404 Visum
- 
-19858-5 Waffenrecht > Q1328508 gun control
-19858-5 Waffenrecht ^ Q563444 Waffenschein 
+13400-5,>,Q1785733,#1417,Mehrfachmatch
+13400-5,>,Q1899015,#1417,Mehrfachmatch
+18820-0,^,Q6498663,#1418,Mehrfachmatch
+16332-2,*,Q47913,#1419,Mehrfachmatch
+16332-2,^,Q501700,#1419,Mehrfachmatch
+16332-2,^,Q3238445,#1419,Mehrfachmatch
+19847-3,*,Q20183205,#1420,Mehrfachmatch
+19847-3,^,Q443955,#1420,Mehrfachmatch
+19847-3,^,Q15461542,#1420,Mehrfachmatch
+19847-3,^,Q113925598,#1420,Mehrfachmatch
+19847-3,^,Q1498470,#1420,Mehrfachmatch
+19847-3,^,Q1791366,#1420,Mehrfachmatch
+19847-3,^,Q2476929,#1420,Mehrfachmatch
+29566-5,>,Q852008,#1421,Mehrfachmatch
+29566-5,>,Q10427676,#1421,Mehrfachmatch
+29566-5,>,Q111584075,#1421,Mehrfachmatch
+19855-4,>,Q160128,#1422,Mehrfachmatch
+16395-6,^,Q3399774,#1423,Mehrfachmatch
+16395-6,>,Q2223653,#1423,Mehrfachmatch
+16395-6,^,Q3882219,#1423,Mehrfachmatch
+16395-6,^,Q891854,#1423,Mehrfachmatch
+30064-5,*,Q117006000,#1424,Mehrfachmatch
+19854-6,>,Q170404,#1425,Mehrfachmatch
+19858-5,>,Q1328508,#1426,Mehrfachmatch
+19858-5,^,Q563444,#1426,Mehrfachmatch
