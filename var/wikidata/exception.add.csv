@@ -42,7 +42,6 @@ stw:,rel,wd:,issue,note
 14479-3,>,Q1364228,#58,Mehrfach-Match in WD
 14479-3,>,Q58430,#58,Mehrfach-Match in WD
 14479-3,>,Q25659662,#58,Mehrfach-Match in WD
-14486-6,=,Q1138737,#59,Mehrfach-Match in WD
 14486-6,>,Q47616,#59,Mehrfach-Match in WD
 14486-6,>,Q12177156,#59,Mehrfach-Match in WD
 14025-0,>,Q3512547,#60,Mehrfach-Match in WD
@@ -2912,3 +2911,38 @@ stw:,rel,wd:,issue,note
 11618-2,>,Q1006685,#1416,Mehrfachmatch
 11618-2,>,Q3538285,#1416,Mehrfachmatch
 11618-2,>,Q107196255,#1416,Mehrfachmatch
+ 
+13400-5,mweltorganisation > Q1785733 Umweltschutzorganisation 
+13400-5 Umweltorganisation > Q1899015 Naturschutzorganisation
+
+18820-0 Brandschutz ^ Q6498663 Feuerwehr 
+
+16332-2 Geheimdienst * Q47913 intelligence agency 
+16332-2 Geheimdienst ^ Q501700 Spionageabwehr 
+16332-2 Geheimdienst ^ Q3238445 Inlandsnachrichtendienst 
+
+19847-3 Geheimhaltung * Q20183205 secrecy 
+19847-3 Geheimhaltung ^ Q443955 Amtsgeheimnis
+19847-3 Geheimhaltung ^ Q15461542 Amtsgeheimnis 
+19847-3 Geheimhaltung ^ Q113925598 Geheimnis
+19847-3 Geheimhaltung ^ Q1498470 Geheimschutz 
+19847-3 Geheimhaltung ^ Q1791366 Staatsgeheimnis
+19847-3 Geheimhaltung ^ Q2476929 Verschwiegenheitspflicht
+
+29566-5 Katastrophenschutz > Q852008 Bevölkerungsschutz 
+29566-5 Katastrophenschutz > Q10427676 Zivilschutz
+29566-5 Katastrophenschutz > Q111584075 Selbstschutz
+
+19855-4 Spionage > Q160128 Landesverrat
+
+16395-6 Terrorismus ^ Q3399774 political violence 
+16395-6 Terrorismus > Q2223653 Terroranschlag
+16395-6 Terrorismus ^ Q3882219 Attentat 
+16395-6 Terrorismus ^ Q891854 Sprengstoffanschlag 
+
+30064-5 Terrorismusbekämpfung * Q117006000 prevention of terrorism 
+
+19854-6 Visapolitik > Q170404 Visum
+ 
+19858-5 Waffenrecht > Q1328508 gun control
+19858-5 Waffenrecht ^ Q563444 Waffenschein 
