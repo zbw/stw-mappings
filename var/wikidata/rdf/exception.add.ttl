@@ -1,7 +1,7 @@
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 #
 stw:30083-1 skos:narrowMatch wd:Q4127 .
@@ -47,7 +47,6 @@ stw:29587-4 skos:narrowMatch wd:Q76799012 .
 stw:14479-3 skos:narrowMatch wd:Q1364228 .
 stw:14479-3 skos:narrowMatch wd:Q58430 .
 stw:14479-3 skos:narrowMatch wd:Q25659662 .
-stw:14486-6 skos:exactMatch wd:Q1138737 .
 stw:14486-6 skos:narrowMatch wd:Q47616 .
 stw:14486-6 skos:narrowMatch wd:Q12177156 .
 stw:14025-0 skos:narrowMatch wd:Q3512547 .
@@ -2917,3 +2916,28 @@ stw:11618-2 skos:narrowMatch wd:Q14944250 .
 stw:11618-2 skos:narrowMatch wd:Q1006685 .
 stw:11618-2 skos:narrowMatch wd:Q3538285 .
 stw:11618-2 skos:narrowMatch wd:Q107196255 .
+stw:13400-5 skos:narrowMatch wd:Q1785733 .
+stw:13400-5 skos:narrowMatch wd:Q1899015 .
+stw:18820-0 skos:relatedMatch wd:Q6498663 .
+stw:16332-2 skos:closeMatch wd:Q47913 .
+stw:16332-2 skos:relatedMatch wd:Q501700 .
+stw:16332-2 skos:relatedMatch wd:Q3238445 .
+stw:19847-3 skos:closeMatch wd:Q20183205 .
+stw:19847-3 skos:relatedMatch wd:Q443955 .
+stw:19847-3 skos:relatedMatch wd:Q15461542 .
+stw:19847-3 skos:relatedMatch wd:Q113925598 .
+stw:19847-3 skos:relatedMatch wd:Q1498470 .
+stw:19847-3 skos:relatedMatch wd:Q1791366 .
+stw:19847-3 skos:relatedMatch wd:Q2476929 .
+stw:29566-5 skos:narrowMatch wd:Q852008 .
+stw:29566-5 skos:narrowMatch wd:Q10427676 .
+stw:29566-5 skos:narrowMatch wd:Q111584075 .
+stw:19855-4 skos:narrowMatch wd:Q160128 .
+stw:16395-6 skos:relatedMatch wd:Q3399774 .
+stw:16395-6 skos:narrowMatch wd:Q2223653 .
+stw:16395-6 skos:relatedMatch wd:Q3882219 .
+stw:16395-6 skos:relatedMatch wd:Q891854 .
+stw:30064-5 skos:closeMatch wd:Q117006000 .
+stw:19854-6 skos:narrowMatch wd:Q170404 .
+stw:19858-5 skos:narrowMatch wd:Q1328508 .
+stw:19858-5 skos:relatedMatch wd:Q563444 .
