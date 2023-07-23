@@ -29891,7 +29891,7 @@
         "stwLabel": { "type": "literal" , "value": "Raumordnung | Physical planning" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11420665" } ,
-        "wdLabel": { "type": "literal" , "value": "Raumordnung | urban studies and planning" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1129" } ,
         "issueLabel": { "type": "literal" , "value": "#1129" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
