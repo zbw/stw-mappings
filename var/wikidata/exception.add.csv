@@ -1915,9 +1915,11 @@ stw:,rel,wd:,issue,note
 15869-6,>,Q15766,#917,Mehrfachmatch
 15872-3,>,Q52107,#918,Mehrfachmatch
 26290-0,>,Q581921,#919,Mehrfachmatch
-15922-0,*,Q49297,#920,Mehrfachmatch
+26290-0,*,Q58669,#919,Mehrfachmatch
+15922-0,>,Q49297,#920,Mehrfachmatch
 15917-0,*,Q189975,#921,Mehrfachmatch
 26312-2,^,Q484206,#922,Mehrfachmatch
+26312-2,*,Q1672477,#922,Mehrfachmatch
 15893-2,>,Q20820178,#923,Mehrfachmatch
 15893-2,>,Q194281,#923,Mehrfachmatch
 15893-2,>,Q42320,#923,Mehrfachmatch
