@@ -37798,6 +37798,42 @@
         "issueLabel": { "type": "literal" , "value": "#1447" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2980" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26500-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Mongolen | Mongolians" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41975" } ,
+        "wdLabel": { "type": "literal" , "value": "Mongolen | Mongols" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1448" } ,
+        "issueLabel": { "type": "literal" , "value": "#1448" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2981" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26502-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Montenegriner | Montenegrins" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19109" } ,
+        "wdLabel": { "type": "literal" , "value": "Montenegriner | Montenegrins" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1449" } ,
+        "issueLabel": { "type": "literal" , "value": "#1449" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "2982" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/26677-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Serben | Serbs" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q127885" } ,
+        "wdLabel": { "type": "literal" , "value": "Serben | Serbs" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1450" } ,
+        "issueLabel": { "type": "literal" , "value": "#1450" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
