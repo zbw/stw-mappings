@@ -24977,7 +24977,7 @@
         "stwLabel": { "type": "literal" , "value": "Hispano-Amerikaner | Hispanics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q581921" } ,
-        "wdLabel": { "type": "literal" , "value": "mexikanische Amerikaner | Mexican American" } ,
+        "wdLabel": { "type": "literal" , "value": "mexikanische Amerikaner | Mexican Americans" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/919" } ,
         "issueLabel": { "type": "literal" , "value": "#919" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
