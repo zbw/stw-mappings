@@ -17537,7 +17537,7 @@
         "issueLabel": { "type": "literal" , "value": "#626" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q827451" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Eigenkapital | equity" }
+        "wdExistsLabel": { "type": "literal" , "value": "Eigenkapital | เฉลิมคำพิฑูรย์" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1331" } ,
@@ -17550,7 +17550,7 @@
         "issueLabel": { "type": "literal" , "value": "#626" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q827451" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Eigenkapital | equity" }
+        "wdExistsLabel": { "type": "literal" , "value": "Eigenkapital | เฉลิมคำพิฑูรย์" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1332" } ,
@@ -17563,7 +17563,7 @@
         "issueLabel": { "type": "literal" , "value": "#626" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q827451" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Eigenkapital | equity" }
+        "wdExistsLabel": { "type": "literal" , "value": "Eigenkapital | เฉลิมคำพิฑูรย์" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1333" } ,
