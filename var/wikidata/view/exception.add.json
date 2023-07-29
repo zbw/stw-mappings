@@ -7919,7 +7919,7 @@
         "stwLabel": { "type": "literal" , "value": "Qualitätsmanagement | Quality management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q626700" } ,
-        "wdLabel": { "type": "literal" , "value": "zerstörungsfreie Werkstoffprüfung (NDT) | nondestructive testing" } ,
+        "wdLabel": { "type": "literal" , "value": "zerstörungsfreie Werkstoffprüfung | nondestructive testing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/275" } ,
         "issueLabel": { "type": "literal" , "value": "#275" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
