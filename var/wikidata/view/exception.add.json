@@ -7776,7 +7776,7 @@
         "stwLabel": { "type": "literal" , "value": "Management | Management" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q29632390" } ,
-        "wdLabel": { "type": "literal" , "value": "Management | Կառավարում" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/272" } ,
         "issueLabel": { "type": "literal" , "value": "#272" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
