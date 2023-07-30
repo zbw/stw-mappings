@@ -13506,7 +13506,7 @@
         "stwLabel": { "type": "literal" , "value": "Werbebeschränkung | Advertising regulation" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1673171" } ,
-        "wdLabel": { "type": "literal" , "value": "Irreführende Werbung | misleading advertising" } ,
+        "wdLabel": { "type": "literal" , "value": "irreführende Werbung | misleading advertising" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/480" } ,
         "issueLabel": { "type": "literal" , "value": "#480" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
