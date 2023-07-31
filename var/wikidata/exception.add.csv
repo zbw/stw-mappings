@@ -1236,7 +1236,7 @@ stw:,rel,wd:,issue,note
 12625-0,>,Q1690954,#579,Mehrfachmatch
 12625-0,>,Q352439,#579,Mehrfachmatch
 19002-1,*,Q1430184,#580,Mehrfachmatch
-15839-1,=,Q8034631,#581,Mehrfachmatch
+15839-1,*,Q8034631,#581,Mehrfachmatch
 15839-1,>,Q999590,#581,Mehrfachmatch
 15839-1,>,Q56292912,#581,Mehrfachmatch
 15839-1,>,Q1815881,#581,Mehrfachmatch
@@ -1247,7 +1247,7 @@ stw:,rel,wd:,issue,note
 12587-3,<,Q1656720,#583,Mehrfachmatch
 12587-3,*,Q376444,#583,Mehrfachmatch
 12587-3,>,Q11611236,#583,Mehrfachmatch
-19003-6,=,Q320026,#584,Mehrfachmatch
+19003-6,*,Q320026,#584,Mehrfachmatch
 19003-6,>,Q465778,#584,Mehrfachmatch
 12594-6,>,Q892906,#585,Mehrfachmatch
 12594-6,>,Q883682,#585,Mehrfachmatch
@@ -1382,11 +1382,11 @@ stw:,rel,wd:,issue,note
 12419-3,>,Q1362513,#648,Mehrfachmatch
 10015-2,>,Q1967458,#649,Mehrfachmatch
 10015-2,>,Q2027305,#649,Mehrfachmatch
-12320-1,=,Q1345067,#650,Mehrfachmatch
+12320-1,>,Q1345067,#650,Mehrfachmatch
 19108-6,>,Q1166086,#651,Mehrfachmatch
 12489-3,*,Q16295213,#652,Mehrfachmatch
 12489-3,*,Q2509594,#652,Mehrfachmatch
-19566-4,=,Q1690987,#653,Mehrfachmatch
+19566-4,*,Q1690987,#653,Mehrfachmatch
 19566-4,>,Q1378387,#653,Mehrfachmatch
 12491-2,^,Q18411690,#654,Mehrfachmatch
 30215-3,>,Q1654920,#655,Mehrfachmatch
@@ -1411,7 +1411,7 @@ stw:,rel,wd:,issue,note
 12441-3,>,Q1310278,#668,Mehrfachmatch
 16120-3,>,Q4819986,#669,Mehrfachmatch
 29639-4,>,Q2514473,#670,Mehrfachmatch
-12492-0,=,Q1362005,#671,Mehrfachmatch
+12492-0,*,Q1362005,#671,Mehrfachmatch
 12598-5,>,Q1848238,#672,Mehrfachmatch
 12250-3,>,Q1666557,#673,Mehrfachmatch
 27144-6,>,Q2108440,#674,Mehrfachmatch
@@ -1514,11 +1514,11 @@ stw:,rel,wd:,issue,note
 29948-5,^,Q1129466,#720,Mehrfachmatch
 29948-5,^,Q1789511,#720,Mehrfachmatch
 16708-4,>,Q7782449,#721,Mehrfachmatch
-16708-4,=,Q2560959,#721,Mehrfachmatch
+16708-4,*,Q2560959,#721,Mehrfachmatch
 16708-4,>,Q1355027,#721,Mehrfachmatch
 16708-4,^,Q147027,#721,Mehrfachmatch
-29917-2,=,Q279112,#722,Mehrfachmatch
-29917-2,=,Q60788775,#722,Mehrfachmatch
+29917-2,*,Q279112,#722,Mehrfachmatch
+29917-2,*,Q60788775,#722,Mehrfachmatch
 10049-6,>,Q843238,#723,Mehrfachmatch
 11039-4,*,Q615445,#724,Mehrfachmatch
 10013-6,<,Q3515335,#725,Mehrfachmatch
