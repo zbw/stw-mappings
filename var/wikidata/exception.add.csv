@@ -1946,7 +1946,7 @@ stw:,rel,wd:,issue,note
 11210-6,>,Q7692538,#934,Mehrfachmatch
 30171-4,^,Q1096872,#935,Mehrfachmatch
 30171-4,*,Q4252370,#935,Mehrfachmatch
-30177-6,=,Q28130285,#936,Mehrfachmatch
+30177-6,*,Q28130285,#936,Mehrfachmatch
 30183-4,>,Q918031,#937,Mehrfachmatch
 10472-2,^,Q493754,#938,Mehrfachmatch
 10472-2,>,Q7692605,#938,Mehrfachmatch
@@ -1960,7 +1960,7 @@ stw:,rel,wd:,issue,note
 13804-2,>,Q1061429,#941,Mehrfachmatch
 13804-2,^,Q2232219,#941,Mehrfachmatch
 13804-2,^,Q1406930,#941,Mehrfachmatch
-13807-3,=,Q20826110,#942,Mehrfachmatch
+13807-3,*,Q20826110,#942,Mehrfachmatch
 11424-1,>,Q1499566,#943,Mehrfachmatch
 19259-6,>,Q5183768,#944,Mehrfachmatch
 19259-6,>,Q5449686,#944,Mehrfachmatch
@@ -2113,7 +2113,7 @@ stw:,rel,wd:,issue,note
 10637-3,^,Q1338089,#1024,Mehrfachmatch
 10637-3,<,Q2261156,#1024,Mehrfachmatch
 10635-0,>,Q7832035,#1025,Mehrfachmatch
-10641-5,=,Q1426665,#1026,Mehrfachmatch
+10641-5,>,Q1426665,#1026,Mehrfachmatch
 10641-5,>,Q1430930,#1026,Mehrfachmatch
 19245-3,*,Q192523,#1027,Mehrfachmatch
 19245-3,*,Q72596,#1027,Mehrfachmatch
@@ -2124,7 +2124,7 @@ stw:,rel,wd:,issue,note
 10692-2,>,Q2233422,#1030,Mehrfachmatch
 10683-3,*,Q7832074,#1031,Mehrfachmatch
 10683-3,>,Q1316162,#1031,Mehrfachmatch
-10685-6,=,Q1308936,#1032,Mehrfachmatch
+10685-6,*,Q1308936,#1032,Mehrfachmatch
 10706-3,>,Q3055140,#1033,Mehrfachmatch
 10710-5,^,Q4450957,#1034,Mehrfachmatch
 10842-2,*,Q11742556,#1035,Mehrfachmatch
@@ -2141,7 +2141,7 @@ stw:,rel,wd:,issue,note
 10717-5,*,Q2409135,#1044,Mehrfachmatch
 29958-2,*,Q5054271,#1045,Mehrfachmatch
 10734-5,^,Q733221,#1046,Mehrfachmatch
-10736-1,=,Q5419548,#1047,Mehrfachmatch
+10736-1,<,Q5419548,#1047,Mehrfachmatch
 10746-5,^,Q39234269,#1048,Mehrfachmatch
 10754-6,^,Q1196766,#1049,Mehrfachmatch
 10761-2,^,Q1139161,#1050,Mehrfachmatch
@@ -2276,7 +2276,7 @@ stw:,rel,wd:,issue,note
 29931-1,>,Q1195054,#1105,Mehrfachmatch
 29818-4,^,Q970687,#1106,Mehrfachmatch
 10205-4,>,Q860427,#1107,Mehrfachmatch
-19431-6,=,Q1766026,#1108,Mehrfachmatch
+19431-6,*,Q1766026,#1108,Mehrfachmatch
 19431-6,>,Q2031007,#1108,Mehrfachmatch
 19431-6,>,Q61465712,#1108,Mehrfachmatch
 19431-6,>,Q50867887,#1108,Mehrfachmatch
@@ -2294,11 +2294,10 @@ stw:,rel,wd:,issue,note
 19433-2,^,Q601490,#1116,Mehrfachmatch
 19433-2,>,Q2144300,#1116,Mehrfachmatch
 19433-2,>,Q7317959,#1116,Mehrfachmatch
-10961-1,=,Q7114943,#1117,Mehrfachmatch
 10961-1,^,Q1344439,#1117,Mehrfachmatch
 10961-1,*,Q4587328,#1117,Mehrfachmatch
 10949-5,>,Q445014,#1118,Mehrfachmatch
-10978-5,=,Q9305568,#1119,Mehrfachmatch
+10978-5,*,Q9305568,#1119,Mehrfachmatch
 10978-5,>,Q3218843,#1119,Mehrfachmatch
 10978-5,>,Q113161586,#1119,Mehrfachmatch
 10978-5,>,Q279637,#1119,Mehrfachmatch
@@ -2311,8 +2310,8 @@ stw:,rel,wd:,issue,note
 11979-5,>,Q109404508,#1122,Mehrfachmatch
 11979-5,>,Q2514492,#1122,Mehrfachmatch
 11979-5,*,Q702492,#1122,Mehrfachmatch
-11979-5,=,Q159313,#1122,Mehrfachmatch
-19448-3,=,Q1787396,#1123,Mehrfachmatch
+11979-5,*,Q159313,#1122,Mehrfachmatch
+19448-3,*,Q1787396,#1123,Mehrfachmatch
 19448-3,>,Q2138409,#1123,Mehrfachmatch
 11903-3,*,Q76689,#1124,Mehrfachmatch
 11903-3,>,Q1401585,#1124,Mehrfachmatch
@@ -2326,7 +2325,7 @@ stw:,rel,wd:,issue,note
 18014-6,=,Q1161157,#1127,Mehrfachmatch
 19453-3,>,Q28916711,#1128,Mehrfachmatch
 19453-3,>,Q702232,#1128,Mehrfachmatch
-11869-5,=,Q11420665,#1129,Mehrfachmatch
+11869-5,*,Q11420665,#1129,Mehrfachmatch
 11869-5,^,Q1657119,#1129,Mehrfachmatch
 11869-5,^,Q2133382,#1129,Mehrfachmatch
 19829-5,>,Q25379754,#1130,Mehrfachmatch
@@ -2406,9 +2405,9 @@ stw:,rel,wd:,issue,note
 19902-0,>,Q3067612,#1167,Mehrfachmatch
 19902-0,>,Q1304393,#1167,Mehrfachmatch
 11272-5,^,Q1052254,#1168,Mehrfachmatch
-11278-0,=,Q4102597,#1169,Mehrfachmatch
+11278-0,*,Q4102597,#1169,Mehrfachmatch
 11182-6,>,Q28790169,#1170,Mehrfachmatch
-11182-6,=,Q1362733,#1170,Mehrfachmatch
+11182-6,*,Q1362733,#1170,Mehrfachmatch
 11211-4,>,Q5310212,#1171,Mehrfachmatch
 11219-2,^,Q28161,#1172,Mehrfachmatch
 11336-5,>,Q282825,#1173,Mehrfachmatch
@@ -2417,7 +2416,7 @@ stw:,rel,wd:,issue,note
 11235-4,>,Q627428,#1175,Mehrfachmatch
 11235-4,>,Q2742795,#1175,Mehrfachmatch
 29720-0,>,Q31836059,#1176,Mehrfachmatch
-11241-2,=,Q1740448,#1177,Mehrfachmatch
+11241-2,>,Q1740448,#1177,Mehrfachmatch
 11241-2,>,Q1036463,#1177,Mehrfachmatch
 11241-2,>,Q1779839,#1177,Mehrfachmatch
 11233-1,>,Q353199,#1178,Mehrfachmatch
