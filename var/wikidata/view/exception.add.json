@@ -36576,7 +36576,7 @@
         "stwLabel": { "type": "literal" , "value": "Kaufkraftparität | Purchasing power parity" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q973181" } ,
-        "wdLabel": { "type": "literal" , "value": "Realer Wechselkurs | Real exchange rate" } ,
+        "wdLabel": { "type": "literal" , "value": "Realer Wechselkurs | real exchange rate" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1410" } ,
         "issueLabel": { "type": "literal" , "value": "#1410" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
