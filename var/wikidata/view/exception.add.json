@@ -12550,7 +12550,7 @@
         "issueLabel": { "type": "literal" , "value": "#442" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1901348" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Marktzutritt | Market entry" }
+        "wdExistsLabel": { "type": "literal" , "value": "Marktzutritt | market entry" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "947" } ,
@@ -12563,7 +12563,7 @@
         "issueLabel": { "type": "literal" , "value": "#442" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1901348" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Marktzutritt | Market entry" }
+        "wdExistsLabel": { "type": "literal" , "value": "Marktzutritt | market entry" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "948" } ,
