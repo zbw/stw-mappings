@@ -2465,7 +2465,7 @@ stw:,rel,wd:,issue,note
 18061-4,>,Q897104,#1208,Mehrfachmatch
 10510-6,>,Q69883,#1209,Mehrfachmatch
 11400-1,^,Q861360,#1210,Mehrfachmatch
-10498-5,=,Q543406,#1211,Mehrfachmatch
+10498-5,*,Q543406,#1211,Mehrfachmatch
 11224-2,>,Q1636715,#1212,Mehrfachmatch
 15073-5,>,Q2587850,#1213,Mehrfachmatch
 15073-5,>,Q16858082,#1213,Mehrfachmatch
