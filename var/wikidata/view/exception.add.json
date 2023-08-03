@@ -3660,7 +3660,7 @@
         "stwLabel": { "type": "literal" , "value": "Werkzeugmaschine | Machine tool" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15470089" } ,
-        "wdLabel": { "type": "literal" , "value": "Numerische Steuerung | Numerical Control" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/137" } ,
         "issueLabel": { "type": "literal" , "value": "#137" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
