@@ -3368,9 +3368,9 @@ stw:,rel,wd:,issue,note
 19804-0,>,Q529909,#1612,Mehrfachmatch
 29223-0,>,Q515701,#1613,Mehrfachmatch
 29236-5,*,Q4182287,#1614,Mehrfachmatch
-
-
-
-
-
-
+19810-5,*,Q2996130,#1615,Mehrfachmatch
+19810-5,>,Q4683813,#1615,Mehrfachmatch
+19810-5,>,Q228502,#1615,Mehrfachmatch
+19810-5,>,Q228493,#1615,Mehrfachmatch
+19810-5,>,Q228502,#1615,Mehrfachmatch
+19810-5,>,Q338966,#1615,Mehrfachmatch
