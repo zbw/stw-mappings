@@ -19337,7 +19337,7 @@
         "stwLabel": { "type": "literal" , "value": "Rechtswissenschaft | Jurisprudence" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1331392" } ,
-        "wdLabel": { "type": "literal" , "value": "Rechtstheorie | legal theory" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechtstheorie | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/690" } ,
         "issueLabel": { "type": "literal" , "value": "#690" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
