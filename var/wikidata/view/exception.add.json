@@ -9723,7 +9723,7 @@
         "stwLabel": { "type": "literal" , "value": "Organisatorischer Wandel | Organizational change" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q67498911" } ,
-        "wdLabel": { "type": "literal" , "value": "Organisatorischer Wandel | organizational change" } ,
+        "wdLabel": { "type": "literal" , "value": "Organisationswandel | organizational change" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/340" } ,
         "issueLabel": { "type": "literal" , "value": "#340" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
