@@ -23991,7 +23991,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/851" } ,
         "issueLabel": { "type": "literal" , "value": "#851" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6457238" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Weltgeschichte | world history" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1807" } ,
