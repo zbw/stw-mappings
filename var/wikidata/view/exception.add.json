@@ -3582,7 +3582,7 @@
         "stwLabel": { "type": "literal" , "value": "Maschinenelemente | Machine parts" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11432170" } ,
-        "wdLabel": { "type": "literal" , "value": " | ball bearing" } ,
+        "wdLabel": { "type": "literal" , "value": "Kugellager | ball bearing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/136" } ,
         "issueLabel": { "type": "literal" , "value": "#136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
