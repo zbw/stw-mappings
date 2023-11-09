@@ -44835,7 +44835,7 @@
         "stwLabel": { "type": "literal" , "value": "Kombinatorik | Combinatorics" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3650501" } ,
-        "wdLabel": { "type": "literal" , "value": "Kombinatorik (Mathematik) | Combinatorics" } ,
+        "wdLabel": { "type": "literal" , "value": "Kombinatorik (Mathematik) | combinatorical calculus" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1621" } ,
         "issueLabel": { "type": "literal" , "value": "#1621" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
