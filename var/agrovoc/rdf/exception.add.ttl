@@ -1,7 +1,7 @@
-PREFIX agrovoc: <http://aims.fao.org/aos/agrovoc/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX agrovoc: <http://aims.fao.org/aos/agrovoc/>
 #
 stw:19316-6 skos:exactMatch agrovoc:c_34241 .
 stw:12964-6 skos:exactMatch agrovoc:c_2934 .
