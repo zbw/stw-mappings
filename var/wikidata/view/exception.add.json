@@ -12946,7 +12946,7 @@
         "stwLabel": { "type": "literal" , "value": "Markentreue | Brand loyalty" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17511757" } ,
-        "wdLabel": { "type": "literal" , "value": "Marke-Kunden-Beziehung | Brand relationship" } ,
+        "wdLabel": { "type": "literal" , "value": "Marke-Kunden-Beziehung | brand relationship" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/454" } ,
         "issueLabel": { "type": "literal" , "value": "#454" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -30648,7 +30648,7 @@
         "issueLabel": { "type": "literal" , "value": "#1123" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2090622" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Standortmarketing | Place branding" }
+        "wdExistsLabel": { "type": "literal" , "value": "Standortmarketing | place branding" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2319" } ,
@@ -30661,7 +30661,7 @@
         "issueLabel": { "type": "literal" , "value": "#1123" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2090622" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Standortmarketing | Place branding" }
+        "wdExistsLabel": { "type": "literal" , "value": "Standortmarketing | place branding" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2320" } ,
