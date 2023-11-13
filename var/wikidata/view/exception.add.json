@@ -47103,6 +47103,18 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3457767" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Widerstandsfähigkeit der Gemeinschaft | community resilience" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3581" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12040-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Bewertung | Evaluation" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1379672" } ,
+        "wdLabel": { "type": "literal" , "value": "Evaluation | evaluation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1702" } ,
+        "issueLabel": { "type": "literal" , "value": "#1702" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
