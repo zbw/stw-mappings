@@ -26821,7 +26821,7 @@
         "issueLabel": { "type": "literal" , "value": "#973" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q896666" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Weltfinanzkrise 2007 | financial crisis of 2007\u201308" }
+        "wdExistsLabel": { "type": "literal" , "value": "Weltfinanzkrise 2007\u20132008 | 2007\u20132008 financial crisis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2024" } ,
