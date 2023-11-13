@@ -47038,6 +47038,71 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q55638" } ,
         "wdExistsLabel": { "type": "literal" , "value": "tertiärer Wirtschaftssektor | tertiary sector of the economy" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3576" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19025-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Ablauf | Process" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10843872" } ,
+        "wdLabel": { "type": "literal" , "value": "Prozess | process" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1698" } ,
+        "issueLabel": { "type": "literal" , "value": "#1698" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16295239" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Verlauf | Verlauf" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3577" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/20399-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Flexibilität | Flexibility" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1428257" } ,
+        "wdLabel": { "type": "literal" , "value": "Flexibilisierung | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1699" } ,
+        "issueLabel": { "type": "literal" , "value": "#1699" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18624128" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Flexibilität | business agility" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3578" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28089-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Matching | Matching" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1908116" } ,
+        "wdLabel": { "type": "literal" , "value": "Matching (Arbeitsvermittlung) | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1700" } ,
+        "issueLabel": { "type": "literal" , "value": "#1700" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1321061" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Matching | matching" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3579" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30343-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Resilienz | Resilience" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4105196" } ,
+        "wdLabel": { "type": "literal" , "value": "ökologische Belastbarkeit | ecological resilience" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1701" } ,
+        "issueLabel": { "type": "literal" , "value": "#1701" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3457767" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Widerstandsfähigkeit der Gemeinschaft | community resilience" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3580" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30343-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Resilienz | Resilience" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1625003" } ,
+        "wdLabel": { "type": "literal" , "value": "Resilienz-Management | " } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1701" } ,
+        "issueLabel": { "type": "literal" , "value": "#1701" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3457767" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Widerstandsfähigkeit der Gemeinschaft | community resilience" }
       }
     ]
   }
