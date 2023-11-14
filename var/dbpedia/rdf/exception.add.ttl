@@ -1,8 +1,8 @@
-PREFIX stw: <http://zbw.eu/stw/descriptor/>
-PREFIX wdt: <http://www.wikidata.org/prop/direct/>
-PREFIX dbr: <http://dbpedia.org/resource/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbr: <http://dbpedia.org/resource/>
+PREFIX stw: <http://zbw.eu/stw/descriptor/>
 #
 stw:16977-5 skos:exactMatch dbr:Canton_of_Uri .
