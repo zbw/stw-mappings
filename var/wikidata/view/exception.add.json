@@ -39434,7 +39434,7 @@
         "issueLabel": { "type": "literal" , "value": "#1464" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3312693" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | international security" }
+        "wdExistsLabel": { "type": "literal" , "value": "Internationale Sicherheit | international security" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2991" } ,
@@ -39447,7 +39447,7 @@
         "issueLabel": { "type": "literal" , "value": "#1464" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3312693" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | international security" }
+        "wdExistsLabel": { "type": "literal" , "value": "Internationale Sicherheit | international security" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2992" } ,
