@@ -32994,7 +32994,7 @@
         "stwLabel": { "type": "literal" , "value": "Vermögen | Wealth" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46737" } ,
-        "wdLabel": { "type": "literal" , "value": "Aktiva | JP MORGAN" } ,
+        "wdLabel": { "type": "literal" , "value": "Aktiva | asset" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1223" } ,
         "issueLabel": { "type": "literal" , "value": "#1223" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
