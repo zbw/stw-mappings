@@ -33566,7 +33566,7 @@
         "stwLabel": { "type": "literal" , "value": "Partnerwahl | Mate selection" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q744592" } ,
-        "wdLabel": { "type": "literal" , "value": "Assortative Paarung | assortative mating" } ,
+        "wdLabel": { "type": "literal" , "value": "assortative Paarung | assortative mating" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1249" } ,
         "issueLabel": { "type": "literal" , "value": "#1249" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
