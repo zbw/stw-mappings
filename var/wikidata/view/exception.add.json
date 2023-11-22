@@ -25066,7 +25066,7 @@
         "stwLabel": { "type": "literal" , "value": "Schwarze Menschen | Black people" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q28401147" } ,
-        "wdLabel": { "type": "literal" , "value": " | Ghetto, ratchet loud hoodrats who have too many kids out of wedlock" } ,
+        "wdLabel": { "type": "literal" , "value": " | black women" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/905" } ,
         "issueLabel": { "type": "literal" , "value": "#905" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
