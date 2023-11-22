@@ -2602,7 +2602,7 @@
       { 
         "ln": { "type": "literal" , "value": "238" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19544-0" } ,
-        "stwLabel": { "type": "literal" , "value": "E-Business | E-business" } ,
+        "stwLabel": { "type": "literal" , "value": "Electronic Commerce | E-commerce" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7730524-3" } ,
         "gndLabel": { "type": "literal" , "value": "Internetökonomie" } ,

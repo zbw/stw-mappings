@@ -838,7 +838,7 @@
       { 
         "ln": { "type": "literal" , "value": "62" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18195-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12330939" } ,
         "wdLabel": { "type": "literal" , "value": "Papaya | papaya" } ,
@@ -851,7 +851,7 @@
       { 
         "ln": { "type": "literal" , "value": "63" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18195-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q169" } ,
         "wdLabel": { "type": "literal" , "value": "Mango | mango" } ,
@@ -864,7 +864,7 @@
       { 
         "ln": { "type": "literal" , "value": "64" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18195-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13194" } ,
         "wdLabel": { "type": "literal" , "value": "Kiwifrucht | kiwifruit" } ,
@@ -877,7 +877,7 @@
       { 
         "ln": { "type": "literal" , "value": "65" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18195-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3181909" } ,
         "wdLabel": { "type": "literal" , "value": "Guave | guava" } ,
@@ -890,7 +890,7 @@
       { 
         "ln": { "type": "literal" , "value": "66" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18195-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q961769" } ,
         "wdLabel": { "type": "literal" , "value": "Avocado | avocado" } ,
@@ -903,7 +903,7 @@
       { 
         "ln": { "type": "literal" , "value": "67" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18195-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Tropisches Produkt | Tropical product" } ,
+        "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5881191" } ,
         "wdLabel": { "type": "literal" , "value": "Melone | melon" } ,
@@ -1228,7 +1228,7 @@
       { 
         "ln": { "type": "literal" , "value": "92" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14160-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Meerestiere | Aquatic animals" } ,
+        "stwLabel": { "type": "literal" , "value": "Meerestiere | Marine animals" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q30263" } ,
         "wdLabel": { "type": "literal" , "value": "Robben | Pinnipedia" } ,
@@ -12384,7 +12384,7 @@
       { 
         "ln": { "type": "literal" , "value": "935" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19544-0" } ,
-        "stwLabel": { "type": "literal" , "value": "E-Business | E-business" } ,
+        "stwLabel": { "type": "literal" , "value": "Electronic Commerce | E-commerce" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q138461" } ,
         "wdLabel": { "type": "literal" , "value": "Internetökonomie | digital economy" } ,
@@ -14359,7 +14359,7 @@
       { 
         "ln": { "type": "literal" , "value": "1087" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12759-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Produktprogramm | Product line" } ,
+        "stwLabel": { "type": "literal" , "value": "Fertigungsprogramm | Master production schedule" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q110375331" } ,
         "wdLabel": { "type": "literal" , "value": "Produktlinie | product line" } ,
@@ -19502,7 +19502,7 @@
       { 
         "ln": { "type": "literal" , "value": "1461" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11349-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Koalitionsfreiheit | Freedom of association" } ,
+        "stwLabel": { "type": "literal" , "value": "Vereinigungsfreiheit | Freedom of association" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q781837" } ,
         "wdLabel": { "type": "literal" , "value": "Koalitionsfreiheit | " } ,
@@ -19515,7 +19515,7 @@
       { 
         "ln": { "type": "literal" , "value": "1462" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11349-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Koalitionsfreiheit | Freedom of association" } ,
+        "stwLabel": { "type": "literal" , "value": "Vereinigungsfreiheit | Freedom of association" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897031" } ,
         "wdLabel": { "type": "literal" , "value": "Tarifautonomie | " } ,
@@ -23737,7 +23737,7 @@
       { 
         "ln": { "type": "literal" , "value": "1787" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19830-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Philanthropie | Philanthropy" } ,
+        "stwLabel": { "type": "literal" , "value": "Wohltätigkeit | Charity" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q214092" } ,
         "wdLabel": { "type": "literal" , "value": "Mäzenatentum | art patronage" } ,
@@ -23750,7 +23750,7 @@
       { 
         "ln": { "type": "literal" , "value": "1788" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19830-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Philanthropie | Philanthropy" } ,
+        "stwLabel": { "type": "literal" , "value": "Wohltätigkeit | Charity" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15472169" } ,
         "wdLabel": { "type": "literal" , "value": "Mäzen | patron of the arts" } ,
@@ -23763,7 +23763,7 @@
       { 
         "ln": { "type": "literal" , "value": "1789" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19830-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Philanthropie | Philanthropy" } ,
+        "stwLabel": { "type": "literal" , "value": "Wohltätigkeit | Charity" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q185733" } ,
         "wdLabel": { "type": "literal" , "value": "Philanthropie | philanthropy" } ,
@@ -30913,7 +30913,7 @@
       { 
         "ln": { "type": "literal" , "value": "2339" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11981-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Enterprise zone" } ,
+        "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Industrial park" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1520456" } ,
         "wdLabel": { "type": "literal" , "value": "Gewerbepark | business park of private company" } ,
@@ -30926,7 +30926,7 @@
       { 
         "ln": { "type": "literal" , "value": "2340" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11981-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Enterprise zone" } ,
+        "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Industrial park" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q329683" } ,
         "wdLabel": { "type": "literal" , "value": "Industriegebiet | industrial zone" } ,
@@ -30939,7 +30939,7 @@
       { 
         "ln": { "type": "literal" , "value": "2341" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11981-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Enterprise zone" } ,
+        "stwLabel": { "type": "literal" , "value": "Gewerbegebiet | Industrial park" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1662100" } ,
         "wdLabel": { "type": "literal" , "value": "Industriepark | industrial park" } ,
