@@ -28193,7 +28193,7 @@
         "stwLabel": { "type": "literal" , "value": "Handelshemmnisse | Trade barriers" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7832074" } ,
-        "wdLabel": { "type": "literal" , "value": " | trade restriction" } ,
+        "wdLabel": { "type": "literal" , "value": "Handelsbeschränkungen | trade restriction" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1031" } ,
         "issueLabel": { "type": "literal" , "value": "#1031" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
