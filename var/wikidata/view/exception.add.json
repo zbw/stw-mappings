@@ -32617,7 +32617,7 @@
         "stwLabel": { "type": "literal" , "value": "Entwicklungshilfekonditionen | Conditionality" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17086464" } ,
-        "wdLabel": { "type": "literal" , "value": "gebundene Entwicklungshilfe | Tied aid" } ,
+        "wdLabel": { "type": "literal" , "value": "gebundene Entwicklungshilfe | tied aid" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1205" } ,
         "issueLabel": { "type": "literal" , "value": "#1205" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
