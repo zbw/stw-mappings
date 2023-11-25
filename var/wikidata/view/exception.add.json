@@ -43522,7 +43522,7 @@
         "stwLabel": { "type": "literal" , "value": "Unterernährung | Undernutrition" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q165947" } ,
-        "wdLabel": { "type": "literal" , "value": "Hunger | hunger" } ,
+        "wdLabel": { "type": "literal" , "value": "Hunger | Violence Menace Crime Faim Misere Modestre Moderne Child Majeur Adulte sans Abrites Peuple Civile Force from USA" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1587" } ,
         "issueLabel": { "type": "literal" , "value": "#1587" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
