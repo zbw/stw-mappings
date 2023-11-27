@@ -12309,7 +12309,7 @@
         "stwLabel": { "type": "literal" , "value": "Website | Website" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q190637" } ,
-        "wdLabel": { "type": "literal" , "value": "Webdesign | seo local" } ,
+        "wdLabel": { "type": "literal" , "value": "Webdesign | web design" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/428" } ,
         "issueLabel": { "type": "literal" , "value": "#428" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
