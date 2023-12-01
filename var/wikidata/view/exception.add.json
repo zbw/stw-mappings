@@ -18713,7 +18713,7 @@
         "stwLabel": { "type": "literal" , "value": "Soll-Ist-Vergleich | Target-performance comparison" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2108440" } ,
-        "wdLabel": { "type": "literal" , "value": "Preisabweichung | price variance" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/674" } ,
         "issueLabel": { "type": "literal" , "value": "#674" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
