@@ -38207,7 +38207,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatspapier | Government securities" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3538285" } ,
-        "wdLabel": { "type": "literal" , "value": "Treasury note | Treasury note" } ,
+        "wdLabel": { "type": "literal" , "value": "Treasury note | treasury note" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1416" } ,
         "issueLabel": { "type": "literal" , "value": "#1416" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
