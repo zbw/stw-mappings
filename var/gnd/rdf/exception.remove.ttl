@@ -1,8 +1,8 @@
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
 PREFIX gnd: <https://d-nb.info/gnd/>
-PREFIX gndo: <https://d-nb.info/standards/elementset/gnd#>
-PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX gndo: <https://d-nb.info/standards/elementset/gnd#>
 #
 stw:10928-6 skos:exactMatch gnd:4334934-1 .
 stw:19661-3 skos:exactMatch gnd:4826292-4 .
