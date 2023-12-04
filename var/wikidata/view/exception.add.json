@@ -815,7 +815,7 @@
         "stwLabel": { "type": "literal" , "value": "Computerspiel | Video game" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q300920" } ,
-        "wdLabel": { "type": "literal" , "value": "E-Sport | esports" } ,
+        "wdLabel": { "type": "literal" , "value": "E-Sport | endre" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/65" } ,
         "issueLabel": { "type": "literal" , "value": "#65" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
