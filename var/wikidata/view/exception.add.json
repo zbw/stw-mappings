@@ -33306,7 +33306,7 @@
         "stwLabel": { "type": "literal" , "value": "Sexualität | Sexuality" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q43200" } ,
-        "wdLabel": { "type": "literal" , "value": "Bisexualität | bisexuality" } ,
+        "wdLabel": { "type": "literal" , "value": "Bisexualität | Heterosexual" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1241" } ,
         "issueLabel": { "type": "literal" , "value": "#1241" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
