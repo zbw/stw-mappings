@@ -1,8 +1,8 @@
 PREFIX wd: <http://www.wikidata.org/entity/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dbr: <http://dbpedia.org/resource/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
-PREFIX dbr: <http://dbpedia.org/resource/>
 #
 stw:16977-5 skos:closeMatch dbr:Uniform_Resource_Identifier .
