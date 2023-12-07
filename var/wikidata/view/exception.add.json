@@ -3314,7 +3314,7 @@
         "issueLabel": { "type": "literal" , "value": "#130" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q39546" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | tool" }
+        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | physical tool" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "237" } ,
@@ -3327,7 +3327,7 @@
         "issueLabel": { "type": "literal" , "value": "#130" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q39546" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | tool" }
+        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | physical tool" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "238" } ,
@@ -3340,7 +3340,7 @@
         "issueLabel": { "type": "literal" , "value": "#130" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q39546" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | tool" }
+        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | physical tool" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "239" } ,
@@ -3353,7 +3353,7 @@
         "issueLabel": { "type": "literal" , "value": "#130" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q39546" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | tool" }
+        "wdExistsLabel": { "type": "literal" , "value": "Werkzeug | physical tool" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "240" } ,
