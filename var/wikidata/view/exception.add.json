@@ -33345,7 +33345,7 @@
         "stwLabel": { "type": "literal" , "value": "Sexualität | Sexuality" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q170912" } ,
-        "wdLabel": { "type": "literal" , "value": "Sexualwissenschaft | سکس" } ,
+        "wdLabel": { "type": "literal" , "value": "Sexualwissenschaft | sexology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1241" } ,
         "issueLabel": { "type": "literal" , "value": "#1241" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
