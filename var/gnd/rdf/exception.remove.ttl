@@ -1,7 +1,7 @@
 PREFIX gnd: <https://d-nb.info/gnd/>
-PREFIX gndo: <https://d-nb.info/standards/elementset/gnd#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX stw: <http://zbw.eu/stw/descriptor/>
+PREFIX gndo: <https://d-nb.info/standards/elementset/gnd#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 #
 stw:10928-6 skos:exactMatch gnd:4334934-1 .
