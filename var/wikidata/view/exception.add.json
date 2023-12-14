@@ -3426,7 +3426,7 @@
         "stwLabel": { "type": "literal" , "value": "Landmaschine | Agricultural machinery" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q194118" } ,
-        "wdLabel": { "type": "literal" , "value": "Landtechnik | agriculture agricola" } ,
+        "wdLabel": { "type": "literal" , "value": "Landtechnik | agricultural technology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/134" } ,
         "issueLabel": { "type": "literal" , "value": "#134" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
