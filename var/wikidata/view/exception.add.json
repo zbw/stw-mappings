@@ -495,7 +495,7 @@
         "issueLabel": { "type": "literal" , "value": "#45" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753564" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | child protection" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "37" } ,
@@ -1049,7 +1049,7 @@
         "stwLabel": { "type": "literal" , "value": "Kartoffel | Potato" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q152088" } ,
-        "wdLabel": { "type": "literal" , "value": "Pommes frites | french fries" } ,
+        "wdLabel": { "type": "literal" , "value": "Pommes frites | fries" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/72" } ,
         "issueLabel": { "type": "literal" , "value": "#72" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -1244,7 +1244,7 @@
         "stwLabel": { "type": "literal" , "value": "Krebstiere | Crustacea" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q40802" } ,
-        "wdLabel": { "type": "literal" , "value": "Krabben | brachyura" } ,
+        "wdLabel": { "type": "literal" , "value": "Krabben | Brachyura" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/78" } ,
         "issueLabel": { "type": "literal" , "value": "#78" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -1959,7 +1959,7 @@
         "stwLabel": { "type": "literal" , "value": "Forstprodukt | Forest product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q535814" } ,
-        "wdLabel": { "type": "literal" , "value": "Gummi arabicum | gum arabic" } ,
+        "wdLabel": { "type": "literal" , "value": "Gummi arabicum | Gum arabic" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/89" } ,
         "issueLabel": { "type": "literal" , "value": "#89" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
@@ -2016,7 +2016,7 @@
         "issueLabel": { "type": "literal" , "value": "#92" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99657363" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropenholz | Tropical timber" }
+        "wdExistsLabel": { "type": "literal" , "value": "Tropenholz | tropical timber" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "137" } ,
@@ -2029,7 +2029,7 @@
         "issueLabel": { "type": "literal" , "value": "#92" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99657363" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropenholz | Tropical timber" }
+        "wdExistsLabel": { "type": "literal" , "value": "Tropenholz | tropical timber" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "138" } ,
@@ -3322,7 +3322,7 @@
         "stwLabel": { "type": "literal" , "value": "Werkzeug | Tools" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1327701" } ,
-        "wdLabel": { "type": "literal" , "value": "Elektrowerkzeug | power tool" } ,
+        "wdLabel": { "type": "literal" , "value": " | power tool" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/130" } ,
         "issueLabel": { "type": "literal" , "value": "#130" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -9086,8 +9086,8 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/24704-2" } ,
         "stwLabel": { "type": "literal" , "value": "Prozessmanagement | Business process management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/QQ3298296" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3298296" } ,
+        "wdLabel": { "type": "literal" , "value": "Geschäftsprozessanalyse | Business process mapping" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/320" } ,
         "issueLabel": { "type": "literal" , "value": "#320" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -10074,7 +10074,7 @@
         "stwLabel": { "type": "literal" , "value": "Umweltbericht | Environmental reporting" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q581950" } ,
-        "wdLabel": { "type": "literal" , "value": "Lebenszyklusanalyse | life-cycle assessment" } ,
+        "wdLabel": { "type": "literal" , "value": "Lebenszyklusanalyse | life cycle assessment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/355" } ,
         "issueLabel": { "type": "literal" , "value": "#355" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -10191,7 +10191,7 @@
         "stwLabel": { "type": "literal" , "value": "Aktiengesellschaft | Listed company" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7258079" } ,
-        "wdLabel": { "type": "literal" , "value": "Nichtbörsennötierte Aktiengesellschaft | Publicly unlisted company" } ,
+        "wdLabel": { "type": "literal" , "value": "Nichtbörsennötierte Aktiengesellschaft | unlisted public company" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/360" } ,
         "issueLabel": { "type": "literal" , "value": "#360" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -10529,7 +10529,7 @@
         "stwLabel": { "type": "literal" , "value": "Personengesellschaft | Business partnership" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19340991" } ,
-        "wdLabel": { "type": "literal" , "value": "Offene Handelsgesellschaft | Offene Handelsgesellschaft" } ,
+        "wdLabel": { "type": "literal" , "value": "Offene Handelsgesellschaft | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/374" } ,
         "issueLabel": { "type": "literal" , "value": "#374" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -10555,7 +10555,7 @@
         "stwLabel": { "type": "literal" , "value": "Personengesellschaft | Business partnership" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q646164" } ,
-        "wdLabel": { "type": "literal" , "value": "Personenhandelsgesellschaft | general partnership" } ,
+        "wdLabel": { "type": "literal" , "value": " | general partnership" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/374" } ,
         "issueLabel": { "type": "literal" , "value": "#374" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -11685,7 +11685,7 @@
         "stwLabel": { "type": "literal" , "value": "Personal Computer | Personal computer" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q162768" } ,
-        "wdLabel": { "type": "literal" , "value": "Personal Digital Assistant | personal digital assistant" } ,
+        "wdLabel": { "type": "literal" , "value": "Persönlicher digitaler Assistent | personal digital assistant" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/406" } ,
         "issueLabel": { "type": "literal" , "value": "#406" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -12088,7 +12088,7 @@
         "stwLabel": { "type": "literal" , "value": "Datensicherheit | Data security" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q194274" } ,
-        "wdLabel": { "type": "literal" , "value": "Datensicherung | backup" } ,
+        "wdLabel": { "type": "literal" , "value": "Backup | backup" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/421" } ,
         "issueLabel": { "type": "literal" , "value": "#421" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -12465,7 +12465,7 @@
         "stwLabel": { "type": "literal" , "value": "E-Learning | E-learning" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1755248" } ,
-        "wdLabel": { "type": "literal" , "value": "virtuelle Universität | virtual university" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/435" } ,
         "issueLabel": { "type": "literal" , "value": "#435" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -12894,7 +12894,7 @@
         "stwLabel": { "type": "literal" , "value": "Markenarchitektur | Brand architecture" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1156739" } ,
-        "wdLabel": { "type": "literal" , "value": "Dachmarke | umbrella brand" } ,
+        "wdLabel": { "type": "literal" , "value": "Dachmarke | Umbrella brand" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/452" } ,
         "issueLabel": { "type": "literal" , "value": "#452" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -13153,7 +13153,7 @@
         "stwLabel": { "type": "literal" , "value": "Kundenbindungsprogramm | Loyalty program" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1137580" } ,
-        "wdLabel": { "type": "literal" , "value": "Couponing | Couponing" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/464" } ,
         "issueLabel": { "type": "literal" , "value": "#464" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -13231,7 +13231,7 @@
         "stwLabel": { "type": "literal" , "value": "Preisdifferenzierung | Price discrimination" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q332179" } ,
-        "wdLabel": { "type": "literal" , "value": "Abschöpfungsstrategie | Price skimming" } ,
+        "wdLabel": { "type": "literal" , "value": "Abschöpfungsstrategie | price skimming" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/469" } ,
         "issueLabel": { "type": "literal" , "value": "#469" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -15138,7 +15138,7 @@
         "stwLabel": { "type": "literal" , "value": "Fahrzeugflotte | Vehicle fleet" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1430291" } ,
-        "wdLabel": { "type": "literal" , "value": "Flottenmanagement | Fleet management" } ,
+        "wdLabel": { "type": "literal" , "value": "Flottenmanagement | fleet management" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/545" } ,
         "issueLabel": { "type": "literal" , "value": "#545" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -15255,7 +15255,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeit | Labour" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192581" } ,
-        "wdLabel": { "type": "literal" , "value": "Tätigkeit | job" } ,
+        "wdLabel": { "type": "literal" , "value": "Stelle | job" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/547" } ,
         "issueLabel": { "type": "literal" , "value": "#547" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -16737,7 +16737,7 @@
         "stwLabel": { "type": "literal" , "value": "Familie-Beruf | Work-life balance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1243034" } ,
-        "wdLabel": { "type": "literal" , "value": "Doppelkarrierepaar | Dual-career commuter couples" } ,
+        "wdLabel": { "type": "literal" , "value": "Doppelkarrierepaar | dual-career commuter couples" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/590" } ,
         "issueLabel": { "type": "literal" , "value": "#590" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -17985,7 +17985,7 @@
         "stwLabel": { "type": "literal" , "value": "Anleihe | Bond" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q259038" } ,
-        "wdLabel": { "type": "literal" , "value": "Inhaberschuldverschreibung | Bearer bond" } ,
+        "wdLabel": { "type": "literal" , "value": "Inhaberschuldverschreibung | bearer bond" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/639" } ,
         "issueLabel": { "type": "literal" , "value": "#639" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -18557,7 +18557,7 @@
         "stwLabel": { "type": "literal" , "value": "Gewinn | Profit" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5326940" } ,
-        "wdLabel": { "type": "literal" , "value": "Einnahmen | earnings" } ,
+        "wdLabel": { "type": "literal" , "value": " | earnings" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/666" } ,
         "issueLabel": { "type": "literal" , "value": "#666" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -20610,7 +20610,7 @@
         "stwLabel": { "type": "literal" , "value": "Vertragsrecht | Contract law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q34582" } ,
-        "wdLabel": { "type": "literal" , "value": "Allgemeine Geschäftsbedingungen | standard form contract" } ,
+        "wdLabel": { "type": "literal" , "value": "Allgemeine Geschäftsbedingungen | terms and conditions" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/735" } ,
         "issueLabel": { "type": "literal" , "value": "#735" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -20665,7 +20665,7 @@
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5950118" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | civil law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1551" } ,
@@ -20678,7 +20678,7 @@
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5950118" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | civil law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1552" } ,
@@ -21206,7 +21206,7 @@
         "stwLabel": { "type": "literal" , "value": "Steuerstrafrecht | Criminal tax law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15279749" } ,
-        "wdLabel": { "type": "literal" , "value": "Steuerhinterziehung | cumplimiento de patriota" } ,
+        "wdLabel": { "type": "literal" , "value": "Steuerhinterziehung | tax noncompliance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/762" } ,
         "issueLabel": { "type": "literal" , "value": "#762" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -21960,7 +21960,7 @@
         "stwLabel": { "type": "literal" , "value": "Strafverfahren | Criminal procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1554584" } ,
-        "wdLabel": { "type": "literal" , "value": "Strafverfahrensrecht | Law of criminal procedure" } ,
+        "wdLabel": { "type": "literal" , "value": "Strafverfahrensrecht | law of criminal procedure" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/787" } ,
         "issueLabel": { "type": "literal" , "value": "#787" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -22420,7 +22420,7 @@
         "issueLabel": { "type": "literal" , "value": "#803" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117488" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strafgerichtsbarkeit | criminal justice system" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strafgerichtsbarkeit | criminal justice" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1686" } ,
@@ -23251,7 +23251,7 @@
         "issueLabel": { "type": "literal" , "value": "#823" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7448122" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | self-interest" }
+        "wdExistsLabel": { "type": "literal" , "value": "Eigeninteresse | self-interest" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1750" } ,
@@ -23264,7 +23264,7 @@
         "issueLabel": { "type": "literal" , "value": "#823" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7448122" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | self-interest" }
+        "wdExistsLabel": { "type": "literal" , "value": "Eigeninteresse | self-interest" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1751" } ,
@@ -24460,7 +24460,7 @@
         "issueLabel": { "type": "literal" , "value": "#877" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192311" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Konjunktur | business cycle" }
+        "wdExistsLabel": { "type": "literal" , "value": "Konjunkturzyklus | business cycle" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1843" } ,
@@ -24473,7 +24473,7 @@
         "issueLabel": { "type": "literal" , "value": "#877" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192311" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Konjunktur | business cycle" }
+        "wdExistsLabel": { "type": "literal" , "value": "Konjunkturzyklus | business cycle" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1844" } ,
@@ -24780,7 +24780,7 @@
         "stwLabel": { "type": "literal" , "value": "Migranten | Migrants" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4989857" } ,
-        "wdLabel": { "type": "literal" , "value": "Auswanderer | emigrant" } ,
+        "wdLabel": { "type": "literal" , "value": "Emigrant | emigrant" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/889" } ,
         "issueLabel": { "type": "literal" , "value": "#889" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -24949,7 +24949,7 @@
         "stwLabel": { "type": "literal" , "value": "Ethnische Gruppe | Ethnic group" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2531956" } ,
-        "wdLabel": { "type": "literal" , "value": "Volksgruppe | ethnic group" } ,
+        "wdLabel": { "type": "literal" , "value": "Volksgruppe | ethnic minority group" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/899" } ,
         "issueLabel": { "type": "literal" , "value": "#899" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -25547,7 +25547,7 @@
         "stwLabel": { "type": "literal" , "value": "Iraner | Iranians" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1672477" } ,
-        "wdLabel": { "type": "literal" , "value": "Iranische Völker | Iranians" } ,
+        "wdLabel": { "type": "literal" , "value": "Iranische Völker | Iranian peoples" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/922" } ,
         "issueLabel": { "type": "literal" , "value": "#922" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -25911,7 +25911,7 @@
         "issueLabel": { "type": "literal" , "value": "#936" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1661989" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Industrie 4.0 | Industry 4.0" }
+        "wdExistsLabel": { "type": "literal" , "value": "Industrie 4.0 | Fourth Industrial Revolution" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1954" } ,
@@ -26556,7 +26556,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirkungsanalyse | Impact assessment" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6005872" } ,
-        "wdLabel": { "type": "literal" , "value": " | impact assessment" } ,
+        "wdLabel": { "type": "literal" , "value": "Nachhaltigkeitsprüfung | impact assessment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/962" } ,
         "issueLabel": { "type": "literal" , "value": "#962" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -26600,7 +26600,7 @@
         "issueLabel": { "type": "literal" , "value": "#963" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6501095" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "elektronisches Geld | electronic payment" }
+        "wdExistsLabel": { "type": "literal" , "value": "elektronisches Geld | electronic money" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2007" } ,
@@ -26613,7 +26613,7 @@
         "issueLabel": { "type": "literal" , "value": "#963" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6501095" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "elektronisches Geld | electronic payment" }
+        "wdExistsLabel": { "type": "literal" , "value": "elektronisches Geld | electronic money" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2008" } ,
@@ -26626,7 +26626,7 @@
         "issueLabel": { "type": "literal" , "value": "#963" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6501095" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "elektronisches Geld | electronic payment" }
+        "wdExistsLabel": { "type": "literal" , "value": "elektronisches Geld | electronic money" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2009" } ,
@@ -27920,7 +27920,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatstheorie | Theory of the state" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820125" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatstheorie | " } ,
+        "wdLabel": { "type": "literal" , "value": "Staatstheorie | Theory of the state" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1018" } ,
         "issueLabel": { "type": "literal" , "value": "#1018" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -28037,7 +28037,7 @@
         "stwLabel": { "type": "literal" , "value": "Faktorproportionentheorem | Factor proportions" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1338089" } ,
-        "wdLabel": { "type": "literal" , "value": "Faktorausstattung | Factor endowment" } ,
+        "wdLabel": { "type": "literal" , "value": "Faktorausstattung | factor endowment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1024" } ,
         "issueLabel": { "type": "literal" , "value": "#1024" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -29004,7 +29004,7 @@
         "issueLabel": { "type": "literal" , "value": "#1073" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q60195" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Semiotik | semiotics" }
+        "wdExistsLabel": { "type": "literal" , "value": "Semiotik | gato" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2192" } ,
@@ -29134,7 +29134,7 @@
         "issueLabel": { "type": "literal" , "value": "#1077" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q64513545" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | economics terminology" }
+        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftsterminologie | economics terminology" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2202" } ,
@@ -29147,7 +29147,7 @@
         "issueLabel": { "type": "literal" , "value": "#1077" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q64513545" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | economics terminology" }
+        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftsterminologie | economics terminology" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2203" } ,
@@ -29381,7 +29381,7 @@
         "issueLabel": { "type": "literal" , "value": "#1084" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3552518" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Internet use" }
+        "wdExistsLabel": { "type": "literal" , "value": "Internetnutzung | Internet use" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2221" } ,
@@ -29463,7 +29463,7 @@
         "stwLabel": { "type": "literal" , "value": "Social Web | Social web" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q202833" } ,
-        "wdLabel": { "type": "literal" , "value": "Social Media | social media" } ,
+        "wdLabel": { "type": "literal" , "value": "Soziale Medien | social media" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1088" } ,
         "issueLabel": { "type": "literal" , "value": "#1088" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -29532,7 +29532,7 @@
         "issueLabel": { "type": "literal" , "value": "#1090" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q154430" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Angst | anxiety" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ängstlichkeit | anxiety" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2233" } ,
@@ -29545,7 +29545,7 @@
         "issueLabel": { "type": "literal" , "value": "#1090" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q154430" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Angst | anxiety" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ängstlichkeit | anxiety" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2234" } ,
@@ -29558,7 +29558,7 @@
         "issueLabel": { "type": "literal" , "value": "#1090" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q154430" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Angst | anxiety" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ängstlichkeit | anxiety" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2235" } ,
@@ -30448,7 +30448,7 @@
         "stwLabel": { "type": "literal" , "value": "Marktabgrenzung | Market definition" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q445014" } ,
-        "wdLabel": { "type": "literal" , "value": "Relevanter Markt | Relevant market" } ,
+        "wdLabel": { "type": "literal" , "value": "Relevanter Markt | relevant market" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1118" } ,
         "issueLabel": { "type": "literal" , "value": "#1118" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -30734,7 +30734,7 @@
         "stwLabel": { "type": "literal" , "value": "Bodenrecht | Land tenure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1374689" } ,
-        "wdLabel": { "type": "literal" , "value": "Landnahme | " } ,
+        "wdLabel": { "type": "literal" , "value": "Landnahme | Landnám" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1125" } ,
         "issueLabel": { "type": "literal" , "value": "#1125" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -31033,7 +31033,7 @@
         "stwLabel": { "type": "literal" , "value": "Stadtquartier | Urban quarter" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q188509" } ,
-        "wdLabel": { "type": "literal" , "value": "Vorort | suburb" } ,
+        "wdLabel": { "type": "literal" , "value": "Stadtteil | suburb" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1136" } ,
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -31961,7 +31961,7 @@
         "issueLabel": { "type": "literal" , "value": "#1174" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q204065" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Workfare | Workfare" }
+        "wdExistsLabel": { "type": "literal" , "value": "Workfare | workfare" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2420" } ,
@@ -32635,7 +32635,7 @@
         "issueLabel": { "type": "literal" , "value": "#1206" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119340203" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | development planning" }
+        "wdExistsLabel": { "type": "literal" , "value": "Entwicklungsplanung | development planning" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2472" } ,
@@ -32778,7 +32778,7 @@
         "issueLabel": { "type": "literal" , "value": "#1215" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q112730899" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | service economy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Dienstleistungsgesellschaft | service economy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2483" } ,
@@ -33441,7 +33441,7 @@
         "issueLabel": { "type": "literal" , "value": "#1244" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66363776" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | family structure" }
+        "wdExistsLabel": { "type": "literal" , "value": "Familienstruktur | family structure" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2534" } ,
@@ -33454,7 +33454,7 @@
         "issueLabel": { "type": "literal" , "value": "#1244" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66363776" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | family structure" }
+        "wdExistsLabel": { "type": "literal" , "value": "Familienstruktur | family structure" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2535" } ,
@@ -33467,7 +33467,7 @@
         "issueLabel": { "type": "literal" , "value": "#1244" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66363776" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | family structure" }
+        "wdExistsLabel": { "type": "literal" , "value": "Familienstruktur | family structure" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2536" } ,
@@ -33480,7 +33480,7 @@
         "issueLabel": { "type": "literal" , "value": "#1244" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q66363776" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | family structure" }
+        "wdExistsLabel": { "type": "literal" , "value": "Familienstruktur | family structure" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2537" } ,
@@ -33584,7 +33584,7 @@
         "issueLabel": { "type": "literal" , "value": "#1250" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65089402" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | race relations" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ethnische Beziehungen | race relations" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2545" } ,
@@ -33597,7 +33597,7 @@
         "issueLabel": { "type": "literal" , "value": "#1250" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65089402" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | race relations" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ethnische Beziehungen | race relations" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2546" } ,
@@ -33675,7 +33675,7 @@
         "issueLabel": { "type": "literal" , "value": "#1252" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9392088" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | ethnic diversity" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ethnische Vielfalt | ethnic diversity" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2552" } ,
@@ -34156,7 +34156,7 @@
         "issueLabel": { "type": "literal" , "value": "#1284" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119801715" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | national culture" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nationalkultur | national culture" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2589" } ,
@@ -34169,7 +34169,7 @@
         "issueLabel": { "type": "literal" , "value": "#1284" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119801715" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | national culture" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nationalkultur | national culture" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2590" } ,
@@ -34182,7 +34182,7 @@
         "issueLabel": { "type": "literal" , "value": "#1284" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119801715" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | national culture" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nationalkultur | national culture" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2591" } ,
@@ -34195,7 +34195,7 @@
         "issueLabel": { "type": "literal" , "value": "#1284" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119801715" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | national culture" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nationalkultur | national culture" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2592" } ,
@@ -34208,7 +34208,7 @@
         "issueLabel": { "type": "literal" , "value": "#1284" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119801715" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | national culture" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nationalkultur | national culture" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2593" } ,
@@ -34515,7 +34515,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatsorgan | Organ of state" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15708736" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatsorgan | state organization" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1295" } ,
         "issueLabel": { "type": "literal" , "value": "#1295" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -35300,7 +35300,7 @@
         "issueLabel": { "type": "literal" , "value": "#1316" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3368210" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Machtwechsel | transition" }
+        "wdExistsLabel": { "type": "literal" , "value": "Machtwechsel | transition of power" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2677" } ,
@@ -35313,7 +35313,7 @@
         "issueLabel": { "type": "literal" , "value": "#1316" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3368210" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Machtwechsel | transition" }
+        "wdExistsLabel": { "type": "literal" , "value": "Machtwechsel | transition of power" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2678" } ,
@@ -35581,7 +35581,7 @@
         "stwLabel": { "type": "literal" , "value": "Informationsfreiheit | Freedom of information" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7333687" } ,
-        "wdLabel": { "type": "literal" , "value": "Right to Know | Right to know" } ,
+        "wdLabel": { "type": "literal" , "value": "Right to Know | right to know" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1326" } ,
         "issueLabel": { "type": "literal" , "value": "#1326" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -36543,7 +36543,7 @@
         "stwLabel": { "type": "literal" , "value": "Macht | Power" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4825937" } ,
-        "wdLabel": { "type": "literal" , "value": "Herrschaft | authority" } ,
+        "wdLabel": { "type": "literal" , "value": "Autorität | authority (sociology)" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1348" } ,
         "issueLabel": { "type": "literal" , "value": "#1348" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -36613,7 +36613,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2774" } ,
@@ -36626,7 +36626,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2775" } ,
@@ -36639,7 +36639,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2776" } ,
@@ -36652,7 +36652,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2777" } ,
@@ -36730,7 +36730,7 @@
         "issueLabel": { "type": "literal" , "value": "#1356" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107969678" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Power sharing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Machtteilung | Power sharing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2783" } ,
@@ -36743,7 +36743,7 @@
         "issueLabel": { "type": "literal" , "value": "#1356" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107969678" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Power sharing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Machtteilung | Power sharing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2784" } ,
@@ -37622,7 +37622,7 @@
         "stwLabel": { "type": "literal" , "value": "Regionalverwaltung | Regional administration" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1802733" } ,
-        "wdLabel": { "type": "literal" , "value": "Landesverwaltung | " } ,
+        "wdLabel": { "type": "literal" , "value": "Landesverwaltung | state administration" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1390" } ,
         "issueLabel": { "type": "literal" , "value": "#1390" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -37900,7 +37900,7 @@
         "issueLabel": { "type": "literal" , "value": "#1400" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106352309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | constitutional reform" }
+        "wdExistsLabel": { "type": "literal" , "value": "Verfassungsreform | constitutional reform" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2873" } ,
@@ -38524,7 +38524,7 @@
         "issueLabel": { "type": "literal" , "value": "#1425" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16725895" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | visa policy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Visapolitik | visa policy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2921" } ,
@@ -38940,7 +38940,7 @@
         "issueLabel": { "type": "literal" , "value": "#1439" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119831093" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | North-South relations" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nord-Süd-Beziehungen | North-South relations" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2953" } ,
@@ -39109,7 +39109,7 @@
         "issueLabel": { "type": "literal" , "value": "#1451" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q120200779" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | South-South relations" }
+        "wdExistsLabel": { "type": "literal" , "value": "Süd-Süd-Beziehungen | South-South relations" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2966" } ,
@@ -39459,8 +39459,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1465" } ,
         "issueLabel": { "type": "literal" , "value": "#1465" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1766908" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Militärpolitik | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1667082" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Sicherheitspolitik | military policy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2993" } ,
@@ -39472,8 +39472,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1465" } ,
         "issueLabel": { "type": "literal" , "value": "#1465" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1766908" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Militärpolitik | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1667082" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Sicherheitspolitik | military policy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2994" } ,
@@ -39694,7 +39694,7 @@
         "issueLabel": { "type": "literal" , "value": "#1475" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5333537" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | economic reconstruction" }
+        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftlicher Wiederaufbau | economic reconstruction" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3011" } ,
@@ -40183,7 +40183,7 @@
         "stwLabel": { "type": "literal" , "value": "Waffe | Weapon" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12796" } ,
-        "wdLabel": { "type": "literal" , "value": "Feuerwaffe | firearm" } ,
+        "wdLabel": { "type": "literal" , "value": "Handfeuerwaffe | firearm" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1489" } ,
         "issueLabel": { "type": "literal" , "value": "#1489" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -40196,7 +40196,7 @@
         "stwLabel": { "type": "literal" , "value": "Waffe | Weapon" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296706" } ,
-        "wdLabel": { "type": "literal" , "value": "Kriegswaffe | Weapon of war" } ,
+        "wdLabel": { "type": "literal" , "value": "Kriegswaffe | weapon of war" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1489" } ,
         "issueLabel": { "type": "literal" , "value": "#1489" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -40859,7 +40859,7 @@
         "stwLabel": { "type": "literal" , "value": "Überschwemmung | Flood" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8068" } ,
-        "wdLabel": { "type": "literal" , "value": "Hochwasser | flood" } ,
+        "wdLabel": { "type": "literal" , "value": "Überschwemmung | flood" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1508" } ,
         "issueLabel": { "type": "literal" , "value": "#1508" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -41002,7 +41002,7 @@
         "stwLabel": { "type": "literal" , "value": "Schädlinge | Pests" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q987269" } ,
-        "wdLabel": { "type": "literal" , "value": "Ungeziefer | Vermin" } ,
+        "wdLabel": { "type": "literal" , "value": "Ungeziefer | vermin" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1511" } ,
         "issueLabel": { "type": "literal" , "value": "#1511" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -41210,12 +41210,12 @@
         "stwLabel": { "type": "literal" , "value": "Multikriterielle Entscheidungsanalyse | Multi-criteria analysis" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2052203" } ,
-        "wdLabel": { "type": "literal" , "value": "Pareto-Optimierung | multi-objective optimization" } ,
+        "wdLabel": { "type": "literal" , "value": "Mehrzieloptimierung | multi-objective optimization" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1519" } ,
         "issueLabel": { "type": "literal" , "value": "#1519" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1895805" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Multi Criteria Analysis | multiple-criteria decision analysis" }
+        "wdExistsLabel": { "type": "literal" , "value": "Multikriterielle Entscheidungsanalyse | multiple-criteria decision analysis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3128" } ,
@@ -42058,7 +42058,7 @@
         "issueLabel": { "type": "literal" , "value": "#1547" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q55643366" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Sequential decision making" }
+        "wdExistsLabel": { "type": "literal" , "value": "Sequentielle Entscheidung | Sequential decision making" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3193" } ,
@@ -42071,7 +42071,7 @@
         "issueLabel": { "type": "literal" , "value": "#1548" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7805280" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Time consistency" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zeitkonsistenz | Time consistency" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3194" } ,
@@ -42084,7 +42084,7 @@
         "issueLabel": { "type": "literal" , "value": "#1548" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7805280" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Time consistency" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zeitkonsistenz | Time consistency" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3195" } ,
@@ -44952,7 +44952,7 @@
         "stwLabel": { "type": "literal" , "value": "Variationsrechnung | Variational method" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2478371" } ,
-        "wdLabel": { "type": "literal" , "value": "Umhüllungssatz | Envelope theorem" } ,
+        "wdLabel": { "type": "literal" , "value": "Umhüllungssatz | envelope theorem" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1624" } ,
         "issueLabel": { "type": "literal" , "value": "#1624" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
