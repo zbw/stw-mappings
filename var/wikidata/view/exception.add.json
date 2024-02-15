@@ -7930,7 +7930,7 @@
         "stwLabel": { "type": "literal" , "value": "Qualitätsmanagement | Quality management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q336085" } ,
-        "wdLabel": { "type": "literal" , "value": "Computer-aided quality | Computer-aided quality assurance" } ,
+        "wdLabel": { "type": "literal" , "value": "Computer-aided quality | computer-aided quality assurance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/275" } ,
         "issueLabel": { "type": "literal" , "value": "#275" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -13938,7 +13938,7 @@
         "issueLabel": { "type": "literal" , "value": "#499" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1390811" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Fabrikplanung | Facility layout" }
+        "wdExistsLabel": { "type": "literal" , "value": "Fabrikplanung | facility layout" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1055" } ,
@@ -39044,7 +39044,7 @@
         "issueLabel": { "type": "literal" , "value": "#1446" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q100510227" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Cambodians" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kambodschaner | Cambodians" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2961" } ,
@@ -41176,7 +41176,7 @@
         "issueLabel": { "type": "literal" , "value": "#1517" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5532475" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Generalized expected utility" }
+        "wdExistsLabel": { "type": "literal" , "value": "Allgemeiner erwarteter Nutzen | Generalized expected utility" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3125" } ,
@@ -43475,7 +43475,7 @@
         "issueLabel": { "type": "literal" , "value": "#1586" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5153637" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | Common value auction" }
+        "wdExistsLabel": { "type": "literal" , "value": "Common-Value-Auktion | Common value auction" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3302" } ,
