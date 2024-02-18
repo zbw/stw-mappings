@@ -19817,7 +19817,7 @@
         "stwLabel": { "type": "literal" , "value": "Familienrecht | Family law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q108466280" } ,
-        "wdLabel": { "type": "literal" , "value": "Vormundschaft | legal guardianship" } ,
+        "wdLabel": { "type": "literal" , "value": "Vormundschaft | legal guardian for a child" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/706" } ,
         "issueLabel": { "type": "literal" , "value": "#706" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
