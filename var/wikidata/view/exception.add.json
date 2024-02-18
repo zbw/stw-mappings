@@ -24031,7 +24031,7 @@
         "issueLabel": { "type": "literal" , "value": "#853" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11471" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zeit | ସମୟ" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zeit | time" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1810" } ,
@@ -33558,7 +33558,7 @@
         "issueLabel": { "type": "literal" , "value": "#1248" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7560" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Mutter | ମା" }
+        "wdExistsLabel": { "type": "literal" , "value": "Mutter | mother" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2543" } ,
@@ -40539,7 +40539,7 @@
         "issueLabel": { "type": "literal" , "value": "#1496" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q165" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meer | ସମୁଦ୍ର" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meer | sea" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3076" } ,
@@ -40552,7 +40552,7 @@
         "issueLabel": { "type": "literal" , "value": "#1496" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q165" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meer | ସମୁଦ୍ର" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meer | sea" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3077" } ,
