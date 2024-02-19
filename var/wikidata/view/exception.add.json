@@ -37011,7 +37011,7 @@
         "stwLabel": { "type": "literal" , "value": "Gebietskörperschaft | Territorial authority" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56061" } ,
-        "wdLabel": { "type": "literal" , "value": "administrativ-territoriale Entität | administrative division" } ,
+        "wdLabel": { "type": "literal" , "value": "administrativ-territoriale Entität | administrative territorial entity" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1365" } ,
         "issueLabel": { "type": "literal" , "value": "#1365" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
