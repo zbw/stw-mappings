@@ -29004,7 +29004,7 @@
         "issueLabel": { "type": "literal" , "value": "#1073" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q60195" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Semiotik | gato" }
+        "wdExistsLabel": { "type": "literal" , "value": "Semiotik | semiotics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2192" } ,
