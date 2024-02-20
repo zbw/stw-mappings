@@ -6312,7 +6312,7 @@
         "stwLabel": { "type": "literal" , "value": "Saatgut | Seed" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26736" } ,
-        "wdLabel": { "type": "literal" , "value": "Gewürznelke | Syzygium aromaticum" } ,
+        "wdLabel": { "type": "literal" , "value": "Gewürznelke | clove" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/231" } ,
         "issueLabel": { "type": "literal" , "value": "#231" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
