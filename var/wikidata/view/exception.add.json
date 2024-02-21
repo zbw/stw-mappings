@@ -34351,7 +34351,7 @@
         "issueLabel": { "type": "literal" , "value": "#1289" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q42138" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Staatsbürgerschaft | citizenship" }
+        "wdExistsLabel": { "type": "literal" , "value": "Staatsbürgerschaft | national citizenship" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2604" } ,
@@ -34364,7 +34364,7 @@
         "issueLabel": { "type": "literal" , "value": "#1289" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q42138" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Staatsbürgerschaft | citizenship" }
+        "wdExistsLabel": { "type": "literal" , "value": "Staatsbürgerschaft | national citizenship" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2605" } ,
@@ -34377,7 +34377,7 @@
         "issueLabel": { "type": "literal" , "value": "#1289" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q42138" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Staatsbürgerschaft | citizenship" }
+        "wdExistsLabel": { "type": "literal" , "value": "Staatsbürgerschaft | national citizenship" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2606" } ,
