@@ -44120,7 +44120,7 @@
         "stwLabel": { "type": "literal" , "value": "Bildverarbeitung | Image processing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q974213" } ,
-        "wdLabel": { "type": "literal" , "value": "Digital Imaging | digital imaging" } ,
+        "wdLabel": { "type": "literal" , "value": "digitale Bildgebung | digital imaging" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1605" } ,
         "issueLabel": { "type": "literal" , "value": "#1605" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
