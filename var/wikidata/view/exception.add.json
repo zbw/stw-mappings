@@ -37388,7 +37388,7 @@
         "stwLabel": { "type": "literal" , "value": "Infrastrukturversorgung | Infrastructure provision" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q373338" } ,
-        "wdLabel": { "type": "literal" , "value": "Kritische Infrastrukturen | critical infrastructure" } ,
+        "wdLabel": { "type": "literal" , "value": "Kritische Infrastruktur | critical infrastructure" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1379" } ,
         "issueLabel": { "type": "literal" , "value": "#1379" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
