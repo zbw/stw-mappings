@@ -9580,7 +9580,7 @@
         "stwLabel": { "type": "literal" , "value": "Konvexe Optimierung | Convex optimization" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q290117" } ,
-        "wdLabel": { "type": "literal" , "value": "quadratisches Programm | Quadratic programming" } ,
+        "wdLabel": { "type": "literal" , "value": "quadratisches Programm | quadratic programming" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/335" } ,
         "issueLabel": { "type": "literal" , "value": "#335" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
