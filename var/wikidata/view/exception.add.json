@@ -45433,7 +45433,7 @@
         "stwLabel": { "type": "literal" , "value": "Statistischer Fehler | Statistical error" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12089457" } ,
-        "wdLabel": { "type": "literal" , "value": "zufällige Messabweichung | random measurement error" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
