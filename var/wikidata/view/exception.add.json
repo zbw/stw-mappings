@@ -22948,7 +22948,7 @@
         "stwLabel": { "type": "literal" , "value": "Protestantismus | Protestantism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q110223" } ,
-        "wdLabel": { "type": "literal" , "value": "Mennoniten | " } ,
+        "wdLabel": { "type": "literal" , "value": "Mennoniten | Mennonites" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/815" } ,
         "issueLabel": { "type": "literal" , "value": "#815" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
