@@ -22350,7 +22350,7 @@
         "stwLabel": { "type": "literal" , "value": "Rechtsprechung | Court decisions" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q448798" } ,
-        "wdLabel": { "type": "literal" , "value": "Judikatur | judicature" } ,
+        "wdLabel": { "type": "literal" , "value": "Judikatur | Judicature" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/801" } ,
         "issueLabel": { "type": "literal" , "value": "#801" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
