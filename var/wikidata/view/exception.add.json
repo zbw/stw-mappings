@@ -46789,7 +46789,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1680" } ,
         "issueLabel": { "type": "literal" , "value": "#1680" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q96374569" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19710240" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kausalanalyse | causal analysis" }
       } ,
       { 
