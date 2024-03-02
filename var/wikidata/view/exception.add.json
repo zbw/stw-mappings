@@ -3062,7 +3062,7 @@
         "stwLabel": { "type": "literal" , "value": "EBM-Waren | Metal hardware" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37077" } ,
-        "wdLabel": { "type": "literal" , "value": "Nagel | nailهمام" } ,
+        "wdLabel": { "type": "literal" , "value": "Nagel | nail" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/123" } ,
         "issueLabel": { "type": "literal" , "value": "#123" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
