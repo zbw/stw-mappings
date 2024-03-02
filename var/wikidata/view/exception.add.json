@@ -32169,7 +32169,7 @@
         "issueLabel": { "type": "literal" , "value": "#1184" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q829156" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Berufswahl | career choice" }
+        "wdExistsLabel": { "type": "literal" , "value": "Berufswahl | occupational choice" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2436" } ,
