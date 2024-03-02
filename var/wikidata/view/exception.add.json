@@ -16100,7 +16100,7 @@
         "stwLabel": { "type": "literal" , "value": "Anforderungsprofil | Occupational profile" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19275164" } ,
-        "wdLabel": { "type": "literal" , "value": "Berufsbild | outline of a profession" } ,
+        "wdLabel": { "type": "literal" , "value": "Berufsbild | profession description" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/571" } ,
         "issueLabel": { "type": "literal" , "value": "#571" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
