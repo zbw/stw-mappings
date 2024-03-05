@@ -15255,7 +15255,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeit | Labour" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192581" } ,
-        "wdLabel": { "type": "literal" , "value": "Stelle | job" } ,
+        "wdLabel": { "type": "literal" , "value": "Stelle | job activity" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/547" } ,
         "issueLabel": { "type": "literal" , "value": "#547" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
