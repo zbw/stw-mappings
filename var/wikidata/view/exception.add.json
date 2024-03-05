@@ -1257,7 +1257,7 @@
         "stwLabel": { "type": "literal" , "value": "Krebstiere | Crustacea" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7504001" } ,
-        "wdLabel": { "type": "literal" , "value": "Garnele | shrimp or prawn" } ,
+        "wdLabel": { "type": "literal" , "value": "Garnele | shrimp and prawn as food" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/78" } ,
         "issueLabel": { "type": "literal" , "value": "#78" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
