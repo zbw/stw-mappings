@@ -32052,7 +32052,7 @@
         "issueLabel": { "type": "literal" , "value": "#1178" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q233493" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | Intermediate labour market" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | intermediate labour market" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2427" } ,
@@ -32065,7 +32065,7 @@
         "issueLabel": { "type": "literal" , "value": "#1178" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q233493" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | Intermediate labour market" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zweiter Arbeitsmarkt | intermediate labour market" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2428" } ,
