@@ -945,7 +945,7 @@
         "stwLabel": { "type": "literal" , "value": "Zwiebel | Onion" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3406628" } ,
-        "wdLabel": { "type": "literal" , "value": "Speisezwiebel | onion" } ,
+        "wdLabel": { "type": "literal" , "value": "Speisezwiebel | onion as food" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/69" } ,
         "issueLabel": { "type": "literal" , "value": "#69" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
