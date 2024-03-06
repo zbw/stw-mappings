@@ -3584,3 +3584,5 @@ stw:28089-4 skos:narrowMatch wd:Q1908116 .
 stw:30343-1 skos:narrowMatch wd:Q4105196 .
 stw:30343-1 skos:narrowMatch wd:Q1625003 .
 stw:12040-0 skos:closeMatch wd:Q1379672 .
+stw:30415-2 skos:relatedMatch wd:Q1135326 .
+stw:30390-6 skos:closeMatch wd:Q678522 .
