@@ -25378,7 +25378,7 @@
         "stwLabel": { "type": "literal" , "value": "Feuchtgebiet | Wetland" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q62562206" } ,
-        "wdLabel": { "type": "literal" , "value": "Marschland | tidal marsh" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/916" } ,
         "issueLabel": { "type": "literal" , "value": "#916" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
