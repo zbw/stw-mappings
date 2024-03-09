@@ -17946,7 +17946,7 @@
         "stwLabel": { "type": "literal" , "value": "Wechsel | Bill of exchange" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9247842" } ,
-        "wdLabel": { "type": "literal" , "value": "Wechseldiskont | bank discount" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/638" } ,
         "issueLabel": { "type": "literal" , "value": "#638" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
