@@ -41949,7 +41949,7 @@
         "stwLabel": { "type": "literal" , "value": "Treibhausgas-Emissionen | Greenhouse gas emissions" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q30672844" } ,
-        "wdLabel": { "type": "literal" , "value": "Methanemissionen | methane emission" } ,
+        "wdLabel": { "type": "literal" , "value": "Methanemissionen | methane emissions" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1542" } ,
         "issueLabel": { "type": "literal" , "value": "#1542" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
