@@ -40742,7 +40742,7 @@
         "stwLabel": { "type": "literal" , "value": "Sturm | Storm" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8081" } ,
-        "wdLabel": { "type": "literal" , "value": "Tornado | your mom" } ,
+        "wdLabel": { "type": "literal" , "value": "Tornado | tornado" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1505" } ,
         "issueLabel": { "type": "literal" , "value": "#1505" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
