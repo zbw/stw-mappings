@@ -16438,7 +16438,7 @@
         "stwLabel": { "type": "literal" , "value": "Leistungsmotivation | Work motivation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1815881" } ,
-        "wdLabel": { "type": "literal" , "value": "Leistungsbereitschaft | Willingness to perform" } ,
+        "wdLabel": { "type": "literal" , "value": "Leistungsbereitschaft | willingness to perform" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/581" } ,
         "issueLabel": { "type": "literal" , "value": "#581" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -25885,7 +25885,7 @@
         "issueLabel": { "type": "literal" , "value": "#935" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q843958" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Digitalisierung | digitization" }
+        "wdExistsLabel": { "type": "literal" , "value": "Digitalisieren | digitization" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1952" } ,
@@ -25898,7 +25898,7 @@
         "issueLabel": { "type": "literal" , "value": "#935" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q843958" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Digitalisierung | digitization" }
+        "wdExistsLabel": { "type": "literal" , "value": "Digitalisieren | digitization" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1953" } ,
