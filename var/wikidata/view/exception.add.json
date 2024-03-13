@@ -45537,7 +45537,7 @@
         "stwLabel": { "type": "literal" , "value": "Deskriptive Statistik | Descriptive statistics" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q185020" } ,
-        "wdLabel": { "type": "literal" , "value": "Histogramm | histogrim" } ,
+        "wdLabel": { "type": "literal" , "value": "Histogramm | histogram" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1642" } ,
         "issueLabel": { "type": "literal" , "value": "#1642" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
