@@ -17002,7 +17002,7 @@
         "issueLabel": { "type": "literal" , "value": "#599" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628967" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsrecht | labour law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsrecht | labor law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1291" } ,
