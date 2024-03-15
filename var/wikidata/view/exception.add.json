@@ -37076,7 +37076,7 @@
         "stwLabel": { "type": "literal" , "value": "Interkommunale Kooperation | Inter-municipal cooperation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q60965243" } ,
-        "wdLabel": { "type": "literal" , "value": "Zweckverband | Zweckverband" } ,
+        "wdLabel": { "type": "literal" , "value": "Zweckverband | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1368" } ,
         "issueLabel": { "type": "literal" , "value": "#1368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
