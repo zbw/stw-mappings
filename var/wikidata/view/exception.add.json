@@ -555,7 +555,7 @@
         "stwLabel": { "type": "literal" , "value": "Sparkasse | Savings bank" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13601825" } ,
-        "wdLabel": { "type": "literal" , "value": "Sparkasse | Sparkasse" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/56" } ,
         "issueLabel": { "type": "literal" , "value": "#56" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
