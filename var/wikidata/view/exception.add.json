@@ -7113,7 +7113,7 @@
         "stwLabel": { "type": "literal" , "value": "Körperschaftsteuer | Corporate income tax" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1796673" } ,
-        "wdLabel": { "type": "literal" , "value": "Körperschaftsteuer | " } ,
+        "wdLabel": { "type": "literal" , "value": "Körperschaftsteuer | corporate tax in Germany" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/246" } ,
         "issueLabel": { "type": "literal" , "value": "#246" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
