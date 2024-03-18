@@ -18406,7 +18406,7 @@
         "issueLabel": { "type": "literal" , "value": "#656" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1443819" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kalkulatorische Abschreibung | Imputed costs" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kalkulatorische Kosten | Imputed costs" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1399" } ,
