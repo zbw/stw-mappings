@@ -34372,7 +34372,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatsangehörigkeit | Citizenship" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q841440" } ,
-        "wdLabel": { "type": "literal" , "value": "Einbürgerung | naturalization" } ,
+        "wdLabel": { "type": "literal" , "value": "Einbürgerung | naturalisation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1289" } ,
         "issueLabel": { "type": "literal" , "value": "#1289" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
