@@ -38051,7 +38051,7 @@
         "stwLabel": { "type": "literal" , "value": "Internationale Wirtschaftsbeziehungen | International economic relations" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3655535" } ,
-        "wdLabel": { "type": "literal" , "value": "Wirtschaftsdiplomatie | Economic diplomacy" } ,
+        "wdLabel": { "type": "literal" , "value": "Wirtschaftsdiplomatie | economic diplomacy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1409" } ,
         "issueLabel": { "type": "literal" , "value": "#1409" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
