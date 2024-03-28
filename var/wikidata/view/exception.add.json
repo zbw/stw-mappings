@@ -24429,7 +24429,7 @@
         "stwLabel": { "type": "literal" , "value": "Antizyklische Finanzpolitik | Countercyclical fiscal policy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3559147" } ,
-        "wdLabel": { "type": "literal" , "value": "Stimulus | Stimulus" } ,
+        "wdLabel": { "type": "literal" , "value": "Wachstumsimpulssetzung | Stimulus" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/876" } ,
         "issueLabel": { "type": "literal" , "value": "#876" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
