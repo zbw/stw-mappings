@@ -31033,7 +31033,7 @@
         "stwLabel": { "type": "literal" , "value": "Stadtquartier | Urban quarter" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q188509" } ,
-        "wdLabel": { "type": "literal" , "value": "Vorort | suburb" } ,
+        "wdLabel": { "type": "literal" , "value": "Stadtteil | suburb" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1136" } ,
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
