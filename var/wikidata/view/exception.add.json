@@ -14154,7 +14154,7 @@
         "stwLabel": { "type": "literal" , "value": "Produktionstechnik | Manufacturing technology" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1408288" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": "Fertigungsverfahren | manufacturing process" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/507" } ,
         "issueLabel": { "type": "literal" , "value": "#507" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
