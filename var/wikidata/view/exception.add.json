@@ -25300,7 +25300,7 @@
         "stwLabel": { "type": "literal" , "value": "Geologie | Geology" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11272686" } ,
-        "wdLabel": { "type": "literal" , "value": "Geologie | Geology" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/912" } ,
         "issueLabel": { "type": "literal" , "value": "#912" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
