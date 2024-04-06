@@ -37999,7 +37999,7 @@
         "stwLabel": { "type": "literal" , "value": "Protestbewegung | Protest movement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116004043" } ,
-        "wdLabel": { "type": "literal" , "value": " | political protest" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1405" } ,
         "issueLabel": { "type": "literal" , "value": "#1405" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
