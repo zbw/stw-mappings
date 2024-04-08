@@ -39533,7 +39533,7 @@
         "stwLabel": { "type": "literal" , "value": "Friedensforschung | Peace research" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15820293" } ,
-        "wdLabel": { "type": "literal" , "value": "Friedens- und Konfliktforschung | peace and conflict studies" } ,
+        "wdLabel": { "type": "literal" , "value": "Friedens- und Konfliktforschung | Рeace and conflict studies" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1468" } ,
         "issueLabel": { "type": "literal" , "value": "#1468" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
