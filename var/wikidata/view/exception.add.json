@@ -21159,7 +21159,7 @@
         "issueLabel": { "type": "literal" , "value": "#760" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1591200" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Haushaltsrecht | Budget law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Haushaltsrecht | budget law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1589" } ,
@@ -21172,7 +21172,7 @@
         "issueLabel": { "type": "literal" , "value": "#760" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1591200" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Haushaltsrecht | Budget law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Haushaltsrecht | budget law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1590" } ,
