@@ -23948,7 +23948,7 @@
         "stwLabel": { "type": "literal" , "value": "Mittelalter | Middle Ages" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212976" } ,
-        "wdLabel": { "type": "literal" , "value": "Spätmittelalter | late Middle Ages" } ,
+        "wdLabel": { "type": "literal" , "value": "Spätmittelalter | Late Middle Ages" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/848" } ,
         "issueLabel": { "type": "literal" , "value": "#848" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
