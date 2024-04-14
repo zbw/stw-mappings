@@ -10334,7 +10334,7 @@
         "stwLabel": { "type": "literal" , "value": "Gesellschaftsrecht | Corporate law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296834" } ,
-        "wdLabel": { "type": "literal" , "value": "Unternehmensrecht | corporate law" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/367" } ,
         "issueLabel": { "type": "literal" , "value": "#367" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
