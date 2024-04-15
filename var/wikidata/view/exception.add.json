@@ -5545,7 +5545,7 @@
         "stwLabel": { "type": "literal" , "value": "Flechtwaren | Basketware" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1269339" } ,
-        "wdLabel": { "type": "literal" , "value": "Bastfaser | bast fibre" } ,
+        "wdLabel": { "type": "literal" , "value": "Stängelfaser | bast fibre" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/202" } ,
         "issueLabel": { "type": "literal" , "value": "#202" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
