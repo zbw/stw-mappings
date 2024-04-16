@@ -45420,7 +45420,7 @@
         "stwLabel": { "type": "literal" , "value": "Statistische Methodenlehre | Statistical theory" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q745328" } ,
-        "wdLabel": { "type": "literal" , "value": "mathematische Statistik | Mathematical Statistics" } ,
+        "wdLabel": { "type": "literal" , "value": "mathematische Statistik | mathematical statistics" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1640" } ,
         "issueLabel": { "type": "literal" , "value": "#1640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
