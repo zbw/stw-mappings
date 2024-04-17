@@ -31012,7 +31012,7 @@
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2347" } ,
@@ -31025,7 +31025,7 @@
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2348" } ,
@@ -31038,7 +31038,7 @@
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2349" } ,
@@ -33038,7 +33038,7 @@
         "issueLabel": { "type": "literal" , "value": "#1225" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2503" } ,
