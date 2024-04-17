@@ -9035,7 +9035,7 @@
         "stwLabel": { "type": "literal" , "value": "Evolutionärer Algorithmus | Evolutionary algorithm" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q187787" } ,
-        "wdLabel": { "type": "literal" , "value": "Genetischer Algorithmus | genetic algorithm" } ,
+        "wdLabel": { "type": "literal" , "value": "genetischer Algorithmus | genetic algorithm" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/318" } ,
         "issueLabel": { "type": "literal" , "value": "#318" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
