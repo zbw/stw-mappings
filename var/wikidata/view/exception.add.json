@@ -178,7 +178,7 @@
         "stwLabel": { "type": "literal" , "value": "Krankenhaus | Hospital" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1774898" } ,
-        "wdLabel": { "type": "literal" , "value": "Klinik | clinic" } ,
+        "wdLabel": { "type": "literal" , "value": "Ambulanz (Einrichtung) | clinic" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
