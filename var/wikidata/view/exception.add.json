@@ -37055,7 +37055,7 @@
         "issueLabel": { "type": "literal" , "value": "#1368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3153117" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "kommunaler Zusammenarbeit | local government cooperation" }
+        "wdExistsLabel": { "type": "literal" , "value": "kommunale Zusammenarbeit | local government cooperation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2808" } ,
@@ -37068,7 +37068,7 @@
         "issueLabel": { "type": "literal" , "value": "#1368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3153117" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "kommunaler Zusammenarbeit | local government cooperation" }
+        "wdExistsLabel": { "type": "literal" , "value": "kommunale Zusammenarbeit | local government cooperation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2809" } ,
@@ -37081,7 +37081,7 @@
         "issueLabel": { "type": "literal" , "value": "#1368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3153117" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "kommunaler Zusammenarbeit | local government cooperation" }
+        "wdExistsLabel": { "type": "literal" , "value": "kommunale Zusammenarbeit | local government cooperation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2810" } ,
