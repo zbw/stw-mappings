@@ -34489,7 +34489,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatsoberhaupt | Head of state" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12097" } ,
-        "wdLabel": { "type": "literal" , "value": "König | King" } ,
+        "wdLabel": { "type": "literal" , "value": "König | king" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1294" } ,
         "issueLabel": { "type": "literal" , "value": "#1294" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
