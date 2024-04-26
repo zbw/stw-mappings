@@ -27492,7 +27492,7 @@
         "stwLabel": { "type": "literal" , "value": "Insel | Island" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q21161" } ,
-        "wdLabel": { "type": "literal" , "value": "Hallig | halligen" } ,
+        "wdLabel": { "type": "literal" , "value": "Halligen | Halligen" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/999" } ,
         "issueLabel": { "type": "literal" , "value": "#999" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
