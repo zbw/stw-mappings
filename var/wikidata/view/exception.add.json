@@ -15883,7 +15883,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/564" } ,
         "issueLabel": { "type": "literal" , "value": "#564" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17052147" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9213592" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Abberufung | dismissal" }
       } ,
       { 
@@ -15896,7 +15896,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/564" } ,
         "issueLabel": { "type": "literal" , "value": "#564" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17052147" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9213592" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Abberufung | dismissal" }
       } ,
       { 
@@ -15909,7 +15909,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/564" } ,
         "issueLabel": { "type": "literal" , "value": "#564" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17052147" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9213592" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Abberufung | dismissal" }
       } ,
       { 
@@ -15922,7 +15922,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/564" } ,
         "issueLabel": { "type": "literal" , "value": "#564" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17052147" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9213592" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Abberufung | dismissal" }
       } ,
       { 
