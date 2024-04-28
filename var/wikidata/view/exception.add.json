@@ -646,7 +646,7 @@
         "stwLabel": { "type": "literal" , "value": "Dentalprodukt | Dental products" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3512547" } ,
-        "wdLabel": { "type": "literal" , "value": "Dentalporzellan | Dental porcelain" } ,
+        "wdLabel": { "type": "literal" , "value": "Dentalporzellan | dental porcelain" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/60" } ,
         "issueLabel": { "type": "literal" , "value": "#60" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
