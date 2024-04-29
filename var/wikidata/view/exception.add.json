@@ -20985,7 +20985,7 @@
         "stwLabel": { "type": "literal" , "value": "Holismus | Holistic approach" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1925511" } ,
-        "wdLabel": { "type": "literal" , "value": "methodologischer kollektivismus | " } ,
+        "wdLabel": { "type": "literal" , "value": "methodologischer kollektivismus | methodological holism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/751" } ,
         "issueLabel": { "type": "literal" , "value": "#751" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
