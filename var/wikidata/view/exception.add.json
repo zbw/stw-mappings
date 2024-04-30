@@ -29959,7 +29959,7 @@
         "issueLabel": { "type": "literal" , "value": "#1100" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2393196" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Persönlichkeitseigenschaft | personality trait" }
+        "wdExistsLabel": { "type": "literal" , "value": "Persönlichkeitseigenschaft | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2266" } ,
@@ -29972,7 +29972,7 @@
         "issueLabel": { "type": "literal" , "value": "#1100" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2393196" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Persönlichkeitseigenschaft | personality trait" }
+        "wdExistsLabel": { "type": "literal" , "value": "Persönlichkeitseigenschaft | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2267" } ,
