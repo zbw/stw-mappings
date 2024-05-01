@@ -20660,7 +20660,7 @@
         "stwLabel": { "type": "literal" , "value": "Zivilrecht | Private law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4122235" } ,
-        "wdLabel": { "type": "literal" , "value": "Privatrecht | private law" } ,
+        "wdLabel": { "type": "literal" , "value": "Privatrecht | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/737" } ,
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
