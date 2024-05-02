@@ -33605,7 +33605,7 @@
         "stwLabel": { "type": "literal" , "value": "Ethnische Diskriminierung | Ethnic discrimination" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q97608561" } ,
-        "wdLabel": { "type": "literal" , "value": " | ethnic segregation" } ,
+        "wdLabel": { "type": "literal" , "value": " | ethnic discrimination" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1251" } ,
         "issueLabel": { "type": "literal" , "value": "#1251" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
