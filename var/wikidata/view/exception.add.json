@@ -43860,12 +43860,12 @@
         "stwLabel": { "type": "literal" , "value": "Benutzerschnittstelle | User interface" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q782543" } ,
-        "wdLabel": { "type": "literal" , "value": "grafische Benutzeroberfläche | " } ,
+        "wdLabel": { "type": "literal" , "value": "grafische Benutzeroberfläche | graphical user interface" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1599" } ,
         "issueLabel": { "type": "literal" , "value": "#1599" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47146" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Benutzerschnittstelle | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Benutzerschnittstelle | user interface" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3332" } ,
@@ -43878,7 +43878,7 @@
         "issueLabel": { "type": "literal" , "value": "#1599" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47146" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Benutzerschnittstelle | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Benutzerschnittstelle | user interface" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3333" } ,
@@ -43891,7 +43891,7 @@
         "issueLabel": { "type": "literal" , "value": "#1599" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47146" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Benutzerschnittstelle | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Benutzerschnittstelle | user interface" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3334" } ,
