@@ -4817,7 +4817,7 @@
         "stwLabel": { "type": "literal" , "value": "Alkohol | Alcohol" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q132501" } ,
-        "wdLabel": { "type": "literal" , "value": "glycerin | glycerol" } ,
+        "wdLabel": { "type": "literal" , "value": "Glycerin | glycerol" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/175" } ,
         "issueLabel": { "type": "literal" , "value": "#175" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
