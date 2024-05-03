@@ -16269,7 +16269,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeitsmarktintegration | Labour market integration" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q828751" } ,
-        "wdLabel": { "type": "literal" , "value": "Beruflicher Wiedereinstieg | On-ramping" } ,
+        "wdLabel": { "type": "literal" , "value": "Beruflicher Wiedereinstieg | on-ramping" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/577" } ,
         "issueLabel": { "type": "literal" , "value": "#577" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
