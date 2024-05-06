@@ -31752,7 +31752,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1165" } ,
         "issueLabel": { "type": "literal" , "value": "#1165" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119150275" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20917662" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
@@ -31765,7 +31765,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1165" } ,
         "issueLabel": { "type": "literal" , "value": "#1165" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119150275" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20917662" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
@@ -31778,7 +31778,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1165" } ,
         "issueLabel": { "type": "literal" , "value": "#1165" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119150275" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20917662" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
@@ -31791,7 +31791,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1165" } ,
         "issueLabel": { "type": "literal" , "value": "#1165" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119150275" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20917662" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Atypische Beschäftigung | non-standard employment" }
       } ,
       { 
