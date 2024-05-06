@@ -24927,7 +24927,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/898" } ,
         "issueLabel": { "type": "literal" , "value": "#898" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15978181" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10857933" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Behinderter | person with disabilities" }
       } ,
       { 
@@ -24940,7 +24940,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/898" } ,
         "issueLabel": { "type": "literal" , "value": "#898" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15978181" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10857933" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Behinderter | person with disabilities" }
       } ,
       { 
