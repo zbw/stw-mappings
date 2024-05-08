@@ -17301,7 +17301,7 @@
         "issueLabel": { "type": "literal" , "value": "#610" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q114790265" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kundengewinnung | customer acquisition" }
+        "wdExistsLabel": { "type": "literal" , "value": "Akquise | customer acquisition" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1314" } ,
@@ -17314,7 +17314,7 @@
         "issueLabel": { "type": "literal" , "value": "#610" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q114790265" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kundengewinnung | customer acquisition" }
+        "wdExistsLabel": { "type": "literal" , "value": "Akquise | customer acquisition" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1315" } ,
