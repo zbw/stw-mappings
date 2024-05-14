@@ -16001,7 +16001,7 @@
         "issueLabel": { "type": "literal" , "value": "#567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1032875" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Latente Steuern | Deferred tax" }
+        "wdExistsLabel": { "type": "literal" , "value": "Latente Steuern | deferred tax" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1214" } ,
@@ -16014,7 +16014,7 @@
         "issueLabel": { "type": "literal" , "value": "#567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1032875" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Latente Steuern | Deferred tax" }
+        "wdExistsLabel": { "type": "literal" , "value": "Latente Steuern | deferred tax" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1215" } ,
