@@ -24377,7 +24377,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsplanung | Economic planning" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7909351" } ,
-        "wdLabel": { "type": "literal" , "value": "Dezentrale Wirtschaftsplanung | Decentralized planning" } ,
+        "wdLabel": { "type": "literal" , "value": "dezentrale Wirtschaftsplanung | decentralized planning" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/874" } ,
         "issueLabel": { "type": "literal" , "value": "#874" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
