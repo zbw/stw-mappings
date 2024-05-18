@@ -3088,7 +3088,7 @@
         "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131214" } ,
-        "wdLabel": { "type": "literal" , "value": "Antenne | antenna" } ,
+        "wdLabel": { "type": "literal" , "value": "Antenne | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
