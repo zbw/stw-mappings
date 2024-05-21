@@ -10906,7 +10906,7 @@
         "stwLabel": { "type": "literal" , "value": "Übernahme | Takeover" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q462717" } ,
-        "wdLabel": { "type": "literal" , "value": "feindliche Übernahme | Hostile takeover" } ,
+        "wdLabel": { "type": "literal" , "value": "feindliche Übernahme | hostile takeover" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/387" } ,
         "issueLabel": { "type": "literal" , "value": "#387" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
