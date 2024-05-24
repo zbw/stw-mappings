@@ -20946,7 +20946,7 @@
         "stwLabel": { "type": "literal" , "value": "Ästhetik | Aesthetics" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7242" } ,
-        "wdLabel": { "type": "literal" , "value": "Schönheit | beauty" } ,
+        "wdLabel": { "type": "literal" , "value": "esin | esin" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/748" } ,
         "issueLabel": { "type": "literal" , "value": "#748" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
