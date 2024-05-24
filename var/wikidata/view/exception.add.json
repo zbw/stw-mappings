@@ -22896,7 +22896,7 @@
         "stwLabel": { "type": "literal" , "value": "Protestantismus | Protestantism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q101849" } ,
-        "wdLabel": { "type": "literal" , "value": "Calvinismus | Calvinism" } ,
+        "wdLabel": { "type": "literal" , "value": "Calvinismus | Reformed Christianity" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/815" } ,
         "issueLabel": { "type": "literal" , "value": "#815" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
