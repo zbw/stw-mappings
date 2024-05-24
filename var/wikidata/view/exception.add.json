@@ -4869,7 +4869,7 @@
         "stwLabel": { "type": "literal" , "value": "Pyrotechnik | Pyrotechnics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q80728" } ,
-        "wdLabel": { "type": "literal" , "value": "Dynamit | dynamite" } ,
+        "wdLabel": { "type": "literal" , "value": "Dynamit | Dynamite" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/179" } ,
         "issueLabel": { "type": "literal" , "value": "#179" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
