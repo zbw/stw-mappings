@@ -35425,7 +35425,7 @@
         "stwLabel": { "type": "literal" , "value": "Wahl | Election" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26772977" } ,
-        "wdLabel": { "type": "literal" , "value": "Landtagswahl | state election in Germany" } ,
+        "wdLabel": { "type": "literal" , "value": "Landtagswahl in Deutschland | state election in Germany" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1322" } ,
         "issueLabel": { "type": "literal" , "value": "#1322" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
