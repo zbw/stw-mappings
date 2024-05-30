@@ -236,7 +236,10 @@ my $conf = $config{$config_name};
 # prefixes and columns
 my %prefix = %{ read_prefixes($infile) };
 my $prefixes;
-foreach my $prefix ( keys %prefix ) {
+# NOTE: Prefixes should be sorted consistently to ensure idempotent behavior. 
+# I.e. the output files should only change if there are actual content-wise 
+# changes...
+foreach my $prefix ( sort keys %prefix ) {
   $prefixes .= "PREFIX $prefix $prefix{$prefix}\n";
 }
 $prefixes .= "#\n";
