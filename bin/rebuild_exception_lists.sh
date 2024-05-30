@@ -22,7 +22,8 @@ done
 
 # push even if commit failes (empty)
 set +e
-/usr/bin/git ci --quiet -m "Automatic build" ../var > /dev/null
+GIT_COMMITTER_NAME="stw-mappings-bot" GIT_COMMITTER_EMAIL="noreply@zbw.eu" \
+  /usr/bin/git commit --quiet --author "stw-mappings-bot <noreply@zbw.eu>" -m "Update exception lists" ../var > /dev/null
 
 /usr/bin/git push --quiet
 
