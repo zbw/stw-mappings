@@ -42586,7 +42586,7 @@
         "stwLabel": { "type": "literal" , "value": "Medizintechnik | Medical technology" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10379048" } ,
-        "wdLabel": { "type": "literal" , "value": "Medizintechnik | medical technology" } ,
+        "wdLabel": { "type": "literal" , "value": " | medical technology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1565" } ,
         "issueLabel": { "type": "literal" , "value": "#1565" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
