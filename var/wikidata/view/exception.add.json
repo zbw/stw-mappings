@@ -42656,7 +42656,7 @@
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | radiation therapy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | Adaptive radiation therapy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3239" } ,
@@ -42669,7 +42669,7 @@
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | radiation therapy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | Adaptive radiation therapy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3240" } ,
@@ -42682,7 +42682,7 @@
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | radiation therapy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | Adaptive radiation therapy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3241" } ,
@@ -42695,7 +42695,7 @@
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | radiation therapy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | Adaptive radiation therapy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3242" } ,
@@ -42708,7 +42708,7 @@
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | radiation therapy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | Adaptive radiation therapy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3243" } ,
@@ -42721,7 +42721,7 @@
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | radiation therapy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Strahlentherapie | Adaptive radiation therapy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3244" } ,
