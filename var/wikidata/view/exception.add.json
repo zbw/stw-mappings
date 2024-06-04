@@ -39732,7 +39732,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1477" } ,
         "issueLabel": { "type": "literal" , "value": "#1477" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3114762" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2031121" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kriegsschiff | warship" }
       } ,
       { 
@@ -39745,7 +39745,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1477" } ,
         "issueLabel": { "type": "literal" , "value": "#1477" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3114762" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2031121" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kriegsschiff | warship" }
       } ,
       { 
@@ -39758,7 +39758,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1477" } ,
         "issueLabel": { "type": "literal" , "value": "#1477" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3114762" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2031121" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kriegsschiff | warship" }
       } ,
       { 
