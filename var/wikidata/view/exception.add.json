@@ -18354,7 +18354,7 @@
         "issueLabel": { "type": "literal" , "value": "#653" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628221" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitskosten | Labour costs" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitskosten | labour costs" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1395" } ,
@@ -18367,7 +18367,7 @@
         "issueLabel": { "type": "literal" , "value": "#653" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628221" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitskosten | Labour costs" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitskosten | labour costs" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1396" } ,
