@@ -14120,7 +14120,7 @@
         "issueLabel": { "type": "literal" , "value": "#505" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6269541" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kuppelprodukt | Joint product" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kuppelprodukt | joint product" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1069" } ,
