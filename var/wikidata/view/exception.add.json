@@ -44099,7 +44099,7 @@
         "issueLabel": { "type": "literal" , "value": "#1605" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q327008" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | Hoàng Đại" }
+        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | image processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3350" } ,
@@ -44112,7 +44112,7 @@
         "issueLabel": { "type": "literal" , "value": "#1605" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q327008" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | Hoàng Đại" }
+        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | image processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3351" } ,
@@ -44125,7 +44125,7 @@
         "issueLabel": { "type": "literal" , "value": "#1605" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q327008" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | Hoàng Đại" }
+        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | image processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3352" } ,
@@ -44138,7 +44138,7 @@
         "issueLabel": { "type": "literal" , "value": "#1605" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q327008" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | Hoàng Đại" }
+        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | image processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3353" } ,
@@ -44151,7 +44151,7 @@
         "issueLabel": { "type": "literal" , "value": "#1605" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q327008" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | Hoàng Đại" }
+        "wdExistsLabel": { "type": "literal" , "value": "Bildverarbeitung | image processing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3354" } ,
