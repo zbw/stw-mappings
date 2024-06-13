@@ -36543,7 +36543,7 @@
         "stwLabel": { "type": "literal" , "value": "Macht | Power" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4825937" } ,
-        "wdLabel": { "type": "literal" , "value": "Autorität | authority (sociology)" } ,
+        "wdLabel": { "type": "literal" , "value": "Autorität | authority" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1348" } ,
         "issueLabel": { "type": "literal" , "value": "#1348" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
