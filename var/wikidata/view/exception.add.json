@@ -8593,7 +8593,7 @@
         "stwLabel": { "type": "literal" , "value": "Netzplantechnik | Project network techniques" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q55644260" } ,
-        "wdLabel": { "type": "literal" , "value": "Netzwerkflussproblem | Network flow problem" } ,
+        "wdLabel": { "type": "literal" , "value": "Netzwerkflussproblem | network flow problem" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/300" } ,
         "issueLabel": { "type": "literal" , "value": "#300" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
