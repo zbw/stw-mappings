@@ -20415,7 +20415,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftspsychologie | Economic psychology" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q60982645" } ,
-        "wdLabel": { "type": "literal" , "value": "Ökonomische Psychologie | economic psychology" } ,
+        "wdLabel": { "type": "literal" , "value": "ökonomische Psychologie | economic psychology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/726" } ,
         "issueLabel": { "type": "literal" , "value": "#726" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
