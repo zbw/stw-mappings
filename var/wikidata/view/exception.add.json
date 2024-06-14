@@ -6147,7 +6147,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/228" } ,
         "issueLabel": { "type": "literal" , "value": "#228" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99317889" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9380081" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Holzprodukt | wood product" }
       } ,
       { 
@@ -6160,7 +6160,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/228" } ,
         "issueLabel": { "type": "literal" , "value": "#228" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99317889" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9380081" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Holzprodukt | wood product" }
       } ,
       { 
@@ -6173,7 +6173,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/228" } ,
         "issueLabel": { "type": "literal" , "value": "#228" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99317889" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9380081" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Holzprodukt | wood product" }
       } ,
       { 
@@ -6186,7 +6186,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/228" } ,
         "issueLabel": { "type": "literal" , "value": "#228" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q99317889" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9380081" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Holzprodukt | wood product" }
       } ,
       { 
