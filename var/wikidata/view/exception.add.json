@@ -41067,7 +41067,7 @@
         "stwLabel": { "type": "literal" , "value": "Umwelt | Environment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2920644" } ,
-        "wdLabel": { "type": "literal" , "value": "Umgebung | environment" } ,
+        "wdLabel": { "type": "literal" , "value": "Umgebung | العربية" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1512" } ,
         "issueLabel": { "type": "literal" , "value": "#1512" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
