@@ -1556,7 +1556,7 @@
         "stwLabel": { "type": "literal" , "value": "Haustiere | Pets" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q144" } ,
-        "wdLabel": { "type": "literal" , "value": "Hund | dog" } ,
+        "wdLabel": { "type": "literal" , "value": "Haushund | dog" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/83" } ,
         "issueLabel": { "type": "literal" , "value": "#83" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
