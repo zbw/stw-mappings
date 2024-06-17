@@ -958,7 +958,7 @@
         "stwLabel": { "type": "literal" , "value": "Zwiebel | Onion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q23400" } ,
-        "wdLabel": { "type": "literal" , "value": "Knoblauch | Garlic (allium sativum)" } ,
+        "wdLabel": { "type": "literal" , "value": "Knoblauch | garlic" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/69" } ,
         "issueLabel": { "type": "literal" , "value": "#69" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
