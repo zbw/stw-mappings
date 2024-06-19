@@ -29842,7 +29842,7 @@
         "issueLabel": { "type": "literal" , "value": "#1097" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962655" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinung | Opinion" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinung | opinion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2257" } ,
@@ -29855,7 +29855,7 @@
         "issueLabel": { "type": "literal" , "value": "#1097" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962655" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinung | Opinion" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinung | opinion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2258" } ,
@@ -29868,7 +29868,7 @@
         "issueLabel": { "type": "literal" , "value": "#1097" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962655" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinung | Opinion" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinung | opinion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2259" } ,
@@ -29881,7 +29881,7 @@
         "issueLabel": { "type": "literal" , "value": "#1097" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962655" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinung | Opinion" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinung | opinion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2260" } ,
@@ -29894,7 +29894,7 @@
         "issueLabel": { "type": "literal" , "value": "#1097" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962655" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinung | Opinion" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinung | opinion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2261" } ,
@@ -29907,7 +29907,7 @@
         "issueLabel": { "type": "literal" , "value": "#1097" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962655" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Meinung | Opinion" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinung | opinion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2262" } ,
