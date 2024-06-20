@@ -25365,7 +25365,7 @@
         "stwLabel": { "type": "literal" , "value": "Meeresforschung | Oceanography" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q43518" } ,
-        "wdLabel": { "type": "literal" , "value": "Ozeanographie | oceanography" } ,
+        "wdLabel": { "type": "literal" , "value": "Ozeanographie | category:Marine Science" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/915" } ,
         "issueLabel": { "type": "literal" , "value": "#915" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
