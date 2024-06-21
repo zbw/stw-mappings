@@ -37406,7 +37406,7 @@
         "issueLabel": { "type": "literal" , "value": "#1380" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37929123" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ladestationsnetz | electric vehicle charging network" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ladenetz | electric vehicle charging network" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2835" } ,
@@ -37419,7 +37419,7 @@
         "issueLabel": { "type": "literal" , "value": "#1380" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37929123" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ladestationsnetz | electric vehicle charging network" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ladenetz | electric vehicle charging network" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2836" } ,
@@ -37432,7 +37432,7 @@
         "issueLabel": { "type": "literal" , "value": "#1380" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37929123" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ladestationsnetz | electric vehicle charging network" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ladenetz | electric vehicle charging network" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2837" } ,
@@ -37445,7 +37445,7 @@
         "issueLabel": { "type": "literal" , "value": "#1380" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q37929123" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ladestationsnetz | electric vehicle charging network" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ladenetz | electric vehicle charging network" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2838" } ,
@@ -41145,7 +41145,7 @@
         "stwLabel": { "type": "literal" , "value": "Entscheidungsbaum | Decision tree" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16526073" } ,
-        "wdLabel": { "type": "literal" , "value": "Klassifikations- und Regressionsbaum | Classification and regression tree" } ,
+        "wdLabel": { "type": "literal" , "value": "Klassifikations- und Regressionsbaum | classification and regression tree" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1516" } ,
         "issueLabel": { "type": "literal" , "value": "#1516" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
