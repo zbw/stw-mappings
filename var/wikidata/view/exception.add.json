@@ -21432,7 +21432,7 @@
         "issueLabel": { "type": "literal" , "value": "#769" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8458" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | Human Rights" }
+        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | human rights" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1610" } ,
@@ -21445,7 +21445,7 @@
         "issueLabel": { "type": "literal" , "value": "#769" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8458" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | Human Rights" }
+        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | human rights" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1611" } ,
@@ -21458,7 +21458,7 @@
         "issueLabel": { "type": "literal" , "value": "#769" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8458" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | Human Rights" }
+        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | human rights" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1612" } ,
@@ -21471,7 +21471,7 @@
         "issueLabel": { "type": "literal" , "value": "#769" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8458" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | Human Rights" }
+        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | human rights" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1613" } ,
@@ -21484,7 +21484,7 @@
         "issueLabel": { "type": "literal" , "value": "#769" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8458" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | Human Rights" }
+        "wdExistsLabel": { "type": "literal" , "value": "Menschenrechte | human rights" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1614" } ,
