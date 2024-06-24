@@ -11153,7 +11153,7 @@
         "stwLabel": { "type": "literal" , "value": "Großunternehmen | Large firm" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4906718" } ,
-        "wdLabel": { "type": "literal" , "value": "Big Business | Big business" } ,
+        "wdLabel": { "type": "literal" , "value": "Big Business | big business" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/393" } ,
         "issueLabel": { "type": "literal" , "value": "#393" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
