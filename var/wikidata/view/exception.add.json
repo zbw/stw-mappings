@@ -2297,7 +2297,7 @@
         "stwLabel": { "type": "literal" , "value": "Hülsenfrucht | Pulses" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25237" } ,
-        "wdLabel": { "type": "literal" , "value": "Erbse | pea" } ,
+        "wdLabel": { "type": "literal" , "value": "Erbse | Pisum sativum" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/100" } ,
         "issueLabel": { "type": "literal" , "value": "#100" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
