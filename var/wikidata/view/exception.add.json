@@ -45035,7 +45035,7 @@
         "issueLabel": { "type": "literal" , "value": "#1625" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205257" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | Yield curve" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | yield curve" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3422" } ,
@@ -45048,7 +45048,7 @@
         "issueLabel": { "type": "literal" , "value": "#1625" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205257" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | Yield curve" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | yield curve" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3423" } ,
@@ -45061,7 +45061,7 @@
         "issueLabel": { "type": "literal" , "value": "#1625" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205257" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | Yield curve" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | yield curve" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3424" } ,
@@ -45074,7 +45074,7 @@
         "issueLabel": { "type": "literal" , "value": "#1625" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205257" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | Yield curve" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | yield curve" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3425" } ,
@@ -45087,7 +45087,7 @@
         "issueLabel": { "type": "literal" , "value": "#1625" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205257" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | Yield curve" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zinsstruktur | yield curve" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3426" } ,
