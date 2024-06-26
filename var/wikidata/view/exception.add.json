@@ -20907,7 +20907,7 @@
         "stwLabel": { "type": "literal" , "value": "Patent | Patent" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q302753" } ,
-        "wdLabel": { "type": "literal" , "value": "Patentpool | Patent pool" } ,
+        "wdLabel": { "type": "literal" , "value": "Patentpool | patent pool" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/746" } ,
         "issueLabel": { "type": "literal" , "value": "#746" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
