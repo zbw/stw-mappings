@@ -2711,7 +2711,7 @@
         "stwLabel": { "type": "literal" , "value": "NE-Metall | Non-ferrous metal" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q355809" } ,
-        "wdLabel": { "type": "literal" , "value": "Buntmetall | Non-ferrous metal" } ,
+        "wdLabel": { "type": "literal" , "value": "Buntmetall | non-ferrous metal" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/111" } ,
         "issueLabel": { "type": "literal" , "value": "#111" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
