@@ -42755,7 +42755,7 @@
         "stwLabel": { "type": "literal" , "value": "AIDS | AIDS" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15787" } ,
-        "wdLabel": { "type": "literal" , "value": "HIV | VIH" } ,
+        "wdLabel": { "type": "literal" , "value": "HIV | HIV" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1569" } ,
         "issueLabel": { "type": "literal" , "value": "#1569" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
