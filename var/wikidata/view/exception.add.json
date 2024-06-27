@@ -34827,7 +34827,7 @@
         "stwLabel": { "type": "literal" , "value": "Diktatur | Dictatorship" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10290447" } ,
-        "wdLabel": { "type": "literal" , "value": "Militärputsch | military coup" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1303" } ,
         "issueLabel": { "type": "literal" , "value": "#1303" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
