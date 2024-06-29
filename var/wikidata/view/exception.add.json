@@ -46335,7 +46335,7 @@
         "issueLabel": { "type": "literal" , "value": "#1662" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1925212" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Momentenmethode | Method of moments" }
+        "wdExistsLabel": { "type": "literal" , "value": "Momentenmethode | method of moments" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3522" } ,
