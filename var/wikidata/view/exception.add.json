@@ -12127,7 +12127,7 @@
         "stwLabel": { "type": "literal" , "value": "Datensicherheit | Data security" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1487" } ,
-        "wdLabel": { "type": "literal" , "value": "Hacker | hacker01828827455" } ,
+        "wdLabel": { "type": "literal" , "value": "Hacker | hacker" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/421" } ,
         "issueLabel": { "type": "literal" , "value": "#421" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
