@@ -30453,7 +30453,7 @@
         "issueLabel": { "type": "literal" , "value": "#1118" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15834055" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Marktabgrenzung | Market definition" }
+        "wdExistsLabel": { "type": "literal" , "value": "Marktabgrenzung | market definition" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2304" } ,
