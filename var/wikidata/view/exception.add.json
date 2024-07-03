@@ -18665,7 +18665,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/670" } ,
         "issueLabel": { "type": "literal" , "value": "#670" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5284040" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4161233" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Dividendenpolitik | dividend policy" }
       } ,
       { 
