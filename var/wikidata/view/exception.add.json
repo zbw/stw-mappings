@@ -27691,7 +27691,7 @@
         "issueLabel": { "type": "literal" , "value": "#1009" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q82955" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Politiker | politician" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politiker | greek-catholic priest" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2091" } ,
