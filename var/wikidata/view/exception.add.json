@@ -42222,7 +42222,7 @@
         "stwLabel": { "type": "literal" , "value": "Biometrie | Biometrics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27901769" } ,
-        "wdLabel": { "type": "literal" , "value": "biometrische Daten | biometric data" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1554" } ,
         "issueLabel": { "type": "literal" , "value": "#1554" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
