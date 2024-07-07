@@ -15905,7 +15905,7 @@
         "stwLabel": { "type": "literal" , "value": "Kündigung | Dismissal" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1797063" } ,
-        "wdLabel": { "type": "literal" , "value": "Kündigung | Dismissal" } ,
+        "wdLabel": { "type": "literal" , "value": "Kündigung | dismissal" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/564" } ,
         "issueLabel": { "type": "literal" , "value": "#564" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
