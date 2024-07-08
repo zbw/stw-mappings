@@ -19830,7 +19830,7 @@
         "stwLabel": { "type": "literal" , "value": "Gläubiger | Creditors" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10548618" } ,
-        "wdLabel": { "type": "literal" , "value": "Kreditor | vendor" } ,
+        "wdLabel": { "type": "literal" , "value": "Kreditor | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/707" } ,
         "issueLabel": { "type": "literal" , "value": "#707" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
