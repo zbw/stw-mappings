@@ -28661,7 +28661,7 @@
         "stwLabel": { "type": "literal" , "value": "Analphabetismus | Illiteracy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q369992" } ,
-        "wdLabel": { "type": "literal" , "value": "Alphabetisierungsrate | Literacy rate" } ,
+        "wdLabel": { "type": "literal" , "value": "Alphabetisierungsrate | literacy rate" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1060" } ,
         "issueLabel": { "type": "literal" , "value": "#1060" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
