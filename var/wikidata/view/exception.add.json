@@ -27894,7 +27894,7 @@
         "stwLabel": { "type": "literal" , "value": "Radikalismus | Radicalism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q151250" } ,
-        "wdLabel": { "type": "literal" , "value": "Neonazismus | " } ,
+        "wdLabel": { "type": "literal" , "value": "Neonazismus | neo-Nazism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1017" } ,
         "issueLabel": { "type": "literal" , "value": "#1017" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
