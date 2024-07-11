@@ -27925,7 +27925,7 @@
         "issueLabel": { "type": "literal" , "value": "#1018" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q356103" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Staatslehre | General theory of the state" }
+        "wdExistsLabel": { "type": "literal" , "value": "Staatslehre | general theory of the state" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2109" } ,
@@ -27938,7 +27938,7 @@
         "issueLabel": { "type": "literal" , "value": "#1018" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q356103" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Staatslehre | General theory of the state" }
+        "wdExistsLabel": { "type": "literal" , "value": "Staatslehre | general theory of the state" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2110" } ,
