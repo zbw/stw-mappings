@@ -44458,7 +44458,7 @@
         "stwLabel": { "type": "literal" , "value": "Suchmaschine | Search engine" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4182287" } ,
-        "wdLabel": { "type": "literal" , "value": "Suchmaschine | web search engine" } ,
+        "wdLabel": { "type": "literal" , "value": "Suchmaschine | search engine" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1614" } ,
         "issueLabel": { "type": "literal" , "value": "#1614" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
