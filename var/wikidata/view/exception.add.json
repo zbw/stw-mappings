@@ -20298,7 +20298,7 @@
         "stwLabel": { "type": "literal" , "value": "Erkenntnistheorie | Epistemology" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2560959" } ,
-        "wdLabel": { "type": "literal" , "value": "Gnoseologie | gnosiology" } ,
+        "wdLabel": { "type": "literal" , "value": "Gnoseologie | gnoseology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/721" } ,
         "issueLabel": { "type": "literal" , "value": "#721" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
