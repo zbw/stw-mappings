@@ -31579,7 +31579,7 @@
         "stwLabel": { "type": "literal" , "value": "Gesellschaft | Society" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1021177" } ,
-        "wdLabel": { "type": "literal" , "value": "Bürgerliche Gesellschaft | " } ,
+        "wdLabel": { "type": "literal" , "value": "Bürgerliche Gesellschaft | Civil society" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1160" } ,
         "issueLabel": { "type": "literal" , "value": "#1160" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
