@@ -26764,12 +26764,12 @@
         "stwLabel": { "type": "literal" , "value": "Finanzkapitalismus | Financial capitalism" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q111279960" } ,
-        "wdLabel": { "type": "literal" , "value": "Finanzmarkt-Kapitalismus | Financial capitalism" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/972" } ,
         "issueLabel": { "type": "literal" , "value": "#972" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6452383" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Finanzkapital | finance capitalism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Finanzmarkt-Kapitalismus | finance capitalism" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2020" } ,
@@ -26782,7 +26782,7 @@
         "issueLabel": { "type": "literal" , "value": "#972" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6452383" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Finanzkapital | finance capitalism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Finanzmarkt-Kapitalismus | finance capitalism" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2021" } ,
@@ -26795,7 +26795,7 @@
         "issueLabel": { "type": "literal" , "value": "#972" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6452383" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Finanzkapital | finance capitalism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Finanzmarkt-Kapitalismus | finance capitalism" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2022" } ,
@@ -26808,7 +26808,7 @@
         "issueLabel": { "type": "literal" , "value": "#972" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6452383" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Finanzkapital | finance capitalism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Finanzmarkt-Kapitalismus | finance capitalism" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2023" } ,
