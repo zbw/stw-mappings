@@ -12530,7 +12530,7 @@
         "stwLabel": { "type": "literal" , "value": "Elektronische Archivierung | Digital preservation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2062069" } ,
-        "wdLabel": { "type": "literal" , "value": "Web-Archivierung | web archiving" } ,
+        "wdLabel": { "type": "literal" , "value": "Web-Archivierung | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/436" } ,
         "issueLabel": { "type": "literal" , "value": "#436" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
