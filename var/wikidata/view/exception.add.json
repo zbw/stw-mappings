@@ -23701,7 +23701,7 @@
         "stwLabel": { "type": "literal" , "value": "Gemeinwohl | Common good" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q29627" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeinwohl | public interest" } ,
+        "wdLabel": { "type": "literal" , "value": "Öffentliches Interesse | public interest" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/839" } ,
         "issueLabel": { "type": "literal" , "value": "#839" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
