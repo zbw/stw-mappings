@@ -31761,7 +31761,7 @@
         "stwLabel": { "type": "literal" , "value": "Atypische Beschäftigung | Non-standard employment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3612989" } ,
-        "wdLabel": { "type": "literal" , "value": "Kontingentarbeit | contingent work" } ,
+        "wdLabel": { "type": "literal" , "value": " | contingent work" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1165" } ,
         "issueLabel": { "type": "literal" , "value": "#1165" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
