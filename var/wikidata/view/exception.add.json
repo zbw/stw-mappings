@@ -18185,7 +18185,7 @@
         "issueLabel": { "type": "literal" , "value": "#646" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4290" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Investition | investing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Investition | investment" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1382" } ,
@@ -18198,7 +18198,7 @@
         "issueLabel": { "type": "literal" , "value": "#646" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4290" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Investition | investing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Investition | investment" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1383" } ,
