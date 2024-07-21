@@ -1959,7 +1959,7 @@
         "stwLabel": { "type": "literal" , "value": "Forstprodukt | Forest product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q535814" } ,
-        "wdLabel": { "type": "literal" , "value": "Gummi arabicum | Gum arabic" } ,
+        "wdLabel": { "type": "literal" , "value": "Gummi arabicum | gum arabic" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/89" } ,
         "issueLabel": { "type": "literal" , "value": "#89" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
