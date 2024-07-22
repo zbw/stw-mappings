@@ -12894,7 +12894,7 @@
         "stwLabel": { "type": "literal" , "value": "Markenarchitektur | Brand architecture" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1156739" } ,
-        "wdLabel": { "type": "literal" , "value": "Dachmarke | Umbrella brand" } ,
+        "wdLabel": { "type": "literal" , "value": "Dachmarke | umbrella brand" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/452" } ,
         "issueLabel": { "type": "literal" , "value": "#452" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
