@@ -25708,7 +25708,7 @@
         "issueLabel": { "type": "literal" , "value": "#928" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1535347" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Goldene Regel der Akkumulation | Golden Rule savings rate" }
+        "wdExistsLabel": { "type": "literal" , "value": "Eine innovative Art zu verhandeln | Innovative way to negotiate. Trascluxivity" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1938" } ,
