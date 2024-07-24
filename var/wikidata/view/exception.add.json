@@ -41884,7 +41884,7 @@
         "stwLabel": { "type": "literal" , "value": "Tierschutz | Animal protection" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q459426" } ,
-        "wdLabel": { "type": "literal" , "value": "Tierschutz | animal welfare" } ,
+        "wdLabel": { "type": "literal" , "value": "Tierwohl | animal welfare" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1541" } ,
         "issueLabel": { "type": "literal" , "value": "#1541" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
