@@ -35304,14 +35304,13 @@
         "ln": { "type": "literal" , "value": "2677" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16324-1" } ,
         "stwLabel": { "type": "literal" , "value": "Regionalregierung | Regional government" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1802419" } ,
         "wdLabel": { "type": "literal" , "value": "Staatsregierung | state government" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1317" } ,
         "issueLabel": { "type": "literal" , "value": "#1317" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6501447" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kommunalverwaltung | local government" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2678" } ,
@@ -47063,6 +47062,30 @@
       } ,
       { 
         "ln": { "type": "literal" , "value": "3582" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11033-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Zentrale Wirtschaftsplanung | Central planning" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3391448" } ,
+        "wdLabel": { "type": "literal" , "value": "Wirtschaftsplanung | economic planning" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1709" } ,
+        "issueLabel": { "type": "literal" , "value": "#1709" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3583" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11033-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Zentrale Wirtschaftsplanung | Central planning" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189724" } ,
+        "wdLabel": { "type": "literal" , "value": "Planwirtschaft | planned economy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1709" } ,
+        "issueLabel": { "type": "literal" , "value": "#1709" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3584" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30390-6" } ,
         "stwLabel": { "type": "literal" , "value": "Negative Einkommensteuer | Negative income tax" } ,
         "relation": { "type": "literal" , "value": "*" } ,
@@ -47074,7 +47097,7 @@
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "3583" } ,
+        "ln": { "type": "literal" , "value": "3585" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13726-3" } ,
         "stwLabel": { "type": "literal" , "value": "Geldmarktpapier | Money market instruments" } ,
         "relation": { "type": "literal" , "value": "<" } ,
@@ -47085,6 +47108,66 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211555" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Geldmarktpapier | commercial paper" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3586" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11821-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Industriestruktur | Industrial structure" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2111778" } ,
+        "wdLabel": { "type": "literal" , "value": "Produktionsstruktur | Production structure" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1706" } ,
+        "issueLabel": { "type": "literal" , "value": "#1706" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3587" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29625-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Kreditzins | Loan rate" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q170924" } ,
+        "wdLabel": { "type": "literal" , "value": "Zins | interest" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1707" } ,
+        "issueLabel": { "type": "literal" , "value": "#1707" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3588" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16324-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionalregierung | Regional government" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6501447" } ,
+        "wdLabel": { "type": "literal" , "value": "Kommunalverwaltung | local government" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1708" } ,
+        "issueLabel": { "type": "literal" , "value": "#1708" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3589" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29261-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Telekommunikationsmarkt | Telecommunications market" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2401742" } ,
+        "wdLabel": { "type": "literal" , "value": "Telekommunikationsmarkt | telecommunications" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1710" } ,
+        "issueLabel": { "type": "literal" , "value": "#1710" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3590" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10161-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Nutzentheorie | Utility theory" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q466707" } ,
+        "wdLabel": { "type": "literal" , "value": "Nutzen (Wirtschaft) | utility" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1711" } ,
+        "issueLabel": { "type": "literal" , "value": "#1711" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
