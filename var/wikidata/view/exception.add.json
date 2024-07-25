@@ -33746,7 +33746,7 @@
         "stwLabel": { "type": "literal" , "value": "Soziales Problem | Social problem" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q615133" } ,
-        "wdLabel": { "type": "literal" , "value": "Soziale Frage | Social question" } ,
+        "wdLabel": { "type": "literal" , "value": "Soziale Frage | social question" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1257" } ,
         "issueLabel": { "type": "literal" , "value": "#1257" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
