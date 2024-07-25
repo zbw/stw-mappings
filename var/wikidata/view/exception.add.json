@@ -36011,8 +36011,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1337" } ,
         "issueLabel": { "type": "literal" , "value": "#1337" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1929688" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Staatsausgaben | government spending" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7257739" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Öffentliche Ausgaben | public expenditure" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2732" } ,
