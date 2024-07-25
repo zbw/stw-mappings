@@ -2674,7 +2674,7 @@ stw:,rel,wd:,issue,note
 19694-2,>,Q2184704,#1315,Mehrfachmatch
 16306-3,^,Q1673271,#1316,Mehrfachmatch
 16306-3,<,Q2137778,#1316,Mehrfachmatch
-16324-1,>,Q1802419,#1317,Mehrfachmatch
+16324-1,<,Q1802419,#1317,Mehrfachmatch
 19692-6,^,Q2350092,#1318,Mehrfachmatch
 16338-4,*,Q49371,#1319,Mehrfachmatch
 16338-4,^,Q11204,#1319,Mehrfachmatch
@@ -3579,5 +3579,12 @@ stw:,rel,wd:,issue,note
 30343-1,>,Q1625003,#1701,Mehrfachmatch
 12040-0,*,Q1379672,#1702,Mehrfachmatch
 30415-2,^,Q1135326,#1703,Mehrfachmatch
+11033-2,<,Q3391448,#1709,Mehrfachmatch
+11033-2,*,Q189724,#1709,Mehrfachmatch
 30390-6,*,Q678522,#1704,Mehrfachmatch
 13726-3,<,Q1211555,#1705,Mehrfachmatch
+11821-5,*,Q2111778,#1706,Mehrfachmatch
+29625-1,<,Q170924,#1707,Mehrfachmatch
+16324-1,>,Q6501447,#1708,Mehrfachmatch
+29261-6,*,Q2401742,#1710,Mehrfachmatch
+10161-5,>,Q466707,#1711,Mehrfachmatch
