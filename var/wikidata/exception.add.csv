@@ -2332,7 +2332,6 @@ stw:,rel,wd:,issue,note
 11869-5,*,Q11420665,#1129,Mehrfachmatch
 11869-5,^,Q1657119,#1129,Mehrfachmatch
 11869-5,^,Q2133382,#1129,Mehrfachmatch
-19829-5,>,Q25379754,#1130,Mehrfachmatch
 11862-5,^,Q68889614,#1131,Mehrfachmatch
 11862-5,^,Q20183138,#1131,Mehrfachmatch
 19458-0,^,Q1243996,#1132,Mehrfachmatch
@@ -3581,3 +3580,4 @@ stw:,rel,wd:,issue,note
 12040-0,*,Q1379672,#1702,Mehrfachmatch
 30415-2,^,Q1135326,#1703,Mehrfachmatch
 30390-6,*,Q678522,#1704,Mehrfachmatch
+13726-3,<,Q1211555,#1705,Mehrfachmatch
