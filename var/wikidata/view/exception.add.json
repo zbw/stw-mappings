@@ -47489,6 +47489,127 @@
         "issueLabel": { "type": "literal" , "value": "#1736" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3618" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28817-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Pflegereform | Long-term care reform" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q60603744" } ,
+        "wdLabel": { "type": "literal" , "value": "Gesundheitsreform | health care reform" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1737" } ,
+        "issueLabel": { "type": "literal" , "value": "#1737" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3619" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11994-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Städtischer Wohnungsmarkt | Urban housing market" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1496089" } ,
+        "wdLabel": { "type": "literal" , "value": "Wohnungsmarkt | housing market" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1738" } ,
+        "issueLabel": { "type": "literal" , "value": "#1738" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3620" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11872-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionale Einkommensverteilung | Regional income distribution" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3915542" } ,
+        "wdLabel": { "type": "literal" , "value": "Einkommensverteilung | income distribution" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1739" } ,
+        "issueLabel": { "type": "literal" , "value": "#1739" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3621" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19464-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Ländliche Industrie | Rural industry" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8148" } ,
+        "wdLabel": { "type": "literal" , "value": "Industrie | industrial sector" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1740" } ,
+        "issueLabel": { "type": "literal" , "value": "#1740" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3622" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18800-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Kommunale Infrastruktur | Local infrastructure" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q121359" } ,
+        "wdLabel": { "type": "literal" , "value": "Infrastruktur | infrastructure" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1741" } ,
+        "issueLabel": { "type": "literal" , "value": "#1741" } ,
+        "note": { "type": "literal" , "value": "MEhrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3623" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19463-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Ländliche Infrastruktur | Rural infrastructure" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q121359" } ,
+        "wdLabel": { "type": "literal" , "value": "Infrastruktur | infrastructure" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1741" } ,
+        "issueLabel": { "type": "literal" , "value": "#1741" } ,
+        "note": { "type": "literal" , "value": "MEhrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3624" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18806-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Kommunale Investition | Local public investment" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117879116" } ,
+        "wdLabel": { "type": "literal" , "value": "Infrastrukturinvestition | infrastructure investment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1742" } ,
+        "issueLabel": { "type": "literal" , "value": "#1742" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3625" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11959-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionale Input-Output-Analyse | Regional input-output analysis" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1140255" } ,
+        "wdLabel": { "type": "literal" , "value": "Input-Output-Analyse | input-output model" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1743" } ,
+        "issueLabel": { "type": "literal" , "value": "#1743" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3626" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10668-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Preiskonvergenz | Price convergence" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117222748" } ,
+        "wdLabel": { "type": "literal" , "value": "Monetäre Außenwirtschaftstheorie | international monetary economics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1744" } ,
+        "issueLabel": { "type": "literal" , "value": "#1744" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117222748" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Monetäre Außenwirtschaftstheorie | international monetary economics" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3627" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19355-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Außenhandelsstruktur | International trade pattern" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q178803" } ,
+        "wdLabel": { "type": "literal" , "value": "Außenhandel | international trade" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1745" } ,
+        "issueLabel": { "type": "literal" , "value": "#1745" } ,
+        "note": { "type": "literal" , "value": " Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
