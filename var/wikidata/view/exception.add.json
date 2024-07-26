@@ -47168,6 +47168,80 @@
         "issueLabel": { "type": "literal" , "value": "#1711" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3591" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/17948-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Ozeanien | Oceania" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q55643" } ,
+        "wdLabel": { "type": "literal" , "value": "Ozeanien | Oceania" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1712" } ,
+        "issueLabel": { "type": "literal" , "value": "#1712" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q538" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Ozeanien | Insular Oceania" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3592" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11691-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuergerechtigkeit | Tax fairness" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2346517" } ,
+        "wdLabel": { "type": "literal" , "value": "Gerechtigkeit (Ökonomie) | equity" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1713" } ,
+        "issueLabel": { "type": "literal" , "value": "#1713" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q120757908" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Steuergerechtigkeit | tax fairness" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3593" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/17989-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Karibischer Raum | Caribbean countries" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205995" } ,
+        "wdLabel": { "type": "literal" , "value": "Karibische Gemeinschaft | Caribbean Community" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1714" } ,
+        "issueLabel": { "type": "literal" , "value": "#1714" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3594" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10426-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionale Wachstumstheorie | Regional growth theory" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q23002002" } ,
+        "wdLabel": { "type": "literal" , "value": "Wachstumstheorie | Growth theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1715" } ,
+        "issueLabel": { "type": "literal" , "value": "#1715" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3595" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10313-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Faktorintensität | Factor intensity" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1143540" } ,
+        "wdLabel": { "type": "literal" , "value": "Heckscher-Ohlin-Theorem | Heckscher\u2013Ohlin theorem" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1716" } ,
+        "issueLabel": { "type": "literal" , "value": "#1716" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3596" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10615-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Internationale Faktormobilität | International factor mobility" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17161403" } ,
+        "wdLabel": { "type": "literal" , "value": "Faktormobilität | International factor movements" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1716" } ,
+        "issueLabel": { "type": "literal" , "value": "#1716" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

@@ -3593,3 +3593,9 @@ stw:29625-1 skos:broadMatch wd:Q170924 .
 stw:16324-1 skos:narrowMatch wd:Q6501447 .
 stw:29261-6 skos:closeMatch wd:Q2401742 .
 stw:10161-5 skos:narrowMatch wd:Q466707 .
+stw:17948-0 skos:exactMatch wd:Q55643 .
+stw:11691-6 skos:broadMatch wd:Q2346517 .
+stw:17989-0 skos:narrowMatch wd:Q205995 .
+stw:10426-2 skos:broadMatch wd:Q23002002 .
+stw:10313-1 skos:relatedMatch wd:Q1143540 .
+stw:10615-6 skos:broadMatch wd:Q17161403 .
