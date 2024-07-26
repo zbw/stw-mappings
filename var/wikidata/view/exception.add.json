@@ -18106,8 +18106,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/644" } ,
         "issueLabel": { "type": "literal" , "value": "#644" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1354666" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Investitionsrechnung | capital budgeting" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1376" } ,
@@ -18119,8 +18118,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/644" } ,
         "issueLabel": { "type": "literal" , "value": "#644" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1354666" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Investitionsrechnung | capital budgeting" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1377" } ,
@@ -18132,8 +18130,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/644" } ,
         "issueLabel": { "type": "literal" , "value": "#644" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1354666" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Investitionsrechnung | capital budgeting" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1378" } ,
@@ -26896,8 +26893,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/977" } ,
         "issueLabel": { "type": "literal" , "value": "#977" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211555" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Geldmarktpapier | commercial paper" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2030" } ,
@@ -26909,8 +26905,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/977" } ,
         "issueLabel": { "type": "literal" , "value": "#977" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211555" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Geldmarktpapier | commercial paper" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2031" } ,
@@ -47106,8 +47101,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1705" } ,
         "issueLabel": { "type": "literal" , "value": "#1705" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211555" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Geldmarktpapier | commercial paper" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3586" } ,
@@ -47238,8 +47232,104 @@
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17161403" } ,
         "wdLabel": { "type": "literal" , "value": "Faktormobilität | International factor movements" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1716" } ,
-        "issueLabel": { "type": "literal" , "value": "#1716" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1717" } ,
+        "issueLabel": { "type": "literal" , "value": "#1717" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3597" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30014-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Islamisches Wirtschaftssystem | Islamic economics" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1353213" } ,
+        "wdLabel": { "type": "literal" , "value": "Islamisches Finanzwesen | Islamic economic jurisprudence" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1718" } ,
+        "issueLabel": { "type": "literal" , "value": "#1718" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3598" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29590-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Environmental Kuznets Curve | Environmental Kuznets curve" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1349471" } ,
+        "wdLabel": { "type": "literal" , "value": "Kuznets-Kurve | Kuznets curve" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1719" } ,
+        "issueLabel": { "type": "literal" , "value": "#1719" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3599" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19262-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Geldpolitisches Ziel | Monetary target" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q22667559" } ,
+        "wdLabel": { "type": "literal" , "value": "Geldmengensteuerung | Monetary targeting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1720" } ,
+        "issueLabel": { "type": "literal" , "value": "#1720" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3600" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12393-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Sonderbilanz | Complementary tax balance sheet" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46834" } ,
+        "wdLabel": { "type": "literal" , "value": "Bilanz | balance sheet" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/#1721" } ,
+        "issueLabel": { "type": "literal" , "value": "##1721" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3601" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19240-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionale Konjunktur | Regional business cycle" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192311" } ,
+        "wdLabel": { "type": "literal" , "value": "Konjunkturzyklus | business cycle" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1722" } ,
+        "issueLabel": { "type": "literal" , "value": "#1722" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3602" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19587-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Konjunkturstatistik | Short-term economic statistics" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192311" } ,
+        "wdLabel": { "type": "literal" , "value": "Konjunkturzyklus | business cycle" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1722" } ,
+        "issueLabel": { "type": "literal" , "value": "#1722" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3603" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10813-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Kapitalexport | Capital exports" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1728567" } ,
+        "wdLabel": { "type": "literal" , "value": "Kapitalbilanz | capital account" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1723" } ,
+        "issueLabel": { "type": "literal" , "value": "#1723" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3604" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12203-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Dynamische Investitionsrechnung | Dynamic investment appraisal" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1354666" } ,
+        "wdLabel": { "type": "literal" , "value": "Investitionsrechnung | capital budgeting" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1724" } ,
+        "issueLabel": { "type": "literal" , "value": "#1724" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
