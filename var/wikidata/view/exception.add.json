@@ -36545,7 +36545,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2773" } ,
@@ -36558,7 +36558,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2774" } ,
@@ -36571,7 +36571,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2775" } ,
@@ -36584,7 +36584,7 @@
         "issueLabel": { "type": "literal" , "value": "#1350" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7210309" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | Political finance" }
+        "wdExistsLabel": { "type": "literal" , "value": "Politikfinanzierung | political finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2776" } ,
