@@ -15762,7 +15762,7 @@
         "stwLabel": { "type": "literal" , "value": "Erwerbsunfähigkeit | Work disability" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1390768" } ,
-        "wdLabel": { "type": "literal" , "value": "Krankenstand | absenteeism" } ,
+        "wdLabel": { "type": "literal" , "value": "Krankenstand | sickness absence level" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/558" } ,
         "issueLabel": { "type": "literal" , "value": "#558" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
