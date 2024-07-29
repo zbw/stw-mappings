@@ -19689,7 +19689,7 @@
         "issueLabel": { "type": "literal" , "value": "#705" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1135306" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | Heritance and succession law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | heritance and succession law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1476" } ,
@@ -19702,7 +19702,7 @@
         "issueLabel": { "type": "literal" , "value": "#705" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1135306" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | Heritance and succession law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | heritance and succession law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1477" } ,
@@ -19715,7 +19715,7 @@
         "issueLabel": { "type": "literal" , "value": "#705" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1135306" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | Heritance and succession law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | heritance and succession law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1478" } ,
@@ -19728,7 +19728,7 @@
         "issueLabel": { "type": "literal" , "value": "#705" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1135306" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | Heritance and succession law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Erbrecht | heritance and succession law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1479" } ,
