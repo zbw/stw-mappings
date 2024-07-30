@@ -26918,7 +26918,7 @@
         "issueLabel": { "type": "literal" , "value": "#978" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q361390" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Interbankenhandel | Interbank foreign exchange market" }
+        "wdExistsLabel": { "type": "literal" , "value": "Interbankenhandel | interbank foreign exchange market" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2032" } ,
@@ -26931,7 +26931,7 @@
         "issueLabel": { "type": "literal" , "value": "#978" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q361390" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Interbankenhandel | Interbank foreign exchange market" }
+        "wdExistsLabel": { "type": "literal" , "value": "Interbankenhandel | interbank foreign exchange market" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2033" } ,
