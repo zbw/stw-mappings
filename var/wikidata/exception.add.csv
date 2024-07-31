@@ -36,7 +36,6 @@ stw:,rel,wd:,issue,note
 28384-2,<,Q1029430,#45,Mehrfach-Match in WD
 12935-6,<,Q155511,#16,
 18879-2,>,Q538104,#55,
-18495-6,>,Q811906,,Mehrfach-Match in WD
 13290-0,>,Q13601825,#56,Mehrfach-Match in WD
 29587-4,>,Q76799012,#57,Mehrfach-Match in WD
 14479-3,>,Q1364228,#58,Mehrfach-Match in WD
@@ -492,7 +491,7 @@ stw:,rel,wd:,issue,note
 14840-0,>,Q1491689,#200,Mehrfachmatch in WD
 19020-6,>,Q2585828,#234,Mehrfachmatch in WD
 14716-1,>,Q3362098,#235,Mehrfachmatch in WD
-13444-6,>,Q396077,#236,Mehrfachmatch in WD
+13444-6,*,Q396077,#236,Mehrfachmatch in WD
 14057-1,>,Q47089651,#237,Mehrfachmatch in WD
 19017-2,>,Q13414920,#238,Mehrfachmatch in WD
 11708-1,>,Q2346706,#239,Mehrfachmatch
@@ -3653,3 +3652,11 @@ stw:,rel,wd:,issue,note
 15117-4,>,Q2257880,#1769,Mehrfachmatch
 19363-4,^,Q161078,#1770,Mehrfachmatch
 18309-1,<,Q119478287,#1771,Mehrfachmatch
+13446-2,>,Q294985,#1772,Mehrfachmatch
+16957-4,>,Q12094,#1773,Mehrfachmatch
+16957-4,>,Q12079,#1773,Mehrfachmatch
+13365-2,*,Q29585658,#1774,Mehrfachmatch
+12950-3,^,Q2153464,#1775,Mehrfachmatch
+30022-0,>,Q106850206,#1776,Mehrfachmatch
+13974-5,>,Q54128,#1777,MEhrfachmatch
+18495-6,^,Q77590,#1778,Mehrfachmatch
