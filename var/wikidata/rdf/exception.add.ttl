@@ -3630,3 +3630,14 @@ stw:18806-1 skos:relatedMatch wd:Q117879116 .
 stw:11959-4 skos:broadMatch wd:Q1140255 .
 stw:10668-6 skos:broadMatch wd:Q117222748 .
 stw:19355-3 skos:relatedMatch wd:Q178803 .
+stw:10668-6 skos:broadMatch wd:Q117222748 .
+stw:19586-5 skos:relatedMatch wd:Q4290 .
+stw:11207-2 skos:broadMatch wd:Q305186 .
+stw:19462-2 skos:broadMatch wd:Q305186 .
+stw:19472-6 skos:broadMatch wd:Q305186 .
+stw:11282-2 skos:broadMatch wd:Q12713481 .
+stw:19495-1 skos:broadMatch wd:Q119397006 .
+stw:12228-3 skos:broadMatch wd:Q184783 .
+stw:19452-5 skos:broadMatch wd:Q570579 .
+stw:18978-0 skos:broadMatch wd:Q2462658 .
+stw:29557-6 skos:broadMatch wd:Q2559581 .

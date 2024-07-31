@@ -15428,8 +15428,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/552" } ,
         "issueLabel": { "type": "literal" , "value": "#552" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12713481" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeiter | laborer" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1170" } ,
@@ -47596,8 +47595,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1744" } ,
         "issueLabel": { "type": "literal" , "value": "#1744" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117222748" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Monetäre Außenwirtschaftstheorie | international monetary economics" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3627" } ,
@@ -47609,6 +47607,138 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1745" } ,
         "issueLabel": { "type": "literal" , "value": "#1745" } ,
         "note": { "type": "literal" , "value": " Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3628" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10668-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Preiskonvergenz | Price convergence" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117222748" } ,
+        "wdLabel": { "type": "literal" , "value": "Monetäre Außenwirtschaftstheorie | international monetary economics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1746" } ,
+        "issueLabel": { "type": "literal" , "value": "#1746" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3629" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19586-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Investitionsstatistik | Investment statistics" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4290" } ,
+        "wdLabel": { "type": "literal" , "value": "Investition | investment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1747" } ,
+        "issueLabel": { "type": "literal" , "value": "#1747" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3630" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11207-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionaler Arbeitsmarkt | Regional labour market" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q305186" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitsmarkt | labor market" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1748" } ,
+        "issueLabel": { "type": "literal" , "value": "#1748" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3631" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19462-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Ländlicher Arbeitsmarkt | Rural labour market" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q305186" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitsmarkt | labor market" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1748" } ,
+        "issueLabel": { "type": "literal" , "value": "#1748" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3632" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19472-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Städtischer Arbeitsmarkt | Urban labour market" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q305186" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitsmarkt | labor market" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1748" } ,
+        "issueLabel": { "type": "literal" , "value": "#1748" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3633" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11282-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Ungelernte Arbeitskräfte | Unskilled workers" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12713481" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeiter | laborer" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1749" } ,
+        "issueLabel": { "type": "literal" , "value": "#1749" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3634" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19495-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Theorie der Arbeitslosigkeit | Unemployment theory" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119397006" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitsmarkttheorie | labour market theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1750" } ,
+        "issueLabel": { "type": "literal" , "value": "#1750" } ,
+        "note": { "type": "literal" , "value": "Mehrfchmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3635" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12228-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Betriebliche Liquidität | Corporate liquidity" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q184783" } ,
+        "wdLabel": { "type": "literal" , "value": "Liquidität | liquidity" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1751" } ,
+        "issueLabel": { "type": "literal" , "value": "#1751" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3636" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19452-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Städtische Standorttheorie | Urban location theory" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q570579" } ,
+        "wdLabel": { "type": "literal" , "value": "Standorttheorie | location theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1752" } ,
+        "issueLabel": { "type": "literal" , "value": "#1752" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3637" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18978-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Weibliche Führungskräfte | Women managers" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2462658" } ,
+        "wdLabel": { "type": "literal" , "value": "Manager | manager" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1753" } ,
+        "issueLabel": { "type": "literal" , "value": "#1753" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3638" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29557-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Internationale Konzentration | International concentration" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2559581" } ,
+        "wdLabel": { "type": "literal" , "value": "Unternehmenskonzentration | market concentration" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1754" } ,
+        "issueLabel": { "type": "literal" , "value": "#1754" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
