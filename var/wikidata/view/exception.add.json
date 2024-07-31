@@ -23324,8 +23324,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/825" } ,
         "issueLabel": { "type": "literal" , "value": "#825" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13405595" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ordnungspolitik | regulatory policy" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1756" } ,
@@ -23337,8 +23336,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/825" } ,
         "issueLabel": { "type": "literal" , "value": "#825" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13405595" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ordnungspolitik | regulatory policy" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1757" } ,
@@ -25640,19 +25638,6 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q116615850" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Interpersoneller Nutzenvergleich | interpersonal comparison of utility" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1933" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10095-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Interpersoneller Nutzenvergleich | Interpersonal comparison of utility" } ,
-        "relation": { "type": "literal" , "value": "^" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1754086" } ,
-        "wdLabel": { "type": "literal" , "value": "Wohlfahrtsfunktion | social welfare function" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/924" } ,
-        "issueLabel": { "type": "literal" , "value": "#924" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1754086" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Wohlfahrtsfunktion | social welfare function" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1934" } ,
@@ -31393,8 +31378,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1150" } ,
         "issueLabel": { "type": "literal" , "value": "#1150" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1774427" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Klimapolitik | politics of climate change" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2377" } ,
@@ -31406,8 +31390,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1150" } ,
         "issueLabel": { "type": "literal" , "value": "#1150" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1774427" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Klimapolitik | politics of climate change" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2378" } ,
