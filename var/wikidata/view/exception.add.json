@@ -12725,7 +12725,7 @@
         "stwLabel": { "type": "literal" , "value": "Beziehungsmarketing | Relationship marketing" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1792092" } ,
-        "wdLabel": { "type": "literal" , "value": "Kundenmanagement | Customer management" } ,
+        "wdLabel": { "type": "literal" , "value": "Kundenmanagement | customer management" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/445" } ,
         "issueLabel": { "type": "literal" , "value": "#445" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -45345,8 +45345,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3452" } ,
@@ -45358,8 +45357,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3453" } ,
@@ -45371,8 +45369,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3454" } ,
@@ -45384,8 +45381,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3455" } ,
@@ -45397,8 +45393,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3456" } ,
@@ -45410,8 +45405,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3457" } ,
@@ -45423,8 +45417,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3458" } ,
@@ -47717,6 +47710,211 @@
         "wdLabel": { "type": "literal" , "value": "Unternehmenskonzentration | market concentration" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1754" } ,
         "issueLabel": { "type": "literal" , "value": "#1754" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3639" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/21101-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Währungsumstellung | Currency changeover" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65224" } ,
+        "wdLabel": { "type": "literal" , "value": "Währungsreform | monetary reform" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1755" } ,
+        "issueLabel": { "type": "literal" , "value": "#1755" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3640" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11929-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionaler Multiplikator | Regional multiplier" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1053266" } ,
+        "wdLabel": { "type": "literal" , "value": "Multiplikator | multiplier" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1756" } ,
+        "issueLabel": { "type": "literal" , "value": "#1756" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1053266" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Multiplikator | multiplier" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3641" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11337-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Verhandlungstheorie des Lohnes | Collective bargaining theory" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6987443" } ,
+        "wdLabel": { "type": "literal" , "value": "Verhandlungstheorie | negotiation theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1757" } ,
+        "issueLabel": { "type": "literal" , "value": "#1757" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3642" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29564-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Nachbarschaft | Neighbourhood" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
+        "wdLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1758" } ,
+        "issueLabel": { "type": "literal" , "value": "#1758" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3643" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29889-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Nichtparametrische Schätzung | Nonparametric estimation" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1097688" } ,
+        "wdLabel": { "type": "literal" , "value": "Parameterfreie Statistik | non-parametric statistics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1759" } ,
+        "issueLabel": { "type": "literal" , "value": "#1759" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3644" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29578-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Internationale Klimapolitik | International climate policy" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1774427" } ,
+        "wdLabel": { "type": "literal" , "value": "Klimapolitik | politics of climate change" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1760" } ,
+        "issueLabel": { "type": "literal" , "value": "#1760" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3645" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15708-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Bevölkerungsentwicklung | Demographic development" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q386191" } ,
+        "wdLabel": { "type": "literal" , "value": "Bevölkerungsentwicklung | population growth" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1761" } ,
+        "issueLabel": { "type": "literal" , "value": "#1761" } ,
+        "note": { "type": "literal" , "value": " MEhrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3646" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19224-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Regionaler Preisindex | Regional price index" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q631360" } ,
+        "wdLabel": { "type": "literal" , "value": "Preisindex | price index" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1762" } ,
+        "issueLabel": { "type": "literal" , "value": "#1762" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3647" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10219-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Räumliche Preistheorie | Spatial price competition" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2108531" } ,
+        "wdLabel": { "type": "literal" , "value": "Preistheorie | price theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1763" } ,
+        "issueLabel": { "type": "literal" , "value": "#1763" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3648" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19470-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Kommunale Dienstleistung | Local public services" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q161837" } ,
+        "wdLabel": { "type": "literal" , "value": "öffentliche Dienstleistung | public service" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1764" } ,
+        "issueLabel": { "type": "literal" , "value": "#1764" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3649" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18345-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Kommunale Versorgungswirtschaft | Local public utilities" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1951366" } ,
+        "wdLabel": { "type": "literal" , "value": "öffentliches Versorgungsunternehmen | public utility" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1765" } ,
+        "issueLabel": { "type": "literal" , "value": "#1765" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3650" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19456-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Städtischer Immobilienmarkt | Urban real estate market" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q202346" } ,
+        "wdLabel": { "type": "literal" , "value": "Immobilienmarkt | real estate market" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1766" } ,
+        "issueLabel": { "type": "literal" , "value": "#1766" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3651" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11779-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Verteilungspolitik | Distributive policy" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1155757" } ,
+        "wdLabel": { "type": "literal" , "value": "Umverteilung | redistribution of wealth" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1767" } ,
+        "issueLabel": { "type": "literal" , "value": "#1767" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3652" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19459-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Dörfliche Wirtschaft | Village economy" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q175185" } ,
+        "wdLabel": { "type": "literal" , "value": "ländlicher Raum | rural area" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1768" } ,
+        "issueLabel": { "type": "literal" , "value": "#1768" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3653" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15117-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Statistischer Fehler | Statistical error" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2257880" } ,
+        "wdLabel": { "type": "literal" , "value": "systematische Abweichung | systematic error" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1769" } ,
+        "issueLabel": { "type": "literal" , "value": "#1769" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3654" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19363-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Stadtwachstum | Urban growth" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q161078" } ,
+        "wdLabel": { "type": "literal" , "value": "Urbanisierung | urbanization" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1770" } ,
+        "issueLabel": { "type": "literal" , "value": "#1770" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3655" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18309-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Sektorale Lohnstruktur | Interindustry wage structure" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q119478287" } ,
+        "wdLabel": { "type": "literal" , "value": "Lohnstruktur | wage structure" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1771" } ,
+        "issueLabel": { "type": "literal" , "value": "#1771" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
