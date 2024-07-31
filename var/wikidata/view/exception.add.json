@@ -6677,19 +6677,6 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/236" } ,
         "issueLabel": { "type": "literal" , "value": "#236" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q396077" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Agrargeschichte | agrarian history" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "495" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13444-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Agrargeschichte | Agricultural history" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q396077" } ,
-        "wdLabel": { "type": "literal" , "value": "Agrargeschichte | agrarian history" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/236" } ,
-        "issueLabel": { "type": "literal" , "value": "#236" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q952080" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Geschichte der Landwirtschaft | history of agriculture" }
       } ,
@@ -19180,8 +19167,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/686" } ,
         "issueLabel": { "type": "literal" , "value": "#686" } ,
         "note": { "type": "literal" , "value": "Merhfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q29585658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Verlegen von Büchern | book publishing" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1437" } ,
