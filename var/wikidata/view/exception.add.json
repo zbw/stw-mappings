@@ -10126,7 +10126,7 @@
         "stwLabel": { "type": "literal" , "value": "GmbH | Private limited company" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1383144" } ,
-        "wdLabel": { "type": "literal" , "value": "Gesetz betreffend die Gesellschaften mit beschränkter Haftung | " } ,
+        "wdLabel": { "type": "literal" , "value": "Gesetz betreffend die Gesellschaften mit beschränkter Haftung | law on limited liability companies" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
