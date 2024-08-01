@@ -27,12 +27,12 @@ stw:,rel,wd:,issue,note
 29062-5,>,Q757232,,Mehrfach-Match in WD
 18367-1,>,Q7886977,,Mehrfach-Match in WD
 12939-5,>,Q1402475,,Mehrfach-Match in WD
-29572-3,>,Q15629466,#47,Mehrfach-Match in WD
 13117-0,>,Q335415,#27,Mehrfach-Match in WD
 18281-4,>,Q1936747,#21,Mehrfach-Match in WD
 18281-4,>,Q128151,#21,Mehrfach-Match in WD
 18281-4,>,Q1500308,#21,Mehrfach-Match in WD
 12961-5,>,Q18218474,#48,Mehrfach-Match in WD
+12961-5,>,Q720362,#48,Mehrfach-Match in WD
 28384-2,<,Q1029430,#45,Mehrfach-Match in WD
 12935-6,<,Q155511,#16,
 18879-2,>,Q538104,#55,
@@ -3665,3 +3665,10 @@ stw:,rel,wd:,issue,note
 14135-0,>,Q255503,#1780,Mehrfachmatch
 14135-0,>,Q742292,#1780,Mehrfachmatch
 14135-0,>,Q780,#1780,Mehrfachmatch
+12570-6,^,Q265558,#1781,Mehrfachmatch
+29572-3,>,Q372449,#1782,Mehrfachmatch
+10374-2,>,Q2033951,#1783,Mehrfachmatch
+16417-1,>,Q83201,#1784,Mehrfachmatch
+16417-1,^,Q1172886,#1784,Mehrfachmatch
+13193-5,>,Q13107184,#1785,Mehrfachmatch
+18259-4,*,Q573538,#1786,Mehrfachmatch
