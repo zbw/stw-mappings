@@ -381,19 +381,6 @@
         "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "30" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29572-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
-        "issueLabel": { "type": "literal" , "value": "#47" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q372449" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz | forest protection" }
-      } ,
-      { 
         "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13117-0" } ,
         "stwLabel": { "type": "literal" , "value": "Papierindustrie | Pulp and paper industry" } ,
@@ -18506,19 +18493,6 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1227658" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Direktsuche | executive search" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1425" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12570-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Führungskräfteauswahl | Executive selection" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q265558" } ,
-        "wdLabel": { "type": "literal" , "value": "Assessment-Center | assessment centre" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/679" } ,
-        "issueLabel": { "type": "literal" , "value": "#679" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q265558" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Assessment-Center | assessment centre" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1426" } ,
