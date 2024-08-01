@@ -369,19 +369,6 @@
       } ,
       { 
         "ln": { "type": "literal" , "value": "30" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29572-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/47" } ,
-        "issueLabel": { "type": "literal" , "value": "#47" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13117-0" } ,
         "stwLabel": { "type": "literal" , "value": "Papierindustrie | Pulp and paper industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -394,7 +381,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Papierindustrie | pulp and paper industry" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "32" } ,
+        "ln": { "type": "literal" , "value": "31" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -407,7 +394,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "33" } ,
+        "ln": { "type": "literal" , "value": "32" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -420,7 +407,7 @@
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "34" } ,
+        "ln": { "type": "literal" , "value": "33" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18281-4" } ,
         "stwLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | Combined heat and power" } ,
         "relation": { "type": "literal" , "value": ">" } ,
@@ -433,12 +420,25 @@
         "wdExistsLabel": { "type": "literal" , "value": "Kraft-Wärme-Kopplung | cogeneration" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "35" } ,
+        "ln": { "type": "literal" , "value": "34" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12961-5" } ,
         "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18218474" } ,
         "wdLabel": { "type": "literal" , "value": "Forstwirtschaft und Holzeinschlag | forestry and logging" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/48" } ,
+        "issueLabel": { "type": "literal" , "value": "#48" } ,
+        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q38112" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Forstwirtschaft | forestry" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "35" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12961-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q720362" } ,
+        "wdLabel": { "type": "literal" , "value": "Waldbau | silviculture" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/48" } ,
         "issueLabel": { "type": "literal" , "value": "#48" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
@@ -18504,19 +18504,6 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/681" } ,
         "issueLabel": { "type": "literal" , "value": "#681" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13107184" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Apotheke | pharmacy" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1427" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13193-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Pharmahandel | Pharmaceutical distributors" } ,
-        "relation": { "type": "literal" , "value": "<" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13107184" } ,
-        "wdLabel": { "type": "literal" , "value": "Apotheke | pharmacy" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/681" } ,
-        "issueLabel": { "type": "literal" , "value": "#681" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q57332194" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Pharmahandel | pharmaceutical distributor" }
       } ,
@@ -18571,19 +18558,6 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q178559" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Geflügel | poultry" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1432" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18259-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Arzneimittelrecht | Pharmaceutical law" } ,
-        "relation": { "type": "literal" , "value": "*" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q573538" } ,
-        "wdLabel": { "type": "literal" , "value": "Arzneimittelgesetz | regulation of therapeutic goods" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/683" } ,
-        "issueLabel": { "type": "literal" , "value": "#683" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q573538" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittelgesetz | regulation of therapeutic goods" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1432" } ,
@@ -21006,12 +20980,12 @@
         "stwLabel": { "type": "literal" , "value": "Methodenkritik | Methodological criticism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1796820" } ,
-        "wdLabel": { "type": "literal" , "value": "Methodenstreit | " } ,
+        "wdLabel": { "type": "literal" , "value": "Methodenstreit | dispute over methods" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/771" } ,
         "issueLabel": { "type": "literal" , "value": "#771" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1796820" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Methodenstreit | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Methodenstreit | dispute over methods" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1619" } ,
@@ -24305,12 +24279,12 @@
         "stwLabel": { "type": "literal" , "value": "Umsiedlung | Resettlement" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q884053" } ,
-        "wdLabel": { "type": "literal" , "value": "Umsiedler | " } ,
+        "wdLabel": { "type": "literal" , "value": "Umsiedler | Resettler" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/895" } ,
         "issueLabel": { "type": "literal" , "value": "#895" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q884053" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Umsiedler | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Umsiedler | Resettler" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1873" } ,
@@ -24323,7 +24297,7 @@
         "issueLabel": { "type": "literal" , "value": "#895" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q884053" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Umsiedler | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Umsiedler | Resettler" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1874" } ,
@@ -24336,7 +24310,7 @@
         "issueLabel": { "type": "literal" , "value": "#895" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q884053" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Umsiedler | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Umsiedler | Resettler" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1875" } ,
@@ -47538,6 +47512,97 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q178559" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Geflügel | poultry" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3668" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12570-6" } ,
+        "stwLabel": { "type": "literal" , "value": "Führungskräfteauswahl | Executive selection" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q265558" } ,
+        "wdLabel": { "type": "literal" , "value": "Assessment-Center | assessment centre" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1781" } ,
+        "issueLabel": { "type": "literal" , "value": "#1781" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1227658" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Direktsuche | executive search" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3669" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29572-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Waldschutz | Forest conservation" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q372449" } ,
+        "wdLabel": { "type": "literal" , "value": "Waldschutz | forest protection" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1782" } ,
+        "issueLabel": { "type": "literal" , "value": "#1782" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15629466" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Waldschutz (Naturschutz) | forest conservation" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3670" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10374-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Frühindikator | Leading indicator" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2033951" } ,
+        "wdLabel": { "type": "literal" , "value": "Purchasing Managers Index | Purchasing Managers' Index" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1783" } ,
+        "issueLabel": { "type": "literal" , "value": "#1783" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3829218" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Frühindikator | Leading Indicator" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3671" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16417-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Neutrale Staaten | Neutral countries" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q83201" } ,
+        "wdLabel": { "type": "literal" , "value": "Bewegung der Blockfreien Staaten | Non-Aligned Movement" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1784" } ,
+        "issueLabel": { "type": "literal" , "value": "#1784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q185963" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Neutralität | neutral country" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3672" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16417-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Neutrale Staaten | Neutral countries" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1172886" } ,
+        "wdLabel": { "type": "literal" , "value": "Dauernde Neutralität | perpetual neutrality" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1784" } ,
+        "issueLabel": { "type": "literal" , "value": "#1784" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q185963" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Neutralität | neutral country" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3673" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13193-5" } ,
+        "stwLabel": { "type": "literal" , "value": "Pharmahandel | Pharmaceutical distributors" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13107184" } ,
+        "wdLabel": { "type": "literal" , "value": "Apotheke | pharmacy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1785" } ,
+        "issueLabel": { "type": "literal" , "value": "#1785" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q57332194" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Pharmahandel | pharmaceutical distributor" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3674" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18259-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Arzneimittelrecht | Pharmaceutical law" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q573538" } ,
+        "wdLabel": { "type": "literal" , "value": "Arzneimittelgesetz | regulation of therapeutic goods" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1786" } ,
+        "issueLabel": { "type": "literal" , "value": "#1786" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q718717" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittelrecht | pharmaceutical law" }
       }
     ]
   }
