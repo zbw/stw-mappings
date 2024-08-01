@@ -446,19 +446,6 @@
         "wdExistsLabel": { "type": "literal" , "value": "Forstwirtschaft | forestry" }
       } ,
       { 
-        "ln": { "type": "literal" , "value": "35" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12961-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18218474" } ,
-        "wdLabel": { "type": "literal" , "value": "Forstwirtschaft und Holzeinschlag | forestry and logging" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/48" } ,
-        "issueLabel": { "type": "literal" , "value": "#48" } ,
-        "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q720362" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Waldbau | silviculture" }
-      } ,
-      { 
         "ln": { "type": "literal" , "value": "36" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/28384-2" } ,
         "stwLabel": { "type": "literal" , "value": "Kinderschutz | Child protection" } ,
@@ -18504,19 +18491,6 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/680" } ,
         "issueLabel": { "type": "literal" , "value": "#680" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2033951" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Purchasing Managers Index | Purchasing Managers' Index" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1426" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10374-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Frühindikator | Leading indicator" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2033951" } ,
-        "wdLabel": { "type": "literal" , "value": "Purchasing Managers Index | Purchasing Managers' Index" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/680" } ,
-        "issueLabel": { "type": "literal" , "value": "#680" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3829218" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Frühindikator | Leading Indicator" }
       } ,
@@ -18636,19 +18610,6 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q38112" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Forstwirtschaft | forestry" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1433" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12961-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Forstwirtschaft | Forestry" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q720362" } ,
-        "wdLabel": { "type": "literal" , "value": "Waldbau | silviculture" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/684" } ,
-        "issueLabel": { "type": "literal" , "value": "#684" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q720362" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Waldbau | silviculture" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1434" } ,
