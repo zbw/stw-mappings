@@ -45850,7 +45850,7 @@
         "stwLabel": { "type": "literal" , "value": "Statistischer Test | Statistical test" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25393262" } ,
-        "wdLabel": { "type": "literal" , "value": "Testtheorie | Test theory" } ,
+        "wdLabel": { "type": "literal" , "value": "Testtheorie | test theory" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1667" } ,
         "issueLabel": { "type": "literal" , "value": "#1667" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
