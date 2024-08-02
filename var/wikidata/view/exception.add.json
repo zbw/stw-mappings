@@ -10711,7 +10711,7 @@
         "stwLabel": { "type": "literal" , "value": "Computer | Computer" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2202298" } ,
-        "wdLabel": { "type": "literal" , "value": "Röhrencomputer | first generation computer" } ,
+        "wdLabel": { "type": "literal" , "value": "Röhrencomputer | first-generation computer" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/390" } ,
         "issueLabel": { "type": "literal" , "value": "#390" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
