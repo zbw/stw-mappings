@@ -21024,7 +21024,7 @@
         "issueLabel": { "type": "literal" , "value": "#773" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46857" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Wissenschaftliche Methode | scientific method" }
+        "wdExistsLabel": { "type": "literal" , "value": "wissenschaftliche Methode | scientific method" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1622" } ,
