@@ -12595,7 +12595,7 @@
         "stwLabel": { "type": "literal" , "value": "Leistungsbündel | Bundling strategy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1020767" } ,
-        "wdLabel": { "type": "literal" , "value": "Bündelangebot | product bundling" } ,
+        "wdLabel": { "type": "literal" , "value": "Bündelangebot | product bundle" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/451" } ,
         "issueLabel": { "type": "literal" , "value": "#451" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
