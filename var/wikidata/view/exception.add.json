@@ -40272,7 +40272,7 @@
         "stwLabel": { "type": "literal" , "value": "Artenvielfalt | Biodiversity" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47041" } ,
-        "wdLabel": { "type": "literal" , "value": "Biodiversität | biodiversity" } ,
+        "wdLabel": { "type": "literal" , "value": "Biodiversität | Biodiversity" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1509" } ,
         "issueLabel": { "type": "literal" , "value": "#1509" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
