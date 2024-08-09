@@ -15047,7 +15047,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeitsmigranten | Migrant workers" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1369289" } ,
-        "wdLabel": { "type": "literal" , "value": "Grenzgänger | cross-border worker" } ,
+        "wdLabel": { "type": "literal" , "value": "Grenzgänger | commuter worker" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/549" } ,
         "issueLabel": { "type": "literal" , "value": "#549" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
