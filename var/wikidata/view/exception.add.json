@@ -27805,7 +27805,7 @@
         "stwLabel": { "type": "literal" , "value": "Abwertung | Currency devaluation" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2409135" } ,
-        "wdLabel": { "type": "literal" , "value": "Währungsabwertung | Currency depreciation" } ,
+        "wdLabel": { "type": "literal" , "value": "Währungsabwertung | currency depreciation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1044" } ,
         "issueLabel": { "type": "literal" , "value": "#1044" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
