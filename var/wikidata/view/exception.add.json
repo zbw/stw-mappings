@@ -13101,7 +13101,7 @@
         "stwLabel": { "type": "literal" , "value": "Kundenservice | Customer service" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q388830" } ,
-        "wdLabel": { "type": "literal" , "value": "After-Sales-Management | after sales management" } ,
+        "wdLabel": { "type": "literal" , "value": "After-Sales-Management | after-sales service" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/475" } ,
         "issueLabel": { "type": "literal" , "value": "#475" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
