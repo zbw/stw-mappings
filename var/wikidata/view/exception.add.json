@@ -30138,7 +30138,7 @@
         "stwLabel": { "type": "literal" , "value": "Bodenrecht | Land tenure" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1374689" } ,
-        "wdLabel": { "type": "literal" , "value": "Landnahme | Landnám" } ,
+        "wdLabel": { "type": "literal" , "value": "Landnahme | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1125" } ,
         "issueLabel": { "type": "literal" , "value": "#1125" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
