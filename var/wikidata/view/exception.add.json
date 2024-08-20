@@ -34163,7 +34163,7 @@
         "stwLabel": { "type": "literal" , "value": "Diktatur | Dictatorship" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q49896" } ,
-        "wdLabel": { "type": "literal" , "value": "Militärdiktatur | military dictatorship" } ,
+        "wdLabel": { "type": "literal" , "value": "Militärdiktatur | military" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1303" } ,
         "issueLabel": { "type": "literal" , "value": "#1303" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
