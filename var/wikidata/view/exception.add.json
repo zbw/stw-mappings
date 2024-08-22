@@ -43356,7 +43356,7 @@
         "issueLabel": { "type": "literal" , "value": "#1603" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296527" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Benutzerfreundlichkeit | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Benutzerfreundlichkeit | user-friendliness" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3342" } ,
@@ -43369,7 +43369,7 @@
         "issueLabel": { "type": "literal" , "value": "#1603" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56296527" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Benutzerfreundlichkeit | " }
+        "wdExistsLabel": { "type": "literal" , "value": "Benutzerfreundlichkeit | user-friendliness" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3343" } ,
