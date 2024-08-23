@@ -29982,7 +29982,7 @@
         "stwLabel": { "type": "literal" , "value": "Regionalwissenschaft | Regional science" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1938983" } ,
-        "wdLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial analysis" } ,
+        "wdLabel": { "type": "literal" , "value": "Raumanalyse | spatial analysis" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1121" } ,
         "issueLabel": { "type": "literal" , "value": "#1121" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -44668,8 +44668,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1638" } ,
         "issueLabel": { "type": "literal" , "value": "#1638" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1938983" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial analysis" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117467429" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial statistics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3443" } ,
@@ -44681,8 +44681,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1638" } ,
         "issueLabel": { "type": "literal" , "value": "#1638" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1938983" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial analysis" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117467429" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial statistics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3444" } ,
@@ -44694,8 +44694,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1638" } ,
         "issueLabel": { "type": "literal" , "value": "#1638" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1938983" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial analysis" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117467429" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial statistics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3445" } ,
@@ -44707,8 +44707,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1638" } ,
         "issueLabel": { "type": "literal" , "value": "#1638" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1938983" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial analysis" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q117467429" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Räumliche Statistik | spatial statistics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3446" } ,
