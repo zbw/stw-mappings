@@ -13816,7 +13816,7 @@
         "stwLabel": { "type": "literal" , "value": "Fertigungsinsel | Cellular manufacturing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3516922" } ,
-        "wdLabel": { "type": "literal" , "value": " | Group technology" } ,
+        "wdLabel": { "type": "literal" , "value": " | group technology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/504" } ,
         "issueLabel": { "type": "literal" , "value": "#504" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
