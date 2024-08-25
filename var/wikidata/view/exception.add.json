@@ -4947,7 +4947,7 @@
         "stwLabel": { "type": "literal" , "value": "Rindfleisch | Beef" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q957434" } ,
-        "wdLabel": { "type": "literal" , "value": "Kalbfleisch | veal" } ,
+        "wdLabel": { "type": "literal" , "value": "Kalbfleisch | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/189" } ,
         "issueLabel": { "type": "literal" , "value": "#189" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
