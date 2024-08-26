@@ -27324,7 +27324,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatstheorie | Theory of the state" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820125" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatstheorie | Theory of the state" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatstheorie | theory of the state" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1018" } ,
         "issueLabel": { "type": "literal" , "value": "#1018" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
