@@ -27927,7 +27927,7 @@
         "issueLabel": { "type": "literal" , "value": "#1053" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2304015" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Währungskorb | Currency basket" }
+        "wdExistsLabel": { "type": "literal" , "value": "Währungskorb | currency basket" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2154" } ,
