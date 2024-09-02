@@ -46543,11 +46543,12 @@
         "stwLabel": { "type": "literal" , "value": "Telekommunikationsmarkt | Telecommunications market" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2401742" } ,
-        "wdLabel": { "type": "literal" , "value": "Telekommunikationsmarkt | telecommunications" } ,
+        "wdLabel": { "type": "literal" , "value": "Telekommunikationsmarkt | Telecommunications market" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1710" } ,
         "issueLabel": { "type": "literal" , "value": "#1710" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2401742" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsmarkt | Telecommunications market" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3589" } ,
