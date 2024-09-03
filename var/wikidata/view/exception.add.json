@@ -958,7 +958,7 @@
         "stwLabel": { "type": "literal" , "value": "Kartoffel | Potato" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16587531" } ,
-        "wdLabel": { "type": "literal" , "value": "Kartoffel | potato" } ,
+        "wdLabel": { "type": "literal" , "value": "Kartoffelknolle | potato" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/72" } ,
         "issueLabel": { "type": "literal" , "value": "#72" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
