@@ -3049,7 +3049,7 @@
         "stwLabel": { "type": "literal" , "value": "Werkzeug | Tools" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1327701" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": " | power tool" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/130" } ,
         "issueLabel": { "type": "literal" , "value": "#130" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
