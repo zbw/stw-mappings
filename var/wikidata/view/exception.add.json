@@ -10243,7 +10243,7 @@
         "stwLabel": { "type": "literal" , "value": "Personengesellschaft | Business partnership" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19340991" } ,
-        "wdLabel": { "type": "literal" , "value": "Offene Handelsgesellschaft | general partnership in Germany" } ,
+        "wdLabel": { "type": "literal" , "value": "Offene Handelsgesellschaft | general partnership" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/374" } ,
         "issueLabel": { "type": "literal" , "value": "#374" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
