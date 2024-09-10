@@ -40987,12 +40987,12 @@
         "stwLabel": { "type": "literal" , "value": "Lärm | Noise" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q92251" } ,
-        "wdLabel": { "type": "literal" , "value": "Lärm | noise pollution" } ,
+        "wdLabel": { "type": "literal" , "value": "Lärm | Poluição Sonora" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1534" } ,
         "issueLabel": { "type": "literal" , "value": "#1534" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q92251" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lärm | noise pollution" }
+        "wdExistsLabel": { "type": "literal" , "value": "Lärm | Poluição Sonora" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3160" } ,
