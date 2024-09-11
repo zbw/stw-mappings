@@ -28855,7 +28855,7 @@
         "stwLabel": { "type": "literal" , "value": "Social Web | Social web" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3220391" } ,
-        "wdLabel": { "type": "literal" , "value": "soziales Netzwerk | social networking service" } ,
+        "wdLabel": { "type": "literal" , "value": "sozialer Netzwerkdienst | social networking service" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1088" } ,
         "issueLabel": { "type": "literal" , "value": "#1088" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
