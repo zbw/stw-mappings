@@ -30403,7 +30403,7 @@
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2345" } ,
@@ -30416,7 +30416,7 @@
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2346" } ,
@@ -30429,7 +30429,7 @@
         "issueLabel": { "type": "literal" , "value": "#1136" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" }
+        "wdExistsLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2347" } ,
@@ -47183,7 +47183,7 @@
         "stwLabel": { "type": "literal" , "value": "Nachbarschaft | Neighbourhood" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q123705" } ,
-        "wdLabel": { "type": "literal" , "value": "Stadtviertel | neighborhood" } ,
+        "wdLabel": { "type": "literal" , "value": "Ortsteil | neighborhood" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1758" } ,
         "issueLabel": { "type": "literal" , "value": "#1758" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
