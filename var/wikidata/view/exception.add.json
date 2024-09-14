@@ -14622,12 +14622,12 @@
         "stwLabel": { "type": "literal" , "value": "Lieferantenmanagement | Supplier relationship management" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15825839" } ,
-        "wdLabel": { "type": "literal" , "value": "Lieferantenmanagement | Supplier management" } ,
+        "wdLabel": { "type": "literal" , "value": "Lieferantenmanagement | supplier management" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/538" } ,
         "issueLabel": { "type": "literal" , "value": "#538" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1357275" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lieferantenbeziehungsmanagement | Supplier relationship management" }
+        "wdExistsLabel": { "type": "literal" , "value": "Lieferantenbeziehungsmanagement | supplier relationship management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1129" } ,
@@ -14640,7 +14640,7 @@
         "issueLabel": { "type": "literal" , "value": "#538" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1357275" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lieferantenbeziehungsmanagement | Supplier relationship management" }
+        "wdExistsLabel": { "type": "literal" , "value": "Lieferantenbeziehungsmanagement | supplier relationship management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1130" } ,
