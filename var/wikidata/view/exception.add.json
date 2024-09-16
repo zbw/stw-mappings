@@ -18504,8 +18504,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/681" } ,
         "issueLabel": { "type": "literal" , "value": "#681" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q57332194" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Pharmahandel | pharmaceutical distributor" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1781782" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Pharmagroßhandel | pharmaceuticals wholesales" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1428" } ,
@@ -47588,8 +47588,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1785" } ,
         "issueLabel": { "type": "literal" , "value": "#1785" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q57332194" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Pharmahandel | pharmaceutical distributor" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1781782" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Pharmagroßhandel | pharmaceuticals wholesales" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3674" } ,
