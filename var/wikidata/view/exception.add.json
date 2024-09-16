@@ -40051,7 +40051,7 @@
         "stwLabel": { "type": "literal" , "value": "Ozonbelastung | Ozone pollution" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q183140" } ,
-        "wdLabel": { "type": "literal" , "value": "Ozonloch | ozone depletion" } ,
+        "wdLabel": { "type": "literal" , "value": "Ozonabbau | ozone depletion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1504" } ,
         "issueLabel": { "type": "literal" , "value": "#1504" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
