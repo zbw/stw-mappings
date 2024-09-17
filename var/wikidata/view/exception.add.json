@@ -46266,7 +46266,7 @@
         "stwLabel": { "type": "literal" , "value": "Sozialismus | Socialism" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2353993" } ,
-        "wdLabel": { "type": "literal" , "value": "Syndikalismus | revolutionary syndicalism" } ,
+        "wdLabel": { "type": "literal" , "value": "Syndikalismus | syndicalism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1688" } ,
         "issueLabel": { "type": "literal" , "value": "#1688" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
