@@ -22306,7 +22306,7 @@
         "stwLabel": { "type": "literal" , "value": "Kirchenfinanzierung | Church finances" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1195104" } ,
-        "wdLabel": { "type": "literal" , "value": "Kirchensteuer | Kirchensteuer" } ,
+        "wdLabel": { "type": "literal" , "value": "Kirchensteuer | Church tax" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/814" } ,
         "issueLabel": { "type": "literal" , "value": "#814" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
