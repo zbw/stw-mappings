@@ -28983,7 +28983,7 @@
         "stwLabel": { "type": "literal" , "value": "Emotion | Emotion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5373805" } ,
-        "wdLabel": { "type": "literal" , "value": " | emotionality" } ,
+        "wdLabel": { "type": "literal" , "value": "Emotionalität | emotionality" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1092" } ,
         "issueLabel": { "type": "literal" , "value": "#1092" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
