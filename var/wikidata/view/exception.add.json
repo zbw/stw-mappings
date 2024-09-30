@@ -15540,7 +15540,7 @@
         "stwLabel": { "type": "literal" , "value": "Nachtarbeit | Night work" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1962676" } ,
-        "wdLabel": { "type": "literal" , "value": "Nachtdienst | night shift" } ,
+        "wdLabel": { "type": "literal" , "value": "Nachtdienst | night work" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/561" } ,
         "issueLabel": { "type": "literal" , "value": "#561" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
