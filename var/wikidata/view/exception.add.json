@@ -32967,7 +32967,7 @@
         "stwLabel": { "type": "literal" , "value": "Ethnische Beziehungen | Ethnic relations" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q115160301" } ,
-        "wdLabel": { "type": "literal" , "value": "Rassenbeziehungen | ethnic relations" } ,
+        "wdLabel": { "type": "literal" , "value": "Ethnische Beziehungen | ethnic relations" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1250" } ,
         "issueLabel": { "type": "literal" , "value": "#1250" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
