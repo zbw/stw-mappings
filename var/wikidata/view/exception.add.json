@@ -36125,7 +36125,7 @@
         "stwLabel": { "type": "literal" , "value": "Referendum | Referendum" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q660064" } ,
-        "wdLabel": { "type": "literal" , "value": "Volksinitiative | ballot initiative" } ,
+        "wdLabel": { "type": "literal" , "value": "Volksinitiative | citizens' initiative" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1358" } ,
         "issueLabel": { "type": "literal" , "value": "#1358" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
