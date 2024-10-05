@@ -46507,7 +46507,7 @@
         "stwLabel": { "type": "literal" , "value": "Industriestruktur | Industrial structure" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2111778" } ,
-        "wdLabel": { "type": "literal" , "value": "Produktionsstruktur | Production structure" } ,
+        "wdLabel": { "type": "literal" , "value": "Produktionsstruktur | production structure" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1706" } ,
         "issueLabel": { "type": "literal" , "value": "#1706" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
