@@ -5831,7 +5831,7 @@
         "stwLabel": { "type": "literal" , "value": "Grafisches Papier | Graphic paper" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1784029" } ,
-        "wdLabel": { "type": "literal" , "value": "Kopierpapier | Special fine paper" } ,
+        "wdLabel": { "type": "literal" , "value": "Kopierpapier | special fine paper" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/227" } ,
         "issueLabel": { "type": "literal" , "value": "#227" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
