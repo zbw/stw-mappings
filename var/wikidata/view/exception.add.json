@@ -5831,7 +5831,7 @@
         "stwLabel": { "type": "literal" , "value": "Grafisches Papier | Graphic paper" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1784029" } ,
-        "wdLabel": { "type": "literal" , "value": "Kopierpapier | Special fine paper" } ,
+        "wdLabel": { "type": "literal" , "value": "Kopierpapier | special fine paper" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/227" } ,
         "issueLabel": { "type": "literal" , "value": "#227" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD " } ,
@@ -20088,7 +20088,7 @@
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5950118" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law (legal system)" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1550" } ,
@@ -20101,7 +20101,7 @@
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5950118" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law (legal system)" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1551" } ,
@@ -26123,7 +26123,7 @@
         "issueLabel": { "type": "literal" , "value": "#969" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q492468" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Russländer | Russians" }
+        "wdExistsLabel": { "type": "literal" , "value": "Russländer | multiethnic people of Russia" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2015" } ,
@@ -36125,7 +36125,7 @@
         "stwLabel": { "type": "literal" , "value": "Referendum | Referendum" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q660064" } ,
-        "wdLabel": { "type": "literal" , "value": "Volksinitiative | ballot initiative" } ,
+        "wdLabel": { "type": "literal" , "value": "Volksinitiative | citizens' initiative" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1358" } ,
         "issueLabel": { "type": "literal" , "value": "#1358" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -46507,7 +46507,7 @@
         "stwLabel": { "type": "literal" , "value": "Industriestruktur | Industrial structure" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2111778" } ,
-        "wdLabel": { "type": "literal" , "value": "Produktionsstruktur | Production structure" } ,
+        "wdLabel": { "type": "literal" , "value": "Produktionsstruktur | production structure" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1706" } ,
         "issueLabel": { "type": "literal" , "value": "#1706" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
