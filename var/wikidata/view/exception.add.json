@@ -1790,7 +1790,7 @@
         "stwLabel": { "type": "literal" , "value": "Fischereiprodukt | Fishery product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q171446" } ,
-        "wdLabel": { "type": "literal" , "value": "Koralle | mía" } ,
+        "wdLabel": { "type": "literal" , "value": "Koralle | coral" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/93" } ,
         "issueLabel": { "type": "literal" , "value": "#93" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
