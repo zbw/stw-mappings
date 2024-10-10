@@ -26123,7 +26123,7 @@
         "issueLabel": { "type": "literal" , "value": "#969" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q492468" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Russländer | multiethnic people of Russia" }
+        "wdExistsLabel": { "type": "literal" , "value": "Russländer | Russians" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2015" } ,
