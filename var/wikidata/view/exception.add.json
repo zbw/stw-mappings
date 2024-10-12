@@ -43611,7 +43611,7 @@
         "stwLabel": { "type": "literal" , "value": "Neuronale Netze | Neural networks" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1457734" } ,
-        "wdLabel": { "type": "literal" , "value": "rückgekoppeltes neuronales Netzwerk | recurrent neural network" } ,
+        "wdLabel": { "type": "literal" , "value": "Rückgekoppeltes Neuronales Netzwerk | recurrent neural network" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1609" } ,
         "issueLabel": { "type": "literal" , "value": "#1609" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
