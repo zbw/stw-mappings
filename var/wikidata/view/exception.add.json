@@ -28429,7 +28429,7 @@
         "stwLabel": { "type": "literal" , "value": "Sprachverarbeitung | Speech processing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q30642" } ,
-        "wdLabel": { "type": "literal" , "value": "maschinelle Sprachverarbeitung | natural language processing" } ,
+        "wdLabel": { "type": "literal" , "value": "Natürliche Sprachverarbeitung | natural language processing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1075" } ,
         "issueLabel": { "type": "literal" , "value": "#1075" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
