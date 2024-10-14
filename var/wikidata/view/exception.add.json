@@ -16039,7 +16039,7 @@
         "issueLabel": { "type": "literal" , "value": "#578" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8034608" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsverhalten | Work behavior" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsverhalten | work behavior" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1238" } ,
@@ -16052,7 +16052,7 @@
         "issueLabel": { "type": "literal" , "value": "#578" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8034608" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsverhalten | Work behavior" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsverhalten | work behavior" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1239" } ,
@@ -16065,7 +16065,7 @@
         "issueLabel": { "type": "literal" , "value": "#578" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8034608" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsverhalten | Work behavior" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arbeitsverhalten | work behavior" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1240" } ,
