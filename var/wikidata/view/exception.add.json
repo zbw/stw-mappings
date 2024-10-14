@@ -14930,7 +14930,7 @@
         "stwLabel": { "type": "literal" , "value": "Fördertechnik | Conveyor system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41577" } ,
-        "wdLabel": { "type": "literal" , "value": "Gabelstapler | forklift truck" } ,
+        "wdLabel": { "type": "literal" , "value": "Gabelstapler | forklift" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/546" } ,
         "issueLabel": { "type": "literal" , "value": "#546" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
