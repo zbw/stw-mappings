@@ -7349,8 +7349,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/266" } ,
         "issueLabel": { "type": "literal" , "value": "#266" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2462658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Manager | manager" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q978044" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Führungskraft | executive" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "568" } ,
@@ -7362,8 +7362,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/266" } ,
         "issueLabel": { "type": "literal" , "value": "#266" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2462658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Manager | manager" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q978044" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Führungskraft | executive" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "569" } ,
@@ -7375,8 +7375,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/266" } ,
         "issueLabel": { "type": "literal" , "value": "#266" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2462658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Manager | manager" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q978044" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Führungskraft | executive" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "570" } ,
@@ -7388,8 +7388,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/266" } ,
         "issueLabel": { "type": "literal" , "value": "#266" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2462658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Manager | manager" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q978044" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Führungskraft | executive" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "571" } ,
