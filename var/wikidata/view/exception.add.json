@@ -45946,7 +45946,7 @@
         "issueLabel": { "type": "literal" , "value": "#1672" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q180752" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "ARCH-Modell | Autoregressive conditional heteroskedasticity" }
+        "wdExistsLabel": { "type": "literal" , "value": "ARCH-Modell | autoregressive conditional heteroskedasticity" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3542" } ,
