@@ -5181,7 +5181,7 @@
         "stwLabel": { "type": "literal" , "value": "Arzneimittel | Pharmaceuticals" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q134808" } ,
-        "wdLabel": { "type": "literal" , "value": "Impfstoff | vaccine" } ,
+        "wdLabel": { "type": "literal" , "value": "Impfstoff | vaca" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/201" } ,
         "issueLabel": { "type": "literal" , "value": "#201" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
