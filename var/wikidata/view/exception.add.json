@@ -9087,7 +9087,7 @@
         "stwLabel": { "type": "literal" , "value": "Wissenstransfer | Knowledge transfer" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6423399" } ,
-        "wdLabel": { "type": "literal" , "value": "Wissensübertragung | Knowledge spillover" } ,
+        "wdLabel": { "type": "literal" , "value": "Wissensübertragung | knowledge spillover" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/325" } ,
         "issueLabel": { "type": "literal" , "value": "#325" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
