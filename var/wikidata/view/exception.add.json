@@ -40298,7 +40298,7 @@
         "stwLabel": { "type": "literal" , "value": "Artenvielfalt | Biodiversity" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q51969195" } ,
-        "wdLabel": { "type": "literal" , "value": "Genetische Ressourcen | Genetic resources" } ,
+        "wdLabel": { "type": "literal" , "value": "genetische Ressourcen | genetic resources" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1509" } ,
         "issueLabel": { "type": "literal" , "value": "#1509" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
