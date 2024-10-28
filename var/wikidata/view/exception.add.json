@@ -41908,7 +41908,7 @@
         "stwLabel": { "type": "literal" , "value": "Medizinische Behandlung | Medical treatment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12326525" } ,
-        "wdLabel": { "type": "literal" , "value": " | medical treatment" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1564" } ,
         "issueLabel": { "type": "literal" , "value": "#1564" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
