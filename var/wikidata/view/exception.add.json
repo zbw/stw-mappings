@@ -24890,7 +24890,7 @@
         "stwLabel": { "type": "literal" , "value": "Geographie | Geography" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q52107" } ,
-        "wdLabel": { "type": "literal" , "value": "Physische Geographie | geography" } ,
+        "wdLabel": { "type": "literal" , "value": "Physische Geographie | physical geography" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/918" } ,
         "issueLabel": { "type": "literal" , "value": "#918" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
