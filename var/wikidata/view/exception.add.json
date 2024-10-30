@@ -43780,7 +43780,7 @@
         "stwLabel": { "type": "literal" , "value": "Semantisches Web | Semantic web" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q515701" } ,
-        "wdLabel": { "type": "literal" , "value": "Linked Data | linked data" } ,
+        "wdLabel": { "type": "literal" , "value": "verknüpfte Daten | linked data" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1613" } ,
         "issueLabel": { "type": "literal" , "value": "#1613" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
