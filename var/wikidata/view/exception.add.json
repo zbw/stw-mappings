@@ -14076,7 +14076,7 @@
         "stwLabel": { "type": "literal" , "value": "Fertigungsprogramm | Master production schedule" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q110375331" } ,
-        "wdLabel": { "type": "literal" , "value": "Produktlinie | product line" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/516" } ,
         "issueLabel": { "type": "literal" , "value": "#516" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
