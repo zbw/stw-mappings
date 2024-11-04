@@ -33656,7 +33656,7 @@
         "stwLabel": { "type": "literal" , "value": "Sezession | Secession" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1054283" } ,
-        "wdLabel": { "type": "literal" , "value": "Nachfolgestaat | succession of states" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatennachfolge | succession of states" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1286" } ,
         "issueLabel": { "type": "literal" , "value": "#1286" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
