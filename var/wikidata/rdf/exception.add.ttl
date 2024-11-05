@@ -1623,7 +1623,6 @@ stw:19860-4 skos:narrowMatch wd:Q116250089 .
 stw:16726-2 skos:narrowMatch wd:Q1796820 .
 stw:16730-4 skos:relatedMatch wd:Q2563485 .
 stw:16730-4 skos:narrowMatch wd:Q918562 .
-stw:16727-0 skos:closeMatch wd:Q1438073 .
 stw:29445-3 skos:relatedMatch wd:Q5246046 .
 stw:30057-2 skos:narrowMatch wd:Q53706 .
 stw:30058-0 skos:narrowMatch wd:Q34284 .
