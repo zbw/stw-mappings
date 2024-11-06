@@ -35319,7 +35319,7 @@
         "stwLabel": { "type": "literal" , "value": "Haushaltsplanung | Public budgeting" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4985034" } ,
-        "wdLabel": { "type": "literal" , "value": " | Budget process" } ,
+        "wdLabel": { "type": "literal" , "value": " | budget process" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1335" } ,
         "issueLabel": { "type": "literal" , "value": "#1335" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
