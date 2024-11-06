@@ -10286,8 +10286,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/375" } ,
         "issueLabel": { "type": "literal" , "value": "#375" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1005490" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Selbständigkeit | self-employment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q130973804" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Selbstständiger | self-employed" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "794" } ,
@@ -10299,8 +10299,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/375" } ,
         "issueLabel": { "type": "literal" , "value": "#375" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1005490" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Selbständigkeit | self-employment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q130973804" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Selbstständiger | self-employed" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "795" } ,
