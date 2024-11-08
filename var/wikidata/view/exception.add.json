@@ -11581,7 +11581,7 @@
         "stwLabel": { "type": "literal" , "value": "Portfolio-Investition | Foreign portfolio investment" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q609343" } ,
-        "wdLabel": { "type": "literal" , "value": "Portfolioinvestition | Portfolio investment" } ,
+        "wdLabel": { "type": "literal" , "value": "Portfolioinvestition | portfolio investment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/412" } ,
         "issueLabel": { "type": "literal" , "value": "#412" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
