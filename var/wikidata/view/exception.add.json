@@ -6436,7 +6436,7 @@
       { 
         "ln": { "type": "literal" , "value": "497" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2346706" } ,
         "wdLabel": { "type": "literal" , "value": "Steuerverfahrensrecht | " } ,
@@ -6449,7 +6449,7 @@
       { 
         "ln": { "type": "literal" , "value": "498" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q507013" } ,
         "wdLabel": { "type": "literal" , "value": "Steuergeheimnis | fiscal secret" } ,
@@ -6462,7 +6462,7 @@
       { 
         "ln": { "type": "literal" , "value": "499" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1435947" } ,
         "wdLabel": { "type": "literal" , "value": "Steuerfestsetzung | tax assessment" } ,
@@ -6475,7 +6475,7 @@
       { 
         "ln": { "type": "literal" , "value": "500" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1502247" } ,
         "wdLabel": { "type": "literal" , "value": "Steuerbescheid | notice of assessment" } ,
@@ -6488,7 +6488,7 @@
       { 
         "ln": { "type": "literal" , "value": "501" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2472954" } ,
         "wdLabel": { "type": "literal" , "value": "Stempelsteuer | stamp duty" } ,
@@ -6501,7 +6501,7 @@
       { 
         "ln": { "type": "literal" , "value": "502" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q830530" } ,
         "wdLabel": { "type": "literal" , "value": "Besteuerungsgrundlage | taxable base" } ,
@@ -6514,7 +6514,7 @@
       { 
         "ln": { "type": "literal" , "value": "503" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1435947" } ,
         "wdLabel": { "type": "literal" , "value": "Steuerfestsetzung | tax assessment" } ,
@@ -6527,7 +6527,7 @@
       { 
         "ln": { "type": "literal" , "value": "504" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q612139" } ,
         "wdLabel": { "type": "literal" , "value": "Bemessungsgrundlage | tax base" } ,
@@ -6540,7 +6540,7 @@
       { 
         "ln": { "type": "literal" , "value": "505" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2449024" } ,
         "wdLabel": { "type": "literal" , "value": "Steuereinzug | tax collecting" } ,
@@ -6553,7 +6553,7 @@
       { 
         "ln": { "type": "literal" , "value": "506" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11708-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Besteuerungsverfahren | Taxation procedure" } ,
+        "stwLabel": { "type": "literal" , "value": "Steuererhebungsverfahren | Taxation procedure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q105766514" } ,
         "wdLabel": { "type": "literal" , "value": "Steuererhebung | tax collection" } ,
@@ -15303,7 +15303,7 @@
       { 
         "ln": { "type": "literal" , "value": "1181" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12612-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Ergonomie | Ergonomics" } ,
+        "stwLabel": { "type": "literal" , "value": "Arbeitswissenschaft | Human engineering" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628843" } ,
         "wdLabel": { "type": "literal" , "value": "Arbeitsphysiologie | work physiology" } ,
@@ -15316,7 +15316,7 @@
       { 
         "ln": { "type": "literal" , "value": "1182" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12612-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Ergonomie | Ergonomics" } ,
+        "stwLabel": { "type": "literal" , "value": "Arbeitswissenschaft | Human engineering" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q628764" } ,
         "wdLabel": { "type": "literal" , "value": "Arbeitsmedizin | occupational medicine" } ,
@@ -15329,7 +15329,7 @@
       { 
         "ln": { "type": "literal" , "value": "1183" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12612-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Ergonomie | Ergonomics" } ,
+        "stwLabel": { "type": "literal" , "value": "Arbeitswissenschaft | Human engineering" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q104937251" } ,
         "wdLabel": { "type": "literal" , "value": " | " } ,
@@ -15342,7 +15342,7 @@
       { 
         "ln": { "type": "literal" , "value": "1184" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12612-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Ergonomie | Ergonomics" } ,
+        "stwLabel": { "type": "literal" , "value": "Arbeitswissenschaft | Human engineering" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q629350" } ,
         "wdLabel": { "type": "literal" , "value": "Arbeitswissenschaft | labour science" } ,
@@ -25480,7 +25480,7 @@
       { 
         "ln": { "type": "literal" , "value": "1965" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13807-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Zahlungsverkehr | Payment system" } ,
+        "stwLabel": { "type": "literal" , "value": "Zahlungsverkehr | Payment transactions" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20826110" } ,
         "wdLabel": { "type": "literal" , "value": "Zahlungsverkehr | payment system" } ,
@@ -25985,7 +25985,7 @@
       { 
         "ln": { "type": "literal" , "value": "2004" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18022-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Elektronisches Geld | Electronic money" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektronisches Zahlungsmittel | Electronic payment" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3323516" } ,
         "wdLabel": { "type": "literal" , "value": " | electronic payment" } ,
@@ -25998,7 +25998,7 @@
       { 
         "ln": { "type": "literal" , "value": "2005" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18022-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Elektronisches Geld | Electronic money" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektronisches Zahlungsmittel | Electronic payment" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1365703" } ,
         "wdLabel": { "type": "literal" , "value": "Mobile-Payment | mobile payment" } ,
@@ -26011,7 +26011,7 @@
       { 
         "ln": { "type": "literal" , "value": "2006" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18022-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Elektronisches Geld | Electronic money" } ,
+        "stwLabel": { "type": "literal" , "value": "Elektronisches Zahlungsmittel | Electronic payment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1326122" } ,
         "wdLabel": { "type": "literal" , "value": "Electronic cash | electronic cash" } ,
@@ -26024,7 +26024,7 @@
       { 
         "ln": { "type": "literal" , "value": "2007" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/13807-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Zahlungsverkehr | Payment system" } ,
+        "stwLabel": { "type": "literal" , "value": "Zahlungsverkehr | Payment transactions" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q986008" } ,
         "wdLabel": { "type": "literal" , "value": "Zahlungsverfahren | payment system" } ,
