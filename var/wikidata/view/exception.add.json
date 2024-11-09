@@ -12465,7 +12465,7 @@
         "stwLabel": { "type": "literal" , "value": "Kundenwert | Customer value" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1146253" } ,
-        "wdLabel": { "type": "literal" , "value": "Customer Lifetime Value | Customer lifetime value" } ,
+        "wdLabel": { "type": "literal" , "value": "Customer Lifetime Value | customer lifetime value" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/447" } ,
         "issueLabel": { "type": "literal" , "value": "#447" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
