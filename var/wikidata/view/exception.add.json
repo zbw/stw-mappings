@@ -21669,7 +21669,7 @@
         "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1092499" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatsanwaltschaft | prosecutors office" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatsanwaltschaft | public prosecutor's office" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
