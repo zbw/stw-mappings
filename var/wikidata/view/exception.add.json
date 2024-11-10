@@ -40623,7 +40623,7 @@
         "stwLabel": { "type": "literal" , "value": "Ökosystem | Ecosystem" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q295865" } ,
-        "wdLabel": { "type": "literal" , "value": "Ökosystemdienstleistung | ecosystem services" } ,
+        "wdLabel": { "type": "literal" , "value": "Ökosystemdienstleistung | ecosystem service" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1522" } ,
         "issueLabel": { "type": "literal" , "value": "#1522" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
