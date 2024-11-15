@@ -44430,7 +44430,7 @@
         "stwLabel": { "type": "literal" , "value": "Kooperatives Spiel | Cooperative game" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1418321" } ,
-        "wdLabel": { "type": "literal" , "value": "Kooperative Spieltheorie | cooperative game theory" } ,
+        "wdLabel": { "type": "literal" , "value": "kooperatives Spiel | cooperative game" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1627" } ,
         "issueLabel": { "type": "literal" , "value": "#1627" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
