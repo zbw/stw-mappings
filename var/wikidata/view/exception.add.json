@@ -17724,7 +17724,7 @@
         "stwLabel": { "type": "literal" , "value": "Portfolio-Management | Portfolio selection" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7231728" } ,
-        "wdLabel": { "type": "literal" , "value": "Optimierung des Portfolios | Portfolio optimization" } ,
+        "wdLabel": { "type": "literal" , "value": "Optimierung des Portfolios | portfolio optimization" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
