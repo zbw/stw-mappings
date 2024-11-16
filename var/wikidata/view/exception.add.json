@@ -25769,7 +25769,7 @@
         "stwLabel": { "type": "literal" , "value": "Virtuelle Währung | Virtual currency" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131723" } ,
-        "wdLabel": { "type": "literal" , "value": "Bitcoin | Luis ist ein ohn geplantes Hund" } ,
+        "wdLabel": { "type": "literal" , "value": "Bitcoin | bitcoin" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/955" } ,
         "issueLabel": { "type": "literal" , "value": "#955" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
