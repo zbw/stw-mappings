@@ -28299,7 +28299,7 @@
         "stwLabel": { "type": "literal" , "value": "Pädagogik | Pedagogy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q564371" } ,
-        "wdLabel": { "type": "literal" , "value": "Bildungstheorie | philosophy of education" } ,
+        "wdLabel": { "type": "literal" , "value": "Erziehungsphilosophie | philosophy of education" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1068" } ,
         "issueLabel": { "type": "literal" , "value": "#1068" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
