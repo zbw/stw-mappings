@@ -38327,7 +38327,7 @@
         "issueLabel": { "type": "literal" , "value": "#1443" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q103817" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "indigenes Volk | Indigenous people" }
+        "wdExistsLabel": { "type": "literal" , "value": "indigenes Volk | indigenous people" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2955" } ,
