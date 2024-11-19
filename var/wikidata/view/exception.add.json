@@ -7969,7 +7969,7 @@
         "stwLabel": { "type": "literal" , "value": "Planspiel | Business game" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q334602" } ,
-        "wdLabel": { "type": "literal" , "value": "Übungsfirma | practice firm" } ,
+        "wdLabel": { "type": "literal" , "value": "Übungsfirma | practice enterprise" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/284" } ,
         "issueLabel": { "type": "literal" , "value": "#284" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
