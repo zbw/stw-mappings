@@ -3621,7 +3621,7 @@
         "stwLabel": { "type": "literal" , "value": "Bürotechnik | Office technology" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q31087" } ,
-        "wdLabel": { "type": "literal" , "value": "Taschenrechner | calculator" } ,
+        "wdLabel": { "type": "literal" , "value": "Taschenrechner | 5000/60=" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/142" } ,
         "issueLabel": { "type": "literal" , "value": "#142" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
