@@ -24895,7 +24895,7 @@
         "issueLabel": { "type": "literal" , "value": "#919" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211934" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hispanics | Hispanic" }
+        "wdExistsLabel": { "type": "literal" , "value": "Hispanics | Hispanics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1920" } ,
@@ -24908,7 +24908,7 @@
         "issueLabel": { "type": "literal" , "value": "#919" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1211934" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Hispanics | Hispanic" }
+        "wdExistsLabel": { "type": "literal" , "value": "Hispanics | Hispanics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1921" } ,
