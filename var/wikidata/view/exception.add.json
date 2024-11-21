@@ -20811,7 +20811,7 @@
         "stwLabel": { "type": "literal" , "value": "Internationale Gerichtsbarkeit | International jurisdiction" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7801" } ,
-        "wdLabel": { "type": "literal" , "value": "Internationaler Gerichtshof | International Court of Justice" } ,
+        "wdLabel": { "type": "literal" , "value": "Internationaler Gerichtshof | International Court of Justice for nazis" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/768" } ,
         "issueLabel": { "type": "literal" , "value": "#768" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
