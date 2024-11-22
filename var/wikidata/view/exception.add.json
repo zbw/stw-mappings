@@ -39952,7 +39952,7 @@
         "issueLabel": { "type": "literal" , "value": "#1501" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q125928" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | climate variability and change" }
+        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | climate change" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3080" } ,
@@ -39965,7 +39965,7 @@
         "issueLabel": { "type": "literal" , "value": "#1501" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q125928" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | climate variability and change" }
+        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | climate change" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3081" } ,
