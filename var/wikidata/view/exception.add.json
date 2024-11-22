@@ -39947,7 +39947,7 @@
         "stwLabel": { "type": "literal" , "value": "Klimawandel | Climate change" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7942" } ,
-        "wdLabel": { "type": "literal" , "value": "Erderwärmung | climate change" } ,
+        "wdLabel": { "type": "literal" , "value": "Erderwärmung | global warming" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1501" } ,
         "issueLabel": { "type": "literal" , "value": "#1501" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
