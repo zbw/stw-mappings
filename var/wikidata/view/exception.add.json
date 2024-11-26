@@ -46592,7 +46592,7 @@
         "stwLabel": { "type": "literal" , "value": "Regionale Wachstumstheorie | Regional growth theory" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q23002002" } ,
-        "wdLabel": { "type": "literal" , "value": "Wachstumstheorie | Growth theory" } ,
+        "wdLabel": { "type": "literal" , "value": "Wachstumstheorie | growth theory" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1715" } ,
         "issueLabel": { "type": "literal" , "value": "#1715" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
