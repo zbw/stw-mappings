@@ -19942,7 +19942,7 @@
         "stwLabel": { "type": "literal" , "value": "Merkantilismus | Mercantilism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q616481" } ,
-        "wdLabel": { "type": "literal" , "value": "Kameralismus | Cameralism" } ,
+        "wdLabel": { "type": "literal" , "value": "Kameralismus | cameralism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/731" } ,
         "issueLabel": { "type": "literal" , "value": "#731" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
