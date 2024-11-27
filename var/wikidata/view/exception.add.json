@@ -6298,7 +6298,7 @@
         "stwLabel": { "type": "literal" , "value": "Automat | Automat" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q33972" } ,
-        "wdLabel": { "type": "literal" , "value": "einarmiger Bandit | TERATAIPUTIH: Situs Slot Paling Gacor Gampang Menang" } ,
+        "wdLabel": { "type": "literal" , "value": "einarmiger Bandit | slot machine" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/151" } ,
         "issueLabel": { "type": "literal" , "value": "#151" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
