@@ -42082,7 +42082,7 @@
         "issueLabel": { "type": "literal" , "value": "#1569" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12199" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "AIDS | HIV/AIDS" }
+        "wdExistsLabel": { "type": "literal" , "value": "AIDS | AIDS" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3244" } ,
