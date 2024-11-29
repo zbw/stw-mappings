@@ -9261,7 +9261,7 @@
         "issueLabel": { "type": "literal" , "value": "#332" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8799101" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Theorie der Verfügungsrechte | economics of property rights" }
+        "wdExistsLabel": { "type": "literal" , "value": " | economics of property rights" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "715" } ,
