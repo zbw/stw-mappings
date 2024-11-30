@@ -44815,7 +44815,7 @@
         "stwLabel": { "type": "literal" , "value": "Statistischer Fehler | Statistical error" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1401260" } ,
-        "wdLabel": { "type": "literal" , "value": "Fehlertheorie | Theory of error" } ,
+        "wdLabel": { "type": "literal" , "value": "Fehlertheorie | theory of error" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1641" } ,
         "issueLabel": { "type": "literal" , "value": "#1641" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
