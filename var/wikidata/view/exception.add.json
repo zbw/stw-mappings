@@ -8000,7 +8000,7 @@
         "issueLabel": { "type": "literal" , "value": "#285" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q175096" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "SWOT-Analyse | SWOT Analysis" }
+        "wdExistsLabel": { "type": "literal" , "value": "SWOT-Analyse | SWOT analysis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "618" } ,
@@ -8026,7 +8026,7 @@
         "issueLabel": { "type": "literal" , "value": "#287" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q175096" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "SWOT-Analyse | SWOT Analysis" }
+        "wdExistsLabel": { "type": "literal" , "value": "SWOT-Analyse | SWOT analysis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "620" } ,
