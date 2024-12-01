@@ -32608,7 +32608,7 @@
         "issueLabel": { "type": "literal" , "value": "#1237" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106230553" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Genderdiskriminierung | sex discrimination" }
+        "wdExistsLabel": { "type": "literal" , "value": "Genderdiskriminierung | gender discrimination" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2515" } ,
