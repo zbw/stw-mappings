@@ -3933,7 +3933,7 @@
         "stwLabel": { "type": "literal" , "value": "Fahrrad | Bicycle" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q924724" } ,
-        "wdLabel": { "type": "literal" , "value": "Elektrorad | electric bicycle" } ,
+        "wdLabel": { "type": "literal" , "value": "E-Bike | electric bicycle" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/154" } ,
         "issueLabel": { "type": "literal" , "value": "#154" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
