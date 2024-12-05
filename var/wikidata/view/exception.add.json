@@ -4679,7 +4679,7 @@
         "issueLabel": { "type": "literal" , "value": "#181" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13317" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Joghurt | yogurt" }
+        "wdExistsLabel": { "type": "literal" , "value": "Joghurt | Toooooppppp" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "362" } ,
