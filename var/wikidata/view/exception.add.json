@@ -20642,7 +20642,7 @@
         "stwLabel": { "type": "literal" , "value": "Steuerstrafrecht | Criminal tax law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6502151" } ,
-        "wdLabel": { "type": "literal" , "value": "Steuerdelikt | tax evasion" } ,
+        "wdLabel": { "type": "literal" , "value": "Steuerhinterziehung | tax evasion" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/762" } ,
         "issueLabel": { "type": "literal" , "value": "#762" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
