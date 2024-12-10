@@ -1608,7 +1608,7 @@
         "stwLabel": { "type": "literal" , "value": "Seefische | Saltwater fish" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2396858" } ,
-        "wdLabel": { "type": "literal" , "value": "Atlantischer Hering | Atlantic herring" } ,
+        "wdLabel": { "type": "literal" , "value": "Atlantischer Hering | Clupea harengus" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/86" } ,
         "issueLabel": { "type": "literal" , "value": "#86" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
