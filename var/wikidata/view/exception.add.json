@@ -19669,7 +19669,7 @@
         "stwLabel": { "type": "literal" , "value": "Strukturalismus | Structuralism" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q267932" } ,
-        "wdLabel": { "type": "literal" , "value": "Poststrukturalismus | post-structuralism" } ,
+        "wdLabel": { "type": "literal" , "value": "Poststrukturalismus | Post-structuralism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/719" } ,
         "issueLabel": { "type": "literal" , "value": "#719" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
