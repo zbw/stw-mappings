@@ -32655,7 +32655,7 @@
         "stwLabel": { "type": "literal" , "value": "Homosexualität | Homosexuality" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6649" } ,
-        "wdLabel": { "type": "literal" , "value": "Lesbianismus | Trans" } ,
+        "wdLabel": { "type": "literal" , "value": "Lesbianismus | lesbianism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1240" } ,
         "issueLabel": { "type": "literal" , "value": "#1240" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
