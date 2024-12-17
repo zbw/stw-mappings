@@ -34462,7 +34462,7 @@
         "stwLabel": { "type": "literal" , "value": "Systemvergleich | Comparative systems" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3543374" } ,
-        "wdLabel": { "type": "literal" , "value": " | Comparative economic systems" } ,
+        "wdLabel": { "type": "literal" , "value": " | comparative economic systems" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1311" } ,
         "issueLabel": { "type": "literal" , "value": "#1311" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
