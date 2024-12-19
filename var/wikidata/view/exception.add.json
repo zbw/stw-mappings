@@ -17256,7 +17256,7 @@
         "stwLabel": { "type": "literal" , "value": "Aktionärsrechte | Shareholder rights" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q512641" } ,
-        "wdLabel": { "type": "literal" , "value": "Bezugsrechtsemission | Rights issue" } ,
+        "wdLabel": { "type": "literal" , "value": "Bezugsrechtsemission | rights issue" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/625" } ,
         "issueLabel": { "type": "literal" , "value": "#625" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
