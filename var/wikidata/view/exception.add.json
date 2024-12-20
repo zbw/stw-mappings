@@ -26493,8 +26493,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/983" } ,
         "issueLabel": { "type": "literal" , "value": "#983" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3023870" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gemeinwohl-Ökonomie | Economy for the Common Good" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2044" } ,
@@ -26506,8 +26505,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/983" } ,
         "issueLabel": { "type": "literal" , "value": "#983" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3023870" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gemeinwohl-Ökonomie | Economy for the Common Good" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2045" } ,
@@ -26519,8 +26517,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/983" } ,
         "issueLabel": { "type": "literal" , "value": "#983" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3023870" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gemeinwohl-Ökonomie | Economy for the Common Good" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2046" } ,
