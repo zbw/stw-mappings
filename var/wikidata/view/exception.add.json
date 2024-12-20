@@ -29583,8 +29583,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1108" } ,
         "issueLabel": { "type": "literal" , "value": "#1108" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q649124" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkeffekt | network effect" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1766026" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkökonomik | network economics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2282" } ,
@@ -29596,8 +29596,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1108" } ,
         "issueLabel": { "type": "literal" , "value": "#1108" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q649124" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkeffekt | network effect" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1766026" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkökonomik | network economics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2283" } ,
@@ -29609,8 +29609,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1108" } ,
         "issueLabel": { "type": "literal" , "value": "#1108" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q649124" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkeffekt | network effect" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1766026" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkökonomik | network economics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2284" } ,
@@ -29622,8 +29622,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1108" } ,
         "issueLabel": { "type": "literal" , "value": "#1108" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q649124" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkeffekt | network effect" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1766026" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Netzwerkökonomik | network economics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2285" } ,
@@ -47590,6 +47590,30 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q718717" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Arzneimittelrecht | pharmaceutical law" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3674" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30525-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Extrinsische Motivation | Extrinsic motivation" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q644302" } ,
+        "wdLabel": { "type": "literal" , "value": "Motivation | motivation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1787" } ,
+        "issueLabel": { "type": "literal" , "value": "#1787" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3675" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30524-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Intrinsische Motivation | Intrinsic motivation" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q644302" } ,
+        "wdLabel": { "type": "literal" , "value": "Motivation | motivation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1787" } ,
+        "issueLabel": { "type": "literal" , "value": "#1787" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }

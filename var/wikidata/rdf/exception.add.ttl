@@ -3676,3 +3676,5 @@ stw:16417-1 skos:narrowMatch wd:Q83201 .
 stw:16417-1 skos:relatedMatch wd:Q1172886 .
 stw:13193-5 skos:narrowMatch wd:Q13107184 .
 stw:18259-4 skos:closeMatch wd:Q573538 .
+stw:30525-2 skos:broadMatch wd:Q644302 .
+stw:30524-4 skos:broadMatch wd:Q644302 .
