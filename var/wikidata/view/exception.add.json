@@ -35260,7 +35260,7 @@
         "stwLabel": { "type": "literal" , "value": "Haushaltskonsolidierung | Fiscal consolidation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16133296" } ,
-        "wdLabel": { "type": "literal" , "value": "Fiskalregeln | fiscal rules" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1334" } ,
         "issueLabel": { "type": "literal" , "value": "#1334" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
