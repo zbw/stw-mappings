@@ -2278,7 +2278,6 @@ stw:,rel,wd:,issue,note
 29931-1,>,Q1195054,#1105,Mehrfachmatch
 29818-4,^,Q970687,#1106,Mehrfachmatch
 10205-4,>,Q860427,#1107,Mehrfachmatch
-19431-6,*,Q1766026,#1108,Mehrfachmatch
 19431-6,>,Q2031007,#1108,Mehrfachmatch
 19431-6,>,Q61465712,#1108,Mehrfachmatch
 19431-6,>,Q50867887,#1108,Mehrfachmatch
@@ -3673,3 +3672,4 @@ stw:,rel,wd:,issue,note
 18259-4,*,Q573538,#1786,Mehrfachmatch
 30525-2,<,Q644302,#1787,Mehrfachmatch
 30524-4,<,Q644302,#1787,Mehrfachmatch
+30509-0,>,Q459213,#1788,Mehrfachmatch
