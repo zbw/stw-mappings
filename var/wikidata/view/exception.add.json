@@ -36716,7 +36716,7 @@
         "stwLabel": { "type": "literal" , "value": "Ladeinfrastruktur | Charging infrastructure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2140665" } ,
-        "wdLabel": { "type": "literal" , "value": "Stromtankstelle | electric vehicle charging station" } ,
+        "wdLabel": { "type": "literal" , "value": "Stromtankstelle | charging station" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1380" } ,
         "issueLabel": { "type": "literal" , "value": "#1380" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
