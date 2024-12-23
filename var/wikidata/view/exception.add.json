@@ -33250,7 +33250,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1263" } ,
         "issueLabel": { "type": "literal" , "value": "#1263" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14623843" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11680831" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kommunikationswissenschaft | communication studies" }
       } ,
       { 
@@ -33263,7 +33263,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1263" } ,
         "issueLabel": { "type": "literal" , "value": "#1263" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14623843" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11680831" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kommunikationswissenschaft | communication studies" }
       } ,
       { 
@@ -33276,7 +33276,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1263" } ,
         "issueLabel": { "type": "literal" , "value": "#1263" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14623843" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11680831" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kommunikationswissenschaft | communication studies" }
       } ,
       { 
@@ -33289,7 +33289,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1263" } ,
         "issueLabel": { "type": "literal" , "value": "#1263" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14623843" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11680831" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kommunikationswissenschaft | communication studies" }
       } ,
       { 
@@ -33302,7 +33302,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1263" } ,
         "issueLabel": { "type": "literal" , "value": "#1263" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14623843" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11680831" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Kommunikationswissenschaft | communication studies" }
       } ,
       { 
