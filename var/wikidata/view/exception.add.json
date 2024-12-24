@@ -33818,7 +33818,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatsoberhaupt | Head of state" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q248577" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatspräsident | President of the Republic" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatspräsident | Dictateur of the Republic" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1294" } ,
         "issueLabel": { "type": "literal" , "value": "#1294" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
