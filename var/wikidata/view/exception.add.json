@@ -16342,7 +16342,7 @@
         "stwLabel": { "type": "literal" , "value": "Betriebliches Gesundheitsmanagement | Occupational health" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1519821" } ,
-        "wdLabel": { "type": "literal" , "value": "Betrieblicher Gesundheitsschutz | operational health protection" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/587" } ,
         "issueLabel": { "type": "literal" , "value": "#587" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
