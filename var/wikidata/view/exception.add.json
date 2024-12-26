@@ -92,7 +92,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q638608" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Softwareentwicklung | software" }
+        "wdExistsLabel": { "type": "literal" , "value": "Softwareentwicklung | software development" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "9" } ,
