@@ -38840,7 +38840,7 @@
         "issueLabel": { "type": "literal" , "value": "#1468" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15141361" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Friedensforschung | peace studies" }
+        "wdExistsLabel": { "type": "literal" , "value": "Irenologie | irenology" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2995" } ,
@@ -38853,7 +38853,7 @@
         "issueLabel": { "type": "literal" , "value": "#1468" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15141361" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Friedensforschung | peace studies" }
+        "wdExistsLabel": { "type": "literal" , "value": "Irenologie | irenology" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2996" } ,
