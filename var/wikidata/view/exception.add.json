@@ -9113,7 +9113,7 @@
         "stwLabel": { "type": "literal" , "value": "Interne Dienstleistung | Internal services" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1431598" } ,
-        "wdLabel": { "type": "literal" , "value": "Shared Services | Shared services" } ,
+        "wdLabel": { "type": "literal" , "value": "Shared Services | shared services" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/327" } ,
         "issueLabel": { "type": "literal" , "value": "#327" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
