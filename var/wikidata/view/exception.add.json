@@ -39004,7 +39004,7 @@
         "stwLabel": { "type": "literal" , "value": "Informationskrieg | Information warfare" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1137004" } ,
-        "wdLabel": { "type": "literal" , "value": "Cyber-Terrorismus | cyberterrorism" } ,
+        "wdLabel": { "type": "literal" , "value": "Cyberterrorismus oder Computerterrorismus | cyberterrorism or computer terrorism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1476" } ,
         "issueLabel": { "type": "literal" , "value": "#1476" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
