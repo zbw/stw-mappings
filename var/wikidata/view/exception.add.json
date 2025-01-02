@@ -38575,7 +38575,7 @@
         "stwLabel": { "type": "literal" , "value": "Europapolitik | Policy towards Europe" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q223200" } ,
-        "wdLabel": { "type": "literal" , "value": "Europaskepsis | Euroscepticism" } ,
+        "wdLabel": { "type": "literal" , "value": "Europaskepsis | euroscepticism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1461" } ,
         "issueLabel": { "type": "literal" , "value": "#1461" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
