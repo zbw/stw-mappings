@@ -13179,7 +13179,7 @@
         "stwLabel": { "type": "literal" , "value": "Online-Marketing | Internet marketing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q846132" } ,
-        "wdLabel": { "type": "literal" , "value": "Suchmaschinenmarketing | search engine marketing optimization" } ,
+        "wdLabel": { "type": "literal" , "value": "Suchmaschinenmarketing | search engine marketing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/476" } ,
         "issueLabel": { "type": "literal" , "value": "#476" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
