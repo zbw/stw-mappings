@@ -3681,3 +3681,4 @@ stw:30509-0 skos:narrowMatch wd:Q459213 .
 stw:30466-6 skos:closeMatch wd:Q1445370 .
 stw:30439-2 skos:closeMatch wd:Q106651372 .
 stw:30509-0 skos:narrowMatch wd:Q459213 .
+stw:30490-2 skos:closeMatch wd:Q294245 .

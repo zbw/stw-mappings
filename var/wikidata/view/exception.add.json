@@ -47642,6 +47642,18 @@
         "issueLabel": { "type": "literal" , "value": "#1791" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3679" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30490-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Öffentliches Finanzmanagement | Public financial management" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q294245" } ,
+        "wdLabel": { "type": "literal" , "value": "Öffentliche Reformverwaltung | New public management" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1792" } ,
+        "issueLabel": { "type": "literal" , "value": "#1792" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
