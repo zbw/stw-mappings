@@ -47630,6 +47630,18 @@
         "issueLabel": { "type": "literal" , "value": "#1790" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3678" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30509-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Führungstheorie | Leadership theory" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q459213" } ,
+        "wdLabel": { "type": "literal" , "value": "Managerial Grid | managerial grid model" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1791" } ,
+        "issueLabel": { "type": "literal" , "value": "#1791" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
