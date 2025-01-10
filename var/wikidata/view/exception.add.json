@@ -39242,7 +39242,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1483" } ,
         "issueLabel": { "type": "literal" , "value": "#1483" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q120965376" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11637363" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Militärische Führung | military leadership" }
       } ,
       { 
