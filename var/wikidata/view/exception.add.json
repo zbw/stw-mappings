@@ -33979,7 +33979,7 @@
         "issueLabel": { "type": "literal" , "value": "#1299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7174" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | democracy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | Democracy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2621" } ,
@@ -33992,7 +33992,7 @@
         "issueLabel": { "type": "literal" , "value": "#1299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7174" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | democracy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | Democracy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2622" } ,
@@ -38866,7 +38866,7 @@
         "issueLabel": { "type": "literal" , "value": "#1469" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q198" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Krieg | war" }
+        "wdExistsLabel": { "type": "literal" , "value": "Krieg | War" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2997" } ,
@@ -38879,7 +38879,7 @@
         "issueLabel": { "type": "literal" , "value": "#1469" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q198" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Krieg | war" }
+        "wdExistsLabel": { "type": "literal" , "value": "Krieg | War" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2998" } ,
@@ -47421,7 +47421,7 @@
         "stwLabel": { "type": "literal" , "value": "Sozialistische Staaten | Socialist countries" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q849866" } ,
-        "wdLabel": { "type": "literal" , "value": "kommunistisches Land | communist state" } ,
+        "wdLabel": { "type": "literal" , "value": "kommunistisches Land | Negara" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1779" } ,
         "issueLabel": { "type": "literal" , "value": "#1779" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
