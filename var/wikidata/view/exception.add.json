@@ -33948,7 +33948,7 @@
         "stwLabel": { "type": "literal" , "value": "Autoritarismus | Authoritarianism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q173424" } ,
-        "wdLabel": { "type": "literal" , "value": "Autokratie | autocracy" } ,
+        "wdLabel": { "type": "literal" , "value": "Autokratie | Autocracy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1298" } ,
         "issueLabel": { "type": "literal" , "value": "#1298" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
