@@ -17213,7 +17213,7 @@
         "stwLabel": { "type": "literal" , "value": "Kapitalbedarf | Capital requirements" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1416384" } ,
-        "wdLabel": { "type": "literal" , "value": "Finanzierungsbedarf | Financing needs" } ,
+        "wdLabel": { "type": "literal" , "value": "Finanzierungsbedarf | financing needs" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/622" } ,
         "issueLabel": { "type": "literal" , "value": "#622" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
