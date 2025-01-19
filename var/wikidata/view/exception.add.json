@@ -38406,7 +38406,7 @@
         "stwLabel": { "type": "literal" , "value": "Süd-Süd-Beziehungen | South-South relations" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q210519" } ,
-        "wdLabel": { "type": "literal" , "value": " | South-South cooperation" } ,
+        "wdLabel": { "type": "literal" , "value": " | South\u2013South cooperation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1451" } ,
         "issueLabel": { "type": "literal" , "value": "#1451" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
