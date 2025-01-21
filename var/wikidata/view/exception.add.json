@@ -1881,7 +1881,7 @@
         "stwLabel": { "type": "literal" , "value": "Wasserkraft | Hydropower" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25509593" } ,
-        "wdLabel": { "type": "literal" , "value": "Gezeitenkraftwerk | tidal power station" } ,
+        "wdLabel": { "type": "literal" , "value": "adolf hitler | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/95" } ,
         "issueLabel": { "type": "literal" , "value": "#95" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
