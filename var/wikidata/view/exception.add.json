@@ -33948,7 +33948,7 @@
         "stwLabel": { "type": "literal" , "value": "Autoritarismus | Authoritarianism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q173424" } ,
-        "wdLabel": { "type": "literal" , "value": "Autokratie | autocracy" } ,
+        "wdLabel": { "type": "literal" , "value": "Autokratie | Autocracy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1298" } ,
         "issueLabel": { "type": "literal" , "value": "#1298" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -33979,7 +33979,7 @@
         "issueLabel": { "type": "literal" , "value": "#1299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7174" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | democracy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | Democracy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2621" } ,
@@ -33992,7 +33992,7 @@
         "issueLabel": { "type": "literal" , "value": "#1299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7174" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | democracy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | Democracy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2622" } ,
