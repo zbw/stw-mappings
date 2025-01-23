@@ -33883,7 +33883,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatsorgan | Organ of state" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q948571" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatsorgan | organ of state Palestine" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatsorgan | organ of state" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1295" } ,
         "issueLabel": { "type": "literal" , "value": "#1295" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
