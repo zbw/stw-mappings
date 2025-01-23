@@ -33948,7 +33948,7 @@
         "stwLabel": { "type": "literal" , "value": "Autoritarismus | Authoritarianism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q173424" } ,
-        "wdLabel": { "type": "literal" , "value": "Autokratie | Autocracy" } ,
+        "wdLabel": { "type": "literal" , "value": "Autokratie | autocracy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1298" } ,
         "issueLabel": { "type": "literal" , "value": "#1298" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -33979,7 +33979,7 @@
         "issueLabel": { "type": "literal" , "value": "#1299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7174" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | Democracy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | democracy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2621" } ,
@@ -33992,7 +33992,7 @@
         "issueLabel": { "type": "literal" , "value": "#1299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7174" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | Democracy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Demokratie | democracy" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2622" } ,
@@ -38866,7 +38866,7 @@
         "issueLabel": { "type": "literal" , "value": "#1469" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q198" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Krieg | World War" }
+        "wdExistsLabel": { "type": "literal" , "value": "Krieg | war" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2997" } ,
@@ -38879,7 +38879,7 @@
         "issueLabel": { "type": "literal" , "value": "#1469" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q198" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Krieg | World War" }
+        "wdExistsLabel": { "type": "literal" , "value": "Krieg | war" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2998" } ,
@@ -39139,7 +39139,7 @@
         "issueLabel": { "type": "literal" , "value": "#1480" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8473" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Militär | military Malaysian" }
+        "wdExistsLabel": { "type": "literal" , "value": "Militär | military" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3018" } ,
@@ -39152,7 +39152,7 @@
         "issueLabel": { "type": "literal" , "value": "#1480" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8473" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Militär | military Malaysian" }
+        "wdExistsLabel": { "type": "literal" , "value": "Militär | military" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3019" } ,
@@ -39165,7 +39165,7 @@
         "issueLabel": { "type": "literal" , "value": "#1480" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8473" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Militär | military Malaysian" }
+        "wdExistsLabel": { "type": "literal" , "value": "Militär | military" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3020" } ,
@@ -39178,7 +39178,7 @@
         "issueLabel": { "type": "literal" , "value": "#1480" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8473" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Militär | military Malaysian" }
+        "wdExistsLabel": { "type": "literal" , "value": "Militär | military" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3021" } ,
