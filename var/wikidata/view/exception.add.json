@@ -37210,7 +37210,7 @@
         "stwLabel": { "type": "literal" , "value": "Bürgerinitiative | Citizen's action group" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1021383" } ,
-        "wdLabel": { "type": "literal" , "value": "Bürgerprotest | Civil protest" } ,
+        "wdLabel": { "type": "literal" , "value": "Bürgerprotest | civil protest" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1401" } ,
         "issueLabel": { "type": "literal" , "value": "#1401" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
