@@ -20084,7 +20084,7 @@
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5950118" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law (legal system)" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1550" } ,
@@ -20097,7 +20097,7 @@
         "issueLabel": { "type": "literal" , "value": "#737" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5950118" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law (legal system)" }
+        "wdExistsLabel": { "type": "literal" , "value": "Zivilrecht | civil law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1551" } ,
