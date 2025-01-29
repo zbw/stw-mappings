@@ -34559,7 +34559,7 @@
         "stwLabel": { "type": "literal" , "value": "Regierung | Government" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15105" } ,
-        "wdLabel": { "type": "literal" , "value": "Ministerrat | Council of Ministers" } ,
+        "wdLabel": { "type": "literal" , "value": "Ministerrat | council of ministers" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1313" } ,
         "issueLabel": { "type": "literal" , "value": "#1313" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
