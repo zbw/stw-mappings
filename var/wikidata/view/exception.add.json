@@ -45947,7 +45947,7 @@
         "stwLabel": { "type": "literal" , "value": "ARMA-Modell | ARMA model" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4826945" } ,
-        "wdLabel": { "type": "literal" , "value": "ARFIMA Modell | Autoregressive fractionally integrated moving average" } ,
+        "wdLabel": { "type": "literal" , "value": "ARFIMA Modell | autoregressive fractionally integrated moving average" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1673" } ,
         "issueLabel": { "type": "literal" , "value": "#1673" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
