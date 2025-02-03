@@ -38692,7 +38692,7 @@
         "stwLabel": { "type": "literal" , "value": "Friedenssicherung | Peacekeeping" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q44005284" } ,
-        "wdLabel": { "type": "literal" , "value": "Friedensmission | peacekeeping mission" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1463" } ,
         "issueLabel": { "type": "literal" , "value": "#1463" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
