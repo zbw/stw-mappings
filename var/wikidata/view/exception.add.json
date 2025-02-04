@@ -19969,7 +19969,7 @@
         "issueLabel": { "type": "literal" , "value": "#733" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1977531" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Neoklassische Synthese | Neoclassical synthesis" }
+        "wdExistsLabel": { "type": "literal" , "value": "Neoklassische Synthese | neoclassical synthesis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1541" } ,
