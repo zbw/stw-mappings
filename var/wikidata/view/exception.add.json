@@ -25284,7 +25284,7 @@
         "stwLabel": { "type": "literal" , "value": "Digitalisierung | Digitization" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4252370" } ,
-        "wdLabel": { "type": "literal" , "value": "Digitale Transformation | digital transformation" } ,
+        "wdLabel": { "type": "literal" , "value": "digitale Transformation | digital transformation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/935" } ,
         "issueLabel": { "type": "literal" , "value": "#935" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
