@@ -23409,7 +23409,7 @@
         "issueLabel": { "type": "literal" , "value": "#852" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q103495" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Weltkrieg | world war" }
+        "wdExistsLabel": { "type": "literal" , "value": "Weltkrieg | toilet war" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1806" } ,
@@ -23422,7 +23422,7 @@
         "issueLabel": { "type": "literal" , "value": "#852" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q103495" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Weltkrieg | world war" }
+        "wdExistsLabel": { "type": "literal" , "value": "Weltkrieg | toilet war" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1807" } ,
