@@ -32108,7 +32108,7 @@
         "issueLabel": { "type": "literal" , "value": "#1214" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1510761" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "sozialer Wandel | judista" }
+        "wdExistsLabel": { "type": "literal" , "value": "sozialer Wandel | social change" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2477" } ,
@@ -32121,7 +32121,7 @@
         "issueLabel": { "type": "literal" , "value": "#1214" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1510761" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "sozialer Wandel | judista" }
+        "wdExistsLabel": { "type": "literal" , "value": "sozialer Wandel | social change" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2478" } ,
