@@ -3478,7 +3478,7 @@
         "stwLabel": { "type": "literal" , "value": "Hausgerät | Home appliances" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q101674" } ,
-        "wdLabel": { "type": "literal" , "value": "Staubsauger | vacuum cleaner" } ,
+        "wdLabel": { "type": "literal" , "value": "Staubsauger | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/138" } ,
         "issueLabel": { "type": "literal" , "value": "#138" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
