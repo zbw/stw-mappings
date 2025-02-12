@@ -35546,7 +35546,7 @@
         "stwLabel": { "type": "literal" , "value": "Gemeindesteuer | Local tax" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1248880" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeindesteuern in Deutschland | local tax in Germany" } ,
+        "wdLabel": { "type": "literal" , "value": "Gemeindesteuer | local tax in Germany" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1343" } ,
         "issueLabel": { "type": "literal" , "value": "#1343" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
