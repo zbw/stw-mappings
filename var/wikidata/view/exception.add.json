@@ -12426,7 +12426,7 @@
         "stwLabel": { "type": "literal" , "value": "Beziehungsmarketing | Relationship marketing" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q13405527" } ,
-        "wdLabel": { "type": "literal" , "value": "Kundenorientierung | Customer orientation" } ,
+        "wdLabel": { "type": "literal" , "value": "Kundenorientierung | customer orientation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/445" } ,
         "issueLabel": { "type": "literal" , "value": "#445" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
