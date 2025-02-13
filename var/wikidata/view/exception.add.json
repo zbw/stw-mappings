@@ -13145,7 +13145,7 @@
         "issueLabel": { "type": "literal" , "value": "#476" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | Internet marketing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | internet marketing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1015" } ,
@@ -13158,7 +13158,7 @@
         "issueLabel": { "type": "literal" , "value": "#476" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | Internet marketing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | internet marketing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1016" } ,
@@ -13171,7 +13171,7 @@
         "issueLabel": { "type": "literal" , "value": "#476" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | Internet marketing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | internet marketing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1017" } ,
@@ -13184,7 +13184,7 @@
         "issueLabel": { "type": "literal" , "value": "#476" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189507" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | Internet marketing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Online-Marketing | internet marketing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1018" } ,
