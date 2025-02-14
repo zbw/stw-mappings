@@ -30742,7 +30742,7 @@
         "stwLabel": { "type": "literal" , "value": "Umweltverträglichkeit | Environmental sustainability" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q63871" } ,
-        "wdLabel": { "type": "literal" , "value": "Strategische Umweltprüfung | Strategic environmental assessment" } ,
+        "wdLabel": { "type": "literal" , "value": "Strategische Umweltprüfung | strategic environmental assessment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1148" } ,
         "issueLabel": { "type": "literal" , "value": "#1148" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
