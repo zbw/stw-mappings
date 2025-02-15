@@ -40161,7 +40161,7 @@
         "stwLabel": { "type": "literal" , "value": "Überschwemmung | Flood" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8068" } ,
-        "wdLabel": { "type": "literal" , "value": "Überschwemmung | flood" } ,
+        "wdLabel": { "type": "literal" , "value": "Hochwasser | flood" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1508" } ,
         "issueLabel": { "type": "literal" , "value": "#1508" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
