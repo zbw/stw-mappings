@@ -40226,7 +40226,7 @@
         "stwLabel": { "type": "literal" , "value": "Überschwemmung | Flood" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2551422" } ,
-        "wdLabel": { "type": "literal" , "value": "Wasserschaden | " } ,
+        "wdLabel": { "type": "literal" , "value": "Wasserschaden | water damage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1508" } ,
         "issueLabel": { "type": "literal" , "value": "#1508" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
