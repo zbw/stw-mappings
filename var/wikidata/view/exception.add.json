@@ -12543,7 +12543,7 @@
         "stwLabel": { "type": "literal" , "value": "Kundenintegration | Customer integration" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2270945" } ,
-        "wdLabel": { "type": "literal" , "value": "Co-Creation | co-creation" } ,
+        "wdLabel": { "type": "literal" , "value": "Ko-Kreation | co-creation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/450" } ,
         "issueLabel": { "type": "literal" , "value": "#450" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
