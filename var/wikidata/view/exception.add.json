@@ -44280,7 +44280,7 @@
         "stwLabel": { "type": "literal" , "value": "Variationsrechnung | Variational method" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q875744" } ,
-        "wdLabel": { "type": "literal" , "value": "Euler-Lagrange-Gleichung | Euler-Lagrange equation" } ,
+        "wdLabel": { "type": "literal" , "value": "Euler-Lagrange-Gleichung | Euler\u2013Lagrange equation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1624" } ,
         "issueLabel": { "type": "literal" , "value": "#1624" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
