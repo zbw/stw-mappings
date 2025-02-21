@@ -37197,7 +37197,7 @@
         "stwLabel": { "type": "literal" , "value": "Verfassungsreform | Constitutional reform" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q53463" } ,
-        "wdLabel": { "type": "literal" , "value": "Verfassungsänderung | constitutional amendment" } ,
+        "wdLabel": { "type": "literal" , "value": "Verfassungsänderung | Jeffery dhamer" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1400" } ,
         "issueLabel": { "type": "literal" , "value": "#1400" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
