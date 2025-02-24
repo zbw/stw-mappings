@@ -42187,7 +42187,7 @@
         "stwLabel": { "type": "literal" , "value": "Depressive Störung | Depressive disorder" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11076418" } ,
-        "wdLabel": { "type": "literal" , "value": "Depressive Störung | depressive disorder" } ,
+        "wdLabel": { "type": "literal" , "value": "depressive Störung | depressive disorder" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1574" } ,
         "issueLabel": { "type": "literal" , "value": "#1574" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
