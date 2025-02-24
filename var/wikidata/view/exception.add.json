@@ -47649,7 +47649,7 @@
         "stwLabel": { "type": "literal" , "value": "Öffentliches Finanzmanagement | Public financial management" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q294245" } ,
-        "wdLabel": { "type": "literal" , "value": "Öffentliche Reformverwaltung | New public management" } ,
+        "wdLabel": { "type": "literal" , "value": "Öffentliche Reformverwaltung | new public management" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1792" } ,
         "issueLabel": { "type": "literal" , "value": "#1792" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
