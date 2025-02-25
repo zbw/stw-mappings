@@ -14774,7 +14774,7 @@
         "stwLabel": { "type": "literal" , "value": "Lagertechnik | Warehouse storage equipment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1622008" } ,
-        "wdLabel": { "type": "literal" , "value": "Hochregallager | high bay warehouse" } ,
+        "wdLabel": { "type": "literal" , "value": "Hochregallager | high-bay warehouse" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/543" } ,
         "issueLabel": { "type": "literal" , "value": "#543" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
