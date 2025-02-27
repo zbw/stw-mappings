@@ -20521,7 +20521,7 @@
         "stwLabel": { "type": "literal" , "value": "Internationales Investitionsrecht | International investment law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1671773" } ,
-        "wdLabel": { "type": "literal" , "value": "Investitionsschutzabkommen | Bilateral Investment Treaty" } ,
+        "wdLabel": { "type": "literal" , "value": "Investitionsschutzabkommen | bilateral investment treaty" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/757" } ,
         "issueLabel": { "type": "literal" , "value": "#757" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
