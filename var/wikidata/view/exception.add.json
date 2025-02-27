@@ -44566,7 +44566,7 @@
         "stwLabel": { "type": "literal" , "value": "Feldforschung | Field research" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1402850" } ,
-        "wdLabel": { "type": "literal" , "value": "Feldstudie | field study" } ,
+        "wdLabel": { "type": "literal" , "value": "Feldstudie | field study report" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1633" } ,
         "issueLabel": { "type": "literal" , "value": "#1633" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
