@@ -9191,7 +9191,7 @@
         "stwLabel": { "type": "literal" , "value": "Organisationsstruktur | Organizational structure" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17197366" } ,
-        "wdLabel": { "type": "literal" , "value": "Organisationsform | type of organisation" } ,
+        "wdLabel": { "type": "literal" , "value": "Organisationsform | type of organization" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/329" } ,
         "issueLabel": { "type": "literal" , "value": "#329" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
