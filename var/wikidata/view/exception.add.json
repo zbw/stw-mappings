@@ -5012,7 +5012,7 @@
         "stwLabel": { "type": "literal" , "value": "Zigarette | Cigarette" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189511" } ,
-        "wdLabel": { "type": "literal" , "value": "elektrische Zigarette | vape" } ,
+        "wdLabel": { "type": "literal" , "value": "elektrische Zigarette | electronic cigarette" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/194" } ,
         "issueLabel": { "type": "literal" , "value": "#194" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
