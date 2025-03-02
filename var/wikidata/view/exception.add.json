@@ -27148,7 +27148,7 @@
         "stwLabel": { "type": "literal" , "value": "Faschismus | Fascism" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7310" } ,
-        "wdLabel": { "type": "literal" , "value": "Nationalsozialismus | Nazism" } ,
+        "wdLabel": { "type": "literal" , "value": "Nationalsozialismus | National Socialism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1013" } ,
         "issueLabel": { "type": "literal" , "value": "#1013" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
