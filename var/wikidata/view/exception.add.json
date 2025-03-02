@@ -29715,7 +29715,7 @@
         "stwLabel": { "type": "literal" , "value": "Kartell | Cartel" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1734551" } ,
-        "wdLabel": { "type": "literal" , "value": "Kartelltheorie | Cartel theory" } ,
+        "wdLabel": { "type": "literal" , "value": "Kartelltheorie | cartel theory" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1114" } ,
         "issueLabel": { "type": "literal" , "value": "#1114" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
