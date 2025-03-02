@@ -34637,7 +34637,7 @@
         "stwLabel": { "type": "literal" , "value": "Regierungskoalition | Coalition government" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2184704" } ,
-        "wdLabel": { "type": "literal" , "value": "Große Koalition | grand coalition" } ,
+        "wdLabel": { "type": "literal" , "value": "große Koalition | grand coalition" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1315" } ,
         "issueLabel": { "type": "literal" , "value": "#1315" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
