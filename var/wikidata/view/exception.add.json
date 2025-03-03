@@ -11867,7 +11867,7 @@
         "stwLabel": { "type": "literal" , "value": "IT-Infrastruktur | IT infrastructure" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q671224" } ,
-        "wdLabel": { "type": "literal" , "value": "Rechenzentrum | Cabints" } ,
+        "wdLabel": { "type": "literal" , "value": "Rechenzentrum | data center" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/423" } ,
         "issueLabel": { "type": "literal" , "value": "#423" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
