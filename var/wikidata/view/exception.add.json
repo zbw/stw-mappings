@@ -38081,12 +38081,12 @@
         "stwLabel": { "type": "literal" , "value": "Interkulturelle Beziehungen | Cross-cultural relations" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1205196" } ,
-        "wdLabel": { "type": "literal" , "value": "Interkulturelle Kommunikation | intercultural communication" } ,
+        "wdLabel": { "type": "literal" , "value": "interkulturelle Kommunikation | intercultural communication" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1433" } ,
         "issueLabel": { "type": "literal" , "value": "#1433" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1205196" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Interkulturelle Kommunikation | intercultural communication" }
+        "wdExistsLabel": { "type": "literal" , "value": "interkulturelle Kommunikation | intercultural communication" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2937" } ,
@@ -38099,7 +38099,7 @@
         "issueLabel": { "type": "literal" , "value": "#1433" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1205196" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Interkulturelle Kommunikation | intercultural communication" }
+        "wdExistsLabel": { "type": "literal" , "value": "interkulturelle Kommunikation | intercultural communication" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2938" } ,
