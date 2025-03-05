@@ -23820,7 +23820,7 @@
         "stwLabel": { "type": "literal" , "value": "Antizyklische Finanzpolitik | Countercyclical fiscal policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17010135" } ,
-        "wdLabel": { "type": "literal" , "value": "Deficit spending | deficit spending" } ,
+        "wdLabel": { "type": "literal" , "value": "Deficit spending | Deficit spending" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/876" } ,
         "issueLabel": { "type": "literal" , "value": "#876" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
