@@ -1049,7 +1049,7 @@
         "stwLabel": { "type": "literal" , "value": "Nuss | Nut" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7885904" } ,
-        "wdLabel": { "type": "literal" , "value": "Kaschufrucht | cashew nut" } ,
+        "wdLabel": { "type": "literal" , "value": "Cashewnuss | cashew nut" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/75" } ,
         "issueLabel": { "type": "literal" , "value": "#75" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
