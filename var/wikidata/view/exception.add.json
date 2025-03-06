@@ -40486,7 +40486,7 @@
         "stwLabel": { "type": "literal" , "value": "Intertemporale Entscheidung | Intertemporal choice" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5281745" } ,
-        "wdLabel": { "type": "literal" , "value": "Discounted-Utility-Modell | Discounted utility" } ,
+        "wdLabel": { "type": "literal" , "value": "Discounted-Utility-Modell | discounted utility" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1518" } ,
         "issueLabel": { "type": "literal" , "value": "#1518" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
