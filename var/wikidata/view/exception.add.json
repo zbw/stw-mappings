@@ -44033,7 +44033,7 @@
         "stwLabel": { "type": "literal" , "value": "Fourier-Analyse | Fourier analysis" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q623950" } ,
-        "wdLabel": { "type": "literal" , "value": "schnelle Fourier-Transformation | Fast Fourier transform" } ,
+        "wdLabel": { "type": "literal" , "value": "schnelle Fourier-Transformation | fast Fourier transform" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1618" } ,
         "issueLabel": { "type": "literal" , "value": "#1618" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
