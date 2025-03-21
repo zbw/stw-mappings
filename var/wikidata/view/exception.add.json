@@ -24951,7 +24951,7 @@
         "stwLabel": { "type": "literal" , "value": "Iraner | Iranians" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1672477" } ,
-        "wdLabel": { "type": "literal" , "value": "Iranische Völker | kurd people" } ,
+        "wdLabel": { "type": "literal" , "value": "Iranische Völker | Iranian peoples" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/922" } ,
         "issueLabel": { "type": "literal" , "value": "#922" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
