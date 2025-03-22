@@ -5324,7 +5324,7 @@
         "stwLabel": { "type": "literal" , "value": "Papier | Paper" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2309497" } ,
-        "wdLabel": { "type": "literal" , "value": "Spezialpapier | " } ,
+        "wdLabel": { "type": "literal" , "value": "Spezialpapier | Special paper" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/205" } ,
         "issueLabel": { "type": "literal" , "value": "#205" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
