@@ -26088,7 +26088,7 @@
         "stwLabel": { "type": "literal" , "value": "Rumänen | Romanians" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q485150" } ,
-        "wdLabel": { "type": "literal" , "value": "Rumänen | Moldovenesc" } ,
+        "wdLabel": { "type": "literal" , "value": "Rumänen | Romanians" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/968" } ,
         "issueLabel": { "type": "literal" , "value": "#968" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
