@@ -20055,7 +20055,7 @@
         "stwLabel": { "type": "literal" , "value": "Wucher | Usury" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q157188" } ,
-        "wdLabel": { "type": "literal" , "value": "Zinswucher | usury" } ,
+        "wdLabel": { "type": "literal" , "value": "Zinswucher | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/736" } ,
         "issueLabel": { "type": "literal" , "value": "#736" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
