@@ -23469,7 +23469,7 @@
         "stwLabel": { "type": "literal" , "value": "Einkommenshypothese | Income hypothesis" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7310794" } ,
-        "wdLabel": { "type": "literal" , "value": "Relative Einkommenshypothese | Relative income hypothesis" } ,
+        "wdLabel": { "type": "literal" , "value": "Relative Einkommenshypothese | relative income hypothesis" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/856" } ,
         "issueLabel": { "type": "literal" , "value": "#856" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
