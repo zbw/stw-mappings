@@ -11893,7 +11893,7 @@
         "stwLabel": { "type": "literal" , "value": "Local Area Network | Local area network" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q212607" } ,
-        "wdLabel": { "type": "literal" , "value": "Wireless Local Area Network | Wireless LAN" } ,
+        "wdLabel": { "type": "literal" , "value": "Wireless Local Area Network | wireless LAN" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/424" } ,
         "issueLabel": { "type": "literal" , "value": "#424" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
