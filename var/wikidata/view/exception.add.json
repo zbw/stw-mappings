@@ -36677,7 +36677,7 @@
         "stwLabel": { "type": "literal" , "value": "Öffentliches Vermögen | State-owned assets" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1385171" } ,
-        "wdLabel": { "type": "literal" , "value": "Extrahaushalt | off-budget fund" } ,
+        "wdLabel": { "type": "literal" , "value": "Sondervermögen | off-budget fund" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1378" } ,
         "issueLabel": { "type": "literal" , "value": "#1378" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
