@@ -8229,7 +8229,7 @@
         "stwLabel": { "type": "literal" , "value": "Kreativitätstechnik | Creativity technique" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17039022" } ,
-        "wdLabel": { "type": "literal" , "value": "Ideenfindung | ideation" } ,
+        "wdLabel": { "type": "literal" , "value": "Ideenfindung | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/298" } ,
         "issueLabel": { "type": "literal" , "value": "#298" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
