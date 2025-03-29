@@ -13907,7 +13907,7 @@
         "stwLabel": { "type": "literal" , "value": "Roboter | Robot" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1128980" } ,
-        "wdLabel": { "type": "literal" , "value": "Industrieroboter | " } ,
+        "wdLabel": { "type": "literal" , "value": "Industrieroboter | industrial robot" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/508" } ,
         "issueLabel": { "type": "literal" , "value": "#508" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
