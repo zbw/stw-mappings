@@ -11490,7 +11490,7 @@
         "stwLabel": { "type": "literal" , "value": "Personal Computer | Personal computer" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3962" } ,
-        "wdLabel": { "type": "literal" , "value": "Notebook | laptop" } ,
+        "wdLabel": { "type": "literal" , "value": "Notebook | Cartoon كرتون" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/406" } ,
         "issueLabel": { "type": "literal" , "value": "#406" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
