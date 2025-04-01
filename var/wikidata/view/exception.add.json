@@ -29494,7 +29494,7 @@
         "stwLabel": { "type": "literal" , "value": "Zufriedenheit | Satisfaction" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8" } ,
-        "wdLabel": { "type": "literal" , "value": "Glück | Oscarboi Love Emmy Yang" } ,
+        "wdLabel": { "type": "literal" , "value": "Glück | happiness" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1104" } ,
         "issueLabel": { "type": "literal" , "value": "#1104" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
