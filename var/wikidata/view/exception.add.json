@@ -16160,7 +16160,7 @@
         "stwLabel": { "type": "literal" , "value": "Leistungsmotivation | Work motivation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1663993" } ,
-        "wdLabel": { "type": "literal" , "value": "Innere Kündigung | quiet quitting" } ,
+        "wdLabel": { "type": "literal" , "value": "innere Kündigung | quiet quitting" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/581" } ,
         "issueLabel": { "type": "literal" , "value": "#581" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
