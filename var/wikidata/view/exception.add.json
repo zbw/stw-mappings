@@ -37977,7 +37977,7 @@
         "stwLabel": { "type": "literal" , "value": "Diplomatie | Diplomacy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1195889" } ,
-        "wdLabel": { "type": "literal" , "value": "Diplomatisches Schutzrecht | diplomatic protection" } ,
+        "wdLabel": { "type": "literal" , "value": "diplomatisches Schutzrecht | diplomatic protection" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1429" } ,
         "issueLabel": { "type": "literal" , "value": "#1429" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
