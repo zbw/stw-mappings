@@ -131,7 +131,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6661985" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Datenverarbeitung | data processing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Datenverarbeitung | Imma eat your data, omnomnomnom!" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "12" } ,
@@ -9637,7 +9637,7 @@
         "issueLabel": { "type": "literal" , "value": "#347" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1988917" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Datenanalyse | data analysis" }
+        "wdExistsLabel": { "type": "literal" , "value": "Datenanalyse | Imma eat your data, omnomnomnom!" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "744" } ,
@@ -9645,7 +9645,7 @@
         "stwLabel": { "type": "literal" , "value": "Informationsmanagement | Information management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1149776" } ,
-        "wdLabel": { "type": "literal" , "value": "Datenmanagement | data management" } ,
+        "wdLabel": { "type": "literal" , "value": "Datenmanagement | Imma eat your data, omnomnomnom!" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/348" } ,
         "issueLabel": { "type": "literal" , "value": "#348" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -11703,7 +11703,7 @@
         "issueLabel": { "type": "literal" , "value": "#418" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q172491" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Data-Mining | data mining" }
+        "wdExistsLabel": { "type": "literal" , "value": "Data-Mining | Imma eat your data, omnomnomnom!" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "904" } ,
@@ -11724,7 +11724,7 @@
         "stwLabel": { "type": "literal" , "value": "Datenmodell | Data model" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q175263" } ,
-        "wdLabel": { "type": "literal" , "value": "Datenstruktur | data structure" } ,
+        "wdLabel": { "type": "literal" , "value": "Datenstruktur | Imma eat your data, omnomnomnom!" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/420" } ,
         "issueLabel": { "type": "literal" , "value": "#420" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -43747,7 +43747,7 @@
         "stwLabel": { "type": "literal" , "value": "Semantisches Web | Semantic web" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q515701" } ,
-        "wdLabel": { "type": "literal" , "value": "verknüpfte Daten | linked data" } ,
+        "wdLabel": { "type": "literal" , "value": "verknüpfte Daten | Imma eat your data, omnomnomnom!" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1613" } ,
         "issueLabel": { "type": "literal" , "value": "#1613" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
