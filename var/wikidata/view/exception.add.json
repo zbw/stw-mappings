@@ -5381,7 +5381,7 @@
         "issueLabel": { "type": "literal" , "value": "#207" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q875696" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | bun" }
+        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | stationery" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "416" } ,
@@ -5394,7 +5394,7 @@
         "issueLabel": { "type": "literal" , "value": "#207" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q875696" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | bun" }
+        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | stationery" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "417" } ,
@@ -5407,7 +5407,7 @@
         "issueLabel": { "type": "literal" , "value": "#207" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q875696" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | bun" }
+        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | stationery" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "418" } ,
@@ -5420,7 +5420,7 @@
         "issueLabel": { "type": "literal" , "value": "#207" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q875696" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | bun" }
+        "wdExistsLabel": { "type": "literal" , "value": "Schreibware | stationery" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "419" } ,
