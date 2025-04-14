@@ -17426,7 +17426,7 @@
         "issueLabel": { "type": "literal" , "value": "#632" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1550600" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | Mortgage" }
+        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | mortgage" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1345" } ,
@@ -17439,7 +17439,7 @@
         "issueLabel": { "type": "literal" , "value": "#632" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1550600" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | Mortgage" }
+        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | mortgage" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1346" } ,
@@ -17447,12 +17447,12 @@
         "stwLabel": { "type": "literal" , "value": "Hypothek | Mortgage" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1550600" } ,
-        "wdLabel": { "type": "literal" , "value": "Grundpfandrecht | Mortgage" } ,
+        "wdLabel": { "type": "literal" , "value": "Grundpfandrecht | mortgage" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/632" } ,
         "issueLabel": { "type": "literal" , "value": "#632" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1550600" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | Mortgage" }
+        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | mortgage" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1347" } ,
@@ -17465,7 +17465,7 @@
         "issueLabel": { "type": "literal" , "value": "#632" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1550600" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | Mortgage" }
+        "wdExistsLabel": { "type": "literal" , "value": "Grundpfandrecht | mortgage" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1348" } ,
