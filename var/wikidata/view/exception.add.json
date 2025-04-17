@@ -30927,7 +30927,7 @@
         "issueLabel": { "type": "literal" , "value": "#1159" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q609408" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Selbstorganisation | self-organization" }
+        "wdExistsLabel": { "type": "literal" , "value": "Selbstorganisation | auto-organisation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2386" } ,
