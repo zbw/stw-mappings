@@ -29806,7 +29806,7 @@
         "stwLabel": { "type": "literal" , "value": "Entflechtung | Unbundling" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4587328" } ,
-        "wdLabel": { "type": "literal" , "value": "Abspaltung | demerger" } ,
+        "wdLabel": { "type": "literal" , "value": "Unternehmensspaltung | demerger" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1117" } ,
         "issueLabel": { "type": "literal" , "value": "#1117" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
