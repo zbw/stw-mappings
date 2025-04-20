@@ -25958,7 +25958,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirkungsanalyse | Impact assessment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q645985" } ,
-        "wdLabel": { "type": "literal" , "value": "Gesetzesfolgenabschätzung | Regulatory Impact Analysis" } ,
+        "wdLabel": { "type": "literal" , "value": "Gesetzesfolgenabschätzung | regulatory impact analysis" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/962" } ,
         "issueLabel": { "type": "literal" , "value": "#962" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
