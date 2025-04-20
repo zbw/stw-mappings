@@ -22742,7 +22742,7 @@
         "stwLabel": { "type": "literal" , "value": "Ordnungsökonomik | Ordnungsökonomik" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q631781" } ,
-        "wdLabel": { "type": "literal" , "value": "Spontane Ordnung | spontaneous order" } ,
+        "wdLabel": { "type": "literal" , "value": "spontane Ordnung | spontaneous order" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/825" } ,
         "issueLabel": { "type": "literal" , "value": "#825" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
