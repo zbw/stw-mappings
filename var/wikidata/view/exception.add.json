@@ -31494,7 +31494,7 @@
         "stwLabel": { "type": "literal" , "value": "Beruf | Occupation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q778000" } ,
-        "wdLabel": { "type": "literal" , "value": "Ausbildungsberuf | Ausbildungsberuf" } ,
+        "wdLabel": { "type": "literal" , "value": "Ausbildungsberuf | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1182" } ,
         "issueLabel": { "type": "literal" , "value": "#1182" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
