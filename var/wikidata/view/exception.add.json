@@ -11014,7 +11014,7 @@
         "issueLabel": { "type": "literal" , "value": "#398" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1274274" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | Material flow management" }
+        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | material flow management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "851" } ,
@@ -11027,7 +11027,7 @@
         "issueLabel": { "type": "literal" , "value": "#398" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1274274" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | Material flow management" }
+        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | material flow management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "852" } ,
@@ -11040,7 +11040,7 @@
         "issueLabel": { "type": "literal" , "value": "#398" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1274274" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | Material flow management" }
+        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | material flow management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "853" } ,
@@ -11053,7 +11053,7 @@
         "issueLabel": { "type": "literal" , "value": "#398" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1274274" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | Material flow management" }
+        "wdExistsLabel": { "type": "literal" , "value": "Energie- und Stoffstrommanagement | material flow management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "854" } ,
