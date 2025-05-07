@@ -521,7 +521,7 @@
         "issueLabel": { "type": "literal" , "value": "#58" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131502" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "elektrischer Generator | electric generator" }
+        "wdExistsLabel": { "type": "literal" , "value": "elektrischer Generator | electrical generator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "42" } ,
@@ -534,7 +534,7 @@
         "issueLabel": { "type": "literal" , "value": "#58" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131502" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "elektrischer Generator | electric generator" }
+        "wdExistsLabel": { "type": "literal" , "value": "elektrischer Generator | electrical generator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "43" } ,
@@ -547,7 +547,7 @@
         "issueLabel": { "type": "literal" , "value": "#58" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q131502" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "elektrischer Generator | electric generator" }
+        "wdExistsLabel": { "type": "literal" , "value": "elektrischer Generator | electrical generator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "44" } ,
