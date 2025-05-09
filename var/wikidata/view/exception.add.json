@@ -7865,7 +7865,7 @@
         "stwLabel": { "type": "literal" , "value": "Unternehmenskultur | Corporate culture" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q942830" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": "Unternehmensleitbild | mission statement" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/279" } ,
         "issueLabel": { "type": "literal" , "value": "#279" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
