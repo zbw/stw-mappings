@@ -26428,8 +26428,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/981" } ,
         "issueLabel": { "type": "literal" , "value": "#981" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q575782" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Nasdaq Composite | Nasdaq Composite" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2039" } ,
