@@ -815,7 +815,7 @@
         "stwLabel": { "type": "literal" , "value": "Tropische Frucht | Tropical fruit" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3181909" } ,
-        "wdLabel": { "type": "literal" , "value": "Guave | guava" } ,
+        "wdLabel": { "type": "literal" , "value": "Guaven | guava" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
