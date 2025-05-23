@@ -45499,7 +45499,7 @@
         "issueLabel": { "type": "literal" , "value": "#1658" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q596307" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stochastische Volatilität | Stochastic volatility" }
+        "wdExistsLabel": { "type": "literal" , "value": "stochastische Volatilität | stochastic volatility" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3508" } ,
@@ -45512,7 +45512,7 @@
         "issueLabel": { "type": "literal" , "value": "#1658" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q596307" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Stochastische Volatilität | Stochastic volatility" }
+        "wdExistsLabel": { "type": "literal" , "value": "stochastische Volatilität | stochastic volatility" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3509" } ,
