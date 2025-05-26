@@ -38475,7 +38475,7 @@
         "issueLabel": { "type": "literal" , "value": "#1454" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q826745" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "humanitäre Hilfe | Humanitarian aid" }
+        "wdExistsLabel": { "type": "literal" , "value": "humanitäre Hilfe | humanitarian aid" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2967" } ,
