@@ -24852,7 +24852,7 @@
         "issueLabel": { "type": "literal" , "value": "#917" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46831" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gebirge | mountain system" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gebirge | mountain range" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1917" } ,
@@ -24865,7 +24865,7 @@
         "issueLabel": { "type": "literal" , "value": "#917" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46831" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gebirge | mountain system" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gebirge | mountain range" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1918" } ,
