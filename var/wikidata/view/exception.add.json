@@ -21306,7 +21306,7 @@
         "issueLabel": { "type": "literal" , "value": "#786" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897438" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Täter | criminal perpetrator" }
+        "wdExistsLabel": { "type": "literal" , "value": "krimineller Täter | criminal perpetrator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1644" } ,
@@ -21319,7 +21319,7 @@
         "issueLabel": { "type": "literal" , "value": "#786" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897438" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Täter | criminal perpetrator" }
+        "wdExistsLabel": { "type": "literal" , "value": "krimineller Täter | criminal perpetrator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1645" } ,
@@ -21332,7 +21332,7 @@
         "issueLabel": { "type": "literal" , "value": "#786" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897438" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Täter | criminal perpetrator" }
+        "wdExistsLabel": { "type": "literal" , "value": "krimineller Täter | criminal perpetrator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1646" } ,
@@ -21345,7 +21345,7 @@
         "issueLabel": { "type": "literal" , "value": "#786" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q897438" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Täter | criminal perpetrator" }
+        "wdExistsLabel": { "type": "literal" , "value": "krimineller Täter | criminal perpetrator" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1647" } ,
