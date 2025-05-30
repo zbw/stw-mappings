@@ -9827,7 +9827,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsinformation | Economic information" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1394657" } ,
-        "wdLabel": { "type": "literal" , "value": "Handelsregister | company register" } ,
+        "wdLabel": { "type": "literal" , "value": "Handelsregister | trade register" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/358" } ,
         "issueLabel": { "type": "literal" , "value": "#358" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
