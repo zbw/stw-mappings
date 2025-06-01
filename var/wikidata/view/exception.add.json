@@ -32894,7 +32894,7 @@
         "stwLabel": { "type": "literal" , "value": "Lebensverlauf | Life course" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q186649" } ,
-        "wdLabel": { "type": "literal" , "value": "Lebenslauf | curriculum vitae" } ,
+        "wdLabel": { "type": "literal" , "value": "Lebenslauf | سيره الذاتية" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1247" } ,
         "issueLabel": { "type": "literal" , "value": "#1247" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
