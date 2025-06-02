@@ -23045,7 +23045,7 @@
         "issueLabel": { "type": "literal" , "value": "#836" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5156269" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kompensationskriterium | Compensation principle" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kompensationskriterium | compensation principle" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1778" } ,
