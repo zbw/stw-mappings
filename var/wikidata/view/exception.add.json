@@ -47372,8 +47372,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1775" } ,
         "issueLabel": { "type": "literal" , "value": "#1775" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q120836944" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Rinderhaltung | cattle husbandry" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2153464" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Rinderproduktion | cattle husbandry" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3658" } ,
