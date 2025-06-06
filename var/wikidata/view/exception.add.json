@@ -4986,7 +4986,7 @@
         "stwLabel": { "type": "literal" , "value": "Süßwaren | Confectionery" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56250611" } ,
-        "wdLabel": { "type": "literal" , "value": "Zuckerware | " } ,
+        "wdLabel": { "type": "literal" , "value": "Zuckerware | confectionery" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/193" } ,
         "issueLabel": { "type": "literal" , "value": "#193" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
