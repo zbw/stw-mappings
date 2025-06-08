@@ -5727,7 +5727,7 @@
         "stwLabel": { "type": "literal" , "value": "Maschenwaren | Knitwear" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q56133040" } ,
-        "wdLabel": { "type": "literal" , "value": "Wirkware | knitwear" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/222" } ,
         "issueLabel": { "type": "literal" , "value": "#222" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
