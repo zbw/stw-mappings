@@ -20499,7 +20499,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/755" } ,
         "issueLabel": { "type": "literal" , "value": "#755" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1187201" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q785143" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Internationale Schiedsgerichtsbarkeit | international arbitration" }
       } ,
       { 
