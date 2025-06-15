@@ -9489,7 +9489,7 @@
         "stwLabel": { "type": "literal" , "value": "Nichtlineare Optimierung | Nonlinear programming" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2078279" } ,
-        "wdLabel": { "type": "literal" , "value": "Geometrisches Programm | Geometric programming" } ,
+        "wdLabel": { "type": "literal" , "value": "Geometrisches Programm | geometric programming" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/341" } ,
         "issueLabel": { "type": "literal" , "value": "#341" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
