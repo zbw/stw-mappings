@@ -27812,7 +27812,7 @@
         "stwLabel": { "type": "literal" , "value": "Europäisches Währungssystem | European Monetary System" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q733221" } ,
-        "wdLabel": { "type": "literal" , "value": "Wechselkursmechanismus II | European Exchange Rate Mechanism" } ,
+        "wdLabel": { "type": "literal" , "value": "Wechselkursmechanismus | European Exchange Rate Mechanism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1046" } ,
         "issueLabel": { "type": "literal" , "value": "#1046" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
