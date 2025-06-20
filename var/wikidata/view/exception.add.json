@@ -7235,7 +7235,7 @@
         "issueLabel": { "type": "literal" , "value": "#262" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8134" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftswissenschaft | economics" }
+        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftswissenschaft | Economics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "559" } ,
@@ -7248,7 +7248,7 @@
         "issueLabel": { "type": "literal" , "value": "#262" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8134" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftswissenschaft | economics" }
+        "wdExistsLabel": { "type": "literal" , "value": "Wirtschaftswissenschaft | Economics" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "560" } ,
