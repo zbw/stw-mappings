@@ -20991,7 +20991,7 @@
         "stwLabel": { "type": "literal" , "value": "Werturteil | Value judgement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2563485" } ,
-        "wdLabel": { "type": "literal" , "value": "Wertfreiheit | Value-freedom" } ,
+        "wdLabel": { "type": "literal" , "value": "Wertfreiheit | value-freedom" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/772" } ,
         "issueLabel": { "type": "literal" , "value": "#772" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
