@@ -2821,8 +2821,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780509" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kommunikationsgerät | telecommunications device" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "219" } ,
@@ -2834,8 +2834,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780509" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kommunikationsgerät | telecommunications device" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "220" } ,
@@ -2847,8 +2847,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780509" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kommunikationsgerät | telecommunications device" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "221" } ,
@@ -2860,8 +2860,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780509" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kommunikationsgerät | telecommunications device" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "222" } ,
@@ -2873,8 +2873,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780509" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kommunikationsgerät | telecommunications device" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "223" } ,
@@ -2886,8 +2886,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q107325483" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Telekommunikationsgerät | telecommunications equipment" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780509" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kommunikationsgerät | telecommunications device" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "224" } ,
