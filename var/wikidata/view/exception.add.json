@@ -43501,7 +43501,7 @@
         "stwLabel": { "type": "literal" , "value": "Künstliche Intelligenz | Artificial intelligence" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q197536" } ,
-        "wdLabel": { "type": "literal" , "value": "Deep Learning | " } ,
+        "wdLabel": { "type": "literal" , "value": "Deep Learning | deep learning" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1608" } ,
         "issueLabel": { "type": "literal" , "value": "#1608" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
