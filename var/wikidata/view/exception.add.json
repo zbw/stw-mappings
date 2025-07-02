@@ -36327,12 +36327,12 @@
         "stwLabel": { "type": "literal" , "value": "Gebietsreform | Territorial reform" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1500411" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeindefusion | community merger" } ,
+        "wdLabel": { "type": "literal" , "value": "Gemeindefusion | annexation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1366" } ,
         "issueLabel": { "type": "literal" , "value": "#1366" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1497011" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gemeindereform | communal reorganisation" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gemeindereform | territorial reform" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2802" } ,
