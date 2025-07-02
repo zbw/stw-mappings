@@ -36327,7 +36327,7 @@
         "stwLabel": { "type": "literal" , "value": "Gebietsreform | Territorial reform" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1500411" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeindefusion | annexation" } ,
+        "wdLabel": { "type": "literal" , "value": "Gemeindefusion | municipal government annexation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1366" } ,
         "issueLabel": { "type": "literal" , "value": "#1366" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
