@@ -10115,7 +10115,7 @@
         "stwLabel": { "type": "literal" , "value": "GmbH | Private limited company" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2498526" } ,
-        "wdLabel": { "type": "literal" , "value": "Unternehmergesellschaft (haftungsbeschränkt) | entrepreneurial company with limited liability" } ,
+        "wdLabel": { "type": "literal" , "value": "Unternehmergesellschaft | entrepreneurial company with limited liability" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
