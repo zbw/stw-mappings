@@ -42266,7 +42266,7 @@
         "stwLabel": { "type": "literal" , "value": "Infektionskrankheit | Infectious disease" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12090" } ,
-        "wdLabel": { "type": "literal" , "value": "Cholera | cholera" } ,
+        "wdLabel": { "type": "literal" , "value": "Cholera | Cholera" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1577" } ,
         "issueLabel": { "type": "literal" , "value": "#1577" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
