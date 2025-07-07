@@ -9855,7 +9855,7 @@
         "stwLabel": { "type": "literal" , "value": "Aktiengesellschaft | Listed company" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19823288" } ,
-        "wdLabel": { "type": "literal" , "value": "Kommanditgesellschaft auf Aktien | Kommanditgesellschaft auf Aktien" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/360" } ,
         "issueLabel": { "type": "literal" , "value": "#360" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
