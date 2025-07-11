@@ -32623,7 +32623,7 @@
         "stwLabel": { "type": "literal" , "value": "Homosexualität | Homosexuality" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q104969456" } ,
-        "wdLabel": { "type": "literal" , "value": "Schwul | gay man" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1240" } ,
         "issueLabel": { "type": "literal" , "value": "#1240" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
