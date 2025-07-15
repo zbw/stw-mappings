@@ -28579,7 +28579,7 @@
         "stwLabel": { "type": "literal" , "value": "Geisteswissenschaft | Humanities" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q80083" } ,
-        "wdLabel": { "type": "literal" , "value": "Humanities | humanities" } ,
+        "wdLabel": { "type": "literal" , "value": "Humanities | Humanities" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1079" } ,
         "issueLabel": { "type": "literal" , "value": "#1079" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
