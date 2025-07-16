@@ -594,7 +594,7 @@
         "stwLabel": { "type": "literal" , "value": "Gentechnisch erzeugtes Produkt | Genetically modified product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q679692" } ,
-        "wdLabel": { "type": "literal" , "value": "Biopharmazeutikum | biopharmaceutical" } ,
+        "wdLabel": { "type": "literal" , "value": "Biopharmakon | biopharmaceutical" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/61" } ,
         "issueLabel": { "type": "literal" , "value": "#61" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
