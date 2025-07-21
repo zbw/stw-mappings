@@ -20190,7 +20190,7 @@
         "issueLabel": { "type": "literal" , "value": "#740" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1728575" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | Financial markets law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | financial markets law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1558" } ,
@@ -20203,7 +20203,7 @@
         "issueLabel": { "type": "literal" , "value": "#740" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1728575" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | Financial markets law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | financial markets law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1559" } ,
@@ -20216,7 +20216,7 @@
         "issueLabel": { "type": "literal" , "value": "#740" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1728575" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | Financial markets law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | financial markets law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1560" } ,
@@ -20229,7 +20229,7 @@
         "issueLabel": { "type": "literal" , "value": "#740" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1728575" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | Financial markets law" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kapitalmarktrecht | financial markets law" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1561" } ,
