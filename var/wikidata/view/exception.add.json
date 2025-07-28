@@ -1023,7 +1023,7 @@
         "stwLabel": { "type": "literal" , "value": "Gemüse | Vegetables" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q83193" } ,
-        "wdLabel": { "type": "literal" , "value": "Gartensalat | lettuce" } ,
+        "wdLabel": { "type": "literal" , "value": "Gartensalat | Lactuca sativa" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/73" } ,
         "issueLabel": { "type": "literal" , "value": "#73" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
