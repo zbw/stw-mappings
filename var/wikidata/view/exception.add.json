@@ -2869,7 +2869,7 @@
         "stwLabel": { "type": "literal" , "value": "Telekommunikationsgerät | Telecommunications equipment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q190157" } ,
-        "wdLabel": { "type": "literal" , "value": "Sendeanlage | transmitter" } ,
+        "wdLabel": { "type": "literal" , "value": "Sendeanlage | radio transmitter" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/124" } ,
         "issueLabel": { "type": "literal" , "value": "#124" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
