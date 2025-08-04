@@ -15646,7 +15646,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/565" } ,
         "issueLabel": { "type": "literal" , "value": "#565" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q70490656" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q24841647" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Personalabbau | personnel downsizing" }
       } ,
       { 
