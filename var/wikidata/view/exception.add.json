@@ -18731,7 +18731,7 @@
         "stwLabel": { "type": "literal" , "value": "Rechtsberufe | Legal profession" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1714315" } ,
-        "wdLabel": { "type": "literal" , "value": "Justizfachangestellter | " } ,
+        "wdLabel": { "type": "literal" , "value": "Justizfachangestellter | Judial clerk" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/689" } ,
         "issueLabel": { "type": "literal" , "value": "#689" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
