@@ -36332,7 +36332,7 @@
         "issueLabel": { "type": "literal" , "value": "#1366" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1497011" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gemeindereform | territorial reform" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gemeindereform | merger of administrative division" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2802" } ,
