@@ -29081,7 +29081,7 @@
         "stwLabel": { "type": "literal" , "value": "Intelligenz | Intelligence" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q170277" } ,
-        "wdLabel": { "type": "literal" , "value": "Intelligenzquotient | intelligence quotient" } ,
+        "wdLabel": { "type": "literal" , "value": "Intelligenzquotient | happy birthda" } ,
         "issueLabel": { "type": "literal" , "value": "#1094 " } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q83500" } ,
