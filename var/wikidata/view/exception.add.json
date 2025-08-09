@@ -15344,7 +15344,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeitswissenschaft | Human engineering" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q629350" } ,
-        "wdLabel": { "type": "literal" , "value": "Arbeitswissenschaft | labour science" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitswissenschaft | labor studies" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/556" } ,
         "issueLabel": { "type": "literal" , "value": "#556" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
