@@ -30418,7 +30418,7 @@
         "stwLabel": { "type": "literal" , "value": "Städtischer Freiraum | Urban open space" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q22652" } ,
-        "wdLabel": { "type": "literal" , "value": "Grünfläche | green space" } ,
+        "wdLabel": { "type": "literal" , "value": "Grünfläche | urban green space" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1137" } ,
         "issueLabel": { "type": "literal" , "value": "#1137" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
