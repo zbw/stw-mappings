@@ -36353,7 +36353,7 @@
         "stwLabel": { "type": "literal" , "value": "Interkommunale Kooperation | Inter-municipal cooperation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25099037" } ,
-        "wdLabel": { "type": "literal" , "value": "Zweckverband (Deutschland) | special district" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1368" } ,
         "issueLabel": { "type": "literal" , "value": "#1368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
