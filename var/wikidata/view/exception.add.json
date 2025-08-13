@@ -40669,7 +40669,7 @@
         "stwLabel": { "type": "literal" , "value": "Bodenbelastung | Soil degradation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1434713" } ,
-        "wdLabel": { "type": "literal" , "value": "Flächenversiegelung | impervious surface" } ,
+        "wdLabel": { "type": "literal" , "value": "undurchlässige Oberfläche | impervious surface" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1524" } ,
         "issueLabel": { "type": "literal" , "value": "#1524" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
