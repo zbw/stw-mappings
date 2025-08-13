@@ -105,7 +105,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6051619" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Publizist | opinion journalist" }
+        "wdExistsLabel": { "type": "literal" , "value": "Meinungsjournalist | opinion journalist" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "10" } ,
