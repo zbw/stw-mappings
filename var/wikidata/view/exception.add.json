@@ -45883,7 +45883,7 @@
         "stwLabel": { "type": "literal" , "value": "Kleinste-Quadrate-Methode | Least squares method" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2246261" } ,
-        "wdLabel": { "type": "literal" , "value": "Methode der verallgemeinerten kleinsten Quadrate | Generalized least squares" } ,
+        "wdLabel": { "type": "literal" , "value": "Methode der verallgemeinerten kleinsten Quadrate | generalized least squares" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1670" } ,
         "issueLabel": { "type": "literal" , "value": "#1670" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
