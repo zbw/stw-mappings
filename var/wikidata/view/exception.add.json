@@ -5577,8 +5577,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/218" } ,
         "issueLabel": { "type": "literal" , "value": "#218" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1193236" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Presse | news media" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q135914081" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Presse | press" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "431" } ,
