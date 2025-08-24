@@ -5162,7 +5162,7 @@
         "issueLabel": { "type": "literal" , "value": "#201" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12140" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittel | medication" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittel | dentistry" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "399" } ,
@@ -5175,7 +5175,7 @@
         "issueLabel": { "type": "literal" , "value": "#201" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12140" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittel | medication" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittel | dentistry" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "400" } ,
@@ -5188,7 +5188,7 @@
         "issueLabel": { "type": "literal" , "value": "#201" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12140" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittel | medication" }
+        "wdExistsLabel": { "type": "literal" , "value": "Arzneimittel | dentistry" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "401" } ,
