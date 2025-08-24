@@ -12012,7 +12012,7 @@
         "stwLabel": { "type": "literal" , "value": "Website | Website" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11439" } ,
-        "wdLabel": { "type": "literal" , "value": "Homepage | home page" } ,
+        "wdLabel": { "type": "literal" , "value": "Homepage | Imternational board." } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/428" } ,
         "issueLabel": { "type": "literal" , "value": "#428" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -46161,7 +46161,7 @@
         "issueLabel": { "type": "literal" , "value": "#1686" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820002" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Multikulturelle Gesellschaft | multicultural society" }
+        "wdExistsLabel": { "type": "literal" , "value": "multikulturelle Gesellschaft | multicultural society" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3559" } ,
@@ -46174,7 +46174,7 @@
         "issueLabel": { "type": "literal" , "value": "#1686" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch " } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q20820002" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Multikulturelle Gesellschaft | multicultural society" }
+        "wdExistsLabel": { "type": "literal" , "value": "multikulturelle Gesellschaft | multicultural society" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3560" } ,
