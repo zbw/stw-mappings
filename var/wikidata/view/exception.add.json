@@ -40981,7 +40981,7 @@
         "stwLabel": { "type": "literal" , "value": "Lärmschutz | Noise abatement" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16101769" } ,
-        "wdLabel": { "type": "literal" , "value": "Lärmsanierung | Noise abatement" } ,
+        "wdLabel": { "type": "literal" , "value": "Lärmsanierung | noise abatement" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1535" } ,
         "issueLabel": { "type": "literal" , "value": "#1535" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
