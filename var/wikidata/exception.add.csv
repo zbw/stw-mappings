@@ -2267,12 +2267,12 @@ stw:,rel,wd:,issue,note
 19013-3,>,Q41112,#1101,Mehrfachmatch
 19013-3,^,Q7867,#1101,Mehrfachmatch
 15790-5,>,Q7782373,#1102,Mehrfachmatch
-18859-1,^,Q3919817,#1103,Mehrfachmatch
-18859-1,^,Q168338,#1103,Mehrfachmatch
+
+
 18859-1,*,Q3769299,#1103,Mehrfachmatch
-18859-1,^,Q1520882,#1103,Mehrfachmatch
-18859-1,^,Q1483503,#1103,Mehrfachmatch
-18859-1,^,Q3450906,#1103,Mehrfachmatch
+
+
+
 27853-5,^,Q8,#1104,Mehrfachmatch
 27853-5,^,Q1117179,#1104,Mehrfachmatch
 29931-1,^,Q954112,#1105,Mehrfachmatch
