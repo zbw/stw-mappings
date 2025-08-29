@@ -566,6 +566,7 @@ stw:25822-5 skos:narrowMatch wd:Q338187 .
 stw:25822-5 skos:narrowMatch wd:Q1134735 .
 stw:25822-5 skos:narrowMatch wd:Q494265 .
 stw:25822-5 skos:narrowMatch wd:Q1134752 .
+stw:25822-5 skos:closeMatch wd:QQ3817465 .
 stw:15466-0 skos:narrowMatch wd:Q1331926 .
 stw:12166-6 skos:narrowMatch wd:Q1698676 .
 stw:12166-6 skos:narrowMatch wd:Q1748655 .
@@ -1062,7 +1063,6 @@ stw:12699-6 skos:closeMatch wd:Q2144962 .
 stw:12699-6 skos:narrowMatch wd:Q2401927 .
 stw:12699-6 skos:narrowMatch wd:Q47302058 .
 stw:12699-6 skos:narrowMatch wd:Q1407413 .
-stw:12730-3 skos:narrowMatch wd:Q1050567 .
 stw:12730-3 skos:narrowMatch wd:Q660192 .
 stw:12730-3 skos:relatedMatch wd:Q25349015 .
 stw:12730-3 skos:narrowMatch wd:Q2991684 .
@@ -2243,12 +2243,8 @@ stw:19599-3 skos:closeMatch wd:Q205555 .
 stw:19599-3 skos:relatedMatch wd:Q331769 .
 stw:19600-2 skos:relatedMatch wd:Q170579 .
 stw:19600-2 skos:relatedMatch wd:Q128758 .
-stw:26376-4 skos:narrowMatch wd:Q191591 .
-stw:26376-4 skos:narrowMatch wd:Q432197 .
 stw:26376-4 skos:relatedMatch wd:Q170277 .
 stw:26376-4 skos:relatedMatch wd:Q1051792 .
-stw:26376-4 skos:narrowMatch wd:Q863960 .
-stw:26376-4 skos:narrowMatch wd:Q2273844 .
 stw:19601-0 skos:relatedMatch wd:Q56298269 .
 stw:19601-0 skos:relatedMatch wd:Q147638 .
 stw:19601-0 skos:narrowMatch wd:Q9420 .
@@ -2271,12 +2267,7 @@ stw:19013-3 skos:narrowMatch wd:Q181032 .
 stw:19013-3 skos:narrowMatch wd:Q41112 .
 stw:19013-3 skos:relatedMatch wd:Q7867 .
 stw:15790-5 skos:narrowMatch wd:Q7782373 .
-stw:18859-1 skos:relatedMatch wd:Q3919817 .
-stw:18859-1 skos:relatedMatch wd:Q168338 .
 stw:18859-1 skos:closeMatch wd:Q3769299 .
-stw:18859-1 skos:relatedMatch wd:Q1520882 .
-stw:18859-1 skos:relatedMatch wd:Q1483503 .
-stw:18859-1 skos:relatedMatch wd:Q3450906 .
 stw:27853-5 skos:relatedMatch wd:Q8 .
 stw:27853-5 skos:relatedMatch wd:Q1117179 .
 stw:29931-1 skos:relatedMatch wd:Q954112 .
@@ -3127,7 +3118,6 @@ stw:10156-5 skos:narrowMatch wd:Q5281745 .
 stw:10156-5 skos:closeMatch wd:Q186412 .
 stw:15476-4 skos:narrowMatch wd:Q2052203 .
 stw:14188-0 skos:narrowMatch wd:Q1049799 .
-stw:14188-0 skos:narrowMatch wd:Q832131 .
 stw:15765-4 skos:narrowMatch wd:Q1640238 .
 stw:15765-4 skos:narrowMatch wd:Q188847 .
 stw:29571-5 skos:narrowMatch wd:Q175208 .
