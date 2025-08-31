@@ -6571,7 +6571,7 @@
         "stwLabel": { "type": "literal" , "value": "Gewerbesteuer | Local business tax" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15812195" } ,
-        "wdLabel": { "type": "literal" , "value": "Gewerbesteuer | " } ,
+        "wdLabel": { "type": "literal" , "value": "Gewerbesteuer | business tax" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/240" } ,
         "issueLabel": { "type": "literal" , "value": "#240" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
