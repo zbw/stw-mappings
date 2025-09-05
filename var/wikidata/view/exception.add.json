@@ -25999,7 +25999,7 @@
         "stwLabel": { "type": "literal" , "value": "Elektronisches Zahlungsmittel | Electronic payment" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1365703" } ,
-        "wdLabel": { "type": "literal" , "value": "Mobile-Payment | mobile" } ,
+        "wdLabel": { "type": "literal" , "value": "Mobile-Payment | mobile payment" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/963" } ,
         "issueLabel": { "type": "literal" , "value": "#963" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
