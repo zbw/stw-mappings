@@ -12947,7 +12947,7 @@
         "stwLabel": { "type": "literal" , "value": "Preisbindung | Resale price maintenance" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1144077" } ,
-        "wdLabel": { "type": "literal" , "value": "unverbindliche Preisempfehlung | list price" } ,
+        "wdLabel": { "type": "literal" , "value": "unverbindliche Preisempfehlung | manufacturer's suggested retail price" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/468" } ,
         "issueLabel": { "type": "literal" , "value": "#468" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
