@@ -47525,6 +47525,19 @@
         "issueLabel": { "type": "literal" , "value": "#1792" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3681" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18083-1" } ,
+        "stwLabel": { "type": "literal" , "value": "Selbstständige | Self-employed" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1005490" } ,
+        "wdLabel": { "type": "literal" , "value": "Selbständigkeit | self-employment" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1793" } ,
+        "issueLabel": { "type": "literal" , "value": "#1793" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q130973804" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Selbstständiger | self-employed person" }
       }
     ]
   }
