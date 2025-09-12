@@ -42019,7 +42019,7 @@
         "stwLabel": { "type": "literal" , "value": "Coronavirus | Coronavirus" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q84263196" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": "COVID-19 | COVID-19" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1573" } ,
         "issueLabel": { "type": "literal" , "value": "#1573" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
