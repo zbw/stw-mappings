@@ -10093,7 +10093,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q460178" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15829892" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gesellschaft mit beschränkter Haftung | Gesellschaft mit beschränkter Haftung" }
       } ,
       { 
@@ -10106,7 +10106,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q460178" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15829892" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gesellschaft mit beschränkter Haftung | Gesellschaft mit beschränkter Haftung" }
       } ,
       { 
@@ -10119,7 +10119,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q460178" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15829892" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gesellschaft mit beschränkter Haftung | Gesellschaft mit beschränkter Haftung" }
       } ,
       { 
@@ -10132,7 +10132,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/368" } ,
         "issueLabel": { "type": "literal" , "value": "#368" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q460178" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15829892" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Gesellschaft mit beschränkter Haftung | Gesellschaft mit beschränkter Haftung" }
       } ,
       { 
