@@ -30565,7 +30565,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1145" } ,
         "issueLabel": { "type": "literal" , "value": "#1145" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q112635489" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2373292" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Umweltvölkerrecht | international environmental law" }
       } ,
       { 
@@ -30578,7 +30578,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1145" } ,
         "issueLabel": { "type": "literal" , "value": "#1145" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q112635489" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2373292" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Umweltvölkerrecht | international environmental law" }
       } ,
       { 
