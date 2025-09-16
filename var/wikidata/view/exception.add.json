@@ -39603,7 +39603,7 @@
         "stwLabel": { "type": "literal" , "value": "Küstenregion | Coastal area" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q421069" } ,
-        "wdLabel": { "type": "literal" , "value": "Wattenmeer | intertidal zone" } ,
+        "wdLabel": { "type": "literal" , "value": "Gezeitenbereich | intertidal zone" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1493" } ,
         "issueLabel": { "type": "literal" , "value": "#1493" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
