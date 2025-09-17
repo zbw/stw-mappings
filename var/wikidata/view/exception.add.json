@@ -1075,7 +1075,7 @@
         "stwLabel": { "type": "literal" , "value": "Nuss | Nut" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q208021" } ,
-        "wdLabel": { "type": "literal" , "value": "Walnuss | ceviz" } ,
+        "wdLabel": { "type": "literal" , "value": "Walnuss | walnut" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/75" } ,
         "issueLabel": { "type": "literal" , "value": "#75" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
