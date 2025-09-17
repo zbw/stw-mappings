@@ -38953,7 +38953,7 @@
         "stwLabel": { "type": "literal" , "value": "Marine | Navy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q189524" } ,
-        "wdLabel": { "type": "literal" , "value": "Flotte | fleet" } ,
+        "wdLabel": { "type": "literal" , "value": "Flotte | naval fleet" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1478" } ,
         "issueLabel": { "type": "literal" , "value": "#1478" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
