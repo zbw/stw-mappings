@@ -37562,7 +37562,7 @@
         "stwLabel": { "type": "literal" , "value": "Geheimhaltung | Secrecy" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1791366" } ,
-        "wdLabel": { "type": "literal" , "value": "Staatsgeheimnis | State secrets privilege" } ,
+        "wdLabel": { "type": "literal" , "value": "Staatsgeheimnis | state secrets privilege" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1420" } ,
         "issueLabel": { "type": "literal" , "value": "#1420" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
