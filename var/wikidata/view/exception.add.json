@@ -36275,7 +36275,7 @@
         "stwLabel": { "type": "literal" , "value": "Kommunale Selbstverwaltung | Local self-government" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q701632" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeinderat | Municipal council" } ,
+        "wdLabel": { "type": "literal" , "value": "Gemeinderat | municipal council" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1369" } ,
         "issueLabel": { "type": "literal" , "value": "#1369" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
