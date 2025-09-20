@@ -27006,7 +27006,7 @@
         "stwLabel": { "type": "literal" , "value": "Küstengewässer | Coastal waters" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q213204" } ,
-        "wdLabel": { "type": "literal" , "value": "Küstenmeer | territorial waters" } ,
+        "wdLabel": { "type": "literal" , "value": "Küstenmeer | territorial sea" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1007" } ,
         "issueLabel": { "type": "literal" , "value": "#1007" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
