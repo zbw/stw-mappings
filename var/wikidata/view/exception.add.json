@@ -8452,7 +8452,7 @@
         "stwLabel": { "type": "literal" , "value": "Regressionsanalyse | Regression analysis" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10861030" } ,
-        "wdLabel": { "type": "literal" , "value": "Lineare Regression | linear regression" } ,
+        "wdLabel": { "type": "literal" , "value": "lineare Regression | linear regression" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/303" } ,
         "issueLabel": { "type": "literal" , "value": "#303" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
