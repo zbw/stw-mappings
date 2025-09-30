@@ -42050,7 +42050,7 @@
         "issueLabel": { "type": "literal" , "value": "#1574" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4340209" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Depression | mental depression" }
+        "wdExistsLabel": { "type": "literal" , "value": "Depression | depression" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3253" } ,
@@ -42063,7 +42063,7 @@
         "issueLabel": { "type": "literal" , "value": "#1574" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4340209" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Depression | mental depression" }
+        "wdExistsLabel": { "type": "literal" , "value": "Depression | depression" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3254" } ,
@@ -42076,7 +42076,7 @@
         "issueLabel": { "type": "literal" , "value": "#1574" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4340209" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Depression | mental depression" }
+        "wdExistsLabel": { "type": "literal" , "value": "Depression | depression" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3255" } ,
