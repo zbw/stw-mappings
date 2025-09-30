@@ -22551,7 +22551,7 @@
         "stwLabel": { "type": "literal" , "value": "Volksglaube | Folk religion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q133182" } ,
-        "wdLabel": { "type": "literal" , "value": "Aberglaube | porn" } ,
+        "wdLabel": { "type": "literal" , "value": "Aberglaube | superstition" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/821" } ,
         "issueLabel": { "type": "literal" , "value": "#821" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
