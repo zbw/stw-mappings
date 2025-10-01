@@ -996,7 +996,7 @@ stw:12808-6 skos:relatedMatch wd:Q2111845 .
 stw:18398-4 skos:relatedMatch wd:Q2517676 .
 stw:19124-1 skos:narrowMatch wd:Q329717 .
 stw:12785-6 skos:narrowMatch wd:Q1753002 .
-stw:24706-5 skos:narrowMatch wd:Q1137580 .
+stw:24706-5 skos:narrowMatch wd:Q11034548 .
 stw:24706-5 skos:narrowMatch wd:Q892901 .
 stw:10204-6 skos:narrowMatch wd:Q27884 .
 stw:12793-0 skos:narrowMatch wd:Q2068803 .
