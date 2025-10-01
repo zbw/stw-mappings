@@ -3674,3 +3674,4 @@ stw:30509-0 skos:narrowMatch wd:Q459213 .
 stw:30490-2 skos:closeMatch wd:Q294245 .
 stw:18083-1 skos:closeMatch wd:Q1005490 .
 stw:29808-0 skos:broadMatch wd:Q301468 .
+stw:30318-0 skos:broadMatch wd:Q33972 .

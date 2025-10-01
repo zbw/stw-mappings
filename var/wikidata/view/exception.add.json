@@ -10193,7 +10193,7 @@
         "stwLabel": { "type": "literal" , "value": "Konzern | Corporate group" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1956113" } ,
-        "wdLabel": { "type": "literal" , "value": "Mutterunternehmen | parent company" } ,
+        "wdLabel": { "type": "literal" , "value": "Mutterunternehmen | parent organization/unit" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/372" } ,
         "issueLabel": { "type": "literal" , "value": "#372" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -46325,7 +46325,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1704" } ,
         "issueLabel": { "type": "literal" , "value": "#1704" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q641399" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "negative Einkommensteuer | negative income tax" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3583" } ,
@@ -47546,6 +47547,18 @@
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q301468" } ,
         "wdLabel": { "type": "literal" , "value": "Kaufverhalten | consumer behavior" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3683" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30318-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Unterhaltungsautomat | Entertainment machine" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q33972" } ,
+        "wdLabel": { "type": "literal" , "value": "einarmiger Bandit | slot machine" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
