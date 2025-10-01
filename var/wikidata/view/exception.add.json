@@ -47538,6 +47538,18 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q130973804" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Selbstständiger | self-employed person" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3682" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29808-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Einkaufsverhalten | Shopping behaviour" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q301468" } ,
+        "wdLabel": { "type": "literal" , "value": "Kaufverhalten | consumer behavior" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
