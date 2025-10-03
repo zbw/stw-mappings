@@ -34767,7 +34767,7 @@
         "stwLabel": { "type": "literal" , "value": "Gleichberechtigung | Gender equality" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q380351" } ,
-        "wdLabel": { "type": "literal" , "value": "Emanzipation | emancipation" } ,
+        "wdLabel": { "type": "literal" , "value": "Emanzipation | emancipation process" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1325" } ,
         "issueLabel": { "type": "literal" , "value": "#1325" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
