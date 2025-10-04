@@ -15369,7 +15369,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeitszeitgestaltung | Working time arrangement" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q629411" } ,
-        "wdLabel": { "type": "literal" , "value": "Arbeitszeitkonto | timesheet" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitszeitkonto | Time tracking software" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/557" } ,
         "issueLabel": { "type": "literal" , "value": "#557" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
