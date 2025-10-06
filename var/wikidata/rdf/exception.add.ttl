@@ -1437,7 +1437,6 @@ stw:14135-0 skos:narrowMatch wd:Q848706 .
 stw:18259-4 skos:closeMatch wd:Q573538 .
 stw:12961-5 skos:narrowMatch wd:Q720362 .
 stw:30022-0 skos:narrowMatch wd:Q106850206 .
-stw:13365-2 skos:relatedMatch wd:Q1320047 .
 stw:19820-2 skos:narrowMatch wd:Q11022655 .
 stw:19820-2 skos:narrowMatch wd:Q2151331 .
 stw:19819-1 skos:narrowMatch wd:Q1574831 .
