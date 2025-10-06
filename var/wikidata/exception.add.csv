@@ -1425,7 +1425,6 @@ stw:,rel,wd:,issue,note
 10276-2,<,Q192270,#678,Mehrfachmatch
 12570-6,>,Q265558,#679,Mehrfachmatch
 10374-2,>,Q2033951,#680,Mehrfachmatch
-13193-5,<,Q13107184,#681,Mehrfachmatch
 14135-0,>,Q780,#682,Mehrfachmatch
 14135-0,>,Q742292,#682,Mehrfachmatch
 14135-0,>,Q255503,#682,Mehrfachmatch
@@ -2240,8 +2239,8 @@ stw:,rel,wd:,issue,note
 19600-2,^,Q128758,#1093,Mehrfachmatch
 
 
-26376-4,^,Q170277,#1094 ,Mehrfachmatch
-26376-4,^,Q1051792,#1094 ,Mehrfachmatch
+26376-4,^,Q170277,#1094,Mehrfachmatch
+26376-4,^,Q1051792,#1094,Mehrfachmatch
 
 
 19601-0,^,Q56298269,#1095,Mehrfachmatch
