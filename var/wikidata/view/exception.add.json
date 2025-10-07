@@ -16032,7 +16032,7 @@
         "stwLabel": { "type": "literal" , "value": "Arbeitsverhalten | Work behaviour" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6206702" } ,
-        "wdLabel": { "type": "literal" , "value": "Arbeitseinstellung | Job attitude" } ,
+        "wdLabel": { "type": "literal" , "value": "Arbeitseinstellung | job attitude" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/578" } ,
         "issueLabel": { "type": "literal" , "value": "#578" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
