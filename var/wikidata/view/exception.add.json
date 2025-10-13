@@ -28874,7 +28874,7 @@
         "stwLabel": { "type": "literal" , "value": "Web 2.0-Technologien | Web 2.0 technologies" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q171" } ,
-        "wdLabel": { "type": "literal" , "value": "Wiki | " } ,
+        "wdLabel": { "type": "literal" , "value": "Wiki | wiki" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1089" } ,
         "issueLabel": { "type": "literal" , "value": "#1089" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
