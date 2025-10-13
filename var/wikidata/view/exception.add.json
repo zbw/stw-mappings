@@ -11899,8 +11899,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/424" } ,
         "issueLabel": { "type": "literal" , "value": "#424" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11381" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Local Area Network | local area network" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "919" } ,
@@ -11912,8 +11911,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/424" } ,
         "issueLabel": { "type": "literal" , "value": "#424" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11381" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Local Area Network | local area network" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "920" } ,
@@ -11925,8 +11923,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/424" } ,
         "issueLabel": { "type": "literal" , "value": "#424" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11381" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Local Area Network | local area network" }
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "921" } ,
