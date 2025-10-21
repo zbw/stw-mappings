@@ -3714,7 +3714,7 @@
         "stwLabel": { "type": "literal" , "value": "Lebensmittelzusatzstoff | Food additive" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q898745" } ,
-        "wdLabel": { "type": "literal" , "value": "Geschmacksverstärker | flavour enhancer" } ,
+        "wdLabel": { "type": "literal" , "value": "Geschmacksverstärker | flavor enhancer" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/146" } ,
         "issueLabel": { "type": "literal" , "value": "#146" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
