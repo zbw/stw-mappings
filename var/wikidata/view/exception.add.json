@@ -38935,7 +38935,7 @@
         "issueLabel": { "type": "literal" , "value": "#1478" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4508" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Seestreitkräfte | navy" }
+        "wdExistsLabel": { "type": "literal" , "value": "Seestreitkräfte | naval forces" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3012" } ,
