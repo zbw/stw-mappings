@@ -87,7 +87,7 @@
         "stwLabel": { "type": "literal" , "value": "Softwareentwicklung | Software development" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q80993" } ,
-        "wdLabel": { "type": "literal" , "value": "Softwaretechnik | software engineering" } ,
+        "wdLabel": { "type": "literal" , "value": "Softwaretechnik | software engineering PROPRIETARY Alexandreconcon8@gmail. com" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
