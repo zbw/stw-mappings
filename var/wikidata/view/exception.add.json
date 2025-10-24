@@ -28944,7 +28944,7 @@
         "issueLabel": { "type": "literal" , "value": "#1092" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9415" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotions" }
+        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2234" } ,
@@ -28957,7 +28957,7 @@
         "issueLabel": { "type": "literal" , "value": "#1092" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9415" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotions" }
+        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2235" } ,
@@ -28970,7 +28970,7 @@
         "issueLabel": { "type": "literal" , "value": "#1092" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9415" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotions" }
+        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2236" } ,
@@ -28983,7 +28983,7 @@
         "issueLabel": { "type": "literal" , "value": "#1092" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9415" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotions" }
+        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2237" } ,
@@ -28996,7 +28996,7 @@
         "issueLabel": { "type": "literal" , "value": "#1092" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9415" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotions" }
+        "wdExistsLabel": { "type": "literal" , "value": "Emotion | emotion" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2238" } ,
