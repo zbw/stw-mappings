@@ -14598,7 +14598,7 @@
         "stwLabel": { "type": "literal" , "value": "Just in Time | Just in time" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18979" } ,
-        "wdLabel": { "type": "literal" , "value": "Kanban | kanban" } ,
+        "wdLabel": { "type": "literal" , "value": "Kanban | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/537" } ,
         "issueLabel": { "type": "literal" , "value": "#537" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
