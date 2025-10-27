@@ -28541,7 +28541,7 @@
         "stwLabel": { "type": "literal" , "value": "Feiertag | Holiday" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q211391" } ,
-        "wdLabel": { "type": "literal" , "value": "Wochenende | weekend" } ,
+        "wdLabel": { "type": "literal" , "value": "Wochenende | Weekend AI" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1078" } ,
         "issueLabel": { "type": "literal" , "value": "#1078" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
