@@ -9626,7 +9626,7 @@
         "issueLabel": { "type": "literal" , "value": "#346" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19483216" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Organizational Behavior | organizational behavior" }
+        "wdExistsLabel": { "type": "literal" , "value": "Organizational Behavior | organizational behavior studies" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "743" } ,
@@ -9639,7 +9639,7 @@
         "issueLabel": { "type": "literal" , "value": "#346" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19483216" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Organizational Behavior | organizational behavior" }
+        "wdExistsLabel": { "type": "literal" , "value": "Organizational Behavior | organizational behavior studies" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "744" } ,
