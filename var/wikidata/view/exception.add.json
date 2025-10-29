@@ -27869,7 +27869,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1052" } ,
         "issueLabel": { "type": "literal" , "value": "#1052" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11337203" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q465658" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wechselkurssystem | exchange-rate regime" }
       } ,
       { 
