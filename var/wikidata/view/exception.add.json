@@ -28489,7 +28489,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftsterminologie | Economic terminology" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q64513524" } ,
-        "wdLabel": { "type": "literal" , "value": "ökonomischer Begriff | economics term" } ,
+        "wdLabel": { "type": "literal" , "value": "ökonomischer Begriff | economic term" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1077" } ,
         "issueLabel": { "type": "literal" , "value": "#1077" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
