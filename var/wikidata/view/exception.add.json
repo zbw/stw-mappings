@@ -7100,7 +7100,7 @@
         "stwLabel": { "type": "literal" , "value": "Beschaffung | Procurement" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q829484" } ,
-        "wdLabel": { "type": "literal" , "value": "Beschaffungslogistik | procurement logistics" } ,
+        "wdLabel": { "type": "literal" , "value": "Beschaffungslogistik | business logistics" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/257" } ,
         "issueLabel": { "type": "literal" , "value": "#257" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
