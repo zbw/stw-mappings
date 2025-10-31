@@ -15720,7 +15720,7 @@
         "stwLabel": { "type": "literal" , "value": "Latente Steuern | Deferred taxes" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q21070724" } ,
-        "wdLabel": { "type": "literal" , "value": " | Deferred tax uncertainty" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/567" } ,
         "issueLabel": { "type": "literal" , "value": "#567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
