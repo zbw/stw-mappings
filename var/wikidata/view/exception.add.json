@@ -7521,7 +7521,7 @@
         "issueLabel": { "type": "literal" , "value": "#269" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1667931" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Internes Kontrollsystem | Internal control" }
+        "wdExistsLabel": { "type": "literal" , "value": "Internes Kontrollsystem | internal control" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "581" } ,
