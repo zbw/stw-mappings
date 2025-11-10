@@ -10622,7 +10622,7 @@
         "stwLabel": { "type": "literal" , "value": "Unternehmensverkauf | Company sell-off" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q579864" } ,
-        "wdLabel": { "type": "literal" , "value": "Betriebsübergang | Transfers of Undertakings Directive" } ,
+        "wdLabel": { "type": "literal" , "value": "Betriebsübergang | Transfers of Undertakings Directive 2001" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/386" } ,
         "issueLabel": { "type": "literal" , "value": "#386" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
