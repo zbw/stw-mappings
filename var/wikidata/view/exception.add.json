@@ -11999,7 +11999,7 @@
         "stwLabel": { "type": "literal" , "value": "Unternehmensarchitektur | Enterprise architecture" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q220644" } ,
-        "wdLabel": { "type": "literal" , "value": "Serviceorientierte Architektur | service oriented architecture" } ,
+        "wdLabel": { "type": "literal" , "value": "Serviceorientierte Architektur | service-oriented architecture" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/427" } ,
         "issueLabel": { "type": "literal" , "value": "#427" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
