@@ -29009,7 +29009,7 @@
         "issueLabel": { "type": "literal" , "value": "#1093" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q35874" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Humor | humor" }
+        "wdExistsLabel": { "type": "literal" , "value": "Humor | humour" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2239" } ,
@@ -29022,7 +29022,7 @@
         "issueLabel": { "type": "literal" , "value": "#1093" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q35874" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Humor | humor" }
+        "wdExistsLabel": { "type": "literal" , "value": "Humor | humour" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2242" } ,
