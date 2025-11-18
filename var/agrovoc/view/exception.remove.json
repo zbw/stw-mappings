@@ -24,6 +24,17 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mail Manuela 16.1.2014" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "4" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18007-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Absatz | Sales" } ,
+        "relation": { "type": "literal" , "value": "=" } ,
+        "agrovoc": { "type": "uri" , "value": "http://aims.fao.org/aos/agrovoc/c_33129" } ,
+        "agrovocLabel": { "type": "literal" , "value": "Salz | salts" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "kem 18.11.2025" }
       }
     ]
   }

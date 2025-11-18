@@ -5,3 +5,4 @@ PREFIX stw: <http://zbw.eu/stw/descriptor/>
 #
 stw:11180-3 skos:exactMatch agrovoc:c_6021 .
 stw:10951-4 skos:exactMatch agrovoc:c_6162 .
+stw:18007-3 skos:exactMatch agrovoc:c_33129 .
