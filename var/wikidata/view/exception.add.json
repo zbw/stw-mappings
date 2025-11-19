@@ -41949,7 +41949,7 @@
         "issueLabel": { "type": "literal" , "value": "#1571" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2845" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Cannabis als Rauschmittel | Cannabis" }
+        "wdExistsLabel": { "type": "literal" , "value": "Cannabis als Rauschmittel | cannabis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3245" } ,
@@ -41962,7 +41962,7 @@
         "issueLabel": { "type": "literal" , "value": "#1571" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2845" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Cannabis als Rauschmittel | Cannabis" }
+        "wdExistsLabel": { "type": "literal" , "value": "Cannabis als Rauschmittel | cannabis" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3246" } ,
