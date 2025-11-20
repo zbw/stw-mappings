@@ -3952,7 +3952,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/156" } ,
         "issueLabel": { "type": "literal" , "value": "#156" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46765731" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6405028" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Fahrzeugteil | automotive part" }
       } ,
       { 
@@ -3965,7 +3965,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/156" } ,
         "issueLabel": { "type": "literal" , "value": "#156" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q46765731" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q6405028" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Fahrzeugteil | automotive part" }
       } ,
       { 
