@@ -39788,12 +39788,12 @@
         "stwLabel": { "type": "literal" , "value": "Klimawandel | Climate change" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7942" } ,
-        "wdLabel": { "type": "literal" , "value": "Erderwärmung | global warming" } ,
+        "wdLabel": { "type": "literal" , "value": "Erderwärmung | climate change" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1501" } ,
         "issueLabel": { "type": "literal" , "value": "#1501" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q125928" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | climate change" }
+        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | global warming" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3078" } ,
@@ -39806,7 +39806,7 @@
         "issueLabel": { "type": "literal" , "value": "#1501" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q125928" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | climate change" }
+        "wdExistsLabel": { "type": "literal" , "value": "Klimawandel | global warming" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3079" } ,
