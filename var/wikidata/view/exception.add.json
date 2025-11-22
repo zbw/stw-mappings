@@ -8270,7 +8270,7 @@
         "stwLabel": { "type": "literal" , "value": "Multiprojektmanagement | Multi-project management" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1936145" } ,
-        "wdLabel": { "type": "literal" , "value": "Projektportfoliomanagement | Project portfolio management" } ,
+        "wdLabel": { "type": "literal" , "value": "Projektportfoliomanagement | project portfolio management" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/299" } ,
         "issueLabel": { "type": "literal" , "value": "#299" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
