@@ -21621,7 +21621,7 @@
         "issueLabel": { "type": "literal" , "value": "#797" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1669" } ,
@@ -21634,7 +21634,7 @@
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1670" } ,
@@ -21647,7 +21647,7 @@
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1671" } ,
@@ -21660,7 +21660,7 @@
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1672" } ,
@@ -21673,7 +21673,7 @@
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1673" } ,
@@ -21686,7 +21686,7 @@
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1674" } ,
@@ -21699,7 +21699,7 @@
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15811980" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Gerichtsbarkeit" }
+        "wdExistsLabel": { "type": "literal" , "value": "Gerichtsbarkeit | " }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1675" } ,
