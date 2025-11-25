@@ -37175,7 +37175,7 @@
         "stwLabel": { "type": "literal" , "value": "Soziale Bewegung | Social movement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2738074" } ,
-        "wdLabel": { "type": "literal" , "value": "politische Bewegung | " } ,
+        "wdLabel": { "type": "literal" , "value": "politische Bewegung | political movement" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1406" } ,
         "issueLabel": { "type": "literal" , "value": "#1406" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
