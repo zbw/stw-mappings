@@ -41840,7 +41840,7 @@
         "stwLabel": { "type": "literal" , "value": "Strahlentherapie | Radiotherapy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q72393436" } ,
-        "wdLabel": { "type": "literal" , "value": "Röntgentherapie | X-ray therapy" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1567" } ,
         "issueLabel": { "type": "literal" , "value": "#1567" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
