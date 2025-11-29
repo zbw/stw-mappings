@@ -8205,7 +8205,7 @@
         "stwLabel": { "type": "literal" , "value": "Qualitative Methode | Qualitative method" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15841341" } ,
-        "wdLabel": { "type": "literal" , "value": "Qualitative Daten | qualitative data" } ,
+        "wdLabel": { "type": "literal" , "value": "Qualitative Daten | qualitative research data" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/296" } ,
         "issueLabel": { "type": "literal" , "value": "#296" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
