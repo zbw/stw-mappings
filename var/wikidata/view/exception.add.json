@@ -10518,7 +10518,7 @@
         "stwLabel": { "type": "literal" , "value": "Strategische Allianz | Strategic alliance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7621850" } ,
-        "wdLabel": { "type": "literal" , "value": "Strategische Partnerschaft | Strategic partnership" } ,
+        "wdLabel": { "type": "literal" , "value": "Strategische Partnerschaft | strategic partnership" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/381" } ,
         "issueLabel": { "type": "literal" , "value": "#381" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
