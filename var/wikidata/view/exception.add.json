@@ -11557,7 +11557,7 @@
         "stwLabel": { "type": "literal" , "value": "Internationale Wirtschaft | International economy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q4295948" } ,
-        "wdLabel": { "type": "literal" , "value": "Weltmarkt | World trade" } ,
+        "wdLabel": { "type": "literal" , "value": "Weltmarkt | world market" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/409" } ,
         "issueLabel": { "type": "literal" , "value": "#409" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
