@@ -12116,7 +12116,7 @@
         "stwLabel": { "type": "literal" , "value": "Electronic Commerce | E-commerce" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q138461" } ,
-        "wdLabel": { "type": "literal" , "value": "Internetökonomie | digital economy" } ,
+        "wdLabel": { "type": "literal" , "value": "Digitalwirtschaft | digital economy" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/433" } ,
         "issueLabel": { "type": "literal" , "value": "#433" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
