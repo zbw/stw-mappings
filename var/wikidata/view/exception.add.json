@@ -10253,6 +10253,19 @@
         "wdExistsLabel": { "type": "literal" , "value": "Partnerschaftsgesellschaft | Partnerschaftsgesellschaft" }
       } ,
       { 
+        "ln": { "type": "literal" , "value": "790" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19157-0" } ,
+        "stwLabel": { "type": "literal" , "value": "Partnerschaftsgesellschaft | Professional partnership" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1325691" } ,
+        "wdLabel": { "type": "literal" , "value": "Partnerschaftsgesellschaftsgesetz | Partnerschaftsgesellschaftsgesetz" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/373" } ,
+        "issueLabel": { "type": "literal" , "value": "#373" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q883188" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Sozietät | professional partnership" }
+      } ,
+      { 
         "ln": { "type": "literal" , "value": "791" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12192-5" } ,
         "stwLabel": { "type": "literal" , "value": "Personengesellschaft | Business partnership" } ,
