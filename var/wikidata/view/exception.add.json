@@ -36304,7 +36304,7 @@
         "stwLabel": { "type": "literal" , "value": "Kommunalverwaltung | Local government" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9305769" } ,
-        "wdLabel": { "type": "literal" , "value": "Gemeindeverwaltung | municipal government" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1371" } ,
         "issueLabel": { "type": "literal" , "value": "#1371" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
