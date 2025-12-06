@@ -7178,7 +7178,7 @@
         "stwLabel": { "type": "literal" , "value": "Unternehmer | Entrepreneurs" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q42855995" } ,
-        "wdLabel": { "type": "literal" , "value": "Fabrikant | fabricator" } ,
+        "wdLabel": { "type": "literal" , "value": "Fabrikant | factory owner" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/261" } ,
         "issueLabel": { "type": "literal" , "value": "#261" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
