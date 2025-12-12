@@ -1057,7 +1057,6 @@ stw:,rel,wd:,issue,note
 12699-6,>,Q2401927,#501,Mehrfachmatch
 12699-6,>,Q47302058,#501,Mehrfachmatch
 12699-6,>,Q1407413,#501,Mehrfachmatch
-
 12730-3,>,Q660192,#502,Mehrfachmatch
 12730-3,^,Q25349015,#502,Mehrfachmatch
 12730-3,>,Q2991684,#502,Mehrfachmatch
@@ -1078,7 +1077,7 @@ stw:,rel,wd:,issue,note
 10912-0,>,Q1287729,#510,Mehrfachmatch
 10912-0,>,Q1816053,#510,Mehrfachmatch
 12749-3,>,Q33119265,#511,Mehrfachmatch
-12749-3,*,Q25098678,#511,Mehrfachmatch
+12749-3,*,Q245603,#511,Mehrfachmatch
 19833-0,*,Q769571,#512,Mehrfachmatch
 19195-6,^,Q956095,#513,Mehrfachmatch
 12700-5,>,Q332553,#514,Mehrfachmatch
