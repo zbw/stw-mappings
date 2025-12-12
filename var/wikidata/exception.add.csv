@@ -1414,7 +1414,7 @@ stw:,rel,wd:,issue,note
 12492-0,*,Q1362005,#671,Mehrfachmatch
 12598-5,>,Q1848238,#672,Mehrfachmatch
 12250-3,>,Q1666557,#673,Mehrfachmatch
-27144-6,>,Q2108440,#674,Mehrfachmatch
+27144-6,>,Q7242636,#674,Mehrfachmatch
 11905-6,*,Q470540,#676,Mehrfachmatch
 10829-1,>,Q1667831,#677,Mehrfachmatch
 10276-2,<,Q192270,#678,Mehrfachmatch
@@ -1664,7 +1664,7 @@ stw:,rel,wd:,issue,note
 13410-2,>,Q2177151,#798,Mehrfachmatch
 13410-2,>,Q1092499,#798,Mehrfachmatch
 13410-2,>,Q18626769,#798,Mehrfachmatch
-13410-2,>,Q16514399,#798,Mehrfachmatch
+13410-2,>,Q1208555,#798,Mehrfachmatch
 13410-2,>,Q1522168,#798,Mehrfachmatch
 13410-2,>,Q61092682,#798,Mehrfachmatch
 28353-6,>,Q1640893,#799,Mehrfachmatch
@@ -1896,13 +1896,12 @@ stw:,rel,wd:,issue,note
 15669-0,>,Q3194786,#911,Mehrfachmatch
 15873-1,>,Q52109,#912,Mehrfachmatch
 15873-1,>,Q853915,#912,Mehrfachmatch
-15873-1,*,Q11272686,#912,Mehrfachmatch
 15876-2,>,Q9161265,#913,Mehrfachmatch
 15876-2,>,Q46255,#913,Mehrfachmatch
 15876-2,>,Q83353,#913,Mehrfachmatch
 29599-4,>,Q182468,#914,Mehrfachmatch
 15891-6,>,Q43518,#915,Mehrfachmatch
-18984-5,>,Q62562206,#916,Mehrfachmatch
+18984-5,>,Q55706997,#916,Mehrfachmatch
 18984-5,>,Q13360514,#916,Mehrfachmatch
 18984-5,>,Q1681353,#916,Mehrfachmatch
 18984-5,>,Q43197,#916,Mehrfachmatch
@@ -2008,7 +2007,7 @@ stw:,rel,wd:,issue,note
 26644-5,^,Q165192,#970,Mehrfachmatch
 10242-5,>,Q3493390,#971,Mehrfachmatch
 10242-5,>,Q2350762,#971,Mehrfachmatch
-29701-4,*,Q111279960,#972,Mehrfachmatch
+29701-4,*,Q6452383,#972,Mehrfachmatch
 29701-4,>,Q607865,#972,Mehrfachmatch
 29701-4,^,Q1734969,#972,Mehrfachmatch
 29701-4,^,Q1621784,#972,Mehrfachmatch
@@ -2146,7 +2145,7 @@ stw:,rel,wd:,issue,note
 10768-2,>,Q1778425,#1053,Mehrfachmatch
 10770-1,^,Q1206922,#1054,Mehrfachmatch
 10771-6,^,Q1521022,#1055,Mehrfachmatch
-10779-4,^,Q92279490,#1056,Mehrfachmatch
+10779-4,^,Q432449,#1056,Mehrfachmatch
 10612-5,^,Q5335686,#1057,Mehrfachmatch
 10612-5,^,Q3929782,#1057,Mehrfachmatch
 10608-3,<,Q1327750,#1058,Mehrfachmatch
@@ -2156,7 +2155,7 @@ stw:,rel,wd:,issue,note
 10486-5,^,Q8236,#1060,Mehrfachmatch
 10486-5,^,Q369992,#1060,Mehrfachmatch
 10486-5,^,Q140637,#1060,Mehrfachmatch
-11354-3,^,Q2748419,#1061,Mehrfachmatch
+11354-3,^,Q1815842,#1061,Mehrfachmatch
 11354-3,^,Q18189,#1061,Mehrfachmatch 
 11354-3,^,Q778056,#1061,Mehrfachmatch
 11354-3,^,Q861352,#1061,Mehrfachmatch
@@ -2323,7 +2322,7 @@ stw:,rel,wd:,issue,note
 11869-5,*,Q11420665,#1129,Mehrfachmatch
 11869-5,^,Q1657119,#1129,Mehrfachmatch
 11869-5,^,Q2133382,#1129,Mehrfachmatch
-11862-5,^,Q68889614,#1131,Mehrfachmatch
+11862-5,^,Q20826981,#1131,Mehrfachmatch
 11862-5,^,Q20183138,#1131,Mehrfachmatch
 19458-0,^,Q1243996,#1132,Mehrfachmatch
 11981-4,>,Q1520456,#1133,Mehrfachmatch
@@ -2603,7 +2602,6 @@ stw:,rel,wd:,issue,note
 16333-0,>,Q39018,#1294,Mehrfachmatch
 16333-0,>,Q12097,#1294,Mehrfachmatch
 16333-0,>,Q116,#1294,Mehrfachmatch
-19689-2,*,Q15708736,#1295,Mehrfachmatch
 19689-2,*,Q948571,#1295,Mehrfachmatch
 16017-3,^,Q11206,#1296,Mehrfachmatch
 16016-5,^,Q1194747,#1297,Mehrfachmatch
@@ -2627,7 +2625,7 @@ stw:,rel,wd:,issue,note
 16247-0,^,Q128135,#1303,Mehrfachmatch
 16247-0,^,Q179352,#1303,Mehrfachmatch
 16247-0,>,Q1197588,#1303,Mehrfachmatch
-16247-0,^,Q10290447,#1303,Mehrfachmatch
+16247-0,^,Q3449092,#1303,Mehrfachmatch
 16247-0,>,Q217405,#1303,Mehrfachmatch
 16247-0,^,Q45382,#1303,Mehrfachmatch
 16314-4,^,Q43702,#1304,Mehrfachmatch
@@ -2710,7 +2708,7 @@ stw:,rel,wd:,issue,note
 11731-6,>,Q1566674,#1334,Mehrfachmatch
 11731-6,>,Q5251559,#1334,Mehrfachmatch
 11731-6,>,Q836357,#1334,Mehrfachmatch
-11731-6,>,Q16133296,#1334,Mehrfachmatch
+11731-6,>,Q1420841,#1334,Mehrfachmatch
 11731-6,>,Q2690613,#1334,Mehrfachmatch
 19380-4,>,Q1591195,#1335,Mehrfachmatch
 19380-4,>,Q4985034,#1335,Mehrfachmatch
@@ -2794,13 +2792,13 @@ stw:,rel,wd:,issue,note
 13409-1,^,Q56061,#1365,Mehrfachmatch
 16322-5,^,Q1500411,#1366,Mehrfachmatch
 11852-1,*,Q517760,#1367,Mehrfachmatch
-13424-5,>,Q25099037,#1368,Mehrfachmatch
+13424-5,>,Q231838,#1368,Mehrfachmatch
 13424-5,>,Q251987,#1368,Mehrfachmatch
 13424-5,>,Q60965243,#1368,Mehrfachmatch
 19691-1,^,Q701632,#1369,Mehrfachmatch
 15995-1,>,Q574273,#1370,Mehrfachmatch
 15995-1,^,Q1666590,#1370,Mehrfachmatch
-16550-6,*,Q9305769,#1371,Mehrfachmatch
+16550-6,*,Q4307514,#1371,Mehrfachmatch
 13414-1,^,Q28575,#1372,Mehrfachmatch
 13414-1,^,Q149621,#1372,Mehrfachmatch
 13414-1,^,Q15630906,#1372,Mehrfachmatch
@@ -2867,7 +2865,7 @@ stw:,rel,wd:,issue,note
 16628-2,^,Q205204,#1402,Mehrfachmatch
 16391-0,^,Q58848,#1403,Mehrfachmatch
 13395-0,>,Q1194093,#1404,Mehrfachmatch
-30054-1,^,Q116004043,#1405,Mehrfachmatch
+30054-1,^,Q19609158,#1405,Mehrfachmatch
 15711-6,^,Q2738074,#1406,Mehrfachmatch
 10684-1,>,Q7832041,#1407,Mehrfachmatch
 19314-3,^,Q5177050,#1408,Mehrfachmatch
@@ -2884,7 +2882,7 @@ stw:,rel,wd:,issue,note
 11618-2,>,Q14944250,#1416,Mehrfachmatch
 11618-2,>,Q1006685,#1416,Mehrfachmatch
 11618-2,>,Q3538285,#1416,Mehrfachmatch
-11618-2,>,Q107196255,#1416,Mehrfachmatch
+11618-2,>,Q3538280,#1416,Mehrfachmatch
 13400-5,>,Q1785733,#1417,Mehrfachmatch
 13400-5,>,Q1899015,#1417,Mehrfachmatch
 18820-0,^,Q6498663,#1418,Mehrfachmatch
