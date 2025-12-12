@@ -20550,7 +20550,7 @@
         "stwLabel": { "type": "literal" , "value": "Steuerstrafrecht | Criminal tax law" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15279749" } ,
-        "wdLabel": { "type": "literal" , "value": "Steuerhinterziehung | " } ,
+        "wdLabel": { "type": "literal" , "value": "Steuerhinterziehung | tax noncompliance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/762" } ,
         "issueLabel": { "type": "literal" , "value": "#762" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
