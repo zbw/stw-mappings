@@ -34679,7 +34679,7 @@
         "stwLabel": { "type": "literal" , "value": "Gleichberechtigung | Gender equality" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1530331" } ,
-        "wdLabel": { "type": "literal" , "value": "Gleichstellung | " } ,
+        "wdLabel": { "type": "literal" , "value": "Gleichstellung | equality" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1325" } ,
         "issueLabel": { "type": "literal" , "value": "#1325" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
