@@ -610,7 +610,7 @@ stw:18116-5 skos:narrowMatch wd:Q873451 .
 stw:12108-6 skos:narrowMatch wd:Q107509130 .
 stw:12108-6 skos:narrowMatch wd:Q609781 .
 stw:12108-6 skos:narrowMatch wd:Q942830 .
-stw:12085-6 skos:narrowMatch wd:Q13405651 .
+stw:12085-6 skos:narrowMatch wd:Q28515457 .
 stw:12085-6 skos:narrowMatch wd:Q9387158 .
 stw:15470-2 skos:narrowMatch wd:Q5249242 .
 stw:29778-4 skos:narrowMatch wd:Q1783812 .
@@ -1086,7 +1086,7 @@ stw:19833-0 skos:closeMatch wd:Q769571 .
 stw:19195-6 skos:relatedMatch wd:Q956095 .
 stw:12700-5 skos:narrowMatch wd:Q332553 .
 stw:10211-2 skos:narrowMatch wd:Q2086036 .
-stw:12759-0 skos:relatedMatch wd:Q110375331 .
+stw:12759-0 skos:relatedMatch wd:Q811701 .
 stw:12761-6 skos:narrowMatch wd:Q19295956 .
 stw:12761-6 skos:narrowMatch wd:Q6206757 .
 stw:12761-6 skos:narrowMatch wd:Q4386048 .
@@ -3429,7 +3429,7 @@ stw:19438-6 skos:relatedMatch wd:Q118852558 .
 stw:19438-6 skos:relatedMatch wd:Q105047828 .
 stw:19581-1 skos:closeMatch wd:Q3551145 .
 stw:19581-1 skos:narrowMatch wd:Q745328 .
-stw:15117-4 skos:narrowMatch wd:Q53399648 .
+stw:15117-4 skos:narrowMatch wd:Q5399648 .
 stw:15117-4 skos:narrowMatch wd:Q5395728 .
 stw:15117-4 skos:narrowMatch wd:Q196372 .
 stw:15117-4 skos:narrowMatch wd:Q25340358 .
