@@ -46055,7 +46055,7 @@
         "stwLabel": { "type": "literal" , "value": "Kultursektor | Cultural sector" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1782584" } ,
-        "wdLabel": { "type": "literal" , "value": "Kulturwirtschaft | cultural industry" } ,
+        "wdLabel": { "type": "literal" , "value": "Kulturindustrie \u2013 Aufklärung als Massenbetrug | cultural industry" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1693" } ,
         "issueLabel": { "type": "literal" , "value": "#1693" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
