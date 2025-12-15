@@ -30075,7 +30075,7 @@
         "issueLabel": { "type": "literal" , "value": "#1133" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q338313" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gewerbegebiet | business park" }
+        "wdExistsLabel": { "type": "literal" , "value": "Geschäftsgebiet | business park" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2329" } ,
@@ -30088,7 +30088,7 @@
         "issueLabel": { "type": "literal" , "value": "#1133" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q338313" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gewerbegebiet | business park" }
+        "wdExistsLabel": { "type": "literal" , "value": "Geschäftsgebiet | business park" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2330" } ,
@@ -30101,7 +30101,7 @@
         "issueLabel": { "type": "literal" , "value": "#1133" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q338313" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gewerbegebiet | business park" }
+        "wdExistsLabel": { "type": "literal" , "value": "Geschäftsgebiet | business park" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2331" } ,
