@@ -7217,7 +7217,7 @@
         "stwLabel": { "type": "literal" , "value": "Wirtschaftswissenschaft | Economics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q47555" } ,
-        "wdLabel": { "type": "literal" , "value": "politische Ökonomie | political economy" } ,
+        "wdLabel": { "type": "literal" , "value": "politische Ökonomik | political economics" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/262" } ,
         "issueLabel": { "type": "literal" , "value": "#262" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
