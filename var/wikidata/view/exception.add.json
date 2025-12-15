@@ -12944,7 +12944,7 @@
       { 
         "ln": { "type": "literal" , "value": "999" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10931-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Preisbindung | Resale price maintenance" } ,
+        "stwLabel": { "type": "literal" , "value": "Preisbindung | Price maintenance" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1144077" } ,
         "wdLabel": { "type": "literal" , "value": "unverbindliche Preisempfehlung | manufacturer's suggested retail price" } ,
@@ -24249,7 +24249,7 @@
       { 
         "ln": { "type": "literal" , "value": "1870" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15908-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Behinderte | Disabled persons" } ,
+        "stwLabel": { "type": "literal" , "value": "Menschen mit Behinderung | Disabled persons" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16649023" } ,
         "wdLabel": { "type": "literal" , "value": "geistig Behinderter | mentally disabled person" } ,
@@ -24262,7 +24262,7 @@
       { 
         "ln": { "type": "literal" , "value": "1871" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/15908-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Behinderte | Disabled persons" } ,
+        "stwLabel": { "type": "literal" , "value": "Menschen mit Behinderung | Disabled persons" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1250414" } ,
         "wdLabel": { "type": "literal" , "value": "Schwerbehinderter | Severely disabled" } ,
@@ -29222,7 +29222,7 @@
       { 
         "ln": { "type": "literal" , "value": "2258" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19013-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental disorder" } ,
+        "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental illness" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q181032" } ,
         "wdLabel": { "type": "literal" , "value": "Neurose | neurosis" } ,
@@ -29235,7 +29235,7 @@
       { 
         "ln": { "type": "literal" , "value": "2259" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19013-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental disorder" } ,
+        "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental illness" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q41112" } ,
         "wdLabel": { "type": "literal" , "value": "Schizophrenie | schizophrenia" } ,
@@ -29248,7 +29248,7 @@
       { 
         "ln": { "type": "literal" , "value": "2260" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19013-3" } ,
-        "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental disorder" } ,
+        "stwLabel": { "type": "literal" , "value": "Psychische Krankheit | Mental illness" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7867" } ,
         "wdLabel": { "type": "literal" , "value": "Psychiatrie | psychiatry" } ,
@@ -29274,7 +29274,7 @@
       { 
         "ln": { "type": "literal" , "value": "2264" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
+        "stwLabel": { "type": "literal" , "value": "Verhalten | Behavior" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3769299" } ,
         "wdLabel": { "type": "literal" , "value": "menschliches Verhalten | human behavior" } ,

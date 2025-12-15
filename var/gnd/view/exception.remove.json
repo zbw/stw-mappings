@@ -3724,7 +3724,7 @@
       { 
         "ln": { "type": "literal" , "value": "340" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18859-1" } ,
-        "stwLabel": { "type": "literal" , "value": "Verhalten | Behaviour" } ,
+        "stwLabel": { "type": "literal" , "value": "Verhalten | Behavior" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4020774-2" } ,
         "gndLabel": { "type": "literal" , "value": "Gesundheitsverhalten" } ,
