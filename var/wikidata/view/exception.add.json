@@ -2375,7 +2375,7 @@
         "stwLabel": { "type": "literal" , "value": "Kritische Metalle | Critical metals" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q569" } ,
-        "wdLabel": { "type": "literal" , "value": "Beryllium | beryllium" } ,
+        "wdLabel": { "type": "literal" , "value": "Beryllium | bomboclatt" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/110" } ,
         "issueLabel": { "type": "literal" , "value": "#110" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
