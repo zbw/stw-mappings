@@ -43400,7 +43400,7 @@
         "stwLabel": { "type": "literal" , "value": "Wissensrepräsentation | Knowledge representation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q179797" } ,
-        "wdLabel": { "type": "literal" , "value": "Thesaurus | thesaurus" } ,
+        "wdLabel": { "type": "literal" , "value": "Thesaurus | linguistic thesaurus" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1611" } ,
         "issueLabel": { "type": "literal" , "value": "#1611" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
