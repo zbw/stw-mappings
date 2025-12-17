@@ -21096,7 +21096,7 @@
         "stwLabel": { "type": "literal" , "value": "Organisierte Kriminalität | Organized crime" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18550" } ,
-        "wdLabel": { "type": "literal" , "value": "Mafia | di famiglia" } ,
+        "wdLabel": { "type": "literal" , "value": "Mafia | mafia" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/782" } ,
         "issueLabel": { "type": "literal" , "value": "#782" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
