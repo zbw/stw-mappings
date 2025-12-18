@@ -46042,7 +46042,7 @@
         "stwLabel": { "type": "literal" , "value": "Verlagswesen | Publishing industry" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2085381" } ,
-        "wdLabel": { "type": "literal" , "value": "Verlag | publishing company" } ,
+        "wdLabel": { "type": "literal" , "value": "Verlag | publishing house" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1692" } ,
         "issueLabel": { "type": "literal" , "value": "#1692" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
