@@ -12921,7 +12921,7 @@
         "stwLabel": { "type": "literal" , "value": "Niedrigpreisstrategie | Low-cost strategy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2068803" } ,
-        "wdLabel": { "type": "literal" , "value": "Penetrationsstrategie | Penetration pricing" } ,
+        "wdLabel": { "type": "literal" , "value": "Penetrationsstrategie | penetration pricing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/466" } ,
         "issueLabel": { "type": "literal" , "value": "#466" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
