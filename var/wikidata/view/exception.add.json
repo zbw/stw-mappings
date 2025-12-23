@@ -12329,7 +12329,7 @@
         "issueLabel": { "type": "literal" , "value": "#440" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q39809" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Marketing | marketing" }
+        "wdExistsLabel": { "type": "literal" , "value": "Vermarktung | marketing" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "952" } ,
