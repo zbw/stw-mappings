@@ -10219,7 +10219,7 @@
         "stwLabel": { "type": "literal" , "value": "Konzern | Corporate group" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17326725" } ,
-        "wdLabel": { "type": "literal" , "value": "Unternehmensgruppe | business group" } ,
+        "wdLabel": { "type": "literal" , "value": "Unternehmensgruppe | group of companies" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/372" } ,
         "issueLabel": { "type": "literal" , "value": "#372" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
