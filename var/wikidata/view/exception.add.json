@@ -5812,7 +5812,7 @@
         "issueLabel": { "type": "literal" , "value": "#225" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1065579" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Accessoire | costume accessory" }
+        "wdExistsLabel": { "type": "literal" , "value": "Accessoire | fashion accessory" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "449" } ,
