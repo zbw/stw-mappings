@@ -2301,7 +2301,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/107" } ,
         "issueLabel": { "type": "literal" , "value": "#107" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q134969067" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1922981" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glaswaren | glassware" }
       } ,
       { 
@@ -2314,7 +2314,7 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/107" } ,
         "issueLabel": { "type": "literal" , "value": "#107" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q134969067" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1922981" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Glaswaren | glassware" }
       } ,
       { 
