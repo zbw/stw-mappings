@@ -24785,7 +24785,7 @@
         "stwLabel": { "type": "literal" , "value": "Geographie | Geography" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q52107" } ,
-        "wdLabel": { "type": "literal" , "value": "Physische Geographie | Physical Geography" } ,
+        "wdLabel": { "type": "literal" , "value": "Physische Geographie | physical geography" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/918" } ,
         "issueLabel": { "type": "literal" , "value": "#918" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -33029,12 +33029,12 @@
         "stwLabel": { "type": "literal" , "value": "Humangeographie | Human geography" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q168891" } ,
-        "wdLabel": { "type": "literal" , "value": "Kulturgeographie | Cultural Geography" } ,
+        "wdLabel": { "type": "literal" , "value": "Kulturgeographie | cultural geography" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1262" } ,
         "issueLabel": { "type": "literal" , "value": "#1262" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12831143" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Humangeographie | Human Geography" }
+        "wdExistsLabel": { "type": "literal" , "value": "Humangeographie | human geography" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2557" } ,
