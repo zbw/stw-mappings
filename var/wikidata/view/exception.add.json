@@ -10627,7 +10627,7 @@
         "issueLabel": { "type": "literal" , "value": "#386" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q19275203" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Betriebsveräußerung | Company sell-off" }
+        "wdExistsLabel": { "type": "literal" , "value": "Betriebsveräußerung | company sell-off in Germany" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "820" } ,
