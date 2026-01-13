@@ -14789,7 +14789,7 @@
         "stwLabel": { "type": "literal" , "value": "Lagertechnik | Warehouse storage equipment" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15984860" } ,
-        "wdLabel": { "type": "literal" , "value": "Transportsystem | material-handling equipment" } ,
+        "wdLabel": { "type": "literal" , "value": "Transportsystem | transport system" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/543" } ,
         "issueLabel": { "type": "literal" , "value": "#543" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
