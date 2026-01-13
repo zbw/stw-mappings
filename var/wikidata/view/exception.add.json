@@ -22926,7 +22926,7 @@
         "stwLabel": { "type": "literal" , "value": "Skalenertrag | Returns to scale" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1667926" } ,
-        "wdLabel": { "type": "literal" , "value": "Interner Skaleneffekt | internal economies of scale" } ,
+        "wdLabel": { "type": "literal" , "value": "interner Skaleneffekt | internal economies of scale" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/834" } ,
         "issueLabel": { "type": "literal" , "value": "#834" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
