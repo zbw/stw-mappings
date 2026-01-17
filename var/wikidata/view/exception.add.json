@@ -46642,7 +46642,7 @@
         "stwLabel": { "type": "literal" , "value": "Ländliche Industrie | Rural industry" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q8148" } ,
-        "wdLabel": { "type": "literal" , "value": "Industrie | industrial sector" } ,
+        "wdLabel": { "type": "literal" , "value": "Industriesektor | industrial sector" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1740" } ,
         "issueLabel": { "type": "literal" , "value": "#1740" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
