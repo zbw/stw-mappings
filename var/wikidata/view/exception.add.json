@@ -1374,7 +1374,7 @@
         "stwLabel": { "type": "literal" , "value": "Süßwasserfische | Freshwater fish" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q81110" } ,
-        "wdLabel": { "type": "literal" , "value": "Karpfen | common carp" } ,
+        "wdLabel": { "type": "literal" , "value": "Karpfen | Cyprinus carpio" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/81" } ,
         "issueLabel": { "type": "literal" , "value": "#81" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
