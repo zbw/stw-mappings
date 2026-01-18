@@ -36902,7 +36902,7 @@
         "stwLabel": { "type": "literal" , "value": "Politischer Konflikt | Political conflict" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11422542" } ,
-        "wdLabel": { "type": "literal" , "value": " | international conflict" } ,
+        "wdLabel": { "type": "literal" , "value": "internationaler Konflikt | international conflict" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1397" } ,
         "issueLabel": { "type": "literal" , "value": "#1397" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
