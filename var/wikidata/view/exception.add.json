@@ -36712,7 +36712,7 @@
         "issueLabel": { "type": "literal" , "value": "#1390" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15713757" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Regionalverwaltung | regional administration" }
+        "wdExistsLabel": { "type": "literal" , "value": "Regionalverwaltung | regional government" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2840" } ,
