@@ -24166,7 +24166,7 @@
         "issueLabel": { "type": "literal" , "value": "#893" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q128393" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Nomade | nomad" }
+        "wdExistsLabel": { "type": "literal" , "value": "Nomadenvolk | nomads" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1864" } ,
