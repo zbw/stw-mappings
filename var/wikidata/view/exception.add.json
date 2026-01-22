@@ -16552,7 +16552,7 @@
         "stwLabel": { "type": "literal" , "value": "Mutterschutz | Maternity protection" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753126" } ,
-        "wdLabel": { "type": "literal" , "value": "Mutterschutzgesetz | Maternity protection law" } ,
+        "wdLabel": { "type": "literal" , "value": "Mutterschutzgesetz | Maternity Protection Act" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/595" } ,
         "issueLabel": { "type": "literal" , "value": "#595" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
