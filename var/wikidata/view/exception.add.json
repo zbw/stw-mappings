@@ -10388,7 +10388,7 @@
         "stwLabel": { "type": "literal" , "value": "Insolvenz | Insolvency" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9022033" } ,
-        "wdLabel": { "type": "literal" , "value": "Insolvenzrecht | Bankruptcy Law" } ,
+        "wdLabel": { "type": "literal" , "value": "Insolvenzrecht | Spanish bankruptcy law" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/379" } ,
         "issueLabel": { "type": "literal" , "value": "#379" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
