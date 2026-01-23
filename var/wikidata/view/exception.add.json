@@ -15733,7 +15733,7 @@
         "stwLabel": { "type": "literal" , "value": "Personalplanung | Human resource planning" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2072151" } ,
-        "wdLabel": { "type": "literal" , "value": "Personalbedarfsplanung | human resources planning" } ,
+        "wdLabel": { "type": "literal" , "value": "Personalbedarfsplanung | human resource planning" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/569" } ,
         "issueLabel": { "type": "literal" , "value": "#569" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -27753,7 +27753,7 @@
         "issueLabel": { "type": "literal" , "value": "#1048" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2661365" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Internationales Währungssystem | International monetary systems" }
+        "wdExistsLabel": { "type": "literal" , "value": "Internationales Währungssystem | international monetary systems" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2141" } ,
