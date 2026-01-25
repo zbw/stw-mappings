@@ -41593,7 +41593,7 @@
         "stwLabel": { "type": "literal" , "value": "Körpergewicht | Body weight" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12174" } ,
-        "wdLabel": { "type": "literal" , "value": "Adipositas | obesity" } ,
+        "wdLabel": { "type": "literal" , "value": "Adipositas | human obesity" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1563" } ,
         "issueLabel": { "type": "literal" , "value": "#1563" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
