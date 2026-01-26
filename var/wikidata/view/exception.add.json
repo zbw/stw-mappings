@@ -39268,7 +39268,7 @@
         "stwLabel": { "type": "literal" , "value": "Waffe | Weapon" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12796" } ,
-        "wdLabel": { "type": "literal" , "value": "Handfeuerwaffe | firearm" } ,
+        "wdLabel": { "type": "literal" , "value": "Feuerwaffe | firearm" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1489" } ,
         "issueLabel": { "type": "literal" , "value": "#1489" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
