@@ -22539,7 +22539,7 @@
         "stwLabel": { "type": "literal" , "value": "Weltanschauung | Weltanschauung" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7066" } ,
-        "wdLabel": { "type": "literal" , "value": "Atheismus | Atheism" } ,
+        "wdLabel": { "type": "literal" , "value": "Atheismus | atheism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/822" } ,
         "issueLabel": { "type": "literal" , "value": "#822" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
