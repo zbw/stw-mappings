@@ -5760,7 +5760,7 @@
         "issueLabel": { "type": "literal" , "value": "#223" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q96141153" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lederware | leather good" }
+        "wdExistsLabel": { "type": "literal" , "value": "Lederware | leather goods" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "445" } ,
@@ -5773,7 +5773,7 @@
         "issueLabel": { "type": "literal" , "value": "#223" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q96141153" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lederware | leather good" }
+        "wdExistsLabel": { "type": "literal" , "value": "Lederware | leather goods" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "446" } ,
@@ -5786,7 +5786,7 @@
         "issueLabel": { "type": "literal" , "value": "#223" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q96141153" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Lederware | leather good" }
+        "wdExistsLabel": { "type": "literal" , "value": "Lederware | leather goods" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "447" } ,
