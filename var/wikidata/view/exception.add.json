@@ -47436,6 +47436,18 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3672" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30643-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Behavioral Pricing | Behavioral pricing" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3394670" } ,
+        "wdLabel": { "type": "literal" , "value": "Preispolitik | pricing strategy" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
