@@ -34121,7 +34121,7 @@
         "stwLabel": { "type": "literal" , "value": "Parteiensystem | Party system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q50686" } ,
-        "wdLabel": { "type": "literal" , "value": "Einparteiensystem | single-party system" } ,
+        "wdLabel": { "type": "literal" , "value": "Einparteiensystem | one-party state" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1309" } ,
         "issueLabel": { "type": "literal" , "value": "#1309" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
