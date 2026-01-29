@@ -2955,8 +2955,6 @@ stw:19711-0 skos:narrowMatch wd:Q1072326 .
 stw:19708-3 skos:relatedMatch wd:Q1545904 .
 stw:10583-0 skos:closeMatch wd:Q5433428 .
 stw:19853-1 skos:closeMatch wd:Q1758832 .
-stw:19445-2 skos:narrowMatch wd:Q1361297 .
-stw:19445-2 skos:narrowMatch wd:Q163020 .
 stw:29750-5 skos:narrowMatch wd:Q992993 .
 stw:16496-0 skos:relatedMatch wd:Q223200 .
 stw:16445-3 skos:relatedMatch wd:Q364056 .
@@ -3665,3 +3663,4 @@ stw:18083-1 skos:closeMatch wd:Q1005490 .
 stw:29808-0 skos:broadMatch wd:Q301468 .
 stw:30318-0 skos:narrowMatch wd:Q33972 .
 stw:30643-3 skos:broadMatch wd:Q3394670 .
+stw:30565-4 skos:closeMatch wd:Q7901851 .
