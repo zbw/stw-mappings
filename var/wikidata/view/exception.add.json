@@ -22500,7 +22500,7 @@
         "stwLabel": { "type": "literal" , "value": "Volksglaube | Folk religion" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q178934" } ,
-        "wdLabel": { "type": "literal" , "value": "Okkultismus | Occultism" } ,
+        "wdLabel": { "type": "literal" , "value": "Okkultismus | occultism" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/821" } ,
         "issueLabel": { "type": "literal" , "value": "#821" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
