@@ -47447,6 +47447,18 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExistsLabel": { "type": "literal" , "value": " | " }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3673" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30596-0" } ,
+        "stwLabel": { "type": "literal" , "value": "People Analytics | People analytics" } ,
+        "relation": { "type": "literal" , "value": "<" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q485396" } ,
+        "wdLabel": { "type": "literal" , "value": "Analytik | analytics" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
