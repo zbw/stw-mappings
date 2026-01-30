@@ -47435,6 +47435,18 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q984142" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Customer Experience | customer experience" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "3672" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30647-2" } ,
+        "stwLabel": { "type": "literal" , "value": "Modeindustrie | Fashion industry" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11828862" } ,
+        "wdLabel": { "type": "literal" , "value": "Bekleidungsindustrie | clothing industry" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/" } ,
+        "issueLabel": { "type": "literal" , "value": " " } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | " }
       }
     ]
   }
