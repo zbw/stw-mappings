@@ -3668,3 +3668,4 @@ stw:30596-0 skos:broadMatch wd:Q485396 .
 stw:30604-6 skos:broadMatch wd:Q1135326 .
 stw:30627-1 skos:closeMatch wd:Q108466280 .
 stw:30627-1 skos:closeMatch wd:Q138422 .
+stw:30597-5 skos:broadMatch wd:Q33685 .
