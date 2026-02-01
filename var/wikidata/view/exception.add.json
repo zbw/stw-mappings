@@ -34514,8 +34514,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1321" } ,
         "issueLabel": { "type": "literal" , "value": "#1321" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q65474590" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Veto | veto" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q178074" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Vetorecht | veto power" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2671" } ,
