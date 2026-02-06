@@ -780,8 +780,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27481647" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropisches Produkt | tropical and subtropical fruit" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q844144" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "exotische Frucht | tropical fruit" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "62" } ,
@@ -793,8 +793,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27481647" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropisches Produkt | tropical and subtropical fruit" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q844144" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "exotische Frucht | tropical fruit" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "63" } ,
@@ -806,8 +806,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27481647" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropisches Produkt | tropical and subtropical fruit" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q844144" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "exotische Frucht | tropical fruit" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "64" } ,
@@ -819,8 +819,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27481647" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropisches Produkt | tropical and subtropical fruit" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q844144" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "exotische Frucht | tropical fruit" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "65" } ,
@@ -832,8 +832,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27481647" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropisches Produkt | tropical and subtropical fruit" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q844144" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "exotische Frucht | tropical fruit" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "66" } ,
@@ -845,8 +845,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/68" } ,
         "issueLabel": { "type": "literal" , "value": "#68" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q27481647" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Tropisches Produkt | tropical and subtropical fruit" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q844144" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "exotische Frucht | tropical fruit" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "67" } ,
