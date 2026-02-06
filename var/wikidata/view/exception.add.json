@@ -32925,7 +32925,7 @@
         "stwLabel": { "type": "literal" , "value": "Bildungsforschung | Educational research" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q861525" } ,
-        "wdLabel": { "type": "literal" , "value": "Bildungssoziologie | Sociology of education" } ,
+        "wdLabel": { "type": "literal" , "value": "Bildungssoziologie | sociology of education" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1259" } ,
         "issueLabel": { "type": "literal" , "value": "#1259" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
