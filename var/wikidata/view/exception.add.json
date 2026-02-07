@@ -2219,7 +2219,7 @@
         "stwLabel": { "type": "literal" , "value": "Getränkeverpackung | Drinks packaging" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q10862480" } ,
-        "wdLabel": { "type": "literal" , "value": "Flaschenpfand-System | container deposit" } ,
+        "wdLabel": { "type": "literal" , "value": "Flaschenpfand-System | container-deposit legislation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/105" } ,
         "issueLabel": { "type": "literal" , "value": "#105" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
