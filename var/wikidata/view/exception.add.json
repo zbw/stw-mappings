@@ -42495,7 +42495,7 @@
         "issueLabel": { "type": "literal" , "value": "#1586" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5153637" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Common-Value-Auktion | Common value auction" }
+        "wdExistsLabel": { "type": "literal" , "value": "Common-Value-Auktion | common-value auction" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3285" } ,
