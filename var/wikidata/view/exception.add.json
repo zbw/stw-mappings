@@ -455,8 +455,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/45" } ,
         "issueLabel": { "type": "literal" , "value": "#45" } ,
         "note": { "type": "literal" , "value": "Mehrfach-Match in WD" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1753564" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | child protection" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5097921" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Kinderschutz | Child safeguarding" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "37" } ,
