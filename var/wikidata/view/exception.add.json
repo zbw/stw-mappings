@@ -12990,8 +12990,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/470" } ,
         "issueLabel": { "type": "literal" , "value": "#470" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q291046" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Rabatt | discounts and allowances" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q48995577" } ,
+        "wdExistsLabel": { "type": "literal" , "value": " | rebate" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1003" } ,
