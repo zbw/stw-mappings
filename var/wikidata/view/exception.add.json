@@ -9028,19 +9028,6 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/324" } ,
         "issueLabel": { "type": "literal" , "value": "#324" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q795082" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ecodesign | ecodesign" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "697" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19253-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Wissen | Knowledge" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q815577" } ,
-        "wdLabel": { "type": "literal" , "value": "Ignoranz | ignorance" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/324" } ,
-        "issueLabel": { "type": "literal" , "value": "#324" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9081" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wissen | knowledge" }
       } ,
@@ -9054,34 +9041,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/324" } ,
         "issueLabel": { "type": "literal" , "value": "#324" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q795082" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ecodesign | ecodesign" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "698" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19253-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Wissen | Knowledge" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5409756" } ,
-        "wdLabel": { "type": "literal" , "value": " | embodied knowledge" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/324" } ,
-        "issueLabel": { "type": "literal" , "value": "#324" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q9081" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Wissen | knowledge" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "699" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19253-4" } ,
-        "stwLabel": { "type": "literal" , "value": "Wissen | Knowledge" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q815577" } ,
-        "wdLabel": { "type": "literal" , "value": "Ignoranz | ignorance" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/324" } ,
-        "issueLabel": { "type": "literal" , "value": "#324" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q795082" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Ecodesign | ecodesign" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "699" } ,
