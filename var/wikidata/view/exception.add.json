@@ -14273,7 +14273,7 @@
         "stwLabel": { "type": "literal" , "value": "Buchführung | Bookkeeping" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q106574748" } ,
-        "wdLabel": { "type": "literal" , "value": "Buchhaltung | work department of bookholders" } ,
+        "wdLabel": { "type": "literal" , "value": " | work department of bookholders" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/523" } ,
         "issueLabel": { "type": "literal" , "value": "#523" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
