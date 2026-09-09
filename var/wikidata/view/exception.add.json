@@ -28047,7 +28047,7 @@
         "stwLabel": { "type": "literal" , "value": "Bildungspolitik | Education policy" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2023606" } ,
-        "wdLabel": { "type": "literal" , "value": "Bildungsprogramm | Telecommunications Engineering" } ,
+        "wdLabel": { "type": "literal" , "value": "Bildungsprogramm | education program" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1062" } ,
         "issueLabel": { "type": "literal" , "value": "#1062" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
