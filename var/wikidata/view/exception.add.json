@@ -38059,7 +38059,7 @@
         "stwLabel": { "type": "literal" , "value": "Regionalstudien | Area studies" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15841980" } ,
-        "wdLabel": { "type": "literal" , "value": "Länderkunde | country studies" } ,
+        "wdLabel": { "type": "literal" , "value": "Länderkunde | Pakistan" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1442" } ,
         "issueLabel": { "type": "literal" , "value": "#1442" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
