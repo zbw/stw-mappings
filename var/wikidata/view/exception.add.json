@@ -33549,7 +33549,7 @@
         "stwLabel": { "type": "literal" , "value": "Staatsgebiet | National territory" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1078001" } ,
-        "wdLabel": { "type": "literal" , "value": "Territorialstreitigkeiten | State Of Palestine" } ,
+        "wdLabel": { "type": "literal" , "value": "Territorialstreitigkeiten | territorial dispute" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1291" } ,
         "issueLabel": { "type": "literal" , "value": "#1291" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
