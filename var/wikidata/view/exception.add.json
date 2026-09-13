@@ -26284,7 +26284,7 @@
         "stwLabel": { "type": "literal" , "value": "DAX | DAX" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q448445" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": " | SDAX" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/979" } ,
         "issueLabel": { "type": "literal" , "value": "#979" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
