@@ -11726,7 +11726,7 @@
         "stwLabel": { "type": "literal" , "value": "Datenmodell | Data model" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q175263" } ,
-        "wdLabel": { "type": "literal" , "value": "Datenstruktur | Darin" } ,
+        "wdLabel": { "type": "literal" , "value": "Datenstruktur | data structure" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/420" } ,
         "issueLabel": { "type": "literal" , "value": "#420" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
