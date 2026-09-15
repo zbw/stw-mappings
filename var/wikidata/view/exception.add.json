@@ -29355,7 +29355,7 @@
         "stwLabel": { "type": "literal" , "value": "Netzwerkökonomik | Network economics" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2031007" } ,
-        "wdLabel": { "type": "literal" , "value": " | two-sided market" } ,
+        "wdLabel": { "type": "literal" , "value": "zweiseitiger Markt | two-sided market" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1108" } ,
         "issueLabel": { "type": "literal" , "value": "#1108" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
