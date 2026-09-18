@@ -34433,7 +34433,7 @@
         "stwLabel": { "type": "literal" , "value": "Regierungswechsel | Change of government" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2137778" } ,
-        "wdLabel": { "type": "literal" , "value": "Regierungsverhandlungen | government formation" } ,
+        "wdLabel": { "type": "literal" , "value": "Regierungsbildung | government formation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1316" } ,
         "issueLabel": { "type": "literal" , "value": "#1316" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
