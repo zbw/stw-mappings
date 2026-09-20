@@ -4468,7 +4468,7 @@
         "stwLabel": { "type": "literal" , "value": "Elektrokomponenten | Electrical components" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q215292" } ,
-        "wdLabel": { "type": "literal" , "value": "Wechselstrom-Anschluss | AC power connector" } ,
+        "wdLabel": { "type": "literal" , "value": "Wechselstrom-Anschluss | power connector" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/172" } ,
         "issueLabel": { "type": "literal" , "value": "#172" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
