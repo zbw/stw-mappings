@@ -43365,8 +43365,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1611" } ,
         "issueLabel": { "type": "literal" , "value": "#1611" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3478658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Wissensrepräsentation | knowledge representation and reasoning" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q109642276" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Wissensdarstellung | knowledge representation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3352" } ,
@@ -43378,8 +43378,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1611" } ,
         "issueLabel": { "type": "literal" , "value": "#1611" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3478658" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Wissensrepräsentation | knowledge representation and reasoning" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q109642276" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Wissensdarstellung | knowledge representation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3353" } ,
