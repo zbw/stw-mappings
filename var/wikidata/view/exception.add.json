@@ -23238,7 +23238,7 @@
         "stwLabel": { "type": "literal" , "value": "Mittelalter | Middle Ages" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q146246" } ,
-        "wdLabel": { "type": "literal" , "value": "Fränkisches Reich | Francia" } ,
+        "wdLabel": { "type": "literal" , "value": "Fränkisches Reich | Franciaf" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/848" } ,
         "issueLabel": { "type": "literal" , "value": "#848" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
