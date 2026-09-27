@@ -36707,7 +36707,7 @@
         "stwLabel": { "type": "literal" , "value": "Teilstaat | State of a federation" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1221156" } ,
-        "wdLabel": { "type": "literal" , "value": "Bundesland | federated state of Germany" } ,
+        "wdLabel": { "type": "literal" , "value": "Bundesland von Deutschland | federated state of Germany" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1391" } ,
         "issueLabel": { "type": "literal" , "value": "#1391" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
