@@ -1951,7 +1951,7 @@
         "issueLabel": { "type": "literal" , "value": "#99" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q235352" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Feldfrucht | crop" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kulturpflanze | crop" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "152" } ,
