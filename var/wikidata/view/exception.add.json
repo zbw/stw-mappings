@@ -16500,7 +16500,7 @@
         "stwLabel": { "type": "literal" , "value": "Mobbing | Workplace bullying" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q207469" } ,
-        "wdLabel": { "type": "literal" , "value": "Mobbing | employee harassment" } ,
+        "wdLabel": { "type": "literal" , "value": "Mobbing | mobbing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/594" } ,
         "issueLabel": { "type": "literal" , "value": "#594" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
