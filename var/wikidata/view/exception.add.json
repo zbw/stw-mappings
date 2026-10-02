@@ -42672,7 +42672,7 @@
         "stwLabel": { "type": "literal" , "value": "Standardisierung | Standardization" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1087786" } ,
-        "wdLabel": { "type": "literal" , "value": "Norm | norm" } ,
+        "wdLabel": { "type": "literal" , "value": "Norm | standard" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1590" } ,
         "issueLabel": { "type": "literal" , "value": "#1590" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
