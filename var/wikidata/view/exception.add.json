@@ -45743,7 +45743,7 @@
         "stwLabel": { "type": "literal" , "value": "Item-Response-Theorie | Item response theory" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1806878" } ,
-        "wdLabel": { "type": "literal" , "value": "Latente Klassenanalyse | latent class model" } ,
+        "wdLabel": { "type": "literal" , "value": "latente Klassenanalyse | latent class model" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1679" } ,
         "issueLabel": { "type": "literal" , "value": "#1679" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch " } ,
