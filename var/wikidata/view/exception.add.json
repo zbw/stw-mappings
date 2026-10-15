@@ -47132,7 +47132,7 @@
         "issueLabel": { "type": "literal" , "value": "#1779" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1058417" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Liste sozialistischer Staaten | list of socialist states" }
+        "wdExistsLabel": { "type": "literal" , "value": "Liste sozialistischer Staaten | list of non-communist-oriented socialist polities" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3648" } ,
