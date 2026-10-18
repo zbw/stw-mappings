@@ -5105,7 +5105,7 @@
         "stwLabel": { "type": "literal" , "value": "Verhütungsmittel | Contraceptive" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q817281" } ,
-        "wdLabel": { "type": "literal" , "value": "Antibabypille | combined oral contraceptive pill" } ,
+        "wdLabel": { "type": "literal" , "value": "Verhütungspille | combined oral contraceptive pill" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/199" } ,
         "issueLabel": { "type": "literal" , "value": "#199" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
