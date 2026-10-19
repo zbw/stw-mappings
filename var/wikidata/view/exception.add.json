@@ -23238,7 +23238,7 @@
         "stwLabel": { "type": "literal" , "value": "Mittelalter | Middle Ages" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q146246" } ,
-        "wdLabel": { "type": "literal" , "value": "Fränkisches Reich | Franciaf" } ,
+        "wdLabel": { "type": "literal" , "value": "Fränkisches Reich | Francia" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/848" } ,
         "issueLabel": { "type": "literal" , "value": "#848" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -32306,7 +32306,7 @@
         "issueLabel": { "type": "literal" , "value": "#1234" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q214339" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "soziale Rolle | social" }
+        "wdExistsLabel": { "type": "literal" , "value": "soziale Rolle | social role" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2501" } ,
@@ -32319,7 +32319,7 @@
         "issueLabel": { "type": "literal" , "value": "#1234" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q214339" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "soziale Rolle | social" }
+        "wdExistsLabel": { "type": "literal" , "value": "soziale Rolle | social role" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2502" } ,
