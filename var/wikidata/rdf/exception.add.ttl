@@ -2124,7 +2124,6 @@ stw:10683-3 skos:closeMatch wd:Q7832074 .
 stw:10683-3 skos:narrowMatch wd:Q1316162 .
 stw:10685-6 skos:closeMatch wd:Q1308936 .
 stw:10706-3 skos:narrowMatch wd:Q3055140 .
-stw:10710-5 skos:relatedMatch wd:Q4450957 .
 stw:10842-2 skos:closeMatch wd:Q11742556 .
 stw:30234-6 skos:relatedMatch wd:Q19692715 .
 stw:10567-5 skos:narrowMatch wd:Q3929782 .
