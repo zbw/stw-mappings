@@ -41078,7 +41078,7 @@
         "issueLabel": { "type": "literal" , "value": "#1547" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q55643366" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Sequentielle Entscheidung | Sequential decision making" }
+        "wdExistsLabel": { "type": "literal" , "value": "Sequentielle Entscheidung | sequential decision making" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3176" } ,
