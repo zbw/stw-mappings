@@ -13038,7 +13038,7 @@
         "stwLabel": { "type": "literal" , "value": "Beschwerdemanagement | Complaint management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1473099" } ,
-        "wdLabel": { "type": "literal" , "value": "Reklamation | consumer complaint" } ,
+        "wdLabel": { "type": "literal" , "value": "Verbraucherbeschwerde | consumer complaint" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/472" } ,
         "issueLabel": { "type": "literal" , "value": "#472" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -47408,7 +47408,7 @@
         "issueLabel": { "type": "literal" , "value": " " } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q984142" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Customer Experience | customer experience" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kundenerlebnis | customer experience" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "3670" } ,
