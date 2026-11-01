@@ -19525,7 +19525,7 @@
         "stwLabel": { "type": "literal" , "value": "Neomarxismus | Neo-Marxism" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q301751" } ,
-        "wdLabel": { "type": "literal" , "value": "kritische Theorie | critical sociology" } ,
+        "wdLabel": { "type": "literal" , "value": "Kritische Theorie | critical sociology" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/717" } ,
         "issueLabel": { "type": "literal" , "value": "#717" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
