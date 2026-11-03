@@ -46289,7 +46289,7 @@
         "stwLabel": { "type": "literal" , "value": "Internationale Faktormobilität | International factor mobility" } ,
         "relation": { "type": "literal" , "value": "<" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q17161403" } ,
-        "wdLabel": { "type": "literal" , "value": "Faktormobilität | International factor movements" } ,
+        "wdLabel": { "type": "literal" , "value": "Faktormobilität | international factor movements" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1717" } ,
         "issueLabel": { "type": "literal" , "value": "#1717" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
