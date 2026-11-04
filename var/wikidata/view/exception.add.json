@@ -6928,16 +6928,16 @@
       } ,
       { 
         "ln": { "type": "literal" , "value": "536" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12446-0" } ,
-        "stwLabel": { "type": "literal" , "value": "Gewinnverlagerung | Income shifting" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11679-3" } ,
+        "stwLabel": { "type": "literal" , "value": "Unternehmensbesteuerung | Corporate taxation" } ,
+        "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q205237" } ,
         "wdLabel": { "type": "literal" , "value": "Zinsschranke | Zinsschranke" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/250" } ,
         "issueLabel": { "type": "literal" , "value": "#250" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q110545497" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Gewinnverlagerung | income shifting" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q18632183" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Unternehmensbesteuerung | corporate taxation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "537" } ,
@@ -13299,19 +13299,6 @@
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q76470" } ,
         "wdLabel": { "type": "literal" , "value": "Fabrikverkauf | outlet store" } ,
-        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/483" } ,
-        "issueLabel": { "type": "literal" , "value": "#483" } ,
-        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q962382" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Direktvertrieb | direct selling" }
-      } ,
-      { 
-        "ln": { "type": "literal" , "value": "1027" } ,
-        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/29807-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Direktvertrieb | Direct selling" } ,
-        "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q188606" } ,
-        "wdLabel": { "type": "literal" , "value": "Netzwerk-Marketing | multi-level marketing" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/483" } ,
         "issueLabel": { "type": "literal" , "value": "#483" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
