@@ -17661,8 +17661,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1364" } ,
@@ -17674,8 +17674,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1365" } ,
@@ -17687,8 +17687,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1366" } ,
@@ -17700,8 +17700,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1367" } ,
