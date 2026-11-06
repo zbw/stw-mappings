@@ -17665,12 +17665,51 @@
         "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
       } ,
       { 
+        "ln": { "type": "literal" , "value": "1363" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12212-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Portfolio-Management | Portfolio selection" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7231728" } ,
+        "wdLabel": { "type": "literal" , "value": "Optimierung des Portfolios | portfolio optimization" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
+        "issueLabel": { "type": "literal" , "value": "#640" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
+      } ,
+      { 
         "ln": { "type": "literal" , "value": "1364" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12212-4" } ,
         "stwLabel": { "type": "literal" , "value": "Portfolio-Management | Portfolio selection" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1072885" } ,
         "wdLabel": { "type": "literal" , "value": "Portfoliotheorie | modern portfolio theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
+        "issueLabel": { "type": "literal" , "value": "#640" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1364" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12212-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Portfolio-Management | Portfolio selection" } ,
+        "relation": { "type": "literal" , "value": "^" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1072885" } ,
+        "wdLabel": { "type": "literal" , "value": "Portfoliotheorie | modern portfolio theory" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
+        "issueLabel": { "type": "literal" , "value": "#640" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1365" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12212-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Portfolio-Management | Portfolio selection" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7231722" } ,
+        "wdLabel": { "type": "literal" , "value": "Wertsicherungsstrategie | Portfolio insurance" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -17687,8 +17726,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
         "issueLabel": { "type": "literal" , "value": "#640" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1366" } ,
@@ -17702,6 +17741,19 @@
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q14864997" } ,
         "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | investment management" }
+      } ,
+      { 
+        "ln": { "type": "literal" , "value": "1366" } ,
+        "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12212-4" } ,
+        "stwLabel": { "type": "literal" , "value": "Portfolio-Management | Portfolio selection" } ,
+        "relation": { "type": "literal" , "value": ">" } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q462748" } ,
+        "wdLabel": { "type": "literal" , "value": "Asset Allocation | asset allocation" } ,
+        "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/640" } ,
+        "issueLabel": { "type": "literal" , "value": "#640" } ,
+        "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q16167513" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Portfoliomanagement | portfolio management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1367" } ,
