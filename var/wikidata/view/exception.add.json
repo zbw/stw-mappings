@@ -16903,7 +16903,7 @@
         "stwLabel": { "type": "literal" , "value": "Nettoumlaufvermögen | Working capital" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7832116" } ,
-        "wdLabel": { "type": "literal" , "value": "trade working capital | Trade working capital" } ,
+        "wdLabel": { "type": "literal" , "value": "trade working capital | trade working capital" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/608" } ,
         "issueLabel": { "type": "literal" , "value": "#608" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -17415,7 +17415,7 @@
         "issueLabel": { "type": "literal" , "value": "#633" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1479274" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kapitalkosten | Cost of capital" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kapitalkosten | cost of capital" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1345" } ,
@@ -17428,7 +17428,7 @@
         "issueLabel": { "type": "literal" , "value": "#633" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1479274" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Kapitalkosten | Cost of capital" }
+        "wdExistsLabel": { "type": "literal" , "value": "Kapitalkosten | cost of capital" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1346" } ,
@@ -25409,7 +25409,7 @@
         "issueLabel": { "type": "literal" , "value": "#944" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25110312" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Transmissionsmechanismus | Monetary transmission mechanism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Transmissionsmechanismus | monetary transmission mechanism" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1958" } ,
@@ -25422,7 +25422,7 @@
         "issueLabel": { "type": "literal" , "value": "#944" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q25110312" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Transmissionsmechanismus | Monetary transmission mechanism" }
+        "wdExistsLabel": { "type": "literal" , "value": "Transmissionsmechanismus | monetary transmission mechanism" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1959" } ,
