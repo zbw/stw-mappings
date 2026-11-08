@@ -37864,7 +37864,7 @@
         "stwLabel": { "type": "literal" , "value": "Internationale Organisation | International organization" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q245065" } ,
-        "wdLabel": { "type": "literal" , "value": "zwischenstaatliche Organisation | intergovernmental organization" } ,
+        "wdLabel": { "type": "literal" , "value": "internationale Organisation | intergovernmental organization" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1435" } ,
         "issueLabel": { "type": "literal" , "value": "#1435" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
