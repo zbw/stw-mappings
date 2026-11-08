@@ -6201,7 +6201,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/231" } ,
         "issueLabel": { "type": "literal" , "value": "#231" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q789963" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Außensteuergesetz | cross-border taxation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "479" } ,
@@ -6898,7 +6899,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/248" } ,
         "issueLabel": { "type": "literal" , "value": "#248" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q789963" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Außensteuergesetz | cross-border taxation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "534" } ,
@@ -6949,7 +6951,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/251" } ,
         "issueLabel": { "type": "literal" , "value": "#251" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q789963" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Außensteuergesetz | cross-border taxation" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "538" } ,
@@ -10925,7 +10928,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/395" } ,
         "issueLabel": { "type": "literal" , "value": "#395" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q7391159" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Mittelstandsfinanzierung | SME finance" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "844" } ,
@@ -12848,7 +12852,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/462" } ,
         "issueLabel": { "type": "literal" , "value": "#462" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q329717" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Gewährleistung | warranty" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "992" } ,
@@ -14654,7 +14659,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/540" } ,
         "issueLabel": { "type": "literal" , "value": "#540" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192355" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Primärrohstoff | raw material" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1132" } ,
@@ -14666,7 +14672,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/540" } ,
         "issueLabel": { "type": "literal" , "value": "#540" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q192355" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Primärrohstoff | raw material" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1133" } ,
@@ -14717,7 +14724,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/542" } ,
         "issueLabel": { "type": "literal" , "value": "#542" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3761396" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Bestandsmanagement | inventory management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1137" } ,
@@ -14729,7 +14737,8 @@
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/542" } ,
         "issueLabel": { "type": "literal" , "value": "#542" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
-        "wdExistsLabel": { "type": "literal" , "value": " | " }
+        "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3761396" } ,
+        "wdExistsLabel": { "type": "literal" , "value": "Bestandsmanagement | inventory management" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "1138" } ,
@@ -27670,7 +27679,7 @@
         "stwLabel": { "type": "literal" , "value": "Abwertung | Currency devaluation" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q2409135" } ,
-        "wdLabel": { "type": "literal" , "value": "Währungsabwertung | currency depreciation" } ,
+        "wdLabel": { "type": "literal" , "value": " | depreciation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1044" } ,
         "issueLabel": { "type": "literal" , "value": "#1044" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
