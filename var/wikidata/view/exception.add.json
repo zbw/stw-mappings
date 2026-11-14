@@ -8988,7 +8988,7 @@
         "stwLabel": { "type": "literal" , "value": "Unternehmensnetzwerk | Business network" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1979044" } ,
-        "wdLabel": { "type": "literal" , "value": "Netzwerkorganisation | Network-centric organization" } ,
+        "wdLabel": { "type": "literal" , "value": "Netzwerkorganisation | network-centric organization" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/322" } ,
         "issueLabel": { "type": "literal" , "value": "#322" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
