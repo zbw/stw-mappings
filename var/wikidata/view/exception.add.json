@@ -5416,8 +5416,8 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/14803-6" } ,
         "stwLabel": { "type": "literal" , "value": "Papierprodukt | Paper product" } ,
         "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q62033192" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12773886" } ,
+        "wdLabel": { "type": "literal" , "value": "Bierdeckel | beer mat" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/208" } ,
         "issueLabel": { "type": "literal" , "value": "#208" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
@@ -16716,8 +16716,8 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/11311-0" } ,
         "stwLabel": { "type": "literal" , "value": "Betriebsrat | Works council" } ,
         "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1762523" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q11611241" } ,
+        "wdLabel": { "type": "literal" , "value": "Personalvertretung | employee representation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/601" } ,
         "issueLabel": { "type": "literal" , "value": "#601" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -21638,7 +21638,7 @@
         "stwLabel": { "type": "literal" , "value": "Gerichtsbarkeit | Court system" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1208555" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wdLabel": { "type": "literal" , "value": "Justizverwaltung | Administration of justice" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/798" } ,
         "issueLabel": { "type": "literal" , "value": "#798" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -24091,8 +24091,8 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19639-3" } ,
         "stwLabel": { "type": "literal" , "value": "Migranten | Migrants" } ,
         "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12547146" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12364462" } ,
+        "wdLabel": { "type": "literal" , "value": "Einwanderer | immigrant" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/889" } ,
         "issueLabel": { "type": "literal" , "value": "#889" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -37332,7 +37332,7 @@
         "issueLabel": { "type": "literal" , "value": "#1419" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q939616" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Geheimdienst | secret service" }
+        "wdExistsLabel": { "type": "literal" , "value": " | secret service" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2885" } ,
@@ -37345,7 +37345,7 @@
         "issueLabel": { "type": "literal" , "value": "#1419" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q939616" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Geheimdienst | secret service" }
+        "wdExistsLabel": { "type": "literal" , "value": " | secret service" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2886" } ,
@@ -37358,7 +37358,7 @@
         "issueLabel": { "type": "literal" , "value": "#1419" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q939616" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Geheimdienst | secret service" }
+        "wdExistsLabel": { "type": "literal" , "value": " | secret service" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "2887" } ,
@@ -42394,8 +42394,8 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/18901-0" } ,
         "stwLabel": { "type": "literal" , "value": "Tierkrankheit | Animal disease" } ,
         "relation": { "type": "literal" , "value": ">" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q64812946" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q3473016" } ,
+        "wdLabel": { "type": "literal" , "value": "Tiergesundheit | animal health" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1582" } ,
         "issueLabel": { "type": "literal" , "value": "#1582" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
@@ -45803,8 +45803,8 @@
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/16605-0" } ,
         "stwLabel": { "type": "literal" , "value": "Konsumgesellschaft | Consumer society" } ,
         "relation": { "type": "literal" , "value": "^" } ,
-        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q26897146" } ,
-        "wdLabel": { "type": "literal" , "value": " | " } ,
+        "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q12363540" } ,
+        "wdLabel": { "type": "literal" , "value": "Überflussgesellschaft | affluent society" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1685" } ,
         "issueLabel": { "type": "literal" , "value": "#1685" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,

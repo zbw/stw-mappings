@@ -420,7 +420,7 @@ stw:14024-2 skos:narrowMatch wd:Q121916 .
 stw:14024-2 skos:narrowMatch wd:Q14674 .
 stw:14024-2 skos:narrowMatch wd:Q192401 .
 stw:14024-2 skos:narrowMatch wd:Q5359605 .
-stw:14803-6 skos:narrowMatch wd:Q62033192 .
+stw:14803-6 skos:narrowMatch wd:Q12773886 .
 stw:14810-2 skos:narrowMatch wd:Q672506 .
 stw:14821-4 skos:narrowMatch wd:Q498439 .
 stw:14821-4 skos:narrowMatch wd:Q1757946 .
@@ -1290,7 +1290,7 @@ stw:11185-0 skos:narrowMatch wd:Q628937 .
 stw:16131-5 skos:broadMatch wd:Q1221208 .
 stw:16131-5 skos:narrowMatch wd:Q10359055 .
 stw:11311-0 skos:narrowMatch wd:Q832043 .
-stw:11311-0 skos:narrowMatch wd:Q1762523 .
+stw:11311-0 skos:narrowMatch wd:Q11611241 .
 stw:11311-0 skos:narrowMatch wd:Q1453430 .
 stw:11311-0 skos:narrowMatch wd:Q1681790 .
 stw:18169-5 skos:narrowMatch wd:Q1221127 .
@@ -1854,7 +1854,7 @@ stw:19640-4 skos:closeMatch wd:Q111181745 .
 stw:29736-6 skos:narrowMatch wd:Q374094 .
 stw:29736-6 skos:narrowMatch wd:Q1741825 .
 stw:29736-6 skos:relatedMatch wd:Q1854900 .
-stw:19639-3 skos:narrowMatch wd:Q12547146 .
+stw:19639-3 skos:narrowMatch wd:Q12364462 .
 stw:19639-3 skos:narrowMatch wd:Q4989857 .
 stw:30051-0 skos:relatedMatch wd:Q283791 .
 stw:19650-1 skos:narrowMatch wd:Q3487517 .
@@ -3264,7 +3264,7 @@ stw:28894-0 skos:narrowMatch wd:Q131584 .
 stw:28894-0 skos:narrowMatch wd:Q898739 .
 stw:28894-0 skos:narrowMatch wd:Q60168 .
 stw:18901-0 skos:narrowMatch wd:Q1126331 .
-stw:18901-0 skos:narrowMatch wd:Q64812946 .
+stw:18901-0 skos:narrowMatch wd:Q3473016 .
 stw:19793-0 skos:narrowMatch wd:Q12156 .
 stw:30001-1 skos:narrowMatch wd:Q2742375 .
 stw:30001-1 skos:narrowMatch wd:Q2915939 .
@@ -3527,7 +3527,7 @@ stw:29910-2 skos:relatedMatch wd:Q1826427 .
 stw:29944-6 skos:relatedMatch wd:Q3376999 .
 stw:19843-4 skos:relatedMatch wd:Q3039753 .
 stw:19649-0 skos:narrowMatch wd:Q2656714 .
-stw:16605-0 skos:relatedMatch wd:Q26897146 .
+stw:16605-0 skos:relatedMatch wd:Q12363540 .
 stw:27104-4 skos:relatedMatch wd:Q1338878 .
 stw:27104-4 skos:relatedMatch wd:Q190656 .
 stw:16606-5 skos:relatedMatch wd:Q427499 .
