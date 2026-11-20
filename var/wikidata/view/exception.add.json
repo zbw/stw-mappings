@@ -8967,7 +8967,7 @@
         "issueLabel": { "type": "literal" , "value": "#321" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
         "wdExists": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q197952" } ,
-        "wdExistsLabel": { "type": "literal" , "value": "Unternehmensverbindung | corporate group" }
+        "wdExistsLabel": { "type": "literal" , "value": "Konzern | corporate group" }
       } ,
       { 
         "ln": { "type": "literal" , "value": "693" } ,
@@ -10196,7 +10196,7 @@
         "stwLabel": { "type": "literal" , "value": "Konzern | Corporate group" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q197952" } ,
-        "wdLabel": { "type": "literal" , "value": "Unternehmensverbindung | corporate group" } ,
+        "wdLabel": { "type": "literal" , "value": "Konzern | corporate group" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/372" } ,
         "issueLabel": { "type": "literal" , "value": "#372" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
