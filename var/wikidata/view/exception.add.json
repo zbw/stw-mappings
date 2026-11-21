@@ -3883,7 +3883,7 @@
         "stwLabel": { "type": "literal" , "value": "Flugzeugantrieb | Aircraft propulsion" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q743004" } ,
-        "wdLabel": { "type": "literal" , "value": "Flugmotor | aircraft engine" } ,
+        "wdLabel": { "type": "literal" , "value": " | aircraft engine" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/152" } ,
         "issueLabel": { "type": "literal" , "value": "#152" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch in WD" } ,
