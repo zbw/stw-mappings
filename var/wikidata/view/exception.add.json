@@ -29416,7 +29416,7 @@
         "stwLabel": { "type": "literal" , "value": "Vollkommener Wettbewerb | Perfect competition" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q5156353" } ,
-        "wdLabel": { "type": "literal" , "value": " | competitive equilibrium" } ,
+        "wdLabel": { "type": "literal" , "value": " | " } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/1110" } ,
         "issueLabel": { "type": "literal" , "value": "#1110" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
