@@ -2265,7 +2265,7 @@ stw:19431-6 skos:narrowMatch wd:Q61465712 .
 stw:19431-6 skos:narrowMatch wd:Q50867887 .
 stw:10209-3 skos:relatedMatch wd:Q6934760 .
 stw:10209-3 skos:relatedMatch wd:Q1643892 .
-stw:10227-1 skos:relatedMatch wd:Q5156353 .
+stw:10227-1 skos:relatedMatch wd:Q3589455 .
 stw:10227-1 skos:closeMatch wd:Q338926 .
 stw:11754-1 skos:closeMatch wd:Q268617 .
 stw:11754-1 skos:relatedMatch wd:Q443204 .
