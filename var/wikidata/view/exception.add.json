@@ -18206,7 +18206,7 @@
       { 
         "ln": { "type": "literal" , "value": "1401" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
+        "stwLabel": { "type": "literal" , "value": "Kalkulation | Calculation (accounting)" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q795053" } ,
         "wdLabel": { "type": "literal" , "value": "Kostenvoranschlag | cost estimate" } ,
@@ -18219,7 +18219,7 @@
       { 
         "ln": { "type": "literal" , "value": "1402" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
+        "stwLabel": { "type": "literal" , "value": "Kalkulation | Calculation (accounting)" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1780073" } ,
         "wdLabel": { "type": "literal" , "value": "Vorkalkulation | Preliminary calculation" } ,
@@ -19921,7 +19921,7 @@
       { 
         "ln": { "type": "literal" , "value": "1534" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19839-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Unterhaltsrecht | Family maintenace" } ,
+        "stwLabel": { "type": "literal" , "value": "Unterhaltsrecht | Family maintenance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q954957" } ,
         "wdLabel": { "type": "literal" , "value": "Kindesunterhalt | child support" } ,
@@ -19934,7 +19934,7 @@
       { 
         "ln": { "type": "literal" , "value": "1535" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19839-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Unterhaltsrecht | Family maintenace" } ,
+        "stwLabel": { "type": "literal" , "value": "Unterhaltsrecht | Family maintenance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1334094" } ,
         "wdLabel": { "type": "literal" , "value": "Elternunterhalt | filial responsibility law" } ,
@@ -19947,7 +19947,7 @@
       { 
         "ln": { "type": "literal" , "value": "1536" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19839-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Unterhaltsrecht | Family maintenace" } ,
+        "stwLabel": { "type": "literal" , "value": "Unterhaltsrecht | Family maintenance" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q15784657" } ,
         "wdLabel": { "type": "literal" , "value": "Ausgleichsunterhalt | " } ,
@@ -38169,7 +38169,7 @@
       { 
         "ln": { "type": "literal" , "value": "2944" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/19350-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Assoziierung | Assocation agreement" } ,
+        "stwLabel": { "type": "literal" , "value": "Assoziierung | Association agreement" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q745126" } ,
         "wdLabel": { "type": "literal" , "value": "Assoziierungsabkommen | association agreement" } ,
@@ -47457,7 +47457,7 @@
       { 
         "ln": { "type": "literal" , "value": "3666" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/30473-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Finanzunternehmen | Financial institution" } ,
+        "stwLabel": { "type": "literal" , "value": "Nichtbank | Non-bank financial institution" } ,
         "relation": { "type": "literal" , "value": "*" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1291453" } ,
         "wdLabel": { "type": "literal" , "value": "Nichtbank | non-bank" } ,
@@ -47470,7 +47470,7 @@
       { 
         "ln": { "type": "literal" , "value": "3667" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/10710-5" } ,
-        "stwLabel": { "type": "literal" , "value": "Zoll | Tariffs" } ,
+        "stwLabel": { "type": "literal" , "value": "Zoll | Customs" } ,
         "relation": { "type": "literal" , "value": "^" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q182290" } ,
         "wdLabel": { "type": "literal" , "value": "Zollverwaltung | customs agency" } ,

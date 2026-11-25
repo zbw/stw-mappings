@@ -897,7 +897,7 @@
       { 
         "ln": { "type": "literal" , "value": "83" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
+        "stwLabel": { "type": "literal" , "value": "Kalkulation | Calculation (accounting)" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4510054-8" } ,
         "gndLabel": { "type": "literal" , "value": "Prämienkalkulation" } ,
@@ -908,7 +908,7 @@
       { 
         "ln": { "type": "literal" , "value": "84" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
+        "stwLabel": { "type": "literal" , "value": "Kalkulation | Calculation (accounting)" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4257582-5" } ,
         "gndLabel": { "type": "literal" , "value": "Gebührenkalkulation" } ,
@@ -919,7 +919,7 @@
       { 
         "ln": { "type": "literal" , "value": "85" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12531-2" } ,
-        "stwLabel": { "type": "literal" , "value": "Kalkulation | Cost estimation" } ,
+        "stwLabel": { "type": "literal" , "value": "Kalkulation | Calculation (accounting)" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4510052-4" } ,
         "gndLabel": { "type": "literal" , "value": "Tarifkalkulation" } ,
@@ -3042,7 +3042,7 @@
       { 
         "ln": { "type": "literal" , "value": "278" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12281-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Investmentfonds | Investment Fund" } ,
+        "stwLabel": { "type": "literal" , "value": "Investmentfonds | Investment fund" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/4372655-0" } ,
         "gndLabel": { "type": "literal" , "value": "Ethikfonds" } ,
@@ -3053,7 +3053,7 @@
       { 
         "ln": { "type": "literal" , "value": "279" } ,
         "stw": { "type": "uri" , "value": "http://zbw.eu/stw/descriptor/12281-6" } ,
-        "stwLabel": { "type": "literal" , "value": "Investmentfonds | Investment Fund" } ,
+        "stwLabel": { "type": "literal" , "value": "Investmentfonds | Investment fund" } ,
         "relation": { "type": "literal" , "value": "=" } ,
         "gnd": { "type": "uri" , "value": "https://d-nb.info/gnd/7706557-8" } ,
         "gndLabel": { "type": "literal" , "value": "Schiffsfonds" } ,
