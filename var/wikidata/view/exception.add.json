@@ -8364,7 +8364,7 @@
         "stwLabel": { "type": "literal" , "value": "Projektmanagement | Project management" } ,
         "relation": { "type": "literal" , "value": ">" } ,
         "wd": { "type": "uri" , "value": "http://www.wikidata.org/entity/Q1567627" } ,
-        "wdLabel": { "type": "literal" , "value": "Reine Projektorganisation | " } ,
+        "wdLabel": { "type": "literal" , "value": "reine Projektorganisation | pure project organisation" } ,
         "issue": { "type": "uri" , "value": "https://github.com/zbw/stw-mappings/issues/302" } ,
         "issueLabel": { "type": "literal" , "value": "#302" } ,
         "note": { "type": "literal" , "value": "Mehrfachmatch" } ,
